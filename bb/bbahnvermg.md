@@ -1,0 +1,87 @@
+---
+abkuerzung: BBahnVermG
+jurabk: BBahnVermG
+titel: Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn
+ausfertigung: '1951-03-02'
+quelle: https://www.gesetze-im-internet.de/bbahnvermg/
+doknr: BJNR001550951
+builddate: '20260506174717'
+---
+
+# Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen Bundesbahn (BBahnVermG)
+
+Quelle: <https://www.gesetze-im-internet.de/bbahnvermg/>
+
+> **Fußnote**
+>
+> (+++ Textnachweis Geltung ab: 1.1.1964 +++)  
+> (+++ Maßgaben aufgrund des EinigVtr vgl. BBahnVermG Anhang EV +++)
+
+<!-- norm id="BJNE000100326" -->
+## § 1
+
+(1) Das Eigentum und alle sonstigen Vermögensrechte des Deutschen Reiches, die zum bisherigen Sondervermögen "Deutsche Reichsbahn" gehören, sind mit Wirkung vom 24. Mai 1949 als Sondervermögen "Deutsche Bundesbahn" Vermögen des Bundes. Dazu gehören auch alle Vermögensrechte, die nach dem 8. Mai 1945 entweder mit Mitteln jenes Vermögens erworben oder ausschließlich dem Betrieb der Deutschen Reichsbahn im Vereinigten Wirtschaftsgebiet oder dem Betrieb der Betriebsvereinigung der Südwestdeutschen Eisenbahnen gewidmet worden sind, ohne Rücksicht darauf, für welchen Rechtsträger sie erworben worden sind.
+
+(2) Dies gilt auch für Rechte, die durch Gesetz für unübertragbar oder nur auf Grund besonderer Vereinbarung für übertragbar erklärt sind.
+
+<!-- norm id="BJNE000200326" -->
+## § 2
+
+Soweit Vermögenswerte eines Unternehmens des privaten Rechts mit eigener Rechtspersönlichkeit, an dem die Deutsche Reichsbahn am 8. Mai 1945 unmittelbar oder mittelbar eine unter § 1 fallende Beteiligung besaß, nach dem 19. April 1949 auf Grund gesetzlicher Vorschriften auf ein Land übergegangen sind, gilt dieser Übergang als nicht erfolgt.
+
+<!-- norm id="BJNE000300326" -->
+## § 3
+
+(1) Für Vermögenswerte, die einem Unternehmen des privaten Rechts mit eigener Rechtspersönlichkeit gehören, an dem die Deutsche Reichsbahn eine Mehrheitsbeteiligung besaß und das seine Hauptniederlassung (Sitz) außerhalb des Geltungsbereichs des Grundgesetzes und Berlin (West) hat, wird die Deutsche Bundesbahn Treuhänder dieser Vermögenswerte für ein neu im Bundesgebiet zu errichtendes Unternehmen des privaten Rechts. Das gleiche gilt für Vermögenswerte eines solchen Unternehmens, das am 8. Mai 1945 seinen Sitz außerhalb des Geltungsbereichs des Grundgesetzes gehabt hat und nach diesem Zeitpunkt ohne Sitzverlegung im Handelsregister gelöscht worden ist.
+
+(2) Die Deutsche Bundesbahn hat das neue Unternehmen zu errichten. Das Grund- oder Stammkapital des neuen Unternehmens soll unter Abzug der Schulden dem Wert aller Vermögensteile des alten Unternehmens entsprechen, die auf das neue Unternehmen übergehen.
+
+(3) Hat die Deutsche Bundesbahn bereits ein Unternehmen mit gleichem Gegenstand errichtet, so kann sie die ihr nach Absatz 1 als Treuhänder übertragenen Vermögenswerte auch auf dieses Unternehmen mit Rückwirkung auf den Zeitpunkt seiner Gründung übertragen.
+
+(4) Die Behandlung der Minderheitsbeteiligung von natürlichen Personen und juristischen Personen des privaten Rechts an dem alten Unternehmen ist vom Bundesminister für Verkehr im Einvernehmen mit dem Bundesminister der Finanzen zu regeln.
+
+(5) Die Gläubiger des alten Unternehmens können vor Inkrafttreten dieses Gesetzes entstandene Ansprüche aus Rechtsverhältnissen, die sich auf die auf das neue Unternehmen übergehenden Vermögenswerte beziehen, auch gegen das neue Unternehmen in vollem Umfang geltend machen. Verbindlichkeiten des alten Unternehmens aus Rechtsverhältnissen, die sich auf die nicht auf das neue Unternehmen übergehenden Vermögenswerte beziehen, können gegen das neue Unternehmen nicht geltend gemacht werden. Verbindlichkeiten des alten Unternehmens aus anderen Rechtsverhältnissen können gegen das neue Unternehmen nur zu dem Anteil geltend gemacht werden, der dem Anteil der auf das neue Unternehmen übergehenden Vermögenswerte des alten Unternehmens an dessen Gesamtvermögen nach dem letzten Jahresabschluß vor dem 9. Mai 1945 entspricht. Die Haftung des neuen Unternehmens ist auf den Wert der auf dieses übergehenden Vermögenswerte beschränkt.
+
+(6) Soweit das Unternehmen nach Absatz 5 nicht in Anspruch genommen werden kann, ist eine Vollstreckung in die Vermögenswerte des Unternehmens auch aus solchen Urteilen oder anderen Vollstreckungstiteln unzulässig, die nach dem Inkrafttreten dieses Gesetzes außerhalb des Geltungsbereichs des Grundgesetzes erwirkt werden.
+
+<!-- norm id="BJNE000400326" -->
+## § 4
+
+(1) Treuhandschaften der Länder an dem Eigentum und den Vermögensrechten, die unter §§ 1, 2 und 3 fallen, erlöschen mit dem Inkrafttreten dieses Gesetzes.
+
+(2) Soweit die Länder Rheinland-Pfalz, Baden und Württemberg-Hohenzollern sich zur Deckung von Fehlbeträgen in der Betriebsrechnung der Betriebsvereinigung der Südwestdeutschen Eisenbahnen verpflichtet oder die Haftung für Anleihen der Betriebsvereinigung der Südwestdeutschen Eisenbahnen übernommen haben, tritt das Sondervermögen "Deutsche Bundesbahn" an deren Stelle in diese Verpflichtungen ein.
+
+<!-- norm id="BJNE000500326" -->
+## § 5
+
+Die Wirksamkeit von rechtsgeschäftlichen Verfügungen, die über Vermögensrechte der in § 1 bezeichneten Art vor dem Inkrafttreten dieses Gesetzes getroffen worden sind, bleibt unberührt.
+
+<!-- norm id="BJNE000600326" -->
+## § 6
+
+§ 1 gilt nicht für Eigentum und Vermögensrechte, die nach dem 30. Januar 1933 einer Gewerkschaft, Genossenschaft, politischen Partei oder sonstigen demokratischen Organisation weggenommen worden sind.
+
+<!-- norm id="BJNE000700326" -->
+## § 7
+
+Dingliche Rechte an Grundstücken und sonstigen Sachen und Rechten, die unter § 1 fallen, bleiben bestehen.
+
+<!-- norm id="BJNE000800326" -->
+## § 8
+
+(1) Gehört das Eigentum an einem Grundstück nach § 1 zum Sondervermögen "Deutsche Bundesbahn", so ist der Antrag auf Berichtigung des Grundbuchs von der Eisenbahndirektion zu stellen, in deren Bezirk das Grundstück liegt. War als Eigentümer eines solchen Grundstücks nicht das Deutsche Reich oder die Deutsche Reichsbahn im Grundbuch eingetragen, so ist die Berichtigung des Grundbuchs gemeinsam von der Eisenbahndirektion und von der durch die Landesregierung bestimmten Landesbehörde zu beantragen, in deren Bezirk das Grundstück liegt. Der Antrag muß von dem Präsidenten der Eisenbahndirektion oder seinem Vertreter unterschrieben und mit dem Amtssiegel oder Amtsstempel versehen sein. Zum Nachweis des Eigentums gegenüber dem Grundbuchamt genügt die in den Antrag aufzunehmende Erklärung, daß das Grundstück zum Sondervermögens "Deutsche Bundesbahn" gehört. Das Eigentum ist einzutragen für die "Bundesrepublik Deutschland (Bundeseisenbahnvermögen)".
+
+(2) Dies gilt entsprechend für sonstige im Grundbuch eingetragene Rechte.
+
+<!-- norm id="BJNE000900326" -->
+## § 9
+
+Gerichtsgebühren und andere Abgaben, die aus Anlaß und in Durchführung dieses Gesetzes entstehen, werden nicht erhoben. Bare Auslagen bleiben außer Ansatz.
+
+<!-- norm id="BJNE001000326" -->
+## § 10
+
+Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
+
+<!-- norm id="BJNE888800305" -->
+## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -

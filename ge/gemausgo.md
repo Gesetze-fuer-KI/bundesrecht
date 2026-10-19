@@ -1,0 +1,158 @@
+---
+abkuerzung: GemAusGO
+jurabk: GemAusGO
+titel: Geschäftsordnung für den Gemeinsamen Ausschuß
+stand: Zuletzt geändert durch Bek. v. 20.7.1993 I 1500
+ausfertigung: '1969-07-02'
+quelle: https://www.gesetze-im-internet.de/gemausgo/
+doknr: BJNR111020969
+builddate: '20260506175339'
+---
+
+# Geschäftsordnung für den Gemeinsamen Ausschuß (GemAusGO)
+
+Stand: Zuletzt geändert durch Bek. v. 20.7.1993 I 1500
+
+Quelle: <https://www.gesetze-im-internet.de/gemausgo/>
+
+> **Fußnote**
+>
+> (+++ Textnachweis ab: 13.8.1969 +++)
+
+<!-- norm id="BJNE000100311" -->
+## Eingangsformel
+
+Zur Ausführung des Artikels 53a des Grundgesetzes hat der Bundestag mit Zustimmung des Bundesrates für den Gemeinsamen Ausschuß die folgende Geschäftsordnung beschlossen:
+
+<!-- gliederung id="BJNG000100311" ebene="1" -->
+## I. Abschnitt Zusammensetzung und Einberufung
+
+<!-- norm id="BJNE000201305" -->
+### § 1 Zusammensetzung
+
+(1) Der Gemeinsame Ausschuß besteht aus 32 vom Bundestag aus seiner Mitte bestimmten Abgeordneten und 16 Mitgliedern des Bundesrates.
+
+(2) Für die Mitglieder des Gemeinsamen Ausschusses sind in gleicher Anzahl Stellvertreter aus den Reihen der Mitglieder des Bundestages und des Bundesrates zu bestimmen.
+
+(3) Kann der Gemeinsame Ausschuß auch unter Einbeziehung der Stellvertreter nicht mehr vollzählig zusammentreten, so wird die Zahl der Abgeordneten des Bundestages entsprechend dem Stärkeverhältnis der Fraktionen nach deren Vorschlägen aus den anwesenden oder erreichbaren Abgeordneten ergänzt. Der Vorsitzende ersucht für diesen Fall die betroffenen Landesregierungen, weitere Mitglieder zu bestimmen.
+
+<!-- norm id="BJNE000300311" -->
+### § 2 Bestimmung der Mitglieder des Bundestages
+
+(1) Die dem Gemeinsamen Ausschuß angehörenden Abgeordneten und ihre Stellvertreter werden zu Beginn jeder Wahlperiode vom Bundestag durch Beschluß entsprechend dem Stärkeverhältnis der Fraktionen bis zu einer erneuten Bestellung bestimmt. Jede Fraktion schlägt aus ihren Reihen eine entsprechende Anzahl von Mitgliedern und Stellvertretern vor.
+
+(2) Der Präsident des Bundestages ist von Amts wegen Mitglied des Gemeinsamen Ausschusses. Er ist der Fraktion, der er angehört, anzurechnen.
+
+<!-- norm id="BJNE000400311" -->
+### § 3 Ausscheiden von Abgeordneten
+
+Ein dem Gemeinsamen Ausschuß angehörender Abgeordneter scheidet aus diesem zu dem Zeitpunkt aus, zu dem er den Verzicht auf seine Mitgliedschaft im Gemeinsamen Ausschuß dem Präsidenten des Bundestages gegenüber erklärt, die Mitgliedschaft im Bundestag verliert oder aus der Fraktion ausscheidet, die ihn vorgeschlagen hat.
+
+<!-- norm id="BJNE000500311" -->
+### § 4 Bestimmung der Mitglieder des Bundesrates
+
+(1) Jede Landesregierung bestimmt aus ihren Mitgliedern und stellvertretenden Mitgliedern des Bundesrates eines zum Mitglied des Gemeinsamen Ausschusses und weitere Mitglieder zu Stellvertretern. Sie teilt diese und jeden Wechsel dem Präsidenten des Bundesrates mit.
+
+(2) Der Präsident des Bundesrates teilt dem Präsidenten des Bundestages die vom Bundesrat entsandten Mitglieder, deren Stellvertreter und jeden Wechsel mit.
+
+<!-- norm id="BJNE000600311" -->
+### § 5 Rechte der Vertreter
+
+(1) Die Stellvertreter haben die gleichen Rechte und Pflichten wie die Mitglieder des Gemeinsamen Ausschusses; Stimm- und Antragsrecht haben sie nur im Falle der Vertretung.
+
+(2) Die vom Bundestag bestimmten Stellvertreter können nur Mitglieder ihrer Fraktion vertreten. Die Stellvertreter treten in der Reihenfolge ein, in der sie von der Fraktion vorgeschlagen worden sind.
+
+<!-- norm id="BJNE000700311" -->
+### § 6 Präsenzpflicht
+
+(1) Die Mitglieder des Gemeinsamen Ausschusses und die Stellvertreter haben sicherzustellen, daß sie jederzeit durch den Präsidenten des Bundestages erreichbar sind und auch an kurzfristig einberufenen Sitzungen des Gemeinsamen Ausschusses teilnehmen können.
+
+(2) Das Nähere regeln die Präsidenten des Bundestages und des Bundesrates jeweils für ihren Bereich.
+
+<!-- norm id="BJNE000800311" -->
+### § 7 Vorsitz des Gemeinsamen Ausschusses
+
+(1) Der Präsident des Bundestages ist Vorsitzender des Gemeinsamen Ausschusses.
+
+(2) Der Gemeinsame Ausschuß wählt ein Mitglied, das dem Bundesrat angehört, zum ersten stellvertretenden Vorsitzenden. Der Gemeinsame Ausschuß kann weitere stellvertretende Vorsitzende wählen.
+
+(3) Die Stellvertreter vertreten den Vorsitzenden nach Maßgabe ihrer Reihenfolge.
+
+<!-- norm id="BJNE000901305" -->
+### § 8 Einberufung
+
+(1) Der Vorsitzende beruft den Gemeinsamen Ausschuß zu Informationssitzungen (Artikel 53a Abs. 2 des Grundgesetzes) ein.
+
+(2) Der Vorsitzende hat den Gemeinsamen Ausschuß einzuberufen, wenn der Bundespräsident, der Bundeskanzler oder sechs Mitglieder des Gemeinsamen Ausschusses es verlangen oder wenn die Voraussetzungen des Artikel 115a Abs. 2 des Grundgesetzes vorliegen.
+
+(3) Der Vorsitzende des Gemeinsamen Ausschusses unterrichtet die Bundesregierung unverzüglich über die Einberufung.
+
+<!-- norm id="BJNE001000311" -->
+### § 9 Feststellung nach Artikel 115a Abs. 2 und 115e Abs. 1 des Grundgesetzes
+
+Der Gemeinsame Ausschuß soll eine Feststellung nach Artikel 115a Abs. 2 oder Artikel 115e Abs. 1 des Grundgesetzes erst treffen, nachdem der amtierende Präsident des Bundestages mitgeteilt hat, daß einem rechtzeitigen Zusammentritt des Bundestages unüberwindliche Hindernisse entgegenstehen oder daß dieser nicht beschlußfähig ist.
+
+<!-- gliederung id="BJNG000200311" ebene="1" -->
+## II. Abschnitt Verfahrensbestimmungen
+
+<!-- norm id="BJNE001101305" -->
+### § 10 Nichtöffentlichkeit
+
+Die Beratungen des Gemeinsamen Ausschusses sind nicht öffentlich. § 69 Abs. 2 Satz 1 und Abs. 7 der Geschäftsordnung des Bundestages, die Geheimschutzordnung des Bundestages und die Ausführungsbestimmungen dazu finden entsprechende Anwendung.
+
+<!-- norm id="BJNE001200311" -->
+### § 11 Teilnahme an den Sitzungen
+
+(1) Der Bundespräsident hat das Recht, an allen Sitzungen des Gemeinsamen Ausschusses teilzunehmen.
+
+(2) Die Mitglieder der Bundesregierung haben das Recht und auf Beschluß des Ausschusses die Pflicht, an allen Sitzungen des Gemeinsamen Ausschusses teilzunehmen. Sie müssen jederzeit gehört werden.
+
+(3) Hat der Gemeinsame Ausschuß nach § 10 geheime Beratung beschlossen, können nur die Mitglieder und die Stellvertreter an der Sitzung teilnehmen. Dasselbe gilt für Informationssitzungen (Artikel 53a Abs. 2 des Grundgesetzes).
+
+(4) Der Gemeinsame Ausschuß kann anderen Personen die Teilnahme an seinen Sitzungen gestatten.
+
+<!-- norm id="BJNE001300311" -->
+### § 12 Beschlußfähigkeit
+
+Der Gemeinsame Ausschuß ist beschlußfähig, wenn mehr als die Hälfte der Mitglieder oder der Stellvertreter anwesend ist.
+
+<!-- norm id="BJNE001400311" -->
+### § 13 Beschlußmehrheiten
+
+(1) Der Gemeinsame Ausschuß faßt seine Beschlüsse mit der Mehrheit der abgegebenen Stimmen, soweit nicht das Grundgesetz etwas anderes bestimmt.
+
+(2) Bei Schlußabstimmungen über Gesetze ist das Ergebnis der Abstimmung durch Zählen der Stimmen festzustellen.
+
+<!-- norm id="BJNE001500311" -->
+### § 14 Beratung von Gesetzentwürfen
+
+Gesetzentwürfe werden in einer Beratung verabschiedet. Mindestens sechs Mitglieder können verlangen, daß die Beratung um mindestens zwölf Stunden ausgesetzt wird, es sei denn, daß die Mehrheit der Mitglieder des Gemeinsamen Ausschusses die sofortige Beratung beschließt. Beschlossene Gesetze leitet der Vorsitzende unverzüglich dem Bundeskanzler zu.
+
+<!-- norm id="BJNE001600311" -->
+### § 15 Wahlen
+
+Wahlen werden mit verdeckten Stimmzetteln durchgeführt.
+
+<!-- norm id="BJNE001700311" -->
+### § 16 Anträge nach Artikel 115h Abs. 2 des Grundgesetzes (Mißtrauensvotum)
+
+Ein Antrag nach Artikel 115h Abs. 2 Satz 2 des Grundgesetzes muß von mindestens neun Mitgliedern des Gemeinsamen Ausschusses gestellt werden.
+
+<!-- norm id="BJNE001800311" -->
+### § 17 Sitzungsprotokolle
+
+(1) Über jede Sitzung des Gemeinsamen Ausschusses wird ein Protokoll angefertigt, das mindestens die Anträge und die Beschlüsse enthalten und den wesentlichen Verlauf der Beratung wiedergeben muß. Das Protokoll wird vom Vorsitzenden unterzeichnet. Es liegt während der der Unterzeichnung folgenden Sitzung zur Einsicht auf und gilt als genehmigt, wenn bis zum Schluß dieser Sitzung kein Einspruch erhoben wird. Die Geheimschutzordnung des Bundestages findet entsprechende Anwendung.
+
+(2) Über Einsprüche gegen das Protokoll entscheidet der Gemeinsame Ausschuß.
+
+<!-- norm id="BJNE001900311" -->
+### § 18 Anwendbarkeit der Geschäftsordnung des Bundestages
+
+(1) Im übrigen finden auf das Verfahren des Ausschusses die Vorschriften der Geschäftsordnung des Bundestages über das Verfahren im Bundestag entsprechende Anwendung.
+
+(2) Können nach den nach Absatz 1 anwendbaren Vorschriften der Geschäftsordnung des Bundestages bestimmte Rechte nur von einer Mehrzahl von Mitgliedern ausgeübt werden, so können diese Rechte im Gemeinsamen Ausschuß von zwei Mitgliedern ausgeübt werden.
+
+<!-- norm id="BJNE002000311" -->
+### § 19 Änderung der Geschäftsordnung und Abweichungen von der Geschäftsordnung
+
+Ist die Feststellung nach Artikel 115e Abs. 1 des Grundgesetzes getroffen, kann der Gemeinsame Ausschuß diese Geschäftsordnung ändern und im Einzelfall mit einer Mehrheit von zwei Dritteln seiner Mitglieder von den Bestimmungen dieser Geschäftsordnung abweichen.

@@ -1,0 +1,37 @@
+---
+abkuerzung: BVwAWehrpflAnO
+jurabk: BVwAWehrpflAnO
+titel: Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen
+ausfertigung: '1960-02-12'
+quelle: https://www.gesetze-im-internet.de/bvwawehrpflano/
+doknr: BJNR503300960
+builddate: '20260506180006'
+---
+
+# Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsamt bei der Ermittlung von Wehrpflichtigen, die sich der Erfassung entziehen (BVwAWehrpflAnO)
+
+Quelle: <https://www.gesetze-im-internet.de/bvwawehrpflano/>
+
+> **Fußnote**
+>
+> (+++ Textnachweis Geltung ab: 1. 1.1964 +++)
+
+<!-- norm id="BJNE000100314" -->
+## I.
+
+Auf Grund des § 1 Abs. 3 des Gesetzes über die Errichtung des Bundesverwaltungsamtes vom 28. Dezember 1959 (Bundesgesetzbl. I S. 829) beauftrage ich das Bundesverwaltungsamt mit der Einrichtung einer Ermittlungszentrale, die die Aufgabe hat, die nach Nummer 15 Abs. 2 Satz 2 der Erfassungsvorschriften vom 6. August 1956 (Gemeinsames Ministerialblatt S. 365) erforderlichen Maßnahmen der Erfassungsbehörden bei der Aufenthaltsermittlung Wehrpflichtiger zu fördern.
+
+<!-- norm id="BJNE000200314" -->
+## II.
+
+Das im Einvernehmen mit dem Bundesminister für Verteidigung und den Innenministern (Senatoren) der Länder durch meinen Erlaß vom 18. Dezember 1957 (Gemeinsames Ministerialblatt 1958 S. 34) festgelegte Verfahren zwischen den Erfassungsbehörden und der Ermittlungszentrale bleibt unberührt. In dem Erlaß vom 18. Dezember 1957 tritt das Bundesverwaltungsamt an die Stelle der früheren Bundesstelle für Verwaltungsangelegenheiten des Bundesministers des Innern.
+
+<!-- norm id="BJNE000300314" -->
+## III.
+
+Diese Anordnung tritt am Tage nach ihrer Verkündung im Bundesanzeiger in Kraft.
+
+<!-- norm id="BJNE000400314" -->
+## Schlußformel
+
+Der Bundesminister des Innern

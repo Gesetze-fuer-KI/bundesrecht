@@ -1,0 +1,28 @@
+---
+abkuerzung: TrVerjG
+jurabk: TrVerjG
+titel: Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften
+ausfertigung: '1993-06-23'
+quelle: https://www.gesetze-im-internet.de/trverjg/
+doknr: BJNR098600993
+builddate: '20120625150455'
+---
+
+# Gesetz zur Regelung der Verjährung von Ansprüchen wegen unberechtigter oder rechtswidriger Erlangung von Gegenwerten aus Transferrubelgeschäften (TrVerjG)
+
+Quelle: <https://www.gesetze-im-internet.de/trverjg/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 27.6.1993 +++)
+> ```
+>
+> Das G wurde als Artikel 38 G 105-16 v. 23.6.1993 I 944 (FKPG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 43 Abs. 1 dieses G am 27.6.1993 in Kraft getreten.
+
+<!-- norm id="BJNE000100307" -->
+## (ohne Bezeichnung)
+
+(1) Ansprüche wegen unberechtigter oder rechtswidriger Erlangung von DM-Gegenwerten aus der Verrechnung von Transferrubeln bzw. bilateralen Clearingrubeln verjähren unabhängig von ihrem Rechtsgrund in zehn Jahren von dem Zeitpunkt an, in dem die für die Geltendmachung der DM-Forderungen zuständige Stelle von den den Anspruch begründenden Tatsachen und der Person des Verpflichteten Kenntnis erlangt, ohne Rücksicht auf diese Kenntnis mit Ablauf des 31. Dezember 2020.
+
+(2) Für die Verjährung von Ansprüchen auf die Zahlung von DM-Gegenwerten aus Importgeschäften auf Transferrubel- beziehungsweise Clearingrubelbasis ist Absatz 1 entsprechend anzuwenden.

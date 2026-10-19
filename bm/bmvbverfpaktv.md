@@ -1,0 +1,39 @@
+---
+abkuerzung: BMVBVerfPAktV
+jurabk: BMVBVerfPAktV
+titel: Verordnung zur Ermöglichung der Anlegung, Führung oder Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Verkehr
+ausfertigung: '2026-04-14'
+quelle: https://www.gesetze-im-internet.de/bmvbverfpaktv/
+doknr: BJNR0680A0026
+builddate: '20260506175208'
+---
+
+# Verordnung zur Ermöglichung der Anlegung, Führung oder Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Verkehr (BMVBVerfPAktV)
+
+Quelle: <https://www.gesetze-im-internet.de/bmvbverfpaktv/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 21.4.2026 +++)
+> ```
+
+<!-- norm id="BJNE000100000" -->
+## Eingangsformel
+
+Das Bundesministerium für Verkehr verordnet aufgrund der OWiG-Papierakte-Übertragungsverordnung vom 12. Dezember 2025 (BGBl. 2025 I Nr. 324):
+
+<!-- norm id="BJNE000200000" -->
+## § 1 Anlegung, Führung oder Weiterführung von papiergebundenen Akten in Bußgeldverfahren der Generaldirektion für Wasserstraßen und Schifffahrt und des Bundesamtes für Seeschifffahrt und Hydrographie
+
+Die Generaldirektion für Wasserstraßen und Schifffahrt und das Bundesamt für Seeschifffahrt und Hydrographie können abweichend von § 110a Absatz 1 Satz 1 und 2 des Gesetzes über Ordnungswidrigkeiten in Bußgeldverfahren Akten bis einschließlich 31. Dezember 2026 in Papierform anlegen sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform führen oder weiterführen.
+
+<!-- norm id="BJNE000300000" -->
+## § 2 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2026 außer Kraft.
+
+<!-- norm id="BJNE000400000" -->
+## § 3 Inkrafttreten
+
+Diese Verordnung tritt am Tag nach der Verkündung in Kraft.

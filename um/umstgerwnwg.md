@@ -1,0 +1,90 @@
+---
+abkuerzung: UmstGErwNwG
+jurabk: UmstGErwNwG
+titel: Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von Umstellungsguthaben
+ausfertigung: '1990-06-29'
+quelle: https://www.gesetze-im-internet.de/umstgerwnwg/
+doknr: DDNR005030990
+builddate: '20130405133150'
+---
+
+# Gesetz über den Nachweis der Rechtmäßigkeit des Erwerbs von Umstellungsguthaben (UmstGErwNwG)
+
+Quelle: <https://www.gesetze-im-internet.de/umstgerwnwg/>
+
+> **Fußnote**
+>
+> (+++ Textnachweis Geltung ab: 3. 10.1990 +++)^
+>
+> (+++ Maßgaben aufgrund EinigVtr vgl. UmstGErwNwG Anhang EV +++)
+>
+> Im Beitrittsgebiet fortgeltendes Recht der ehem. Deutschen Demokratischen Republik gem. Art. 3 Nr. 12 EinigVtrVbg v. 18.9.1990 II 1239 nach Maßgabe d. Art. 9 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 889 mWv 3.10.1990.
+
+<!-- norm id="BJNE000100314" -->
+## § 1
+
+Zur Entscheidung über die Realisierung der Umstellung von Guthaben kann die Prüfung des rechtmäßigen Erwerbs im nachfolgend geregelten Verfahren angeordnet werden. Dazu wird mit sofortiger Wirkung ein aus 21 Abgeordneten der Volkskammer bestehender zeitweiliger Sonderausschuß gebildet.
+
+<!-- norm id="BJNE000200314" -->
+## § 2
+
+Natürliche Personen und juristische Personen mit Wohnsitz oder Sitz der Niederlassung in der DDR oder außerhalb der DDR haben auf Verlangen die Rechtmäßigkeit des Erwerbs des zur Umstellung angemeldeten Guthabens (nachfolgend Gesamtguthaben) nachzuweisen.
+
+<!-- norm id="BJNE000300314" -->
+## § 3
+
+(1) Das Verlangen gemäß § 2 kann durch den zeitweiligen Sonderausschuß gestellt werden, wenn Zweifel an dem rechtmäßigen Erwerb des Gesamtguthabens bestehen.
+
+(2) Ein solches Verlangen ist bis zum 8. Juli 1990 zu stellen und dem Kontoinhaber unverzüglich zu übermitteln.
+
+(3) In den Fällen, in denen ein solches Verlangen gestellt wurde, ist durch den zeitweiligen Sonderausschuß dem kontoführenden Geldinstitut mitzuteilen, daß bis zu einer endgültigen Entscheidung der den bevorzugten Umtausch übersteigende Betrag zu sperren und damit eine Verfügung über diesen Betrag auszuschließen ist.
+
+<!-- norm id="BJNE000400314" -->
+## § 4
+
+(1) Der Kontoinhaber ist verpflichtet, innerhalb einer Frist von 10 Tagen nach Zugang des Verlangens die Rechtmäßigkeit des Erwerbs des Gesamtguthabens nachzuweisen.
+
+(2) Die Unterlagen sind bei dem zeitweiligen Sonderausschuß einzureichen.
+
+<!-- norm id="BJNE000500314" -->
+## § 5
+
+(1) Durch den zeitweiligen Sonderausschuß ist anhand der eingereichten Unterlagen zu prüfen, ob der Erwerb des Gesamtguthabens rechtmäßig erfolgte.
+
+(2) Rechtmäßigkeit des Erwerbs liegt insbesondere dann nicht vor, wenn das Gesamtguthaben oder Teile davon durch
+
+- - strafbares oder ordnungswidriges Handeln,
+- - Handlungen, die einen gröblichen Verstoß gegen die guten Sitten darstellen,
+- - einen Mißbrauch staatlicher oder gesellschaftlicher Befugnisse oder einer staatlichen oder gesellschaftlichen Stellung oder Tätigkeit zum Nachteil des Gemeinwohls
+
+erlangt wurde.
+
+(3) Die Entscheidung über die Feststellung eines unrechtmäßigen Erwerbs gemäß Absatz 2 ist dem Kontoinhaber und dem kontoführenden Kreditinstitut spätestens bis zum 1. Oktober 1990 mitzuteilen, sofern nicht ein Fall nach Absatz 4 vorliegt.
+
+(4) Soweit sich der Verdacht einer Straftat ergibt, ist Anzeige bei der zuständigen Strafverfolgungsbehörde zu stellen. Die Entscheidung des zeitweiligen Sonderausschusses darf in diesem Fall erst nach der rechtskräftigen Entscheidung der Strafverfolgungsbehörde getroffen werden.
+
+(5) Die Entscheidung des zeitweiligen Sonderausschusses über den unrechtmäßigen Erwerb des Gesamtguthabens oder Teilen davon hat zur Folge, daß das nicht rechtmäßig erworbene Guthaben zugunsten des Staates eingezogen wird.
+
+(6) Die Einziehung ist dem Kontoinhaber durch schriftlichen Bescheid des kontoführenden Kreditinstituts mitzuteilen.
+
+<!-- norm id="BJNE000600314" -->
+## § 6
+
+(1) Gegen die Entscheidung des zeitweiligen Sonderausschusses hat der Betroffene das Recht der Beschwerde. Sie ist innerhalb von 2 Wochen schriftlich und begründet bei dem zeitweiligen Sonderausschuß einzulegen. Die Beschwerde hat aufschiebende Wirkung.
+
+(2) Über die Beschwerde ist innerhalb von 2 Wochen nach ihrem Eingang zu entscheiden.
+
+(3) Wird der Beschwerde durch den zeitweiligen Sonderausschuß nicht stattgegeben, ist sie dem Präsidium der Volkskammer zur endgültigen Entscheidung unverzüglich zuzuleiten. Das Präsidium der Volkskammer entscheidet innerhalb von 4 Wochen.
+
+<!-- norm id="BJNE000700314" -->
+## § 7
+
+Dieses Gesetz tritt am 29. Juni 1990 in Kraft.
+
+<!-- norm id="BJNE000800314" -->
+## Schlußformel
+
+**Die Präsidentin der Volkskammer der Deutschen Demokratischen Republik**
+
+<!-- norm id="BJNE888800301" -->
+## Anhang EV Auszug aus EinigVtrVbg Art 3 (BGBl. II 1990, 1239)

@@ -1,0 +1,105 @@
+---
+abkuerzung: KStDV 1994
+jurabk: KStDV 1977
+titel: Körperschaftsteuer-Durchführungsverordnung 1994
+stand: zuletzt geändert durch Art. 2 Abs. 11 G v. 1.4.2015 I 434
+ausfertigung: '1977-06-14'
+quelle: https://www.gesetze-im-internet.de/kstdv_1977/
+doknr: BJNR008480977
+builddate: '20260506174845'
+---
+
+# Körperschaftsteuer-Durchführungsverordnung 1994 (KStDV 1994)
+
+Stand: zuletzt geändert durch Art. 2 Abs. 11 G v. 1.4.2015 I 434
+
+Quelle: <https://www.gesetze-im-internet.de/kstdv_1977/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 24.6.1977 +++)
+> (+++ Zur Anwendung vgl. § 6 +++)
+> ```
+>
+> Überschrift: IdF d. Bek. v. 22.2.1996 I 365 mWv 18.12.1993
+>
+> Die V wurde aufgrund des § 53 Abs. 1 des Körperschaftsteuergesetzes vom 31.8.1976 (BGBl. I S. 2597, 2599) von der Bundesregierung erlassen.
+
+<!-- gliederung id="BJNG000102301" ebene="1" -->
+## - Zu § 5 Abs. 1 Nr. 3 des Gesetzes
+
+<!-- norm id="BJNE000502301" -->
+### § 1 Allgemeines
+
+Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen sind nur dann eine soziale Einrichtung im Sinne des § 5 Abs. 1 Nr. 3 Buchstabe b des Gesetzes, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- 1\. Die Leistungsempfänger dürfen sich in der Mehrzahl nicht aus dem Unternehmer oder dessen Angehörigen und bei Gesellschaften in der Mehrzahl nicht aus den Gesellschaftern oder deren Angehörigen zusammensetzen.
+- 2\. Bei Auflösung der Kasse darf ihr Vermögen vorbehaltlich der Regelung in § 6 des Gesetzes satzungsmäßig nur den Leistungsempfängern oder deren Angehörigen zugute kommen oder für ausschließlich gemeinnützige oder mildtätige Zwecke verwendet werden.
+- 3\. Außerdem müssen bei Kassen mit Rechtsanspruch der Leistungsempfänger die Voraussetzungen des § 2, bei Kassen ohne Rechtsanspruch der Leistungsempfänger die Voraussetzungen des § 3 erfüllt sein.
+
+<!-- norm id="BJNE000605301" -->
+### § 2 Kassen mit Rechtsanspruch der Leistungsempfänger
+
+(1) Bei rechtsfähigen Pensions- oder Sterbekassen, die den Leistungsempfängern einen Rechtsanspruch gewähren, dürfen die jeweils erreichten Rechtsansprüche der Leistungsempfänger vorbehaltlich des Absatzes 2 die folgenden Beträge nicht übersteigen:
+
+|  |  |  |
+|---|---|---|
+| als Pension | 25.769 Euro | jährlich, |
+| als Witwengeld | 17.179 Euro | jährlich, |
+| als Waisengeld | 5.154 Euro | jährlich für jede Halbwaise, |
+|  | 10.308 Euro | jährlich für jede Vollwaise, |
+| als Sterbegeld | 7.669 Euro | als Gesamtleistung. |
+
+(2) Die jeweils erreichten Rechtsansprüche, mit Ausnahme des Anspruchs auf Sterbegeld, dürfen in nicht mehr als 12 vom Hundert aller Fälle auf höhere als die in Absatz 1 bezeichneten Beträge gerichtet sein. Dies gilt in nicht mehr als 4 vom Hundert aller Fälle uneingeschränkt. Im Übrigen dürfen die jeweils erreichten Rechtsansprüche die folgenden Beträge nicht übersteigen:
+
+|  |  |  |
+|---|---|---|
+| als Pension | 38.654 Euro | jährlich, |
+| als Witwengeld | 25.769 Euro | jährlich, |
+| als Waisengeld | 7.731 Euro | jährlich für jede Halbwaise, |
+|  | 15.461 Euro | jährlich für jede Vollwaise. |
+
+<!-- norm id="BJNE000702301" -->
+### § 3 Kassen ohne Rechtsanspruch der Leistungsempfänger
+
+Rechtsfähige Unterstützungskassen, die den Leistungsempfängern keinen Rechtsanspruch gewähren, müssen die folgenden Voraussetzungen erfüllen:
+
+- 1\. Die Leistungsempfänger dürfen zu laufenden Beiträgen oder zu sonstigen Zuschüssen nicht verpflichtet sein.
+- 2\. Den Leistungsempfängern oder den Arbeitnehmervertretungen des Betriebs oder der Dienststelle muß satzungsgemäß und tatsächlich das Recht zustehen, an der Verwaltung sämtlicher Beträge, die der Kasse zufließen, beratend mitzuwirken.
+- 3\. Die laufenden Leistungen und das Sterbegeld dürfen die in § 2 bezeichneten Beträge nicht übersteigen.
+
+<!-- gliederung id="BJNG000202301" ebene="1" -->
+## - Zu § 5 Abs. 1 Nr. 4 des Gesetzes
+
+<!-- norm id="BJNE000806377" -->
+### § 4 Kleinere Versicherungsvereine
+
+Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210 des Versicherungsaufsichtsgesetzes sind von der Körperschaftsteuer befreit, wenn
+
+- 1\. ihre Beitragseinnahmen im Durchschnitt der letzten drei Wirtschaftsjahre einschließlich des im Veranlagungszeitraum endenden Wirtschaftsjahrs die folgenden Jahresbeträge nicht überstiegen haben:
+  - a) 797.615 Euro bei Versicherungsvereinen, die die Lebensversicherung oder die Krankenversicherung betreiben,
+  - b) 306.775 Euro bei allen übrigen Versicherungsvereinen, oder
+- 2\. sich ihr Geschäftsbetrieb auf die Sterbegeldversicherung beschränkt und sie im übrigen die Voraussetzungen des § 1 erfüllen.
+
+<!-- gliederung id="BJNG000401301" ebene="1" -->
+## - Zu § 26 Abs. 3 des Gesetzes
+
+<!-- norm id="BJNE001202140" -->
+### § 5 (weggefallen)
+
+<!-- gliederung id="BJNG000303301" ebene="1" -->
+## - Schlußvorschrift
+
+<!-- norm id="BJNE000907377" -->
+### § 6 Anwendungszeitraum
+
+Die Körperschaftsteuer-Durchführungsverordnung in der am 1. Januar 2016 geltenden Fassung ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
+
+<!-- norm id="BJNE001102301" -->
+### § 7
+
+(Inkrafttreten)
+
+<!-- norm id="BJNE001302140" -->
+### Anlage (weggefallen)

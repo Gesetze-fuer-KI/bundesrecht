@@ -1,0 +1,45 @@
+---
+abkuerzung: EZMWBNAbkV
+jurabk: EZMWBNAbkV
+titel: Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn
+ausfertigung: '2023-06-07'
+quelle: https://www.gesetze-im-internet.de/ezmwbnabkv/
+doknr: BJNR09E0O0023
+builddate: '20260506175305'
+---
+
+# Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn (EZMWBNAbkV)
+
+Quelle: <https://www.gesetze-im-internet.de/ezmwbnabkv/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 20.7.2023 +++)
+> ```
+
+<!-- norm id="BJNE000100000" -->
+## Eingangsformel
+
+Auf Grund des § 5 des Gaststaatgesetzes vom 30. November 2019 (BGBl. I S. 1929) verordnet die Bundesregierung:
+
+<!-- norm id="BJNE000200000" -->
+## Art 1
+
+(1) Der Ansiedlung des Europäischen Zentrums für mittelfristige Wettervorhersage in der Bundesrepublik Deutschland durch Errichtung einer Zweigniederlassung in Bonn wird zugestimmt.
+
+(2) Das in Berlin am 9. Dezember 2022 unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn wird hiermit in Kraft gesetzt und die in Teil 2 Kapitel 2 und 3 des Gaststaatgesetzes vorgesehenen Vorrechte, Immunitäten, Befreiungen und Erleichterungen werden in dem aus dem Abkommen ersichtlichen Umfang gewährt. Das Abkommen wird nachstehend veröffentlicht.
+
+<!-- norm id="BJNE000300000" -->
+## Art 2
+
+(1) Diese Verordnung tritt an dem Tag in Kraft, an dem das in Berlin am 9. Dezember 2022 unterzeichnete Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn nach seinem Artikel 32 Absatz 1 in Kraft tritt.
+
+(2) Diese Verordnung tritt an dem Tag außer Kraft, an dem das Abkommen außer Kraft tritt.
+
+(3) Der Tag des Inkrafttretens und der Tag des Außerkrafttretens sind im Bundesgesetzblatt bekannt zu geben.
+
+<!-- norm id="BJNE000400000" -->
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.

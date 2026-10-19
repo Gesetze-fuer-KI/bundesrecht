@@ -1,0 +1,190 @@
+---
+abkuerzung: DVLStHV
+jurabk: LStHVDV
+titel: Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine
+stand: Zuletzt geändert durch Art. 2 G v. 29.6.2026 I Nr. 197
+ausfertigung: '1975-07-15'
+quelle: https://www.gesetze-im-internet.de/lsthvdv/
+doknr: BJNR019060975
+builddate: '20260831215511'
+---
+
+# Verordnung zur Durchführung der Vorschriften über die Lohnsteuerhilfevereine (DVLStHV)
+
+Stand: Zuletzt geändert durch Art. 2 G v. 29.6.2026 I Nr. 197
+
+Quelle: <https://www.gesetze-im-internet.de/lsthvdv/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 19.7.1975 +++)
+> ```
+
+<!-- norm id="BJNE000400315" -->
+## Eingangsformel
+
+Auf Grund des § 31 des Steuerberatungsgesetzes vom 16. August 1961 (Bundesgesetzbl. I S. 1301) in der Fassung des Dritten Gesetzes zur Änderung des Steuerberatungsgesetzes vom 24. Juni 1975 (Bundesgesetzbl. I S. 1509) wird mit Zustimmung des Bundesrates verordnet:
+
+<!-- gliederung id="BJNG000100315" ebene="1" -->
+## Erster Teil Anerkennung als Lohnsteuerhilfeverein
+
+<!-- norm id="BJNE000503123" -->
+### § 1 (weggefallen)
+
+<!-- norm id="BJNE000604123" -->
+### § 2 Nachweise
+
+Dem Antrag auf Anerkennung als Lohnsteuerhilfeverein sind neben der Abschrift der Satzung (§ 15 Absatz 1 des Steuerberatungsgesetzes) beizufügen:
+
+- 1\. der Nachweis der Eintragung in das Vereinsregister,
+- 2\. eine Liste mit den Namen und den Anschriften der Mitglieder des Vorstands,
+- 3\. der Nachweis über das Bestehen einer Versicherung gegen die sich aus der Hilfeleistung in Steuersachen ergebenden Haftpflichtgefahren,
+- 4\. ein Verzeichnis der Beratungsstellen, deren Eröffnung im Bezirk der für die Anerkennung zuständigen Aufsichtsbehörde beabsichtigt ist, sowie die nach den §§ 4a und 4b erforderlichen Mitteilungen nebst Erklärungen und Nachweisen,
+- 5\. eine Abschrift der nicht in der Satzung enthaltenen Regelungen über die Erhebung von Beiträgen.
+
+<!-- norm id="BJNE000702123" -->
+### § 3 Anerkennungsurkunde
+
+Die Anerkennungsurkunde (§ 15 Absatz 3 des Steuerberatungsgesetzes) enthält
+
+- 1\. die Bezeichnung der anerkennenden Behörde,
+- 2\. Ort und Datum der Anerkennung,
+- 3\. Namen und Sitz des Vereins,
+- 4\. die Anerkennung als Lohnsteuerhilfeverein,
+- 5\. Dienstsiegel und
+- 6\. Unterschrift.
+
+<!-- norm id="BJNE000801301" -->
+### § 4 Ablehnung der Anerkennung
+
+Über eine Ablehnung des Antrags auf Anerkennung als Lohnsteuerhilfeverein ist ein schriftlicher Bescheid zu erteilen.
+
+<!-- gliederung id="BJNG000401123" ebene="1" -->
+## Zweiter Teil Beratungsstellen und deren Leitung
+
+<!-- norm id="BJNE001602123" -->
+### § 4a Eröffnung und Verlegung einer Beratungsstelle
+
+Die Mitteilung über die Eröffnung oder die Verlegung einer Beratungsstelle (§ 24 Absatz 1 Nummer 1 des Steuerberatungsgesetzes) muss folgende Angaben enthalten:
+
+- 1\. die Anschrift der Beratungsstelle und im Fall ihrer Verlegung die bisherige und die neue Anschrift der Beratungsstelle,
+- 2\. ob und gegebenenfalls welche räumlichen, personellen und organisatorischen Verflechtungen mit anderen wirtschaftlichen Unternehmen bestehen.
+
+<!-- norm id="BJNE001702123" -->
+### § 4b Bestellung der Leitung einer Beratungsstelle
+
+(1) Die Mitteilung über die Bestellung der Leitung einer Beratungsstelle (§ 24 Absatz 1 Nummer 2 des Steuerberatungsgesetzes) muss die Anschrift der übernommenen Beratungsstelle sowie folgende Angaben über die Person, die als Leitung der Beratungsstelle bestellt ist, enthalten:
+
+- 1\. Name, Anschrift und Beruf,
+- 2\. ob und gegebenenfalls bei welchem Lohnsteuerhilfeverein diese Person bereits früher Hilfe in Steuersachen geleistet hat,
+- 3\. ob und gegebenenfalls welche andere Beratungsstelle diese Person weiterhin leitet.
+
+(2) Der Mitteilung nach Absatz 1 sind beizufügen:
+
+- 1\. Bescheinigungen über die bisherige berufliche Tätigkeit, insbesondere mit Angaben über Art und Umfang der Tätigkeit, zum Nachweis darüber, dass die Voraussetzungen des § 20 Absatz 2 des Steuerberatungsgesetzes erfüllt sind,
+- 2\. eine Erklärung der als Leitung der Beratungsstelle bestellten Person,
+  - a) dass sie in geordneten wirtschaftlichen Verhältnissen lebt,
+  - b) ob sie in den letzten zwölf Monaten strafgerichtlich verurteilt worden ist und ob gegen sie ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anhängig ist; Entsprechendes gilt für berufsgerichtliche Verfahren sowie für Bußgeldverfahren nach der Abgabenordnung und dem Steuerberatungsgesetz,
+  - c) dass sie bei der Meldebehörde die Erteilung eines Führungszeugnisses zur Vorlage bei der zuständigen Behörde beantragt hat.
+
+<!-- gliederung id="BJNG000202123" ebene="1" -->
+## Dritter Teil Elektronisches Verzeichnis der Lohnsteuerhilfevereine
+
+<!-- norm id="BJNE000903123" -->
+### § 5 Eintragung
+
+In das elektronische Verzeichnis der Lohnsteuerhilfevereine sind einzutragen
+
+- 1\. Lohnsteuerhilfevereine, die im Bezirk der Aufsichtsbehörde ihren Sitz und ihre Geschäftsleitung haben, und zwar sowie alle Veränderungen zu den Buchstaben a, c und d;
+  - a) der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins,
+  - b) der Tag der Anerkennung als Lohnsteuerhilfeverein und die Aufsichtsbehörde, die die Anerkennung ausgesprochen hat,
+  - c) die Namen und die Anschriften der Mitglieder des Vorstands,
+  - d) sämtliche Beratungsstellen des Vereins
+- 2\. im Bezirk der Aufsichtsbehörde bestehende Beratungsstellen, und zwar
+  - a) der Name, der Sitz und die Anschrift der Geschäftsleitung des Vereins,
+  - b) die Anschrift der Beratungsstelle,
+  - c) der Name und die Anschrift der Leitung der Beratungsstelle,
+  - d) (weggefallen)
+  sowie alle Veränderungen zu den Buchstaben a bis c.
+
+<!-- norm id="BJNE001801123" -->
+### § 5a Ablehnung der Eintragung
+
+Wird die Eintragung einer Beratungsstelle oder der Leitung einer Beratungsstelle in das elektronische Verzeichnis der Lohnsteuerhilfevereine abgelehnt, gilt § 4 entsprechend.
+
+<!-- norm id="BJNE001004123" -->
+### § 6 Löschung
+
+Im elektronischen Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
+
+- 1\. Lohnsteuerhilfevereine,
+  - a) wenn die Anerkennung als Lohnsteuerhilfeverein erloschen oder unanfechtbar zurückgenommen oder widerrufen ist,
+  - b) wenn der Sitz und die Geschäftsleitung aus dem Bezirk der Aufsichtsbehörde verlegt wird;
+- 2\. Beratungsstellen, wenn die Beratungsstelle geschlossen ist;
+- 3\. Beratungsstellen, wenn deren Sitz in den Bezirk einer anderen Aufsichtsbehörde verlegt wird.
+
+<!-- norm id="BJNE001103123" -->
+### § 7 Meldepflichten
+
+Die Vertretungsberechtigten des Vereins haben der das elektronische Verzeichnis führenden Aufsichtsbehörde die für die Eintragung oder Löschung nach § 5 Nr. 1 Buchstaben a und c, Nr. 2, § 6 Nr. 1 Buchstabe b und Nr. 2 erforderlichen Angaben innerhalb von zwei Wochen nach Eintritt des Ereignisses, das eine Eintragung oder Löschung notwendig macht, mitzuteilen. Mitteilungen nach § 24 Absatz 1 des Steuerberatungsgesetzes gelten gleichzeitig als Mitteilungen im Sinne dieser Vorschrift.
+
+<!-- norm id="BJNE001203123" -->
+### § 8 Mitteilung über Eintragung und Löschung
+
+(1) Die das elektronische Verzeichnis führende Behörde hat dem Verein Eintragungen, die für das Tätigwerden einer Beratungsstelle Voraussetzung sind (§ 19 Absatz 3 des Steuerberatungsgesetzes), mitzuteilen. Hat der Verein seinen Sitz und seine Geschäftsleitung im Bezirk einer anderen Aufsichtsbehörde, so sind auch dieser Mitteilungen zu übersenden.
+
+(2) Wird der Verein im elektronischen Verzeichnis gelöscht, so ist dies allen Aufsichtsbehörden, in deren elektronischen Verzeichnissen Beratungsstellen des Vereins eingetragen sind, sowie dem zuständigen Registergericht mitzuteilen.
+
+<!-- gliederung id="BJNG000302140" ebene="1" -->
+## Vierter Teil Haftpflichtversicherung
+
+<!-- norm id="BJNE001304123" -->
+### § 9 (weggefallen)
+
+<!-- norm id="BJNE001401140" -->
+### § 10 Mindestversicherungssumme
+
+(1) Die Mindestversicherungssumme muss für den einzelnen Versicherungsfall 50 000 Euro betragen.
+
+(2) Eine Selbstbeteiligung von bis zu 300 Euro ist zulässig. Die Selbstbeteiligung ist auszuschließen für den Fall, dass bei Geltendmachung des Schadens durch einen Dritten die Anerkennung als Lohnsteuerhilfeverein erloschen ist.
+
+(3) Wird eine Jahreshöchstleistung für alle im Versicherungsjahr verursachten Schäden vereinbart, muss sie mindestens 200 000 Euro betragen.
+
+<!-- norm id="BJNE001901123" -->
+### § 11 Sonstige Inhalte des Versicherungsvertrags
+
+(1) Der Versicherungsvertrag muss vorsehen, dass Versicherungsschutz für jede einzelne, während der Geltung des Versicherungsvertrags begangene Pflichtverletzung besteht, die gesetzliche Haftpflichtansprüche privatrechtlichen Inhalts zur Folge haben könnte.
+
+(2) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der zuständigen Aufsichtsbehörde den Beginn und die Beendigung oder Kündigung des Versicherungsvertrags sowie jede Änderung des Versicherungsvertrags, die den vorgeschriebenen Versicherungsschutz beeinträchtigt, unverzüglich mitzuteilen. Die Aufsichtsbehörde (§ 27 Absatz 1 des Steuerberatungsgesetzes) erteilt Dritten zur Geltendmachung von Schadensersatzansprüchen auf Antrag Auskunft über den Namen und die Adresse der Berufshaftpflichtversicherung des Lohnsteuerhilfevereins sowie die Versicherungsnummer, soweit der Lohnsteuerhilfeverein kein überwiegendes schutzwürdiges Interesse an der Nichterteilung der Auskunft hat.
+
+(3) Der Versicherungsvertrag kann vorsehen, dass die Versicherungssumme den Höchstbetrag der dem Versicherer in jedem einzelnen Schadensfall obliegenden Leistung darstellt, und zwar mit der Maßgabe, dass nur eine einmalige Leistung der Versicherungssumme in Frage kommt
+
+- 1\. gegenüber mehreren entschädigungspflichtigen Personen, auf welche sich der Versicherungsschutz erstreckt,
+- 2\. bezüglich eines aus mehreren Verstößen stammenden einheitlichen Schadens,
+- 3\. bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches, auf gleicher oder gleichartiger Fehlerquelle beruhendes Tun oder Unterlassen als einheitlicher Verstoß, wenn die betreffenden Angelegenheiten miteinander in rechtlichem oder wirtschaftlichem Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers auf das Fünffache der Mindestversicherungssumme begrenzt werden.
+
+<!-- norm id="BJNE002000140" -->
+### § 12 Ausschlüsse
+
+Von der Versicherung kann die Haftung ausgeschlossen werden für
+
+- 1\. Ersatzansprüche wegen wissentlicher Pflichtverletzung und
+- 2\. Ersatzansprüche wegen Schäden, die durch fehlerhafte Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung durch das Personal des Versicherungsnehmers entstehen.
+
+<!-- norm id="BJNE002101123" -->
+### § 13 Nachweis des Versicherungsabschlusses vor der Anerkennung
+
+Der Lohnsteuerhilfeverein, der die Anerkennung beantragt, muss der anerkennenden Aufsichtsbehörde (§ 27 Absatz 1 des Steuerberatungsgesetzes) den Abschluss einer dieser Verordnung entsprechenden Berufshaftpflichtversicherung durch eine Bestätigung des Versicherers nachweisen oder eine entsprechende vorläufige Deckungszusage vorlegen, in der sich der Versicherer verpflichtet, den Widerruf der Deckungszusage unverzüglich der zuständigen Aufsichtsbehörde mitzuteilen. Bei Vorlage einer vorläufigen Deckungszusage ist nach der Anerkennung der zuständigen Aufsichtsbehörde unverzüglich der Abschluss der Berufshaftpflichtversicherung durch eine Bestätigung des Versicherers oder eine beglaubigte Abschrift des Versicherungsscheins nachzuweisen.
+
+<!-- norm id="BJNE002201123" -->
+### § 14 Anzeige von Veränderungen
+
+(1) Die Beendigung oder Kündigung des Versicherungsvertrags, jede Änderung des Versicherungsvertrags, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeinträchtigt, der Wechsel des Versicherers und der Widerruf einer vorläufigen Deckungszusage sind der gemäß § 27 Absatz 1 des Steuerberatungsgesetzes zuständigen Aufsichtsbehörde von dem Versicherungspflichtigen unverzüglich anzuzeigen.
+
+(2) Die zuständige Aufsichtsbehörde ist berechtigt, Auskünfte über den Beginn und über die in Absatz 1 aufgeführten Veränderungen des Versicherungsvertrags beim Versicherer einzuholen.
+
+<!-- norm id="BJNE001501140" -->
+### Schlussformel
+
+Der Bundesminister der Finanzen

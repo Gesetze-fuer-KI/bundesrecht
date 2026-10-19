@@ -1,0 +1,76 @@
+---
+abkuerzung: UStErstV
+jurabk: UStErstVO
+titel: Verordnung über die Erstattung von Umsatzsteuer an ausländische ständige diplomatische Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder
+kurztitel: Umsatzsteuererstattungsverordnung
+stand: zuletzt geändert durch Art. 3 V v. 19.12.2022 I 2432
+ausfertigung: '1970-04-03'
+quelle: https://www.gesetze-im-internet.de/usterstvo/
+doknr: BJNR003160970
+builddate: '20230113214001'
+---
+
+# Verordnung über die Erstattung von Umsatzsteuer an ausländische ständige diplomatische Missionen und berufskonsularische Vertretungen sowie an ihre ausländischen Mitglieder (UStErstV)
+
+Stand: zuletzt geändert durch Art. 3 V v. 19.12.2022 I 2432
+
+Quelle: <https://www.gesetze-im-internet.de/usterstvo/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 1.1.1970 +++)
+> (+++ Zur Anwendung vgl. § 5 +++)
+> ```
+>
+> Kurzüberschrift: Eingef. durch Art. 16 Nr. 1 G v. 19.12.2000 I 1790 mWv 1.1.2002
+
+<!-- norm id="BJNE000205140" -->
+## § 1
+
+(1) Hat eine im Geltungsbereich dieser Verordnung errichtete ausländische ständige diplomatische Mission oder ausländische ständige berufskonsularische Vertretung für ihren amtlichen Gebrauch Gegenstände erworben oder sonstige Leistungen in Anspruch genommen, wird ihr auf Antrag aus dem Aufkommen der Umsatzsteuer
+
+- 1\. die von dem Unternehmer nach § 14 des Umsatzsteuergesetzes in Rechnung gestellte und von ihr bezahlte Umsatzsteuer erstattet, wenn der Rechnungsbetrag einschließlich der Steuer 100 Euro übersteigt;
+- 2\. die von ihr nach § 13b Absatz 5 des Umsatzsteuergesetzes geschuldete und von ihr entrichtete Umsatzsteuer erstattet, wenn der Rechnungsbetrag zuzüglich der Steuer 100 Euro übersteigt.
+
+(2) Die Vergünstigung nach Absatz 1 ist auf der Grundlage besonderer Vereinbarung mit dem Entsendestaat nach Maßgabe der Gegenseitigkeit zu gewähren.
+
+<!-- norm id="BJNE000303301" -->
+## § 2
+
+(1) § 1 gilt zugunsten eines Mitglieds der Mission oder der berufskonsularischen Vertretung, das weder Angehöriger der Bundesrepublik Deutschland noch in ihr ständig ansässig ist, auch wenn die Gegenstände oder die sonstigen Leistungen für seinen persönlichen Gebrauch bestimmt sind.
+
+(2) Die Erstattungen dürfen für das Kalenderjahr den Gesamtbetrag von 1.200 Euro nicht übersteigen. Der Erwerb eines Kraftfahrzeuges ist hierbei nicht zu berücksichtigen.
+
+<!-- norm id="BJNE000402301" -->
+## § 3
+
+(1) Die §§ 1 und 2 gelten nicht für den Erwerb von Lebensmitteln und Tabakerzeugnissen sowie die Abgabe von Speisen und Getränken zum Verzehr an Ort und Stelle.
+
+(2) Wird ein Gegenstand während seiner gewöhnlichen Nutzungsdauer nicht oder nur zeitweise zu Zwecken im Sinne der §§ 1 und 2 genutzt, ist die Erstattung zu versagen oder der Erstattungsbetrag angemessen zu kürzen.
+
+<!-- norm id="BJNE000504123" -->
+## § 4
+
+(1) Der Antrag auf Erstattung ist unter Beifügung der in Betracht kommenden Rechnungen und Zahlungsnachweise nach einem vom Bundesministerium der Finanzen zu bestimmenden Muster beim Bundeszentralamt für Steuern in Papierform oder elektronisch einzureichen. In ihm hat der Missionschef oder der Leiter der berufskonsularischen Vertretung zu versichern, dass die Gegenstände oder die sonstigen Leistungen für den nach § 1 oder § 2 vorgesehenen Gebrauch bestimmt sind. Das Bundeszentralamt für Steuern prüft die Angaben des Antragstellers und entscheidet über den Antrag.
+
+(2) Der Antrag ist bis zum Ablauf des Kalenderjahres zu stellen, das auf das Kalenderjahr folgt, in dem der Umsatz an den Antragsteller bewirkt worden ist. Der Antrag muß alle Erstattungsansprüche eines Abrechnungszeitraums, der mindestens ein Kalendervierteljahr beträgt, umfassen.
+
+(3) Dem Antragsteller ist ein schriftlicher Bescheid zu erteilen, wenn dem Antrage nicht entsprochen wird.
+
+(4) Mindert sich der Steuerbetrag, so hat der Antragsteller das Bundeszentralamt für Steuern unverzüglich zu unterrichten. Der zuviel erhaltene Erstattungsbetrag ist innerhalb eines Monats nach Bekanntwerden der Minderung zurückzuzahlen. Er kann mit den Erstattungsansprüchen auf Grund eines in diesem Zeitraum abgegebenen Antrags verrechnet werden.
+
+<!-- norm id="BJNE000602309" -->
+## § 5
+
+Diese Verordnung ist auf Steuerbeträge anzuwenden, denen Lieferungen und sonstige Leistungen zugrunde liegen, die nach dem 31. Dezember 1988 bewirkt worden sind.
+
+<!-- norm id="BJNE000701309" -->
+## § 6
+
+Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in Verbindung mit Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen und in Verbindung mit Artikel 3 des Gesetzes zu dem Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen auch im Land Berlin.
+
+<!-- norm id="BJNE000801309" -->
+## § 7
+
+(Inkrafttreten)

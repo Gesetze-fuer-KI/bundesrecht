@@ -1,0 +1,59 @@
+---
+abkuerzung: ZGÄndG 14
+jurabk: ZGÄndG 14
+titel: Vierzehntes Gesetz zur Änderung des Zollgesetzes
+stand: Geändert durch Art. 2 Abs. 2 G v. 12.9.1980 I 1695
+ausfertigung: '1973-08-03'
+quelle: https://www.gesetze-im-internet.de/zg_ndg_14/
+doknr: BJNR009330973
+builddate: '20260506174856'
+---
+
+# Vierzehntes Gesetz zur Änderung des Zollgesetzes (ZGÄndG 14)
+
+Stand: Geändert durch Art. 2 Abs. 2 G v. 12.9.1980 I 1695
+
+Quelle: <https://www.gesetze-im-internet.de/zg_ndg_14/>
+
+> **Fußnote**
+>
+> (+++ Textnachweis Geltung ab: 1.10.1980 +++)
+
+<!-- norm id="BJNE000100314" -->
+## Art 1
+
+-
+
+<!-- norm id="BJNE000200314" -->
+## Art 2
+
+-
+
+<!-- norm id="BJNE000300314" -->
+## Art 3 Steuerfreiheit zur Erleichterung des Warenverkehrs und zur Vereinfachung der Verwaltung
+
+Der Bundesminister der Finanzen wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zur Erleichterung des Warenverkehrs über die Grenzen und zur Vereinfachung der Verwaltung ganz oder teilweise Freiheit von der Einfuhrumsatzsteuer und von anderen Verbrauchsteuern anzuordnen
+
+- 1\. für eingeführte Waren, die nicht oder nicht mehr am Güterumsatz und an der Preisbildung teilnehmen,
+- 2\. für eingeführte Waren in kleinen Mengen oder von geringem Wert,
+- 3\. für Waren, die das Zollgebiet oder das Erhebungsgebiet der Verbrauchsteuern nur vorübergehend verlassen hatten,
+- 4\. für eingeführte Waren, die im Zollgebiet oder im Erhebungsgebiet der Verbrauchsteuern nur vorübergehend verwendet und danach unter zollamtlicher Überwachung wieder ausgeführt, vernichtet, vergällt oder genußunbrauchbar gemacht werden,
+- 5\. für eingeführte Waren, für die nach zwischenstaatlichem Brauch keine Einfuhrumsatzsteuer und andere Verbrauchsteuern erhoben werden,
+- 6\. für Waren, die an Bord von Verkehrsmitteln als Mundvorrat, als Brenn-, Treib- oder Schmierstoffe, als technische Öle oder als Betriebsmittel ein- oder ausgeführt werden,
+
+soweit dadurch schutzwürdige Interessen der inländischen Wirtschaft nicht verletzt werden und keine unangemessenen Steuervorteile entstehen. Er hat dabei Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften zu berücksichtigen.
+
+<!-- norm id="BJNE000400314" -->
+## Art 4
+
+-
+
+<!-- norm id="BJNE000500314" -->
+## Art 5
+
+Dieses Gesetz gilt nach § 12 Abs. 1 des Dritten Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14 des Dritten Überleitungsgesetzes.
+
+<!-- norm id="BJNE000600314" -->
+## Art 6
+
+Dieses Gesetz tritt am ersten Tag des seiner Verkündung folgenden Monats in Kraft.

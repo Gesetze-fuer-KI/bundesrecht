@@ -1,0 +1,172 @@
+---
+abkuerzung: ElmV
+jurabk: ELV
+titel: Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln
+kurztitel: Extraktionslösungsmittelverordnung
+stand: geändert durch Art. 1 V v. 16.10.2024 I Nr. 315
+ausfertigung: '1991-11-08'
+quelle: https://www.gesetze-im-internet.de/elv/
+doknr: BJNR021000991
+builddate: '20241231222150'
+---
+
+# Verordnung über die Verwendung von Extraktionslösungsmitteln bei der Herstellung von Lebensmitteln (ElmV)
+
+Stand: geändert durch Art. 1 V v. 16.10.2024 I Nr. 315
+
+Quelle: <https://www.gesetze-im-internet.de/elv/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 16.11.1991 +++)
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+> Umsetzung der
+> EWGRL 344/88 (CELEX Nr: 388L0344)
+> Umsetzung der
+> EURL 2023/175 (CELEX Nr: 32023L0175) vgl.
+> V v. 16.10.2024 I Nr. 315 +++)
+> ```
+>
+> Überschrift: IdF d. Art. 20 Nr. 1 V v. 29.1.1998 I 230 mWv 6.2.1998
+
+<!-- norm id="BJNE000202116" -->
+## § 1 Begriffsbestimmung und Anwendungsbereich
+
+(1) Extraktionslösungsmittel im Sinne dieser Verordnung sind Stoffe, die bei der Herstellung von Lebensmitteln zur Extraktion verwendet und aus dem Enderzeugnis wieder entfernt werden, die jedoch unbeabsichtigte, aber technisch unvermeidbare Rückstände oder Umwandlungsprodukte in den Lebensmitteln hinterlassen können.
+
+(2) Diese Verordnung gilt nicht für die Herstellung von Lebensmittelzusatzstoffen, Vitaminen und sonstigen Stoffen, die Lebensmitteln zu ernährungsphysiologischen Zwecken zugesetzt werden.
+
+<!-- norm id="BJNE000303116" -->
+## § 2 Zugelassene Stoffe
+
+(1) Stoffe im Sinne des Artikels 3 Absatz 2 Buchstabe b der Verordnung (EG) Nr. 1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) in der jeweils geltenden Fassung, die als Extraktionslösungsmittel verwendet werden, werden den Lebensmittelzusatzstoffen gleichgestellt.
+
+(2) Als Extraktionslösungsmittel werden zugelassen:
+
+- 1\.
+  - a) destilliertes und demineralisiertes Wasser,
+  - b) Wasser, dem Lebensmittelzusatzstoffe zur Regulierung der Azidität oder Alkalität zugesetzt wurden,
+  - c) die in Anlage 1 aufgeführten Stoffe
+  zur allgemeinen Verwendung unter Einhaltung der nach redlichem Herstellerbrauch üblichen Verfahren; diese gelten als eingehalten, wenn die Stoffe aus dem Lebensmittel vollständig oder soweit entfernt werden, dass Rückstände oder Umwandlungsprodukte nur in technisch unvermeidbaren Resten vorhanden sind, die keine Gefahr für die menschliche Gesundheit darstellen,
+- 2\. die in Anlage 2 aufgeführten Stoffe für die dort genannten Verwendungszwecke,
+- 3\. die in Anlage 3 aufgeführten Stoffe für die Herstellung von Aromen aus natürlichen Aromaträgern.
+
+(3) Ferner dürfen Wasser, Ethanol und andere Lebensmittel, die Lösungsmitteleigenschaften haben, als Extraktionslösungsmittel verwendet werden.
+
+<!-- norm id="BJNE000404125" -->
+## § 3 Höchstmengen
+
+Die in den Anlagen 2 und 3 aufgeführten Stoffe dürfen als Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, nur so verwendet werden, dass ihre Restgehalte in den Lebensmitteln die dort festgesetzten Höchstmengen nicht überschreiten.
+
+<!-- norm id="BJNE000502125" -->
+## § 4 Reinheitsanforderungen
+
+(1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe dürfen als Extraktionslösungsmittel bei dem Herstellen von Lebensmitteln, die dazu bestimmt sind, in den Verkehr gebracht zu werden, nur verwendet werden, wenn sie den Reinheitsanforderungen gemäß Anlage 4 entsprechen. Das Gleiche gilt für Ethanol.
+
+(2) Die in Anlage 2 bis 3 aufgeführten Extraktionslösungsmittel müssen den spezifischen Reinheitskriterien gemäß Anlage 5 entsprechen.
+
+<!-- norm id="BJNE000705125" -->
+## § 5 Kennzeichnung
+
+(1) Die in den Anlagen 1 bis 3 aufgeführten Stoffe sowie Ethanol dürfen, sofern sie zur Verwendung als Extraktionslösungsmittel bestimmt sind, nur in den Verkehr gebracht werden, wenn angegeben sind:
+
+- 1\. die Verkehrsbezeichnung des Stoffes gemäß den Anlagen, bei Ethanol die Verkehrsbezeichnung „Ethanol“,
+- 2\. der Hinweis, dass der Stoff für die Extraktion von Lebensmitteln geeignet ist,
+- 3\. eine Angabe zur Identifizierung der Partie,
+- 4\. der Name oder die Firma und die Anschrift des Herstellers, des Verpackers oder eines in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum niedergelassenen Verkäufers,
+- 5\. erforderlichenfalls Anweisungen für die Aufbewahrung und Verwendung.
+
+(2) Die Angaben nach Absatz 1 sind auf der Packung, dem Behältnis oder einem damit verbundenen Etikett leicht erkennbar, deutlich lesbar und unverwischbar anzubringen. Bei den Angaben nach Absatz 1 Nummer 3, 4 und 5 genügt die Angabe in den Begleitpapieren.
+
+(3) Die Kennzeichnungsvorschriften der Gefahrstoffverordnung bleiben unberührt.
+
+<!-- norm id="BJNE000807125" -->
+## § 6 Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich oder fahrlässig entgegen § 5 Absatz 1 einen Stoff oder Ethanol in den Verkehr bringt.
+
+<!-- norm id="BJNE001004116" -->
+## § 7 (Inkrafttreten)
+
+<!-- norm id="BJNE001203116" -->
+## Anlage 1 (zu § 2 Absatz 2 Nummer 1 Buchstabe c)Allgemein verwendbare Extraktionslösungsmittel
+
+Propan
+
+Butan
+
+Ethylacetat
+
+Kohlendioxid
+
+Aceton; darf nicht bei der Raffinierung von Oliventresteröl verwendet werden
+
+Distickstoffmonoxid
+
+<!-- norm id="BJNE001307125" -->
+## Anlage 2 (zu § 2 Absatz 2 Nummer 2 und § 3)Beschränkt verwendbare Extraktionslösungsmittel
+
+| Nr. | Stoff | verwendbar für | Restgehalt in extrahierten<br>Lebensmitteln höchstens |
+|---|---|---|---|
+| 1 | 2 | 3 | 4 |
+| 1. | Hexan | Herstellung oder Fraktionierung von Fetten und Ölen und Herstellung von Kakaobutter | 1 mg/kg im Fett oder Öl oder in der Kakaobutter |
+| Herstellung von entfetteten Proteinerzeugnissen und entfettetem Mehl | 10 mg/kg im Lebensmittel, das die entfetteten Proteinerzeugnisse und das entfettete Mehl enthält |  |  |
+| 30 mg/kg in entfetteten Sojaerzeugnissen, wie sie an den Verbraucher verkauft werden |  |  |  |
+| Herstellung von entfetteten Getreidekeimen | 5 mg/kg in entfetteten Getreidekeimen |  |  |
+| 2. | 2-Methyloxolan | Herstellung oder Fraktionierung von Fetten und Ölen und Herstellung von Kakaobutter | 1 mg/kg im Fett oder Öl oder in der Kakaobutter |
+| Herstellung von entfetteten Proteinerzeugnissen und entfettetem Mehl | 10 mg/kg im Lebensmittel, das die entfetteten Proteinerzeugnisse und das entfettete Mehl enthält |  |  |
+| 30 mg/kg in entfetteten Sojaerzeugnissen, wie sie an den Endverbraucher verkauft werden |  |  |  |
+| Herstellung von entfetteten Getreidekeimen | 5 mg/kg in entfetteten Getreidekeimen |  |  |
+| 3. | Methylacetat | Extraktion von Koffein, Reizstoffen und Bitterstoffen aus Kaffee und Tee | 20 mg/kg in Kaffee oder Tee |
+| Herstellung von Zucker aus Melasse | 1 mg/kg in Zucker |  |  |
+| 4. | Ethylmethylketon | Fraktionierung von Fetten und Ölen | 5 mg/kg in Fett und Öl |
+| Extraktion von Koffein, Reizstoffen und Bitterstoffen aus Kaffee und Tee | 20 mg/kg in Kaffee und Tee |  |  |
+| 5. | Dichlormethan | Extraktion von Koffein, Reizstoffen und Bitterstoffen aus Kaffee und Tee | 2 mg/kg in geröstetem Kaffee und 5 mg/kg in Tee |
+| 6. | Methanol | Lebensmittel allgemein | 10 mg/kg |
+| 7. | Propan-2-ol | Lebensmittel allgemein | 10 mg/kg |
+| 8. | Dimethylether | Herstellung von entfetteten Proteinerzeugnissen, einschließlich Gelatine | 0,009 mg/kg in entfetteten tierischen Proteinerzeugnissen, einschließlich Gelatine |
+| Herstellung von Kollagen und Kollagenderivaten, ausgenommen Gelatine | 3 mg/kg in Kollagen und Kollagenderivaten, ausgenommen Gelatine |  |  |
+
+<!-- norm id="BJNE001407125" -->
+## Anlage 3 (zu § 2 Absatz 2 Nummer 3 und § 3)Extraktionslösungsmittel für die Herstellung von Aromen aus natürlichen Aromaträgern
+
+Für den vorgenannten Zweck dürfen außer den in § 2 Absatz 2 Nummer 1 und Absatz 3 bezeichneten Stoffen die nachgenannten Stoffe verwendet werden.
+
+| Stoff | Restgehalt im verzehrfertigen aromatisierten Lebensmittel höchstens |  |
+|---|---|---|
+| Diethylether |  | 2 mg/kg |
+| Hexan |  | 1 mg/kg |
+| 2-Methyloxolan |  | 1 mg/kg |
+| Methylacetat |  | 1 mg/kg |
+| Butan-1-ol |  | 1 mg/kg |
+| Butan-2-ol |  | 1 mg/kg |
+| Ethylmethylketon¹ |  | 1 mg/kg |
+| Dichlormethan |  | 0,02 mg/kg |
+| 1,1,1,2-Tetrafluorethan |  | 0,02 mg/kg |
+| Methanol |  | 1,5 mg/kg |
+| n-Propanol |  | 1 mg/kg |
+| Propan-2-ol |  | 1 mg/kg |
+| Cyclohexan |  | 1 mg/kg |
+
+<!-- norm id="BJNE001503125" -->
+## Anlage 4 (zu § 4 Absatz 1)Reinheitskriterien für Extraktionslösungsmittel
+
+| Stoff | höchstzulässiger Gehalt<br>im Extraktionslösungsmittel |
+|---|---|
+| Arsen<br>Blei | 1 mg/kg<br>1 mg/kg |
+
+Extraktionslösungsmittel dürfen auch keine toxikologisch bedenklichen Mengen anderer Stoffe enthalten. In einem Kilogramm Ethylmethylketon darf der Gehalt an n-Hexan nicht mehr als 50 Milligramm betragen.
+
+<!-- norm id="BJNE001702125" -->
+## Anlage 5 (zu § 4 Absatz 2)Spezifische Reinheitskriterien für die in Anlage 2 bis 3 aufgeführten Extraktionslösungsmittel
+
+|  |  |
+|---|---|
+| **2-Methyloxolan** |  |
+| CAS-Nummer | 96-47-9 |
+| Gehalt | mindestens 99,9 % in der Trockenmasse |
+| **Reinheit** |  |
+| Furan | Höchstens 50 mg/kg (in der Trockenmasse) |
+| 2-Methylfuran | Höchstens 500 mg/kg (in der Trockenmasse) |
+| Ethanol | Höchstens 450 mg/kg (in der Trockenmasse) |

@@ -1,0 +1,86 @@
+---
+abkuerzung: BKOrgErl 2002
+jurabk: BKOrgErl 2002
+titel: Organisationserlass des Bundeskanzlers
+stand: Geändert durch Ziff. III Nr. 1 d. Organisationserlasses v. 22.11.2005 I 3797
+ausfertigung: '2002-10-22'
+quelle: https://www.gesetze-im-internet.de/bkorgerl_2002/
+doknr: BJNR420600002
+builddate: '20260506175956'
+---
+
+# Organisationserlass des Bundeskanzlers (BKOrgErl 2002)
+
+Stand: Geändert durch Ziff. III Nr. 1 d. Organisationserlasses v. 22.11.2005 I 3797
+
+Quelle: <https://www.gesetze-im-internet.de/bkorgerl_2002/>
+
+> **Fußnote**
+>
+> ```text
+> (+++ Textnachweis ab: 22.10.2002 +++)
+> ```
+
+<!-- norm id="BJNE000100000" -->
+## Eingangsformel
+
+Gemäß § 9 der Geschäftsordnung der Bundesregierung ordne ich mit sofortiger Wirkung an:
+
+<!-- norm id="BJNE000201377" -->
+## I.
+
+- 1\. (weggefallen)
+- 2\. Dazu werden ihm aus dem Geschäftsbereich des Bundesministeriums der Finanzen unter teilweiser Aufhebung des Organisationserlasses des Bundeskanzlers vom 27. Oktober 1998 (BGBl. I S. 3288), Ziffer V, übertragen die Zuständigkeiten für: Dabei bleiben die Zuständigkeiten des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung unberührt.
+  - a) den Jahreswirtschaftsbericht, den Konjunkturrat für die öffentliche Hand, die wirtschaftswissenschaftlichen Forschungsinstitute und den Sachverständigenrat für die Beurteilung der gesamtwirtschaftlichen Entwicklung;
+  - b) gesamtwirtschaftliche Analysen und Projektionen, Wirtschaftsstatistik;
+  - c) institutionelle Fragen der OECD aus dem Bereich Außenwirtschaftspolitik (ohne Haushalt der OECD).
+- 3\. (weggefallen)
+
+<!-- norm id="BJNE000300000" -->
+## II.
+
+- 1\. Mit der Übertragung von Zuständigkeiten aus dem bisherigen Bundesministerium für Arbeit und Sozialordnung wird das bisherige Bundesministerium für Gesundheit zu einem Bundesministerium für Gesundheit und Soziale Sicherung umgebildet.
+- 2\. Dazu werden ihm aus dem Geschäftsbereich des bisherigen Bundesministeriums für Arbeit und Sozialordnung folgende Zuständigkeiten übertragen: Die Zuständigkeitsübertragung schließt deren europäische und internationale Bezüge sowie deren Grundsatz- und Planungsangelegenheiten ein.
+  - a) Sozialversicherung, Sozialgesetzbuch, Kriegsopferversorgung und sonstiges soziales Entschädigungsrecht, Versorgungsmedizin; in Fragen der Sozialversicherung besonderer Personengruppen, insbesondere geringfügig Beschäftigter und Scheinselbständiger, ist Einvernehmen mit dem Bundesministerium für Wirtschaft und Arbeit herzustellen;
+  - b) Prävention, Rehabilitation, Behindertenpolitik; Sozialhilfe (soweit nicht in Ziffer I Nr. 3 anders geregelt).
+- 3\. Der Beauftragte der Bundesregierung für die Belange der Behinderten und der Bundesbeauftragte für die Sozialversicherungswahlen werden dem Bundesministerium für Gesundheit und Soziale Sicherung zugeordnet.
+
+<!-- norm id="BJNE000400000" -->
+## III.
+
+Die federführende Zuständigkeit für den Aufgabenbereich Gentechnik wird vom Bundesministerium für Gesundheit und Soziale Sicherung auf das Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft übertragen, damit auch die federführende Zuständigkeit für das Gentechnikgesetz. Davon unberührt bleibt die Zuständigkeit für medizinische Fragen, insbesondere das Arzneimittelwesen.
+
+<!-- norm id="BJNE000500000" -->
+## IV.
+
+Dem Bundesministerium für Familie, Senioren, Frauen und Jugend wird die Beauftragte der Bundesregierung für Ausländerfragen (künftig: Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration) zugeordnet.
+
+<!-- norm id="BJNE000600000" -->
+## V.
+
+Dem Bundesministerium für Verkehr, Bau- und Wohnungswesen wird aus dem Geschäftsbereich des Bundeskanzlers die Zuständigkeit des Beauftragten der Bundesregierung für die neuen Bundesländer übertragen.
+
+<!-- norm id="BJNE000700000" -->
+## VI.
+
+Dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit werden übertragen:
+
+- 1\. aus dem Geschäftsbereich des Bundesministeriums für Wirtschaft und Arbeit Die Zuständigkeit für außenwirtschaftliche Fragen bei erneuerbaren Energien (insbesondere Exportförderung) liegt weiterhin beim Bundesministerium für Wirtschaft und Arbeit.
+  - a) die Zuständigkeiten für die Markteinführung der erneuerbaren Energieträger und für die Energieforschung im Bereich der erneuerbaren Energieträger;
+  - b) die Federführung für das Erneuerbare Energien-Gesetz (EEG) und dessen Fortentwicklung unter entsprechender Anwendung der bisherigen Beteiligungsregelungen.
+- 2\. aus dem Geschäftsbereich des Bundesministeriums der Finanzen die Zuständigkeit für die "Deutsche Bundesstiftung Umwelt.
+
+<!-- norm id="BJNE000800000" -->
+## VII.
+
+Dem Auswärtigen Amt wird aus dem Geschäftsbereich des Presse- und Informationsamtes der Bundesregierung die Zuständigkeit für die politische Öffentlichkeitsarbeit Ausland übertragen.
+
+<!-- norm id="BJNE000900000" -->
+## VIII.
+
+Die Einzelheiten des Übergangs werden zwischen den beteiligten Mitgliedern der Bundesregierung in Abstimmung mit dem Chef des Bundeskanzleramtes geregelt.
+
+<!-- norm id="BJNE001000000" -->
+## Schlussformel
+
+Der Bundeskanzler
