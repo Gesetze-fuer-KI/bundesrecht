@@ -3,37 +3,58 @@ name: Sync
 # Every night: mirror gesetze-im-internet.de into this repository and commit what changed.
 # The sync code lives in Gesetze-fuer-KI/gesetze-fuer-ki (app/sync.py); this repository holds only data.
 #
-# A failed run sends GitHub's usual failure email. If the secret KUMA_PUSH_URL is set, a
-# successful run also pings that Uptime Kuma push monitor, which alerts when no ping arrives
-# for a day: the failure that killed bundestag/gesetze was a sync that silently stopped.
+# From some GitHub runners gesetze-im-internet.de cannot be reached at all, so the night's run is retried every two
+# hours until 13:17 UTC on a fresh runner. A scheduled run that finds a successful run of the same (UTC) day stops at
+# the check and asks gesetze-im-internet.de nothing.
 #
-# healthchecks.io (secret HEALTHCHECKS_URL, one check per repository) gets /start when the run begins and, at the
-# end, a success ping or /fail; it alerts on a failed run and when a night's run does not happen at all.
+# healthchecks.io (secret HEALTHCHECKS_URL) gets a ping after each successful sync; its check expects one a day and
+# alerts when none has arrived by the afternoon, so a single failed attempt does not page anyone. If the secret
+# KUMA_PUSH_URL is set, a successful run also pings that Uptime Kuma push monitor. The failure that killed
+# bundestag/gesetze was a sync that silently stopped.
 
 on:
   schedule:
     - cron: "17 3 * * *"  # 03:17 UTC, after gesetze-im-internet.de's nightly build
+    - cron: "17 5,7,9,11,13 * * *"  # retries; they stop at the check once the day has a successful run
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: sync
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      done: ${{ steps.today.outputs.done }}
+    steps:
+      - name: Has today already a successful sync?
+        id: today
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          done=false
+          if [ "$GITHUB_EVENT_NAME" = schedule ]; then
+            n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow sync.yml --status success \
+              --created ">=$(date -u +%F)" --json databaseId -q length)
+            [ "$n" -gt 0 ] && done=true
+          fi
+          echo "done=$done" >> "$GITHUB_OUTPUT"
+          echo "Already synced today: $done"
+
   sync:
+    needs: check
+    if: needs.check.outputs.done != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 60
     env:
       KUMA_PUSH_URL: ${{ secrets.KUMA_PUSH_URL }}
       HEALTHCHECKS_URL: ${{ secrets.HEALTHCHECKS_URL }}
     steps:
-      - name: Report start to healthchecks.io
-        if: env.HEALTHCHECKS_URL != ''
-        run: curl -fsS -m 10 --retry 3 "$HEALTHCHECKS_URL/start" > /dev/null || true
-
       - uses: actions/checkout@v4
         with:
           path: data
@@ -63,13 +84,9 @@ jobs:
           git push
 
       - name: Report to Uptime Kuma
-        if: success() && env.KUMA_PUSH_URL != ''
+        if: env.KUMA_PUSH_URL != ''
         run: curl -fsS -m 10 "$KUMA_PUSH_URL" > /dev/null
 
-      - name: Report result to healthchecks.io
-        if: always() && env.HEALTHCHECKS_URL != ''
-        env:
-          JOB_STATUS: ${{ job.status }}
-        run: |
-          if [ "$JOB_STATUS" = success ]; then path=""; else path="/fail"; fi
-          curl -fsS -m 10 --retry 3 "$HEALTHCHECKS_URL$path" > /dev/null || true
+      - name: Report to healthchecks.io
+        if: env.HEALTHCHECKS_URL != ''
+        run: curl -fsS -m 10 --retry 3 "$HEALTHCHECKS_URL" > /dev/null || true
