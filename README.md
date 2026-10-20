@@ -1,8 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/readme/logo-dunkel.svg">
-    <img alt="Logo von Gesetze für KI: eine Waage, deren Säule das MCP-Zeichen bildet" src=".github/readme/logo.svg" width="110">
-  </picture>
+  <img alt="Logo von Gesetze für KI: eine Waage, deren Säule das MCP-Zeichen bildet" src=".github/readme/logo.svg#gh-light-mode-only" width="110">
+<img alt="Logo von Gesetze für KI: eine Waage, deren Säule das MCP-Zeichen bildet" src=".github/readme/logo-dunkel.svg#gh-dark-mode-only" width="110">
 </p>
 
 <h1 align="center"><a href="https://github.com/Gesetze-fuer-KI/gesetze">gesetze</a></h1>
@@ -20,11 +18,9 @@ Rund 6.100 Gesetze und Verordnungen in ihrer aktuellen Fassung, übernommen von 
 
 Das ist die Datengrundlage von **[Gesetze für KI](https://gesetze-fuer-ki.de)**: Darüber schlagen Claude, ChatGPT und andere Assistenten die Gesetze selbst nach. **[So verbinden Sie Ihren Assistenten](https://gesetze-fuer-ki.de/verbinden/)**. Die Dateien sind aber auch für sich nutzbar, zum Lesen, Durchsuchen und Vergleichen von Fassungen.
 
-| | |
-|---|---|
-| **[Daten und Grenzen](https://gesetze-fuer-ki.de/daten/)** | [Woher die Texte kommen](https://gesetze-fuer-ki.de/daten/#woher-die-texte-kommen), [was nicht enthalten ist](https://gesetze-fuer-ki.de/daten/#was-nicht-enthalten-ist) und [wie genau sie sind](https://gesetze-fuer-ki.de/daten/#wie-genau-die-texte-sind) |
-| **[Frühere Fassungen](https://gesetze-fuer-ki.de/werkzeuge/#fruhere-fassungen)** | Wie ein Assistent den Wortlaut von einem früheren Tag abruft |
-| **[Unterstützen](https://gesetze-fuer-ki.de/unterstuetzen/)** | Der Dienst ist kostenlos und wird privat betrieben |
+- **[Daten und Grenzen](https://gesetze-fuer-ki.de/daten/)**: [Woher die Texte kommen](https://gesetze-fuer-ki.de/daten/#woher-die-texte-kommen), [was nicht enthalten ist](https://gesetze-fuer-ki.de/daten/#was-nicht-enthalten-ist) und [wie genau sie sind](https://gesetze-fuer-ki.de/daten/#wie-genau-die-texte-sind)
+- **[Frühere Fassungen](https://gesetze-fuer-ki.de/werkzeuge/#fruhere-fassungen)**: Wie ein Assistent den Wortlaut von einem früheren Tag abruft
+- **[Unterstützen](https://gesetze-fuer-ki.de/unterstuetzen/)**: Der Dienst ist kostenlos und wird privat betrieben
 
 ## Aufbau
 
@@ -36,10 +32,8 @@ git log -p -- us/ustg_1980.md
 
 ## Wie der Abgleich läuft
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/ablauf-dunkel.svg">
-  <img alt="Ablauf: Die amtlichen Texte von gesetze-im-internet.de werden jede Nacht in das Repository gesetze übernommen, eine Markdown-Datei je Gesetz mit jeder Änderung als Commit. Der Server gesetze-fuer-ki holt sie stündlich, baut den Suchindex und stellt sie über MCP bereit. Ihr KI-Assistent schlägt darüber den Wortlaut nach." src=".github/readme/ablauf.svg" width="100%">
-</picture>
+<img alt="Ablauf: Die amtlichen Texte von gesetze-im-internet.de werden jede Nacht in das Repository gesetze übernommen, eine Markdown-Datei je Gesetz mit jeder Änderung als Commit. Der Server gesetze-fuer-ki holt sie stündlich, baut den Suchindex und stellt sie über MCP bereit. Ihr KI-Assistent schlägt darüber den Wortlaut nach." src=".github/readme/ablauf.svg#gh-light-mode-only" width="100%">
+<img alt="Ablauf: Die amtlichen Texte von gesetze-im-internet.de werden jede Nacht in das Repository gesetze übernommen, eine Markdown-Datei je Gesetz mit jeder Änderung als Commit. Der Server gesetze-fuer-ki holt sie stündlich, baut den Suchindex und stellt sie über MCP bereit. Ihr KI-Assistent schlägt darüber den Wortlaut nach." src=".github/readme/ablauf-dunkel.svg#gh-dark-mode-only" width="100%">
 
 Die [Action](.github/workflows/sync.yml) läuft jede Nacht um 03:17 UTC mit [`sync.py`](https://github.com/Gesetze-fuer-KI/gesetze-fuer-ki/blob/main/app/sync.py) aus [gesetze-fuer-ki](https://github.com/Gesetze-fuer-KI/gesetze-fuer-ki) und lädt nur Gesetze neu, die sich seit dem letzten Abruf geändert haben.
 
