@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 4 G v. 3.7.2024 I Nr. 225
 ausfertigung: '1977-02-18'
 quelle: https://www.gesetze-im-internet.de/bimschv_9/
 doknr: BJNR002740977
-builddate: '20260506174734'
+builddate: '20261019215501'
 ---
 
 # Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (9. BImSchV)

@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 348
 ausfertigung: '1990-02-12'
 quelle: https://www.gesetze-im-internet.de/uvpg/
 doknr: BJNR102050990
-builddate: '20261005220004'
+builddate: '20261019215511'
 ---
 
 # Gesetz über die Umweltverträglichkeitsprüfung (UVPG)

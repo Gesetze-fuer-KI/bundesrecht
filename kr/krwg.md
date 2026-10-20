@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 5 G v. 2.3.2023 I Nr. 56
 ausfertigung: '2012-02-24'
 quelle: https://www.gesetze-im-internet.de/krwg/
 doknr: BJNR021210012
-builddate: '20260811215503'
+builddate: '20261019215505'
 ---
 
 # Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen (KrWG)

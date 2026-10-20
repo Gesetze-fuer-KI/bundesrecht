@@ -3,16 +3,16 @@ abkuerzung: AZRG-DV
 jurabk: AZRG-DV
 titel: Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister
 kurztitel: AZRG-Durchführungsverordnung
-stand: Zuletzt geändert durch Art. 15 Nr. 1 u. 2 G v 22.7.2026 I Nr. 222
+stand: Zuletzt geändert durch Art. 15 G v 22.7.2026 I Nr. 222
 ausfertigung: '1995-05-17'
 quelle: https://www.gesetze-im-internet.de/azrg-dv/
 doknr: BJNR069500995
-builddate: '20261016215502'
+builddate: '20261019215509'
 ---
 
 # Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister (AZRG-DV)
 
-Stand: Zuletzt geändert durch Art. 15 Nr. 1 u. 2 G v 22.7.2026 I Nr. 222
+Stand: Zuletzt geändert durch Art. 15 G v 22.7.2026 I Nr. 222
 
 Quelle: <https://www.gesetze-im-internet.de/azrg-dv/>
 

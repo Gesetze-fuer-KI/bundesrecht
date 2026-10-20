@@ -7,7 +7,7 @@ stand: zuletzt geändert Art. 17 G v. 10.8.2021 I 3436
 ausfertigung: '1995-12-07'
 quelle: https://www.gesetze-im-internet.de/uag/
 doknr: BJNR159100995
-builddate: '20260506175509'
+builddate: '20261019215512'
 ---
 
 # Gesetz zur Ausführung der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681EG und 2006/193/EG (UAG)

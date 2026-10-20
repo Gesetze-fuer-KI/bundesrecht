@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
 ausfertigung: '1974-03-15'
 quelle: https://www.gesetze-im-internet.de/bimschg/
 doknr: BJNR007210974
-builddate: '20260624215507'
+builddate: '20261019215503'
 ---
 
 # Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (BImSchG)

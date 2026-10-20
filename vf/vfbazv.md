@@ -2,16 +2,16 @@
 abkuerzung: VFBAZV
 jurabk: VFBAZV
 titel: Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“
-stand: Zuletzt geändert durch Art. 1 V v. 14.12.2023 I Nr. 371
+stand: Zuletzt geändert durch Art. 1 V v. 15.10.2026 I Nr. 303
 ausfertigung: '2008-06-12'
 quelle: https://www.gesetze-im-internet.de/vfbazv/
 doknr: BJNR100400008
-builddate: '20260506175314'
+builddate: '20261019215511'
 ---
 
 # Verordnung über die Zuweisungen an das Sondervermögen „Versorgungsfonds der Bundesagentur für Arbeit“ (VFBAZV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 14.12.2023 I Nr. 371
+Stand: Zuletzt geändert durch Art. 1 V v. 15.10.2026 I Nr. 303
 
 Quelle: <https://www.gesetze-im-internet.de/vfbazv/>
 

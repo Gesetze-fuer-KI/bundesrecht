@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 30.9.2026 I Nr. 286
 ausfertigung: '1980-08-13'
 quelle: https://www.gesetze-im-internet.de/bbergg/
 doknr: BJNR013100980
-builddate: '20261005220001'
+builddate: '20261019215504'
 ---
 
 # Bundesberggesetz (BBergG)
@@ -19,12 +19,17 @@ Quelle: <https://www.gesetze-im-internet.de/bbergg/>
 >
 > ```text
 > (+++ Textnachweis ab: 21.8.1980 +++)
+>
 > (+++ Zur Anwendung d. § 70 vgl. § 15 MarkschBergV +++)
+>
 > (+++ Maßgaben aufgrund des EinigVtr vgl. BBergG Anhang EV +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EURL 2018/2001 (CELEX Nr: 32018L2001) vgl. Art. 1
 > G v. 14.6.2021 I 1760 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 13.10.2026 I Nr. 304 +++)
 > ```
 
 <!-- norm id="BJNE004800315" -->
