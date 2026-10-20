@@ -8,9 +8,8 @@ name: Sync
 # the check and asks gesetze-im-internet.de nothing.
 #
 # healthchecks.io (secret HEALTHCHECKS_URL) gets a ping after each successful sync; its check expects one a day and
-# alerts when none has arrived by the afternoon, so a single failed attempt does not page anyone. If the secret
-# KUMA_PUSH_URL is set, a successful run also pings that Uptime Kuma push monitor. The failure that killed
-# bundestag/gesetze was a sync that silently stopped.
+# alerts when none has arrived by the afternoon, so a single failed attempt does not page anyone.
+# The failure that killed bundestag/gesetze was a sync that silently stopped.
 
 on:
   schedule:
@@ -53,7 +52,6 @@ jobs:
     runs-on: [self-hosted, gesetze]
     timeout-minutes: 60
     env:
-      KUMA_PUSH_URL: ${{ secrets.KUMA_PUSH_URL }}
       HEALTHCHECKS_URL: ${{ secrets.HEALTHCHECKS_URL }}
     steps:
       - uses: actions/checkout@v4
@@ -83,10 +81,6 @@ jobs:
           fi
           git commit -q -F .sync/commit-message.txt
           git push
-
-      - name: Report to Uptime Kuma
-        if: env.KUMA_PUSH_URL != ''
-        run: curl -fsS -m 10 "$KUMA_PUSH_URL" > /dev/null
 
       - name: Report to healthchecks.io
         if: env.HEALTHCHECKS_URL != ''
