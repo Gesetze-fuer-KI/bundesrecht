@@ -80,6 +80,8 @@ jobs:
             exit 0
           fi
           git commit -q -F .sync/commit-message.txt
+          # Someone may have pushed (README, workflow) while the sync ran; data and those files do not overlap.
+          git pull -q --rebase
           git push
 
       - name: Report to healthchecks.io
