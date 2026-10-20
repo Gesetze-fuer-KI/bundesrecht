@@ -3,9 +3,9 @@ name: Sync
 # Every night: mirror gesetze-im-internet.de into this repository and commit what changed.
 # The sync code lives in Gesetze-fuer-KI/gesetze-fuer-ki (app/sync.py); this repository holds only data.
 #
-# From some GitHub runners gesetze-im-internet.de cannot be reached at all, so the night's run is retried every two
-# hours until 13:17 UTC on a fresh runner. A scheduled run that finds a successful run of the same (UTC) day stops at
-# the check and asks gesetze-im-internet.de nothing.
+# GitHub's own runners often cannot reach gesetze-im-internet.de, so the sync runs on our self-hosted runner
+# (notefeed-ansible, role github_runner). If a night's run fails anyway, it is retried every two hours until 13:17 UTC;
+# a scheduled run that finds a successful run of the same (UTC) day stops at the check and asks nothing.
 #
 # healthchecks.io (secret HEALTHCHECKS_URL) gets a ping after each successful sync; its check expects one a day and
 # alerts when none has arrived by the afternoon, so a single failed attempt does not page anyone.
