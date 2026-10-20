@@ -49,7 +49,8 @@ jobs:
   sync:
     needs: check
     if: needs.check.outputs.done != 'true'
-    runs-on: ubuntu-latest
+    # Our own runner on notefeed-1 (github-runner): GitHub's runners often cannot reach gesetze-im-internet.de.
+    runs-on: [self-hosted, gesetze]
     timeout-minutes: 60
     env:
       KUMA_PUSH_URL: ${{ secrets.KUMA_PUSH_URL }}
