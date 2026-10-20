@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gesetze-fuer-KI/.github/main/profile/logo-dunkel.svg">
-    <img alt="Logo von Gesetze für KI: eine Waage, deren Säule das MCP-Zeichen bildet" src="https://raw.githubusercontent.com/Gesetze-fuer-KI/.github/main/profile/logo.svg" width="110">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/readme/logo-dunkel.svg">
+    <img alt="Logo von Gesetze für KI: eine Waage, deren Säule das MCP-Zeichen bildet" src=".github/readme/logo.svg" width="110">
   </picture>
 </p>
 
@@ -49,8 +49,8 @@ git log -p -- us/ustg_1980.md
 ## Wie der Abgleich läuft
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gesetze-fuer-KI/.github/main/profile/ablauf-dunkel.svg">
-  <img alt="Ablauf: Die amtlichen Texte von gesetze-im-internet.de werden jede Nacht in das Repository gesetze übernommen, eine Markdown-Datei je Gesetz mit jeder Änderung als Commit. Der Server gesetze-fuer-ki holt sie stündlich, baut den Suchindex und stellt sie über MCP bereit. Ihr KI-Assistent schlägt darüber den Wortlaut nach." src="https://raw.githubusercontent.com/Gesetze-fuer-KI/.github/main/profile/ablauf.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/readme/ablauf-dunkel.svg">
+  <img alt="Ablauf: Die amtlichen Texte von gesetze-im-internet.de werden jede Nacht in das Repository gesetze übernommen, eine Markdown-Datei je Gesetz mit jeder Änderung als Commit. Der Server gesetze-fuer-ki holt sie stündlich, baut den Suchindex und stellt sie über MCP bereit. Ihr KI-Assistent schlägt darüber den Wortlaut nach." src=".github/readme/ablauf.svg" width="100%">
 </picture>
 
 Die [Action](.github/workflows/sync.yml) läuft jede Nacht um 03:17 UTC. Sie lädt [`sync.py`](https://github.com/Gesetze-fuer-KI/gesetze-fuer-ki/blob/main/app/sync.py) aus [gesetze-fuer-ki](https://github.com/Gesetze-fuer-KI/gesetze-fuer-ki), fragt jedes Gesetz mit der Version des letzten Abrufs an (`.sync/etags.json`) und lädt nur Geänderte neu.
