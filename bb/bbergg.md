@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 30.9.2026 I Nr. 286
 ausfertigung: '1980-08-13'
 quelle: https://www.gesetze-im-internet.de/bbergg/
 doknr: BJNR013100980
-builddate: '20261019215504'
+builddate: '20261020215505'
 ---
 
 # Bundesberggesetz (BBergG)
@@ -748,7 +748,7 @@ Satz 1 gilt nicht bei Gewinnungsbetrieben, die in Form von Tagebauen betrieben w
 
 Die Entscheidung über die Betriebsplanzulassung bleibt bei der zuständigen Behörde. Erfolgt die Beauftragung auf Vorschlag oder mit Zustimmung des Unternehmers, so kann die Behörde entscheiden, dass der Unternehmer die Kosten der Vorbereitung und Durchführung von Verfahrensschritten durch den Dritten tragen muss.
 
-<!-- norm id="BJNE010302377" -->
+<!-- norm id="BJNE010303125" -->
 #### § 55 Zulassung des Betriebsplanes
 
 (1) Die Zulassung eines Betriebsplanes im Sinne des § 52 ist zu erteilen, wenn
@@ -760,7 +760,7 @@ Die Entscheidung über die Betriebsplanzulassung bleibt bei der zuständigen Beh
 - 3\. die erforderliche Vorsorge gegen Gefahren für Leben, Gesundheit und zum Schutz von Sachgütern, Beschäftigter und Dritter im Betrieb, insbesondere durch die den allgemein anerkannten Regeln der Sicherheitstechnik entsprechenden Maßnahmen, sowie dafür getroffen ist, daß die für die Errichtung und Durchführung eines Betriebes auf Grund dieses Gesetzes erlassenen oder geltenden Vorschriften und die sonstigen Arbeitsschutzvorschriften eingehalten werden,
 - 4\. keine Beeinträchtigung von Bodenschätzen, deren Schutz im öffentlichen Interesse liegt, eintreten wird,
 - 5\. für den Schutz der Oberfläche im Interesse der persönlichen Sicherheit und des öffentlichen Verkehrs Sorge getragen ist,
-- 6\. die anfallenden Abfälle ordnungsgemäß verwendet oder beseitigt werden,
+- 6\. die anfallenden Abfälle ordnungsgemäß verwertet oder beseitigt werden,
 - 7\. die erforderliche Vorsorge zur Wiedernutzbarmachung der Oberfläche in dem nach den Umständen gebotenen Ausmaß getroffen ist,
 - 8\. die erforderliche Vorsorge getroffen ist, daß die Sicherheit eines nach den §§ 50 und 51 zulässigerweise bereits geführten Betriebes nicht gefährdet wird,
 - 9\. gemeinschädliche Einwirkungen der Aufsuchung oder Gewinnung nicht zu erwarten sind und
@@ -805,7 +805,7 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 (3) Die Zulassung der infolge der Abweichung erforderlichen Änderung des Betriebsplanes oder des für die Einstellung erforderlichen Betriebsplanes ist unverzüglich zu beantragen.
 
-<!-- norm id="BJNE023109125" -->
+<!-- norm id="BJNE023110125" -->
 #### § 57a Planfeststellungsverfahren, Umweltverträglichkeitsprüfung
 
 (1) Das im Falle des § 52 Abs. 2a durchzuführende Planfeststellungsverfahren tritt an die Stelle des Verfahrens nach § 54 Absatz 1 und 2 und § 56 Absatz 1. § 54 Absatz 3 gilt entsprechend. Anhörungsbehörde und Planfeststellungsbehörde ist die für die Zulassung von Betriebsplänen zuständige Behörde. Bei Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der Vorschriften der Verwaltungsverfahrensgesetze über das Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich auswirken wird, gilt der Sitz dieser Behörde. Für das Verfahren sind die §§ 15 bis 27 sowie 31 des Gesetzes über die Umweltverträglichkeitsprüfung sowie die nachfolgenden Regelungen anzuwenden.
@@ -816,7 +816,7 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 (4) Die Entscheidung über die Planfeststellung ist hinsichtlich der eingeschlossenen Entscheidungen nach Maßgabe der hierfür geltenden Vorschriften zu treffen. Das Verhältnis zwischen Unternehmer und Betroffenen und der Schutz von Belangen Dritter im Sinne des Bergrechts bestimmen sich nach den dafür geltenden Vorschriften dieses Gesetzes; dies gilt auch für eine Aufhebung des Planfeststellungsbeschlusses.
 
-(5) Hinsichtlich der vom Vorhaben berührten Belange Dritter und der Aufgabenbereiche Beteiligter im Sinne des § 54 Abs. 2 erstrecken sich die Rechtswirkungen der Planfeststellung auch auf die Zulassung und Verlängerung der zur Durchführung des Rahmenbetriebsplanes erforderlichen Haupt-, Sonder- und Abschlußbetriebspläne, soweit über die sich darauf beziehenden Einwendungen entschieden worden ist oder bei rechtzeitiger Geltendmachung hätte entschieden werden können; Entscheidungen nach § 48 Abs. 2 werden außer in den in § 48 Abs. 2 Satz 2 genannten Fällen des Schutzes von Rechten Dritter durch einen Planfeststellungsbeschluß ausgeschlossen.
+(5) Hinsichtlich der vom Vorhaben berührten Belange Dritter und der Aufgabenbereiche Beteiligter im Sinne des § 54 Abs. 2 erstrecken sich die Rechtswirkungen der Planfeststellung auch auf die Zulassung und Verlängerung der zur Durchführung des Rahmenbetriebsplanes erforderlichen Haupt-, Sonder- und Abschlußbetriebspläne, soweit über die sich darauf beziehenden Einwendungen entschieden worden ist oder bei rechtzeitiger Geltendmachung hätte entschieden werden können; Entscheidungen nach § 48 Abs. 2 werden außer in den in § 48 Absatz 2 Satz 3 genannten Fällen des Schutzes von Rechten Dritter durch einen Planfeststellungsbeschluß ausgeschlossen.
 
 (6) Für das Verfahren zur grenzüberschreitenden Umweltverträglichkeitsprüfung sind die Vorschriften des Teils 5 des Gesetzes über die Umweltverträglichkeitsprüfung anzuwenden.
 
@@ -838,12 +838,12 @@ sind, soweit es zur Sicherstellung der Voraussetzungen nach § 55 Abs. 1 Satz 1 
 
 (3) Sind für ein Vorhaben nach § 52 Abs. 2a auch nach anderen Vorschriften Planfeststellungsverfahren oder vergleichbare behördliche Entscheidungen vorgesehen, so ist nur das Verfahren nach den §§ 57a bis 57c durchzuführen. In den Fällen des § 126 Abs. 3 hat § 9b des Atomgesetzes Vorrang. Sind für Folgemaßnahmen nach anderen Vorschriften Planfeststellungsverfahren vorgesehen, so ist insoweit das Verfahren nach den anderen Vorschriften durchzuführen.
 
-<!-- norm id="BJNE023309119" -->
+<!-- norm id="BJNE023310125" -->
 #### § 57c Verordnungsermächtigung
 
 Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften darüber zu erlassen,
 
-- 1\. welche betriebsplanpflichtigen Vorhaben, die erhebliche Auswirkungen auf die Umwelt haben können, unter Beachtung der Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften einer Umweltverträglichkeitsprüfung bedürfen,
+- 1\. welche betriebsplanpflichtigen Vorhaben, die erhebliche Auswirkungen auf die Umwelt haben können, unter Beachtung der Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union einer Umweltverträglichkeitsprüfung bedürfen,
 - 2\. welche Angaben im einzelnen im Rahmen des UVP-Berichts zu machen sind, welchen Anforderungen die Angaben genügen müssen und welche Unterlagen dazu beizubringen sind.
 
 In der Rechtsverordnung können für die Bestimmung der Vorhaben nach Satz 1 Nr. 1 auch Gruppen oder Arten von Vorhaben durch Festlegung von Schwellenwerten und anderen Kriterien bestimmt werden. In einer Rechtsverordnung nach Satz 1 Nummer 2 kann insbesondere bestimmt werden, welche Angaben nach Anlage 4 des Gesetzes über die Umweltverträglichkeitsprüfung der UVP-Bericht bei bestimmten Vorhaben enthalten muss.
@@ -894,6 +894,167 @@ Die zuständige Behörde kann die Frist nach Satz 1 Nummer 1 und 3 in durch auß
 (7) Die Entscheidung wird dem Träger des Vorhabens zugestellt. Im Übrigen wird die Entscheidung öffentlich bekannt gegeben. Die öffentliche Bekanntgabe wird dadurch bewirkt, dass die Entscheidung auf der Internetseite der zuständigen Behörde und durch eine Veröffentlichung in einer Tageszeitung oder auf eine andere Weise öffentlich bekannt gemacht wird.
 
 (8) Ist bei Vorhaben im Zusammenhang mit der Aufsuchung oder Gewinnung von Erdwärme oder der Speicherung von Wärme- oder Wasserstoff nach diesem Gesetz ein Planfeststellungsverfahren nach § 52 Absatz 2a erforderlich, ist kein Erörterungstermin nach § 73 Absatz 6 des Verwaltungsverfahrensgesetzes durchzuführen.
+
+<!-- norm id="BJNE024300125" -->
+#### § 57f Maßgaben für die Zulassung von Betriebsplänen für Vorhaben, die dem Geltungsbereich der Industrieemissions-Richtlinie unterliegen
+
+(1) Zur Gewährleistung eines insgesamt hohen Schutzniveaus sind für die Zulassung von Betriebsplänen zur Gewinnung im industriellen Maßstab der Erze Bauxit, Blei, Chrom, Eisen, Gold, Kobalt, Kupfer, Lithium, Mangan, Nickel, Palladium, Platin, Wolfram, Zink und Zinn § 48 Absatz 2 und § 55 mit der Maßgabe anzuwenden, dass:
+
+- 1\. schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen für die Allgemeinheit und benachbarte Grundstücke nicht hervorgerufen werden können,
+- 2\. Vorsorge gegen schädliche Umwelteinwirkungen und sonstige Gefahren, erhebliche Nachteile und erhebliche Belästigungen getroffen wird, insbesondere durch dem Stand der Technik entsprechende Maßnahmen; der Einsatz einer bestimmten Technik darf hierdurch nicht vorgeschrieben werden, wenn mehr als eine Technik verfügbar ist,
+- 3\. Abfälle, die nicht den Regelungen des § 22a der Allgemeinen Bundesbergverordnung vom 23. Oktober 1995 (BGBl. I S. 1466), die zuletzt durch Artikel 4 der Verordnung vom 18. Oktober 2017 (BGBl. I S. 3584) geändert worden ist, unterliegen, vermieden werden, nicht zu vermeidende Abfälle verwertet werden und nicht zu verwertende Abfälle ohne Beeinträchtigung des Wohls der Allgemeinheit beseitigt werden, wobei
+  - a) Abfälle nicht zu vermeiden sind, soweit die Vermeidung technisch nicht möglich oder nicht zumutbar ist;
+  - b) die Vermeidung unzulässig ist, soweit sie zu nachteiligeren Umweltauswirkungen führt als die Verwertung;
+  die Verwertung und Beseitigung von Abfällen erfolgt nach den Vorschriften des Kreislaufwirtschaftsgesetzes und den sonstigen für die Abfälle geltenden Vorschriften;
+- 4\. Energie sparsam und effizient verwendet wird,
+- 5\. materielle Ressourcen einschließlich Wasser effizient genutzt werden, auch durch Wiederverwendung, und
+- 6\. der Unternehmer ein Umweltmanagementsystem mit dem in der Rechtsverordnung nach § 68a näher bestimmten Inhalt und Verfahren einrichtet und für die Dauer der Zulassung betreibt.
+
+Die von der Bundesregierung zur Durchführung des § 5 Absatz 1 Nummer 1 und 2 des Bundes-Immissionsschutzgesetzes erlassenen Verwaltungsvorschriften sind entsprechend anzuwenden. Die für Betriebspläne nach Satz 1 gemäß § 1 Absatz 2 und 3 des Bundes-Immissionsschutzgesetzes geltenden Vorschriften sind öffentliche Interessen im Sinne von § 48 Absatz 2. Satz 1 gilt entsprechend für Betriebspläne zur Aufbereitung der genannten Erze einschließlich der damit verbundenen Weiterverarbeitung in unmittelbarem räumlichem Zusammenhang mit dem Ort der Gewinnung.
+
+(2) Soweit die Anforderungen nach Absatz 1 Satz 1 Nummer 1 bis 5 und Absatz 1 Satz 2 bereits bei der Zulassung eines Betriebsplans geprüft und berücksichtigt worden sind, bedarf es keiner erneuten Prüfung und Berücksichtigung in späteren Betriebsplänen, die sich auf dasselbe Vorhaben beziehen, soweit sich die Anforderungen in der Zwischenzeit nicht geändert haben. § 57a Absatz 5 gilt entsprechend. Bei wesentlichen Änderungen des Vorhabens sind die Anforderungen nach Absatz 1 Satz 1 Nummer 1 bis 5 und Absatz 1 Satz 2 neu zu prüfen.
+
+(3) § 20 Absatz 1 sowie § 52a Absatz 5 des Bundes-Immissionsschutzgesetzes sind entsprechend anzuwenden.
+
+(4) Werden Anforderungen nach Absatz 1 Satz 1 Nummer 1 bis 5 und Satz 2 nicht eingehalten, so hat der Unternehmer dies der zuständigen Behörde unverzüglich mitzuteilen. Der zur Mitteilung Verpflichtete kann die Mitteilung auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in § 383 Absatz 1 Nummer 1 bis 3 der Zivilprozessordnung bezeichneten Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
+
+(5) Sofern es für die Zulassung eines Vorhabens nach Absatz 1, bei der die Anforderungen des Absatzes 1 Satz 1 Nummer 1 bis 5 und Satz 2 geprüft werden, keines Rahmenbetriebsplans nach § 52 Absatz 2a bedarf, schließt die Zulassung andere das Vorhaben betreffende behördliche Entscheidungen ein, insbesondere öffentlich-rechtliche Genehmigungen, Zulassungen, Verleihungen, mit Ausnahme von Planfeststellungen, behördlichen Entscheidungen auf Grund atomrechtlicher Vorschriften sowie wasserrechtlichen Erlaubnissen und wasserrechtlichen Bewilligungen nach § 8 in Verbindung mit § 10 des Wasserhaushaltsgesetzes. Für Vorhaben nach Satz 1 ist eine Öffentlichkeitsbeteiligung nach den Anforderungen des § 10 Absatz 3 bis 5 des Bundes-Immissionsschutzgesetzes durchzuführen. Eine Öffentlichkeitsbeteiligung nach der erstmaligen Zulassung des Vorhabens ist bei weiteren zu erlassenden Hauptbetriebsplänen oder Sonderbetriebsplänen oder beim Abschlussbetriebsplan nur durchzuführen, wenn eine Änderung des Vorhabens, die erhebliche nachteilige Auswirkungen auf die menschliche Gesundheit oder die Umwelt haben kann, vorliegt.
+
+(6) Bei einer Betriebsplanzulassung nach Absatz 1 sind folgende Unterlagen von der zuständigen Behörde im Internet öffentlich bekannt zu machen:
+
+- 1\. der Genehmigungsbescheid mit Ausnahme in Bezug genommener Antragsunterlagen,
+- 2\. eine konsolidierte Fassung der der Sicherstellung der wesentlichen Anforderungen der Industrieemissions-Richtlinie dienenden Inhalts- und Nebenbestimmungen zur Genehmigung sowie nachträglicher Auflagen, soweit dies im Einzelfall zur Information der Öffentlichkeit erforderlich ist, und
+- 3\. die Bezeichnung des für die betreffende Anlage maßgeblichen Merkblatts zu den besten verfügbaren Techniken.
+
+Soweit die zu veröffentlichenden Unterlagen Geschäftsgeheimnisse enthalten, sind die entsprechenden Stellen unkenntlich zu machen. Von der Unkenntlichmachung kann abgesehen werden, wenn der Betroffene in eine Veröffentlichung eingewilligt hat oder auf eine Unkenntlichmachung verzichtet. Die Veröffentlichung hat kostenlos und ohne Einschränkung des Zugangs auf angemeldete Benutzer auf einer einfach auffindbaren Internetseite bis zum Erlöschen der Genehmigung zu erfolgen.
+
+<!-- norm id="BJNE024400125" -->
+#### § 57g Anwendung der BVT-Merkblätter und der BVT-Schlussfolgerungen, die in Bezug auf Vorhaben nach § 57f Absatz 1 erlassen werden
+
+Bei der Gewinnung und Aufbereitung von Bodenschätzen, die mit einem Betriebsplan nach den Maßgaben des § 57f zugelassen sind, sind zur Erfüllung der Anforderungen an den Stand der Technik nach § 57f Absatz 1 Satz 1 Nummer 2 und nach § 57 Absatz 1 Nummer 1 des Wasserhaushaltsgesetzes
+
+- 1\. die BVT-Merkblätter im Sinne des § 3 Absatz 6a des Bundes-Immissionsschutzgesetzes, die jeweils auf Grund des Informationsaustausches nach Artikel 13 der Richtlinie 2010/75/EU veröffentlicht werden, zu berücksichtigen,
+- 2\. die nach Artikel 13 Absatz 5 der Richtlinie 2010/75/EU von der Europäischen Kommission veröffentlichten BVT-Schlussfolgerungen im Sinne des § 3 Absatz 6b des Bundes-Immissionsschutzgesetzes, die jeweils für Vorhaben, die in Anhang I Nr. 3.6 der Richtlinie 2010/75/EU genannt sind, erlassen werden, anzuwenden.
+
+<!-- norm id="BJNE024500125" -->
+#### § 57h Besondere Bedingungen für die Zulassung von Betriebsplänen nach Maßgaben des § 57f
+
+(1) Die Zulassung nach Maßgabe des § 57f ist unter Bedingungen zu erteilen und mit Auflagen zu verbinden, soweit dies erforderlich ist, um sicherzustellen, dass
+
+- 1\. die Emissionen unter normalen Betriebsbedingungen die in den BVT-Schlussfolgerungen im Sinne des § 3 Absatz 6b des Bundes-Immissionsschutzgesetzes genannten Emissionsbandbreiten nicht überschreiten und unter Berücksichtigung der gesamten Emissionsbandbreiten die strengstmöglichen Emissionsgrenzwerte festgelegt werden, die bei Anwendung der besten verfügbaren Techniken und unter Berücksichtigung möglicher Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes erreichbar sind und zur bestmöglichen Gesamtleistung der Anlage insgesamt beitragen, und
+- 2\. die Umweltleistung unter normalen Betriebsbedingungen das obere Ende der mit den besten verfügbaren Techniken assoziierten Umweltleistungswerte im Sinne des § 3 Absatz 6k des Bundes-Immissionsschutzgesetzes nicht überschreitet.
+
+(2) Abweichend von Absatz 1 kann die zuständige Behörde weniger strenge Emissionsbegrenzungen festlegen, wenn eine Bewertung ergibt, dass auf Grund des geografischen Standorts und lokaler Umweltbedingungen oder wegen technischer Merkmale des Vorhabens die Anwendung der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten unverhältnismäßig wäre, da sie gemessen am Umweltnutzen zu unverhältnismäßig höheren Kosten führen würde. Bei der Gewährung einer Ausnahme sind die Kriterien des Anhangs II der Richtlinie 2010/75/EU anzuwenden. Die Emissionsbegrenzungen dürfen die in den Anhängen der Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht überschreiten.
+
+(3) Abweichend von Absatz 1 kann die zuständige Behörde weniger strenge Umweltleistungs- oder Umweltleistungsgrenzwerte festlegen, wenn im Einzelfall auf Grund des geografischen Standorts und lokaler Umweltbedingungen oder wegen technischer Merkmale der betroffenen Anlagenart die Anwendung der in den BVT-Schlussfolgerungen im Sinne des § 3 Absatz 6b des Bundes-Immissionsschutzgesetzes genannten Leistungswerte insofern unverhältnismäßig wäre, als sie zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, oder erheblichen wirtschaftlichen Auswirkungen für den Unternehmer führen würde. Die zuständige Behörde stellt sicher, dass der Betrieb mit weniger strengen verbindlichen Spannen für die Umweltleistung oder Umweltleistungsgrenzwerten keine erheblichen Auswirkungen auf die Umwelt, einschließlich der Erschöpfung von Wasserressourcen, verursacht und ein hohes Schutzniveau für die Umwelt insgesamt erreicht wird.
+
+(4) Abweichend von den nach Absatz 1 festgelegten Umweltleistungsgrenzwerten in Bezug auf Wasser kann die zuständige Behörde auf Antrag Umweltleistungsbegrenzungen oberhalb der Umweltleistungsgrenzwerte und weniger strenge Fristen festlegen, wenn wegen des geografischen Standortes oder lokaler Umweltbedingungen die Anwendung der Umweltleistungsgrenzwerte in Bezug auf Wasser zu erheblichen negativen Umweltauswirkungen, einschließlich medienübergreifender Auswirkungen, führen würde oder für den Anlagenbetreiber unverhältnismäßig wäre.
+
+(5) Bei der Festlegung der Emissionsbegrenzungen nach den Absätzen 2 und 3 sind insbesondere mögliche Verlagerungen von nachteiligen Auswirkungen von einem Schutzgut auf ein anderes zu berücksichtigen. Dabei ist ein hohes Schutzniveau für die Umwelt insgesamt zu gewährleisten. Emissionsbegrenzungen nach Satz 1 dürfen die in den Anhängen der Richtlinie 2010/75/EU festgelegten Emissionsgrenzwerte nicht überschreiten und keine schädlichen Umwelteinwirkungen hervorrufen.
+
+(6) Die zuständige Behörde kann auf Antrag Emissionsbegrenzungen festlegen, die in Bezug auf Werte, Zeiträume und Referenzbedingungen von den in den BVT-Schlussfolgerungen festgelegten Emissionsgrenzwerten abweichen, sofern ein gleichwertiges Umweltschutzniveau gewährleistet ist.
+
+<!-- norm id="BJNE024600125" -->
+#### § 57i Zusätzliche Angaben für Betriebspläne nach Maßgaben des § 57f
+
+Betriebspläne, die nach den Maßgaben des § 57f zugelassen werden, müssen Beschreibungen enthalten zu:
+
+- 1\. den Roh- und Hilfsstoffen, sonstigen Stoffen, Energie und Wasser, die im Betrieb verwendet oder erzeugt werden und die nicht Bodenschätze sind, die im unmittelbaren betrieblichen Zusammenhang des Gewinnens oder Aufbereitens stehen,
+- 2\. den Quellen sowie der Art und Menge der vorhersehbaren Emissionen des Betriebs, einschließlich von Gerüchen, aus der Anlage in jedes einzelne Umweltmedium sowie die Feststellung von erheblichen Auswirkungen der Emissionen auf die Umwelt,
+- 3\. dem Zustand des Betriebsgeländes einschließlich eines Berichts über dessen über- und untertägigen Zustand vor Aufnahme von Tätigkeiten nach § 2 Absatz 1 Nummer 1 und 2, soweit diese Angaben nicht durch das Risswerk gemäß § 63 sowie durch Darstellungen auf Grund von Anforderungen der Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche und der Bergverordnung über Einwirkungsbereiche vorliegen,
+- 4\. den vorgesehenen Technologien und sonstigen Techniken zur Vermeidung der Emissionen aus dem Vorhaben oder, sofern dies nicht möglich ist, zur Verminderung derselben,
+- 5\. den Maßnahmen zur Vermeidung, zur Vorbereitung, zur Wiederverwendung, zum Recycling und zur Verwertung der von dem Vorhaben erzeugten Abfälle, soweit sie nicht den Regelungen des § 22a der Allgemeinen Bundesbergverordnung unterliegen,
+- 6\. den vorgesehenen Maßnahmen zur Überwachung der Emissionen in die Umwelt,
+- 7\. den wichtigsten vom Unternehmer geprüften Alternativen zu den vorgeschlagenen Technologien, Techniken und Maßnahmen in einer Übersicht.
+
+Betriebspläne nach Satz 1 müssen zudem eine nichttechnische Zusammenfassung der in den Nummern 1 bis 7 genannten Angaben enthalten.
+
+<!-- norm id="BJNE024700125" -->
+#### § 57j Zusätzliche Verfahrensanforderungen und Berichtspflichten bei der Errichtung und Führung von Betrieben nach Maßgaben des § 57f
+
+(1) Für Betriebe, die nach den Maßgaben des § 57f errichtet oder geführt werden, hat der Unternehmer der zuständigen Behörde jährlich Folgendes vorzulegen:
+
+- 1\. eine Zusammenfassung der Ergebnisse der Emissionsüberwachung,
+- 2\. sonstige Daten, die erforderlich sind, um die Einhaltung der Genehmigungsanforderungen gemäß § 57f Absatz 1 Satz 1 Nummer 1 bis 5 und Satz 2 zu überprüfen.
+
+Die Pflicht besteht nicht, soweit die erforderlichen Angaben der zuständigen Behörde bereits auf Grund anderer Vorschriften vorzulegen sind.
+
+(2) Der Unternehmer hat für Betriebe, die nach den Maßgaben des § 57f errichtet und geführt werden,
+
+- 1\. bei allen Ereignissen mit schädlichen Umwelteinwirkungen die zuständige Behörde unverzüglich zu unterrichten, soweit er hierzu nicht bereits nach § 4 des Umweltschadensgesetzes oder nach § 19 der Störfall-Verordnung verpflichtet ist, sowie
+- 2\. das Ergebnis einer auf Grund einer Anordnung der zuständigen Behörde durchgeführten Messung dieser auf Verlangen mitzuteilen und die Aufzeichnungen der Messgeräte von kontinuierlichen Messungen fünf Jahre lang aufzubewahren, dabei kann die zuständige Behörde die Art der Übermittlung der Messergebnisse vorschreiben.
+
+Die Ergebnisse der nach Satz 1 Nummer 2 durchgeführten Messungen, die bei der Behörde vorliegen, sind für die Öffentlichkeit nach den Bestimmungen des Umweltinformationsgesetzes mit Ausnahme des § 12 zugänglich zu machen. Für Landesbehörden gelten die landesrechtlichen Vorschriften.
+
+(3) Der Unternehmer hat der zuständigen Behörde die in einem Durchführungsrechtsakt gemäß Artikel 72 Absatz 2 der Richtlinie 2010/75/EU festgelegten Daten sowie auf Anfrage der Behörde diejenigen Daten, die zur Erfüllung der Berichtspflicht nach § 62 der Richtlinie 2010/75/EU erforderlich sind, zu übermitteln. Dies gilt nicht, soweit die Daten bereits auf Grund anderer Vorschriften bei der zuständigen Behörde vorliegen.
+
+<!-- norm id="BJNE024800125" -->
+#### § 57k Überwachungsauflagen, Umweltinspektionen
+
+(1) Die zuständige Behörde stellt zur regelmäßigen Überwachung von Betrieben, die nach § 57f errichtet oder geführt werden, Überwachungspläne und Überwachungsprogramme auf. § 52 Absatz 1b des Bundes-Immissionsschutzgesetzes gilt entsprechend. Die Häufigkeit der wiederkehrenden Überwachung nach Artikel 16 Absatz 2 und Artikel 23 der Richtlinie 2010/75/EU wird von der zuständigen Behörde für Betriebe, die nach den Maßgaben des § 57f errichtet und geführt werden, im Rahmen der Zulassung festgelegt.
+
+(2) Der Überwachungsplan, die Bewertung der Umweltrisiken, die Benachrichtigung des Unternehmers und die Veröffentlichung der Ergebnisse der Umweltinspektionen durch die zuständige Behörde richten sich nach den Maßgaben des Artikels 23 der Richtlinie 2010/75/EU.
+
+<!-- norm id="BJNE024900125" -->
+#### § 57l Grenzüberschreitende Auswirkungen
+
+(1) Für nicht UVP-pflichtige Vorhaben, die nach § 57f zugelassen werden, sind die Vorschriften des Teils 5 Abschnitt 1 und 3 des Gesetzes über die Umweltverträglichkeitsprüfung für ein Verfahren zur grenzüberschreitenden Behörden- und Öffentlichkeitsbeteiligung entsprechend anzuwenden. Abweichend von Satz 1 sind die Vorgaben zur Veröffentlichung von Informationen in dem jeweiligen zentralen Internetportal nach § 59 Absatz 4 des Gesetzes über die Umweltverträglichkeitsprüfung nicht anzuwenden.
+
+(2) Rechtsvorschriften zur Geheimhaltung, insbesondere nach § 30 des Verwaltungsverfahrensgesetzes sowie zum Schutz von Geschäftsgeheimnissen gemäß § 76 Absatz 1 bleiben unberührt; entgegenstehende Rechte Dritter sind zu beachten. Ebenfalls unberührt bleiben die Vorschriften zur Datenübermittlung an Stellen im Ausland sowie an über- und zwischenstaatliche Stellen.
+
+(3) Die zuständige Behörde übermittelt den beteiligten Behörden des anderen Staates die Bezeichnung des für den betreffenden Betrieb maßgeblichen BVT-Merkblatts.
+
+(4) Die zuständige Behörde macht der Öffentlichkeit auch Aktualisierungen von Genehmigungen von Behörden anderer Staaten nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich.
+
+<!-- norm id="BJNE025000125" -->
+#### § 57m Zukunftstechniken
+
+Von der zuständigen Behörde können bei der Zulassung von Vorhaben nach den Maßgaben des § 57f
+
+- 1\. weniger strenge Emissionsgrenzwerte, Umweltleistungsgrenzwerte und Fristen festgelegt werden, wenn dort Zukunftstechniken im Sinne des § 3 Absatz 6e des Bundes-Immissionsschutzgesetzes für einen Gesamtzeitraum von höchstens 30 Monaten erprobt werden sollen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder in der Anlage mindestens die in den BVT-Schlussfolgerungen assoziierten Emissionswerte eingehalten werden,
+- 2\. abweichende Emissionsbegrenzungen festgelegt werden, wenn sichergestellt ist, dass die Anlage innerhalb von sechs Jahren nach Veröffentlichung von BVT-Schlussfolgerungen zur Haupttätigkeit unter normalen Betriebsbedingungen die Emissionsbandbreiten für Zukunftstechniken einhält, oder
+- 3\. anstelle von Umweltleistungsgrenzwerten Orientierungswerte für die Umweltleistung festgelegt werden.
+
+<!-- norm id="BJNE025100125" -->
+#### § 57n Tiefgreifende industrielle Transformation
+
+(1) Die zuständige Behörde kann im Fall einer tiefgreifenden industriellen Transformation im Sinne des § 3 Absatz 6m des Bundes-Immissionsschutzgesetzes den Zeitraum, innerhalb dessen die aktualisierten Genehmigungsauflagen nach § 57g erfüllt sein oder erstmals angewandt werden müssen, auf insgesamt höchstens acht Jahre verlängern, sofern die tiefgreifende industrielle Transformation in der Änderung der Tätigkeiten des Gewinnens oder der Aufbereitung oder der Schließung einer Einrichtung nach § 2 Absatz 1 Nummer 3 und ihrer Ersetzung durch eine neue Einrichtung am selben Standort oder einem Standort innerhalb der Europäischen Union besteht.
+
+(2) Bei einer Verlängerung nach Absatz 1 muss
+
+- 1\. die Zulassung eine Beschreibung der tiefgreifenden industriellen Transformation, der Emissionswerte und der Ressourceneffizienz enthalten, die mit den Änderungen der Tätigkeiten erreicht werden sollen, sowie den Zeitplan für die Umsetzung und die Etappenziele oder eine Beschreibung des Schließungsplans und des zugehörigen Zeitplans und der Etappenziele;
+- 2\. der Unternehmer der zuständigen Behörde jährlich Bericht erstatten über die Fortschritte bei der Umsetzung der tiefgreifenden industriellen Transformation oder in Bezug auf den Schließungsplan für die bestehende Einrichtung und deren Ersatz durch eine neue Einrichtung;
+- 3\. die zuständige Behörde während des für die Transformation der Anlage oder des für die Schließung der Einrichtung genehmigten Zeitraums dafür sorgen, dass keine erhebliche Umweltverschmutzung verursacht und ein hohes Schutzniveau für die Umwelt insgesamt erreicht wird.
+
+<!-- norm id="BJNE025200125" -->
+#### § 57o Analyse und Überwachung der Schadstoffkonzentration im Aufnahmemilieu
+
+(1) Wurden für ein Vorhaben nach § 57f Absatz 1 in der Zulassung Emissionsbegrenzungen unterhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten festgelegt, bewertet die zuständige Behörde die Auswirkungen der strengeren Emissionsbegrenzungen auf die Konzentration der betreffenden Schadstoffe im Aufnahmemilieu. Steht auf Grundlage der Bewertung fest, dass der Immissionsbeitrag der Anlage relevant ist und quantifizierbare oder messbare Auswirkungen auf die Umwelt hat, hat die zuständige Behörde sicherzustellen, dass die Konzentration der betreffenden Schadstoffe im betreffenden Aufnahmemilieu überwacht wird.
+
+(2) Gewährt die zuständige Behörde eine Abweichung nach § 57h Absatz 2 oder Absatz 3 oder § 57m, hat der Betreiber eine Bewertung der Auswirkungen der Ausnahme auf die Konzentration der betreffenden Schadstoffe im Aufnahmemilieu vorzunehmen. Steht auf Grundlage dieser Bewertung fest, dass die Abweichung zu einer relevanten Änderung des Immissionsbeitrags der Anlage führt und diese Änderung des Immissionsbeitrags der Anlage quantifizierbare oder messbare Auswirkungen auf die Umwelt haben wird, hat die zuständige Behörde sicherzustellen, dass die Konzentration der betreffenden Schadstoffe im betreffenden Aufnahmemilieu überwacht wird.
+
+(3) Für die Überwachung nach den Absätzen 1 und 2 soll auf Ergebnisse der Überwachung nach den §§ 57g bis 57o oder auf sonstige vorliegende Daten des Unternehmers oder der zuständigen Behörde zurückgegriffen werden. Soweit dies für eine angemessene Überwachung erforderlich ist, kann die zuständige Behörde anordnen, dass der Betreiber Ermittlungen durchführen lässt.
+
+<!-- norm id="BJNE025300125" -->
+#### § 57p Abweichungen im Fall einer Krise
+
+(1) Die zuständige Behörde kann auf Antrag des Unternehmers bei Vorhaben nach § 57f in Abweichung von den in BVT-Schlussfolgerungen festgelegten Emissionswerten, Emissionsgrenzwerten und Umweltleistungsgrenzwerten weniger strenge Emissionsbegrenzungen und Umweltleistungsbegrenzungen festlegen, wenn außergewöhnliche Umstände, die sich der Kontrolle des Unternehmers und der staatlichen Institutionen entziehen, zu Folgendem führen:
+
+- 1\. einer schwerwiegenden Störung der Energieversorgung, wenn ein überwiegendes öffentliches Interesse an der Sicherheit der Energieversorgung besteht,
+- 2\. einem Mangel an Ressourcen, Materialien oder Ausrüstung, die der Unternehmer für die Ausübung von Tätigkeiten im öffentlichen Interesse unter Einhaltung der geltenden Emissionsgrenzwerte oder Umweltleistungsgrenzwerte benötigt, oder
+- 3\. einem Mangel an wesentlichen Ressourcen, Materialien oder Ausrüstung, wenn die Produktionsleistung des Vorhabens einen solchen Mangel aus Gründen der öffentlichen Gesundheit oder der öffentlichen Sicherheit oder aus anderen zwingenden Gründen des überwiegenden öffentlichen Interesses ausgleicht.
+
+Schädliche Umwelteinwirkungen dürfen nicht hervorgerufen werden. Es sind vorrangig andere Maßnahmen zur Krisenbewältigung zu nutzen, die zu einer geringeren Umweltverschmutzung führen.
+
+(2) Die Abweichung darf nur für einen Zeitraum von bis zu drei Monaten zugelassen werden. Wenn die Gründe für die Zulassung der Abweichung fortbestehen, kann die Zulassung der Abweichung um höchstens drei weitere Monate verlängert werden. Sobald die Bedingungen in Bezug auf die Energieversorgung oder Versorgung mit Ressourcen, Materialen oder Ausrüstung wiederhergestellt sind oder wenn es eine Alternative bei der Energieversorgung oder zu den Ressourcen, Materialien oder Ausrüstungen gibt, ist die Zulassung der Abweichung aufzuheben.
+
+(3) Über die Zulassung der Abweichung nach Absatz 1 hinaus bedarf es weder einer Änderungsgenehmigung noch einer Anzeige.
+
+(4) Die Zulassung der Abweichung hat schriftlich zu erfolgen, sie ist zu begründen und dem Antragsteller zuzustellen. Die zuständige Behörde hat den Bescheid über die Zulassung der Abweichung über das Internet zugänglich zu machen. § 57f Absatz 6 ist entsprechend anzuwenden.
+
+(5) Die zuständige Behörde stellt sicher, dass die Emissionen, die sich aus der Zulassung der Abweichung ergeben, durch den Betreiber überwacht werden.
+
+(6) § 31a Absatz 2 des Bundes-Immissionsschutzgesetzes ist entsprechend anzuwenden.
 
 <!-- gliederung id="BJNG001600315" ebene="2" -->
 ### Drittes Kapitel Verantwortliche Personen
@@ -976,7 +1137,7 @@ Inhalt und Form des Rißwerkes sowie die nach Art des Betriebes erforderlichen U
 <!-- gliederung id="BJNG001800315" ebene="1" -->
 ## Vierter Teil Ermächtigungen zum Erlaß von Bergverordnungen
 
-<!-- norm id="BJNE011301308" -->
+<!-- norm id="BJNE011302125" -->
 ### § 65 Anzeige, Genehmigung, allgemeine Zulassung, Prüfung
 
 Zum Schutze der in § 55 Abs. 1 Satz 1 Nr. 3 und 4 bezeichneten Rechtsgüter und Belange kann, soweit im Hinblick auf eine ordnungsgemäße und sichere Führung der Betriebe eine Vereinfachung oder Entlastung bei der Zulassung von Betriebsplänen notwendig oder zweckmäßig ist, durch Rechtsverordnung (Bergverordnung) bestimmt werden,
@@ -986,9 +1147,9 @@ Zum Schutze der in § 55 Abs. 1 Satz 1 Nr. 3 und 4 bezeichneten Rechtsgüter und
 - 3\. daß nach einer Bauart- oder Eignungsprüfung durch eine in der Bergverordnung zu bezeichnende Stelle oder durch einen von der zuständigen Behörde anerkannten Sachverständigen bestimmte Einrichtungen und Stoffe allgemein zugelassen werden können, welche Anzeigen bei allgemeiner Zulassung zu erstatten und welche Unterlagen diesen Anzeigen beizufügen sind,
 - 4\. daß bestimmte Einrichtungen einer Prüfung oder Abnahme vor ihrer Inbetriebnahme und nach Instandsetzung, regelmäßig wiederkehrenden Prüfungen und Prüfungen auf Grund einer Anordnung der zuständigen Behörde durch eine in der Bergverordnung zu bezeichnende Stelle, durch eine besonders zu bestimmende verantwortliche Person oder durch einen von der zuständigen Behörde anerkannten Sachverständigen unterliegen,
 - 5\. daß Genehmigungen und allgemeine Zulassungen im Sinne der Nummern 2 und 3 von bestimmten persönlichen und sachlichen Voraussetzungen abhängig zu machen sind,
-- 6\. daß die Anerkennung einer Person oder Stelle als Sachverständiger im Sinne der Nummern 3 und 4 von bestimmten persönlichen und sachlichen Voraussetzungen abhängig zu machen, insbesondere welche Anforderungen an die Ausbildung, die beruflichen Kenntnisse und Fähigkeiten, an Zuverlässigkeit und Unparteilichkeit zu stellen sind und welche Voraussetzungen im Hinblick auf die technische Ausstattung und auf die Zusammenarbeit verschiedener Sachverständiger oder Stellen erfüllt werden müssen. Zur Durchführung von Rechtsakten des Rats oder der Kommission der Europäischen Gemeinschaften können durch Rechtsverordnung (Bergverordnung) für Einrichtungen und Stoffe über Satz 1 hinaus und auch zum Schutz anderer als der dort genannten Rechtsgüter sicherheitstechnische Beschaffenheitsanforderungen und sonstige Voraussetzungen des Inverkehrbringens und der bestimmungsgemäßen Verwendung, insbesondere Prüfungen, Produktionsüberwachung, Bescheinigungen, Kennzeichnung, Aufbewahrungs- und Mitteilungspflichten, sowie behördliche Maßnahmen geregelt werden.
+- 6\. daß die Anerkennung einer Person oder Stelle als Sachverständiger im Sinne der Nummern 3 und 4 von bestimmten persönlichen und sachlichen Voraussetzungen abhängig zu machen, insbesondere welche Anforderungen an die Ausbildung, die beruflichen Kenntnisse und Fähigkeiten, an Zuverlässigkeit und Unparteilichkeit zu stellen sind und welche Voraussetzungen im Hinblick auf die technische Ausstattung und auf die Zusammenarbeit verschiedener Sachverständiger oder Stellen erfüllt werden müssen. Zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union können durch Rechtsverordnung (Bergverordnung) für Einrichtungen und Stoffe über Satz 1 hinaus und auch zum Schutz anderer als der dort genannten Rechtsgüter sicherheitstechnische Beschaffenheitsanforderungen und sonstige Voraussetzungen des Inverkehrbringens und der bestimmungsgemäßen Verwendung, insbesondere Prüfungen, Produktionsüberwachung, Bescheinigungen, Kennzeichnung, Aufbewahrungs- und Mitteilungspflichten, sowie behördliche Maßnahmen geregelt werden.
 
-<!-- norm id="BJNE011403123" -->
+<!-- norm id="BJNE011404144" -->
 ### § 66 Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde
 
 Zum Schutze der Beschäftigten und Dritter vor Gefahren im Betrieb und zur Wahrung der in § 55 Abs. 1 Satz 1 Nr. 2 bis 13 und Absatz 2 bezeichneten Rechtsgüter und Belange kann durch Rechtsverordnung (Bergverordnung) bestimmt werden,
@@ -1016,7 +1177,7 @@ Zum Schutze der Beschäftigten und Dritter vor Gefahren im Betrieb und zur Wahru
   - b) mit der Durchführung bestimmter gefährlicher Arbeiten oder mit besonderer Verantwortung verbundener Tätigkeiten nur Personen betraut werden dürfen,
 - 11\. unter welchen Voraussetzungen und in welcher Weise die aus Anzeigen nach § 74 gewonnenen Erkenntnisse, ausgenommen Einzelangaben über persönliche und sachliche Verhältnisse, zum Zwecke der Verbesserung der Sicherheit und Unfallverhütung durch in der Bergverordnung zu bezeichnende Stellen veröffentlicht werden dürfen.
 
-Die Regelung über Sicherheitszonen (Satz 1 Nr. 3) läßt § 27 des Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173), zuletzt geändert durch *Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* und § 9 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314), *geändert durch Artikel 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* unberührt. Rechtsverordnungen (Bergverordnungen) können gemäß Satz 1 auch erlassen werden, soweit dies zur Durchführung von Rechtsakten des Rates oder der Kommission der Europäischen Gemeinschaften oder von Beschlüssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen können auch anderen Personen als Unternehmern und Beschäftigten Pflichten auferlegt werden. Rechtsverordnungen zur Durchführung von Rechtsakten im Sinne des Satzes 3 (Bergverordnungen) können auch festlegen:
+Die Regelung über Sicherheitszonen (Satz 1 Nr. 3) läßt § 27 des Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173), zuletzt geändert durch *Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* und § 9 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314), *geändert durch Artikel 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),* unberührt. Rechtsverordnungen (Bergverordnungen) können gemäß Satz 1 auch erlassen werden, soweit dies zur Durchführung von Rechtsakten der Europäischen Gemeinschaften oder der Europäischen Union oder von Beschlüssen internationaler Organisationen oder von zwischenstaatlichen Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen können auch anderen Personen als Unternehmern und Beschäftigten Pflichten auferlegt werden. Rechtsverordnungen zur Durchführung von Rechtsakten im Sinne des Satzes 3 (Bergverordnungen) können auch festlegen:
 
 - 1\. die Art und den Umfang einer Deckungsvorsorge für Haftungsverbindlichkeiten, die infolge bergbaulicher Tätigkeiten entstehen können, sowie Anforderungen an den Nachweis der Deckungsvorsorge und
 - 2\. die Art und den Umfang der technischen und finanziellen Leistungsfähigkeit, die erforderlich ist, um Vermeidungs-, Schadensbegrenzungs-, Notfalleinsatz- und Sanierungsmaßnahmen durchzuführen, sowie Anforderungen an den Nachweis der technischen und finanziellen Leistungsfähigkeit.
@@ -1035,7 +1196,7 @@ Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über Erteilung, 
 - 7\. in welcher Weise der Bereich festzulegen ist, in dem durch einen Bergbaubetrieb oder sonstige Tätigkeiten nach den §§ 126 bis 129 auf die Oberfläche eingewirkt werken kann (Einwirkungsbereich),
 - 8\. daß und für welchen Zeitraum die Unterlagen, Darstellungen, Listen, Bücher und Statistiken aufzubewahren sind.
 
-<!-- norm id="BJNE011610119" -->
+<!-- norm id="BJNE011611125" -->
 ### § 68 Erlaß von Bergverordnungen
 
 (1) Bergverordnungen auf Grund der §§ 65 bis 67 werden, soweit sich aus Absatz 2 nichts anderes ergibt, von den Landesregierungen erlassen. Diese können die Ermächtigung durch Rechtsverordnung auf andere Stellen übertragen.
@@ -1044,7 +1205,7 @@ Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über Erteilung, 
 
 - 1\. soweit sie auf Grund des § 65 Satz 1 Nr. 3, 6 und 5 in Verbindung mit Nr. 3, des § 65 Satz 2, des § 66 Satz 1 Nr. 4 Buchstabe a, b, d und e und des § 67 ergehen,
 - 2\. soweit sie Tätigkeiten im Sinne des § 2 im Bereich des Festlandsockels betreffen und
-- 3\. soweit für gleichartige Verhältnisse der Schutz der in den §§ 65 bis 67 bezeichneten Rechtsgüter und Belange durch Bergverordnungen nach Absatz 1 nicht gleichwertig sichergestellt wird oder soweit Rechtsakte des Rates oder der Kommission der Europäischen Gemeinschaften oder Beschlüsse internationaler Organisationen oder zwischenstaatliche Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, durchgeführt werden.
+- 3\. soweit für gleichartige Verhältnisse der Schutz der in den §§ 65 bis 67 bezeichneten Rechtsgüter und Belange durch Bergverordnungen nach Absatz 1 nicht gleichwertig sichergestellt wird oder soweit Rechtsakte der Europäischen Gemeinschaften oder der Europäischen Union oder Beschlüsse internationaler Organisationen oder zwischenstaatliche Vereinbarungen, die Gegenstände dieses Gesetzes betreffen, durchgeführt werden.
 
 (3) Bergverordnungen nach Absatz 2 ergehen mit Zustimmung des Bundesrates und
 
@@ -1053,6 +1214,11 @@ Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über Erteilung, 
 - 3\. Bergverordnungen auf Grund des § 66 Satz 1 Nr. 3 sowie alle anderen Bergverordnungen, soweit sie Tätigkeiten im Sinne des § 2 Abs. 1 im Bereich des Festlandsockels und der Küstengewässer betreffen, im Einvernehmen mit dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
 (4) In den Bergverordnungen kann wegen technischer Anforderungen auf Bekanntmachungen sachverständiger Stellen unter Angabe der Fundstelle verwiesen werden.
+
+<!-- norm id="BJNE025400125" -->
+### § 68a Vorgaben für nach § 57f Absatz 1 Nummer 6 erforderliche Umweltmanagementsysteme; Verordnungsermächtigung
+
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates festzulegen, welche Anforderungen das nach § 57f Absatz 1 Satz 1 Nummer 6 einzurichtende und für die Dauer der Zulassung zu betreibende Umweltmanagementsystem nach Artikel 14a der Richtlinie 2010/75/EU zu erfüllen hat, insbesondere, dass das Umweltmanagementsystem Ziele und Maßnahmen zur Ausweitung der Nutzung und Erzeugung erneuerbarer Energien, soweit technisch möglich und wirtschaftlich zumutbar, beinhalten muss. Darüber hinaus kann in der Rechtsverordnung nach Satz 1 geregelt werden, welche Veröffentlichungspflichten, Berichts- und Vorlagepflichten, Datenerhebungs- und Messverpflichtungen, Konformitätsbewertungen und Nachweispflichten der Unternehmer im Zusammenhang mit dem Umweltmanagementsystem zu erfüllen hat.
 
 <!-- gliederung id="BJNG001900315" ebene="1" -->
 ## Fünfter Teil Bergaufsicht
@@ -1111,7 +1277,7 @@ Kommt der Unternehmer einer Anordnung nach Satz 1 nicht nach, so kann die zustä
 
 (2) Liegen Tatsachen vor, die die Annahme rechtfertigen, daß der Unternehmer die zur Gewährleistung von Sicherheit und Ordnung im Betrieb erforderliche Zuverlässigkeit oder Fachkunde nicht besitzt, so kann die zuständige Behörde die Fortführung des Betriebes bis zur Bestellung einer mit der Gesamtleitung beauftragten verantwortlichen Person untersagen und, wenn der Unternehmer der Untersagung nicht nachkommt, verhindern. Dies gilt entsprechend, wenn bei juristischen Personen und Personenhandelsgesellschaften die Voraussetzungen des Satzes 1 bei einer der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berechtigten Person vorliegen.
 
-<!-- norm id="BJNE012200315" -->
+<!-- norm id="BJNE012201125" -->
 ### § 74 Hilfeleistung, Anzeigepflicht
 
 (1) Bei Betriebsereignissen, die eine Gefahr für Beschäftigte oder Dritte herbeigeführt haben oder herbeizuführen geeignet sind, kann die zuständige Behörde, soweit erforderlich, die zur Abwehr der Gefahr oder zur Rettung Verunglückter oder gefährdeter Personen notwendigen Maßnahmen anordnen.
@@ -1123,7 +1289,7 @@ Kommt der Unternehmer einer Anordnung nach Satz 1 nicht nach, so kann die zustä
 - 1\. Betriebsereignisse, die den Tod oder die schwere Verletzung einer oder mehrerer Personen herbeigeführt haben oder herbeiführen können, und
 - 2\. Betriebsereignisse, deren Kenntnis für die Verhütung oder Beseitigung von Gefahren für Leben und Gesundheit der Beschäftigten oder Dritter oder für den Betrieb von besonderer Bedeutung ist,
 
-unverzüglich anzuzeigen.
+unverzüglich anzuzeigen. Bei Vorhaben nach § 57f Absatz 1 ist § 52a Absatz 8 des Bundes-Immissionsschutzgesetzes entsprechend anzuwenden.
 
 <!-- gliederung id="BJNG002000315" ebene="1" -->
 ## Sechster Teil Berechtsamsbuch, Berechtsamskarte
@@ -1669,6 +1835,13 @@ entsprechend. Der Ersatzpflichtige ist jedoch nicht verpflichtet, über die Haft
 
 (2) Wer sich wegen eines Schadens an einer baulichen Anlage auf eine Bergschadensvermutung beruft, hat dem Ersatzpflichtigen auf Verlangen Einsicht in die Baugenehmigung und die dazugehörigen Unterlagen für diese bauliche Anlage sowie bei Anlagen, für die wiederkehrende Prüfungen vorgeschrieben sind, auch Einsicht in die Prüfunterlagen zu gewähren oder zu ermöglichen.
 
+<!-- norm id="BJNE025600125" -->
+###### § 120a Schadensersatz bei Tätigkeiten nach § 57f
+
+(1) Wird infolge einer Tätigkeit nach § 57f Absatz 1 gegen Maßgaben nach § 57f Absatz 1 Satz 1 Nummer 1, 2, 4 und 5 oder Satz 2 verstoßen und wird dadurch die Gesundheit eines anderen verletzt, so ist der für den Verstoß verantwortliche Unternehmer verpflichtet, dem Verletzten den daraus entstandenen Schaden zu ersetzen.
+
+(2) § 65 Absatz 3 des Bundes-Immissionsschutzgesetzes ist entsprechend anzuwenden.
+
 <!-- norm id="BJNE016900315" -->
 ###### § 121 Verhältnis zu anderen Vorschriften
 
@@ -1933,7 +2106,7 @@ Die Frist ist eine Notfrist im Sinne der Zivilprozeßordnung.
 
 (5) Das Gericht übersendet der nach § 92 zuständigen Behörde eine Ausfertigung der Entscheidung oder des Vergleichs.
 
-<!-- norm id="BJNE019711125" -->
+<!-- norm id="BJNE019712125" -->
 ### § 145 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -1979,9 +2152,17 @@ Die Frist ist eine Notfrist im Sinne der Zivilprozeßordnung.
 
 zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 2, 6, 8 bis 11, 15 bis 18, 20, 21 und des Absatzes 3 Nr. 2 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes 1 Nr. 3 bis 5, 7, 12 bis 14, 19, 22 und des Absatzes 3 Nr. 1 mit einer Geldbuße bis zu zweitausendfünfhundert Euro, jeweils auch in Verbindung mit Absatz 2, geahndet werden.
+(4) Die Ordnungswidrigkeit kann geahndet werden
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten Behörden des Bundes die vom Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmte Behörde.
+- 1\. in den Fällen
+  - a) des Absatzes 1 Nummer 1, 2, 6, 8 bis 11, 15 bis 18, 20 und 21, jeweils auch in Verbindung mit Absatz 2, und
+  - b) des Absatzes 3 Nummer 2
+  mit einer Geldbuße bis zu dreißigtausend Euro und
+- 2\. in den übrigen Fällen des Absatzes 1, auch in Verbindung mit Absatz 2, und in den Fällen des Absatzes 3 Nummer 1 mit einer Geldbuße bis zu dreitausend Euro.
+
+(5) Gegenüber einer juristischen Person oder Personenvereinigung mit einem Gesamtumsatz von mehr als 1 Million Euro kann abweichend von Absatz 4 Nummer 1 Buchstabe a in Verbindung mit § 30 Absatz 2 Satz 2 des Gesetzes über Ordnungswidrigkeiten eine bei Errichtung, Führung oder Einstellung eines Gewinnungsbetriebs oder Betriebs zur Aufbereitung von bergfreien und grundeigenen Bodenschätzen nach der Richtlinie 2010/75/EU vorsätzlich begangene Ordnungswidrigkeit nach Absatz 1 Nummer 6 oder 8 mit einer Geldbuße bis zu 3 Prozent des Jahresumsatzes geahndet werden. Jahresumsatz nach Satz 1 ist die Summe der Umsatzerlöse, die die juristische Person oder Personenvereinigung in dem der Behördenentscheidung vorausgegangenen Geschäftsjahr in der Europäischen Union erzielt hat. Der Jahresumsatz kann geschätzt werden.
+
+(6) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten Behörden des Bundes die vom Bundesministerium für Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates bestimmte Behörde.
 
 <!-- norm id="BJNE019804308" -->
 ### § 146 Straftaten
@@ -2244,6 +2425,11 @@ Die bei Inkrafttreten dieses Gesetzes bestehenden, nach den vor diesem Zeitpunkt
 - 3\. Die Personen, die vom Unternehmer (Bergwerksbesitzer, Bergwerksunternehmer) im Rahmen seiner verantwortlichen Leitung des Betriebes zur Wahrnehmung bestimmter Aufgaben und Befugnisse für die Sicherheit und Ordnung im Betrieb bestellt und der Bergbehörde namhaft gemacht worden sind (verantwortliche Personen), gelten nach Maßgabe der ihnen im Zeitpunkt des Inkrafttretens dieses Gesetzes übertragenen Aufgaben und Befugnisse als verantwortliche Personen im Sinne des §§ 58 und 59.
 
 (2) Absatz 1 Nr. 2 und 3 gilt von dem Zeitpunkt ab nicht, von dem ab nach einer auf Grund des § 66 Satz 1 Nr. 9 erlassenen Bergverordnung die Fachkunde der in Absatz 1 Nr. 2 und 3 genannten Personen für die ihnen übertragenen Geschäftskreise oder Aufgaben und Befugnisse wegen der in der Bergverordnung gestellten Anforderungen nicht ausreicht oder der Unternehmer ihre Bestellung im Sinne des § 59 ändert.
+
+<!-- norm id="BJNE025500125" -->
+#### § 167a Übergangsvorschrift zu § 57f
+
+Betriebspläne, deren Zulassung der Gewinnung oder Aufbereitung von bergfreien und grundeigenen Bodenschätzen nach Maßgabe des § 57f dient und die vor der Veröffentlichung der Schlussfolgerungen im Amtsblatt der Europäischen Union zu den besten verfügbaren Techniken, die Tätigkeiten des Anhangs I Nummer 3.6 der Richtlinie 2010/75/EU betreffen, zugelassen werden, müssen erst nach Ablauf von vier Jahren ab dem Zeitpunkt der Veröffentlichung dieser Schlussfolgerungen, spätestens ab dem 1. September 2034, nach den Anforderungen des § 57f ergänzt werden.
 
 <!-- norm id="BJNE022000315" -->
 #### § 168 Erlaubnisse für Transit-Rohrleitungen

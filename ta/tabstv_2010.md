@@ -3,16 +3,16 @@ abkuerzung: TabStV
 jurabk: TabStV 2010
 titel: Verordnung zur Durchführung des Tabaksteuergesetzes
 kurztitel: Tabaksteuerverordnung
-stand: Zuletzt geändert durch Art. 1 V v. 17.6.2024 I Nr. 204
+stand: Zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 309
 ausfertigung: '2009-10-05'
 quelle: https://www.gesetze-im-internet.de/tabstv_2010/
 doknr: BJNR326300009
-builddate: '20260506175919'
+builddate: '20261020215520'
 ---
 
 # Verordnung zur Durchführung des Tabaksteuergesetzes (TabStV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 17.6.2024 I Nr. 204
+Stand: Zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 309
 
 Quelle: <https://www.gesetze-im-internet.de/tabstv_2010/>
 
@@ -981,7 +981,13 @@ Eine angemeldete oder festgesetzte Steuer oder Steuerzeichenschuld wird vom Haup
 <!-- gliederung id="BJNG002401140" ebene="1" -->
 ## Abschnitt 25 Schlussbestimmungen
 
-<!-- norm id="BJNE005602123" -->
+<!-- norm id="BJNE005603123" -->
 ### § 61 Übergangsregelungen
 
-Für Beförderungen von Tabakwaren des steuerrechtlich freien Verkehrs aus anderen, in andere oder über andere Mitgliedstaaten, die vor dem 13. Februar 2023 begonnen worden sind, gilt diese Verordnung in der am 12. Februar 2023 geltenden Fassung bis zum 31. Dezember 2023 fort.
+(1) Für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren gilt abweichend von *§ 32 Absatz 3 Nummer 3* bis zum 31. Dezember 2026, dass Steuerzeichen mindestens fünf Wochen vor Bedarf zu bestellen sind, wenn der Steuertarif geändert wird und neue Steuerzeichen eingeführt werden oder wenn bei Tabakwaren umfassende Änderungen der Kleinverkaufspreise vorgenommen werden.
+
+(2) Bis zum 31. Dezember 2026 kann für Zigaretten, Feinschnitt, erhitzten Tabak und Substitute für Tabakwaren die Mitteilung nach § 32 Absatz 3 Satz 2 spätestens mit der Bestellung erfolgen.
+
+> **Fußnote**
+>
+> § 61 Abs. 1 Kursivdruck: Muss "§ 32 Absatz 3 Satz 1 Nummer 3" lauten

@@ -3,13 +3,16 @@ abkuerzung: VollstrPV
 jurabk: VollstrPV
 titel: Verordnung über die Höhe und das Verfahren zur Erhebung einer Vollstreckungspauschale bei Inanspruchnahme von Behörden der Bundesfinanzverwaltung zur Vollstreckung öffentlich-rechtlicher Geldforderungen
 kurztitel: Vollstreckungspauschalen-Verordnung
+stand: Geändert durch Art. 1 V v. 9.10.2026 I Nr. 305
 ausfertigung: '2014-12-04'
 quelle: https://www.gesetze-im-internet.de/vollstrpv/
 doknr: BJNR199600014
-builddate: '20260506175617'
+builddate: '20261020215518'
 ---
 
 # Verordnung über die Höhe und das Verfahren zur Erhebung einer Vollstreckungspauschale bei Inanspruchnahme von Behörden der Bundesfinanzverwaltung zur Vollstreckung öffentlich-rechtlicher Geldforderungen (VollstrPV)
+
+Stand: Geändert durch Art. 1 V v. 9.10.2026 I Nr. 305
 
 Quelle: <https://www.gesetze-im-internet.de/vollstrpv/>
 

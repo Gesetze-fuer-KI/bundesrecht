@@ -1,13 +1,20 @@
-Stand 2026-10-20: 11 geändert, 0 neu, 0 entfernt
+Stand 2026-10-21: 17 geändert, 1 neu, 0 entfernt
 
 - 9. BImSchV: zuletzt geändert durch Art. 4 G v. 3.7.2024 I Nr. 225
-- AWV: Zuletzt geändert durch Art. 5 G v. 11.3.2026 I Nr. 66
-- AZRG-DV: Zuletzt geändert durch Art. 15 G v 22.7.2026 I Nr. 222
+- AufenthG: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 - BBergG: Zuletzt geändert durch Art. 4 G v. 30.9.2026 I Nr. 286
-- BImSchG: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
+- BMVgVerfWDO2025uBVerfPAktV: geändert
+- EnFG: Zuletzt geändert durch Art. 25 G v. 18.12.2025 I Nr. 347
+- EStG: zuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197
 - EVPGV: Zuletzt geändert durch Art. 4 V v. 5.5.2021 I 942
+- IntTestV: Geändert durch Art. 1 V v. 13.10.2026 I Nr. 306
 - KrWG: Zuletzt geändert durch Art. 5 G v. 2.3.2023 I Nr. 56
+- SGB 6: zuletzt geändert durch Art. 3 G v. 15.10.2026 I Nr. 307
+- SGB X: zuletzt geändert durch Art. 2 G v. 15.10.2026 I Nr. 307
+- TabStG: Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 309
+- TabStV: Zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 309
 - UAG: zuletzt geändert Art. 17 G v. 10.8.2021 I 3436
 - UVPG: zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 348
-- VAG: Zuletzt geändert durch Art. 2 G v. 25.9.2026 I Nr. 275
-- VFBAZV: Zuletzt geändert durch Art. 1 V v. 15.10.2026 I Nr. 303
+- VollstrPV: Geändert durch Art. 1 V v. 9.10.2026 I Nr. 305
+- WHG: Zuletzt geändert durch Art. 8 G v. 22.7.2026 I Nr. 224
+- neu: SpoFöG (Gesetz zur Regelung der Förderung des Spitzensports und weiterer Maßnahmen gesamtstaatlicher Bedeutung im Sport sowie zur Errichtung der Spitzensport-Agentur)

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 25 G v. 18.12.2025 I Nr. 347
 ausfertigung: '2022-07-20'
 quelle: https://www.gesetze-im-internet.de/enfg/
 doknr: BJNR127200022
-builddate: '20260506175417'
+builddate: '20261020215514'
 ---
 
 # Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen (EnFG)
@@ -199,7 +199,7 @@ Die Übertragungsnetzbetreiber veröffentlichen auf ihrer gemeinsamen Internetse
 
 (2) Abweichend von Absatz 1 sind zur Erhebung der nach den §§ 30 bis 36 begrenzten Umlagen auf die Netzentnahme ausschließlich die Übertragungsnetzbetreiber berechtigt, die die Umlagen als eigenständige Umlagen auf die Netzentnahme erheben. Die Übertragungsnetzbetreiber sind ferner zur Erhebung der Umlagen als eigenständige Umlagen auf die Netzentnahme berechtigt
 
-- 1\. für die Strommengen, die von einer den §§ 30 bis 36 begrenzten Abnahmestelle an eine nicht nach den §§ 30 bis 36 begrenzte Abnahmestelle weitergeleitet werden, oder
+- 1\. für die Strommengen, die von einer nach den §§ 30 bis 36 begrenzten Abnahmestelle an eine nicht nach den §§ 30 bis 36 begrenzte Abnahmestelle weitergeleitet werden, oder
 - 2\. für die Strommengen an Abnahmestellen, für die für das betreffende Kalenderjahr ein Antrag auf Begrenzung nach den §§ 30 bis 36 gestellt worden ist.
 
 Die Erhebung der Umlagen erfolgt in den Fällen der Sätze 1 und 2 Nummer 1 gegenüber dem nach den §§ 30 bis 36 begünstigten Unternehmen und im Fall von Satz 2 Nummer 2 gegenüber dem antragstellenden Unternehmen.

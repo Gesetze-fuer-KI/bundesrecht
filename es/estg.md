@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197
 ausfertigung: '1934-10-16'
 quelle: https://www.gesetze-im-internet.de/estg/
 doknr: BJNR010050934
-builddate: '20260804215509'
+builddate: '20261020215503'
 ---
 
 # Einkommensteuergesetz (EStG)

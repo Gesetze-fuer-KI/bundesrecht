@@ -3,16 +3,16 @@ abkuerzung: AufenthG
 jurabk: AufenthG 2004
 titel: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet
 kurztitel: Aufenthaltsgesetz
-stand: zuletzt geändert durch Art. 1 G v. 21.7.2026 I Nr. 221
+stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 ausfertigung: '2004-07-30'
 quelle: https://www.gesetze-im-internet.de/aufenthg_2004/
 doknr: BJNR195010004
-builddate: '20260910215515'
+builddate: '20261020215517'
 ---
 
 # Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG)
 
-Stand: zuletzt geändert durch Art. 1 G v. 21.7.2026 I Nr. 221
+Stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 
 Quelle: <https://www.gesetze-im-internet.de/aufenthg_2004/>
 
@@ -1889,10 +1889,6 @@ In den Fällen des Satzes 1 Nr. 1 stellt die Ausländerbehörde bei der Erteilun
 (2a) Von der Verpflichtung zur Teilnahme am Orientierungskurs sind Ausländer ausgenommen, die eine Aufenthaltserlaubnis nach § 38a besitzen, wenn sie nachweisen, dass sie bereits in einem anderen Mitgliedstaat der Europäischen Union zur Erlangung ihrer Rechtsstellung als langfristig Aufenthaltsberechtigte an Integrationsmaßnahmen teilgenommen haben.
 
 (3) Kommt ein Ausländer seiner Teilnahmepflicht aus von ihm zu vertretenden Gründen nicht nach oder legt er den Abschlusstest nicht erfolgreich ab, weist ihn die zuständige Ausländerbehörde vor der Verlängerung seiner Aufenthaltserlaubnis auf die möglichen Auswirkungen seines Handelns (§ 8 Abs. 3, § 9 Abs. 2 Satz 1 Nr. 7 und 8, § 9a Absatz 2 Satz 1 Nummer 3 und 4) hin. Die Ausländerbehörde kann den Ausländer mit Mitteln des Verwaltungszwangs zur Erfüllung seiner Teilnahmepflicht anhalten. Bei Verletzung der Teilnahmepflicht kann der voraussichtliche Kostenbeitrag auch vorab in einer Summe durch Gebührenbescheid erhoben werden.
-
-> **Fußnote**
->
-> § 44a Abs. 3 Satz 1 Kursivdruck: IdF d. Art. 2 G v. 27.10.2025 I Nr. 256 mWv 30.10.2025 (sinngemäß konsolidiert)
 
 <!-- norm id="BJNE004903311" -->
 ### § 45 Integrationsprogramm

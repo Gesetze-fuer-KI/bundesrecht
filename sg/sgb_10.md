@@ -2,16 +2,16 @@
 abkuerzung: SGB X
 jurabk: SGB 10
 titel: Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -
-stand: zuletzt geändert durch Art. 6 G v. 21.7.2026 I Nr. 221
+stand: zuletzt geändert durch Art. 2 G v. 15.10.2026 I Nr. 307
 ausfertigung: '1980-08-18'
 quelle: https://www.gesetze-im-internet.de/sgb_10/
 doknr: BJNR114690980
-builddate: '20260930215539'
+builddate: '20261020215508'
 ---
 
 # Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz - (SGB X)
 
-Stand: zuletzt geändert durch Art. 6 G v. 21.7.2026 I Nr. 221
+Stand: zuletzt geändert durch Art. 2 G v. 15.10.2026 I Nr. 307
 
 Quelle: <https://www.gesetze-im-internet.de/sgb_10/>
 

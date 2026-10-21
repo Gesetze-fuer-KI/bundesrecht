@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 4 V v. 5.5.2021 I 942
 ausfertigung: '2013-08-14'
 quelle: https://www.gesetze-im-internet.de/evpgv/
 doknr: BJNR322110013
-builddate: '20261019215514'
+builddate: '20261020215519'
 ---
 
 # Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (EVPGV)

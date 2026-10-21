@@ -3,13 +3,16 @@ abkuerzung: IntTestV
 jurabk: IntTestV
 titel: Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses
 kurztitel: Integrationskurstestverordnung
+stand: Geändert durch Art. 1 V v. 13.10.2026 I Nr. 306
 ausfertigung: '2013-04-09'
 quelle: https://www.gesetze-im-internet.de/inttestv/
 doknr: BJNR080100013
-builddate: '20260506175232'
+builddate: '20261020215507'
 ---
 
 # Verordnung über die Prüfungs- und Nachweismodalitäten für die Abschlusstests des Integrationskurses (IntTestV)
+
+Stand: Geändert durch Art. 1 V v. 13.10.2026 I Nr. 306
 
 Quelle: <https://www.gesetze-im-internet.de/inttestv/>
 

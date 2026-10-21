@@ -5,7 +5,7 @@ titel: Verordnung zur Anlegung, Führung und Weiterführung papiergebundener Akt
 ausfertigung: '2025-12-19'
 quelle: https://www.gesetze-im-internet.de/bmvgverfwdo2025ubverfpaktv/
 doknr: BJNR1770A0025
-builddate: '20260506175540'
+builddate: '20261020215515'
 ---
 
 # Verordnung zur Anlegung, Führung und Weiterführung papiergebundener Akten in Verfahren nach der Wehrdisziplinarordnung und in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums der Verteidigung (BMVgVerfWDO2025uBVerfPAktV)

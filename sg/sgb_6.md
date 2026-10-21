@@ -2,16 +2,16 @@
 abkuerzung: SGB 6
 jurabk: SGB 6
 titel: Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)
-stand: zuletzt geändert durch Art. 2a G v. 24.7.2026 I Nr. 228
+stand: zuletzt geändert durch Art. 3 G v. 15.10.2026 I Nr. 307
 ausfertigung: '1989-12-18'
 quelle: https://www.gesetze-im-internet.de/sgb_6/
 doknr: BJNR122610989
-builddate: '20260909215518'
+builddate: '20261020215511'
 ---
 
 # Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6)
 
-Stand: zuletzt geändert durch Art. 2a G v. 24.7.2026 I Nr. 228
+Stand: zuletzt geändert durch Art. 3 G v. 15.10.2026 I Nr. 307
 
 Quelle: <https://www.gesetze-im-internet.de/sgb_6/>
 
