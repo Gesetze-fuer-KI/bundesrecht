@@ -2,16 +2,16 @@
 abkuerzung: EStG
 jurabk: EStG
 titel: Einkommensteuergesetz
-stand: zuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197
+stand: zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307
 ausfertigung: '1934-10-16'
 quelle: https://www.gesetze-im-internet.de/estg/
 doknr: BJNR010050934
-builddate: '20261020215503'
+builddate: '20261021215504'
 ---
 
 # Einkommensteuergesetz (EStG)
 
-Stand: zuletzt geändert durch Art. 7 G v. 29.6.2026 I Nr. 197
+Stand: zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307
 
 Quelle: <https://www.gesetze-im-internet.de/estg/>
 

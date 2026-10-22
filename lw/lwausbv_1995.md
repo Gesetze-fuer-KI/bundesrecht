@@ -2,13 +2,16 @@
 abkuerzung: LwAusbV 1995
 jurabk: LwAusbV 1995
 titel: Verordnung über die Berufsausbildung zum Landwirt/zur Landwirtin
+stand: Geändert durch Art. 2 V v. 14.10.2026 I Nr. 311
 ausfertigung: '1995-01-31'
 quelle: https://www.gesetze-im-internet.de/lwausbv_1995/
 doknr: BJNR016800995
-builddate: '20260506174955'
+builddate: '20261021215505'
 ---
 
 # Verordnung über die Berufsausbildung zum Landwirt/zur Landwirtin (LwAusbV 1995)
+
+Stand: Geändert durch Art. 2 V v. 14.10.2026 I Nr. 311
 
 Quelle: <https://www.gesetze-im-internet.de/lwausbv_1995/>
 
@@ -171,10 +174,10 @@ zu bearbeiten. Dabei sind die Techniken und Organisation der betrieblichen Arbei
 
 Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung bestehen, sind die bisherigen Vorschriften weiter anzuwenden, es sei denn, die Vertragsparteien vereinbaren die Anwendung der Vorschriften dieser Verordnung.
 
-<!-- norm id="BJNE001200000" -->
-## § 11 Inkrafttreten, Außerkrafttreten
+<!-- norm id="BJNE001201131" -->
+## § 11 Außerkrafttreten
 
-Diese Verordnung tritt am 1. Juli 1995 in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
 
 <!-- norm id="BJNE001400301" -->
 ## Anlage I (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur Landwirtin - sachliche Gliederung -

@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 ausfertigung: '2004-07-30'
 quelle: https://www.gesetze-im-internet.de/aufenthg_2004/
 doknr: BJNR195010004
-builddate: '20261020215517'
+builddate: '20261021215506'
 ---
 
 # Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG)
@@ -47,8 +47,9 @@ Quelle: <https://www.gesetze-im-internet.de/aufenthg_2004/>
 > Unsetzung der
 > EURL 2024/1233 (CELEX Nr: 32024L1233) vgl. G v. 22.7.2026 I Nr. 222
 > +++)
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 27
-> u. G v. 23.4.2026 I Nr. 111 +++)
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 27,
+> G v. 23.4.2026 I Nr. 111
+> u. G v. 22.7.2026 I Nr. 222 +++)
 > ```
 >
 > Das G wurde als Artikel 1 d. G v. 30.7.2004 I 1950 (Zuwanderungsgesetz) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 15 Abs. 3 dieses G am 1.1.2005 in Kraft. §§ 42, 43 Abs. 4, § 69 Abs. 2 bis 6, § 99 treten am 6.8.2004, § 75 Nr. 2 Buchst. a tritt am 1.9.2004 in Kraft.

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 4 V v. 5.5.2021 I 942
 ausfertigung: '2013-08-14'
 quelle: https://www.gesetze-im-internet.de/evpgv/
 doknr: BJNR322110013
-builddate: '20261020215519'
+builddate: '20261021215511'
 ---
 
 # Verordnung zur Durchführung des Gesetzes über die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (EVPGV)
@@ -20,9 +20,12 @@ Quelle: <https://www.gesetze-im-internet.de/evpgv/>
 >
 > ```text
 > (+++ Textnachweis ab: 18.8.2013 +++)
+>
+> (+++ Hinweis des Normgebers auf EG-Recht:
+> Umsetzung der
+> EGRL 125/2009 (CELEX Nr: 309L0125 +++)
 > ```
 >
-> (+++ Hinweis des Normgebers auf EG-Recht: Umsetzung der EGRL 125/2009 (CELEX Nr: 309L0125 +++)  
 > Die Verordnung wurde als Artikel 1 der Verordnung vom 14.8.2013 I 3221 von der Bundesregierung und vom Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit den Bundesministerien für Arbeit und Soziales, für Umwelt, Naturschutz und Reaktorsicherheit und für Verkehr, Bau und Stadtentwicklung mit Zustimmung des Bundesrates beschlossen. Sie ist gem. Art. 3 dieser Verordnung am 18.8.2013 in Kraft getreten.
 
 <!-- norm id="BJNE000105128" -->
