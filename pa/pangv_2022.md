@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139
 ausfertigung: '2021-11-12'
 quelle: https://www.gesetze-im-internet.de/pangv_2022/
 doknr: BJNR492110021
-builddate: '20260618215518'
+builddate: '20261022215510'
 ---
 
 # Preisangabenverordnung (PAngV)

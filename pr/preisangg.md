@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 296 V v. 31.8.2015 I 1474
 ausfertigung: '1984-12-03'
 quelle: https://www.gesetze-im-internet.de/preisangg/
 doknr: BJNR114290984
-builddate: '20150929215537'
+builddate: '20261022215504'
 ---
 
 # Gesetz über die Preisangaben (PreisAngG)

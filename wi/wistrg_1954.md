@@ -3,16 +3,16 @@ abkuerzung: WiStrG 1954
 jurabk: WiStrG 1954
 titel: Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts
 kurztitel: Wirtschaftsstrafgesetz 1954
-stand: zuletzt geändert durch Art. 76 G v. 10.8.2021 I 3436
+stand: zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 314
 ausfertigung: '1954-07-09'
 quelle: https://www.gesetze-im-internet.de/wistrg_1954/
 doknr: BJNR001750954
-builddate: '20260506174720'
+builddate: '20261022215501'
 ---
 
 # Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts (WiStrG 1954)
 
-Stand: zuletzt geändert durch Art. 76 G v. 10.8.2021 I 3436
+Stand: zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 314
 
 Quelle: <https://www.gesetze-im-internet.de/wistrg_1954/>
 

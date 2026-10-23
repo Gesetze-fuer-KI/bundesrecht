@@ -1,11 +1,14 @@
-Stand 2026-10-22: 7 geändert, 2 neu, 0 entfernt
+Stand 2026-10-23: 9 geändert, 3 neu, 0 entfernt
 
 - AufenthG: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 - EnWG: Zuletzt geändert durch Art. 8 Abs. 6 G v. 23.7.2026 I Nr. 226
-- EStG: zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307
-- EVPGV: Zuletzt geändert durch Art. 4 V v. 5.5.2021 I 942
-- GebOSt: Zuletzt geändert durch Art. 6 V v. 12.8.2026 I Nr. 236
-- LwAusbV 1995: Geändert durch Art. 2 V v. 14.10.2026 I Nr. 311
-- WHG: Zuletzt geändert durch Art. 8 G v. 22.7.2026 I Nr. 224
-- neu: 7. ErdölFrV (Siebte Verordnung über die Freigabe von Vorräten des Erdölbevorratungsverbandes)
-- neu: FGMV (Verordnung über die Genehmigung und die Marktüberwachung von Fahrzeugen und Fahrzeuganhängern sowie von Systemen, Bauteilen und selbstständigen technischen Einheiten für diese Fahrzeuge)
+- FeV: Zuletzt geändert durch Art. 3 V v. 12.8.2026 I Nr. 236
+- KBAG: Zuletzt geändert durch Art. 4 G v. 12.5.2026 I Nr. 142, Nr. 316
+- LuftVODV 98: geändert
+- PAngV: Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139
+- PreisAngG: Zuletzt geändert durch Art. 296 V v. 31.8.2015 I 1474
+- StVG: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
+- WiStrG 1954: zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 314
+- neu: HochseeSchG (Gesetz zur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugnisse)
+- neu: HochseeSchGInkrBek (Bekanntmachung über das Inkrafttreten des Hochseeschutzgesetzes)
+- neu: StVGArt9S1InkrBek (Bekanntmachung über das Inkrafttreten der Artikel 2, 4 und 7 des Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften)

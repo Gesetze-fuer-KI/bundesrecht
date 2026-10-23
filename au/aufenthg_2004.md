@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
 ausfertigung: '2004-07-30'
 quelle: https://www.gesetze-im-internet.de/aufenthg_2004/
 doknr: BJNR195010004
-builddate: '20261021215506'
+builddate: '20261022215505'
 ---
 
 # Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG)
@@ -33,18 +33,17 @@ Quelle: <https://www.gesetze-im-internet.de/aufenthg_2004/>
 > EGRL 83/2004 (CELEX Nr: 32004L0083)
 > EGRL 114/2004 (CELEX Nr: 32004L0114) vgl. Bek. v. 25.2.2008 I 162
 >
->
 > Umsetzung der
 > EURL 36/2014 (CELEX Nr: 32014L0036)
 > EURL 66/2014 (CELEX Nr: 32014L0066)
 > EURL 2016/801 (CELEX Nr: 32016L0801) vgl. G v. 12.5.2017 I 1106
 > sowie § 16b Abs. 8 u.
 > § 19 Abs. 7 dieses G
-> Unsetzung der
+> Umsetzung der
 > EGRL 115/2008 (CELEX Nr: 32008L0115) vgl. G v. 21.2.2024 I Nr. 54
-> Unsetzung der
+> Umsetzung der
 > EURL 2024/1226 (CELEX Nr: 32024L1226) vgl. G v. 3.2.2026 I Nr. 27
-> Unsetzung der
+> Umsetzung der
 > EURL 2024/1233 (CELEX Nr: 32024L1233) vgl. G v. 22.7.2026 I Nr. 222
 > +++)
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 3.2.2026 I Nr. 27,
