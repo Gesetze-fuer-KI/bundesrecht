@@ -3,16 +3,16 @@ abkuerzung: BGebG
 jurabk: BGebG
 titel: Gesetz über Gebühren und Auslagen des Bundes
 kurztitel: Bundesgebührengesetz
-stand: Zuletzt geändert durch Art. 7 G v. 21.11.2023 I Nr. 315
+stand: Zuletzt geändert durch Art. 11 G v. 3.7.2026 I Nr. 199
 ausfertigung: '2013-08-07'
 quelle: https://www.gesetze-im-internet.de/bgebg/
 doknr: BJNR315410013
-builddate: '20260713215513'
+builddate: '20261023215513'
 ---
 
 # Gesetz über Gebühren und Auslagen des Bundes (BGebG)
 
-Stand: Zuletzt geändert durch Art. 7 G v. 21.11.2023 I Nr. 315
+Stand: Zuletzt geändert durch Art. 11 G v. 3.7.2026 I Nr. 199
 
 Quelle: <https://www.gesetze-im-internet.de/bgebg/>
 

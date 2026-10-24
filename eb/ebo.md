@@ -2,16 +2,16 @@
 abkuerzung: EBO
 jurabk: EBO
 titel: Eisenbahn-Bau- und Betriebsordnung
-stand: Zuletzt geändert durch Art. 2 V v. 5.4.2019 I 479
+stand: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
 ausfertigung: '1967-05-08'
 quelle: https://www.gesetze-im-internet.de/ebo/
 doknr: BJNR215630967
-builddate: '20260729215525'
+builddate: '20261023215512'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)
 
-Stand: Zuletzt geändert durch Art. 2 V v. 5.4.2019 I 479
+Stand: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
 
 Quelle: <https://www.gesetze-im-internet.de/ebo/>
 
@@ -19,6 +19,7 @@ Quelle: <https://www.gesetze-im-internet.de/ebo/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.1.1982 +++)
+>
 > (+++ Maßgaben aufgrund des EinigVtr vgl. EBO Anhang EV +++)
 > ```
 >

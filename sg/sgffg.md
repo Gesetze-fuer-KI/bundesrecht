@@ -3,16 +3,16 @@ abkuerzung: SGFFG
 jurabk: SGFFG
 titel: Gesetz zur Förderung der Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen für den Schienengüterfernverkehr
 kurztitel: Schienengüterfernverkehrsnetzförderungsgesetz
-stand: Geändert durch Art. 5 G v. 9.6.2021 I 1730
+stand: Zuletzt geändert durch Art. 20 G v. 22.7.2026 I Nr. 224
 ausfertigung: '2013-08-07'
 quelle: https://www.gesetze-im-internet.de/sgffg/
 doknr: BJNR311510013
-builddate: '20260729215527'
+builddate: '20261023215513'
 ---
 
 # Gesetz zur Förderung der Schienenwege der öffentlichen nicht bundeseigenen Eisenbahnen für den Schienengüterfernverkehr (SGFFG)
 
-Stand: Geändert durch Art. 5 G v. 9.6.2021 I 1730
+Stand: Zuletzt geändert durch Art. 20 G v. 22.7.2026 I Nr. 224
 
 Quelle: <https://www.gesetze-im-internet.de/sgffg/>
 
@@ -20,11 +20,9 @@ Quelle: <https://www.gesetze-im-internet.de/sgffg/>
 >
 > ```text
 > (+++ Textnachweis ab: 13.8.2013 +++)
->
-> Das G wurde als Artikel 1 des G v. 7.8.2013 I 3115 vom Bundestag mit Zustimmung
-> des Bundesrates beschlossen. Es ist gem. Art. 3 dieses G am 13.8.2013 in Kraft
-> getreten.
 > ```
+>
+> Das G wurde als Artikel 1 des G v. 7.8.2013 I 3115 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 3 dieses G am 13.8.2013 in Kraft getreten.
 
 <!-- norm id="BJNE000102119" -->
 ## § 1 Anwendungsbereich

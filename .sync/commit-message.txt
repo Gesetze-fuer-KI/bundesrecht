@@ -1,14 +1,11 @@
-Stand 2026-10-23: 9 geändert, 3 neu, 0 entfernt
+Stand 2026-10-24: 9 geändert, 0 neu, 0 entfernt
 
-- AufenthG: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
-- EnWG: Zuletzt geändert durch Art. 8 Abs. 6 G v. 23.7.2026 I Nr. 226
-- FeV: Zuletzt geändert durch Art. 3 V v. 12.8.2026 I Nr. 236
-- KBAG: Zuletzt geändert durch Art. 4 G v. 12.5.2026 I Nr. 142, Nr. 316
-- LuftVODV 98: geändert
-- PAngV: Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139
-- PreisAngG: Zuletzt geändert durch Art. 296 V v. 31.8.2015 I 1474
-- StVG: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
-- WiStrG 1954: zuletzt geändert durch Art. 2 G v. 19.10.2026 I Nr. 314
-- neu: HochseeSchG (Gesetz zur Ausführung des Übereinkommens im Rahmen des Seerechtsübereinkommens der Vereinten Nationen über die Erhaltung und nachhaltige Nutzung der biologischen Vielfalt der Meere von Gebieten außerhalb nationaler Hoheitsbefugnisse)
-- neu: HochseeSchGInkrBek (Bekanntmachung über das Inkrafttreten des Hochseeschutzgesetzes)
-- neu: StVGArt9S1InkrBek (Bekanntmachung über das Inkrafttreten der Artikel 2, 4 und 7 des Fünften Gesetzes zur Änderung des Straßenverkehrsgesetzes und anderer straßenverkehrsrechtlicher Vorschriften)
+- BfJG: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
+- BGebG: Zuletzt geändert durch Art. 11 G v. 3.7.2026 I Nr. 199
+- BImSchG: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
+- BSIG: Zuletzt geändert durch Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226
+- EBO: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
+- SGB 5: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
+- SGFFG: Zuletzt geändert durch Art. 20 G v. 22.7.2026 I Nr. 224
+- StPO: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
+- VerpackDG: geändert

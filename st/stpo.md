@@ -2,16 +2,16 @@
 abkuerzung: StPO
 jurabk: StPO
 titel: Strafprozeßordnung
-stand: zuletzt geändert durch Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95
+stand: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
 ausfertigung: '1950-09-12'
 quelle: https://www.gesetze-im-internet.de/stpo/
 doknr: BJNR006290950
-builddate: '20261006215503'
+builddate: '20261023215503'
 ---
 
 # Strafprozeßordnung (StPO)
 
-Stand: zuletzt geändert durch Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95
+Stand: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
 
 Quelle: <https://www.gesetze-im-internet.de/stpo/>
 

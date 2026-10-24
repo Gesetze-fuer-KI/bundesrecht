@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
 ausfertigung: '1988-12-20'
 quelle: https://www.gesetze-im-internet.de/sgb_5/
 doknr: BJNR024820988
-builddate: '20261015215504'
+builddate: '20261023215508'
 ---
 
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
@@ -3168,8 +3168,6 @@ Kommt eine Vereinbarung bis zum Ablauf der in Satz 1 genannten Frist nicht zusta
 (2d) Die Punktwerte für zahnärztliche Leistungen ohne Zahnersatz dürfen in jedem Kalenderjahr höchstens um die für das jeweilige Kalenderjahr nach § 71 Absatz 3 Satz 5 veröffentlichte durchschnittliche Veränderungsrate angehoben werden. Satz 1 gilt nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, § 87 Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis für Versicherte, die einem Pflegegrad nach § 15 des Elften Buches zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten Buches leistungsberechtigt sind.
 
 (3) In der vertragszahnärztlichen Versorgung vereinbaren die Vertragsparteien des Gesamtvertrages die Veränderungen der Gesamtvergütungen unter Berücksichtigung der Zahl und Struktur der Versicherten, der Morbiditätsentwicklung, der Kosten- und Versorgungsstruktur, der für die vertragszahnärztliche Tätigkeit aufzuwendenden Arbeitszeit sowie der Art und des Umfangs der zahnärztlichen Leistungen, soweit sie auf einer Veränderung des gesetzlichen oder satzungsmäßigen Leistungsumfangs beruhen. Bei der Vereinbarung der Veränderungen der Gesamtvergütungen gilt § 71 Absatz 1 bis 3 in Bezug auf das Ausgabenvolumen für die Gesamtheit der zu vergütenden vertragszahnärztlichen Leistungen ohne Zahnersatz; dies gilt nicht für Leistungen nach den §§ 22, 22a, 26 Absatz 1 Satz 5, § 87 Absatz 2i und 2j sowie Leistungen zur Behandlung von Parodontitis für Versicherte, die einem Pflegegrad nach § 15 des Elften Buches zugeordnet sind oder in der Eingliederungshilfe nach § 99 des Neunten Buches leistungsberechtigt sind. Absatz 2 Satz 2 bleibt unberührt. Die Krankenkassen haben den Kassenzahnärztlichen Vereinigungen die Zahl ihrer Versicherten vom 1. Juli eines Jahres, die ihren Wohnsitz im Bezirk der jeweiligen Kassenzahnärztlichen Vereinigung haben, gegliedert nach den Altersgruppen des Vordrucks KM 6 der Statistik über die Versicherten in der gesetzlichen Krankenversicherung bis zum 1. Oktober des Jahres mitzuteilen.
-
-(3a) (weggefallen)
 
 (4) Die Kassenzahnärztliche Vereinigung verteilt die Gesamtvergütungen an die Vertragszahnärzte. Sie wendet dabei in der vertragszahnärztlichen Versorgung den im Benehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen festgesetzten Verteilungsmaßstab an. Bei der Verteilung der Gesamtvergütungen sind Art und Umfang der Leistungen der Vertragszahnärzte zugrunde zu legen; dabei ist jeweils für die von den Krankenkassen einer Kassenart gezahlten Vergütungsbeträge ein Punktwert in gleicher Höhe zugrunde zu legen. Der Verteilungsmaßstab hat sicherzustellen, dass die Gesamtvergütungen gleichmäßig auf das gesamte Jahr verteilt werden. Der Verteilungsmaßstab hat Regelungen zur Verhinderung einer übermäßigen Ausdehnung der Tätigkeit des Vertragszahnarztes entsprechend seinem Versorgungsauftrag nach § 95 Absatz 3 Satz 1 vorzusehen. Widerspruch und Klage gegen die Honorarfestsetzung sowie ihre Änderung oder Aufhebung haben keine aufschiebende Wirkung.
 

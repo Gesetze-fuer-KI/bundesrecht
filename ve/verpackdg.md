@@ -6,7 +6,7 @@ kurztitel: Verpackungsrecht-Durchführungsgesetz
 ausfertigung: '2026-07-13'
 quelle: https://www.gesetze-im-internet.de/verpackdg/
 doknr: BJNR0CF0B0026
-builddate: '20260811215508'
+builddate: '20261023215511'
 ---
 
 # Gesetz zur Durchführung der Verordnung (EU) 2025/40 betreffend Verpackungen (VerpackDG)
@@ -16,13 +16,15 @@ Quelle: <https://www.gesetze-im-internet.de/verpackdg/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text dokumentarisch noch nicht bearbeitet +++)
+> (+++ Textnachweis ab: 12.8.2026 +++)
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Durchführung der
 > EUV 2025/40 (CELEX Nr: 32025L0040)
 > Umsetzung der
 > EGRL 98/2008 (CELEX Nr: 32008L0098)
 > EURL 2019/904 (CELEX Nr: 32019L0904) +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 13.07.2026 I Nr. 207 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 13.7.2026 I Nr. 207 vom Bundestag beschlossen. Es tritt gem. Art. 8 Abs. 7 dieses G am 12.8.2026 in Kraft.
