@@ -1,11 +1,3 @@
-Stand 2026-10-24: 9 geändert, 0 neu, 0 entfernt
+Stand 2026-10-25: 1 geändert, 0 neu, 0 entfernt
 
-- BfJG: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
-- BGebG: Zuletzt geändert durch Art. 11 G v. 3.7.2026 I Nr. 199
-- BImSchG: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
-- BSIG: Zuletzt geändert durch Art. 8 Abs. 1 G v. 23.7.2026 I Nr. 226
-- EBO: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
-- SGB 5: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
-- SGFFG: Zuletzt geändert durch Art. 20 G v. 22.7.2026 I Nr. 224
-- StPO: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
-- VerpackDG: geändert
+- GVG: zuletzt geändert durch Art. 5 G v. 2.7.2026 I Nr. 198

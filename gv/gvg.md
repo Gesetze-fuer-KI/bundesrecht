@@ -2,16 +2,16 @@
 abkuerzung: GVG
 jurabk: GVG
 titel: Gerichtsverfassungsgesetz
-stand: zuletzt geändert durch Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95
+stand: zuletzt geändert durch Art. 5 G v. 2.7.2026 I Nr. 198
 ausfertigung: '1950-09-12'
 quelle: https://www.gesetze-im-internet.de/gvg/
 doknr: BJNR005130950
-builddate: '20260930215510'
+builddate: '20261024220002'
 ---
 
 # Gerichtsverfassungsgesetz (GVG)
 
-Stand: zuletzt geändert durch Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95
+Stand: zuletzt geändert durch Art. 5 G v. 2.7.2026 I Nr. 198
 
 Quelle: <https://www.gesetze-im-internet.de/gvg/>
 
