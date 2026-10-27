@@ -2,16 +2,16 @@
 abkuerzung: BBergG
 jurabk: BBergG
 titel: Bundesberggesetz
-stand: Zuletzt geändert durch Art. 4 G v. 30.9.2026 I Nr. 286
+stand: Zuletzt geändert durch Art. 4 G v 13.10.2026 I Nr. 304
 ausfertigung: '1980-08-13'
 quelle: https://www.gesetze-im-internet.de/bbergg/
 doknr: BJNR013100980
-builddate: '20261020215505'
+builddate: '20261026220005'
 ---
 
 # Bundesberggesetz (BBergG)
 
-Stand: Zuletzt geändert durch Art. 4 G v. 30.9.2026 I Nr. 286
+Stand: Zuletzt geändert durch Art. 4 G v 13.10.2026 I Nr. 304
 
 Quelle: <https://www.gesetze-im-internet.de/bbergg/>
 

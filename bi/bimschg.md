@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
 ausfertigung: '1974-03-15'
 quelle: https://www.gesetze-im-internet.de/bimschg/
 doknr: BJNR007210974
-builddate: '20261023215505'
+builddate: '20261026220004'
 ---
 
 # Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (BImSchG)
@@ -840,36 +840,6 @@ Die Pflicht nach Satz 1 besteht nicht, soweit die erforderlichen Angaben der zus
 (1) Die zuständige Behörde kann eine Abweichung von der Verpflichtung zur Einhaltung der in den §§ 10 bis 16 und 18 der Verordnung über mittelgroße Feuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 13. Juni 2019 (BGBl. I S. 804), die durch Artikel 3 Absatz 1 der Verordnung vom 6. Juli 2021 (BGBl. I S. 2514) geändert worden ist, in der jeweils geltenden Fassung, vorgesehenen Emissionsgrenzwerte in den Fällen zulassen, in denen eine mittelgroße Feuerungsanlage, in der nur gasförmiger Brennstoff verfeuert wird, wegen einer plötzlichen Unterbrechung der Gasversorgung ausnahmsweise auf andere Brennstoffe ausweichen muss und aus diesem Grund mit einer sekundären Emissionsminderungsvorrichtung ausgestattet werden müsste. Eine solche Abweichung darf nur für einen Zeitraum von nicht mehr als zehn Tagen zugelassen werden, es sei denn, der Betreiber weist der zuständigen Behörde nach, dass ein längerer Zeitraum gerechtfertigt ist.
 
 (2) § 31c Absatz 2 ist entsprechend anzuwenden.
-
-<!-- norm id="BJNE013802125" -->
-#### § 31e (weggefallen)
-
-<!-- norm id="BJNE014201125" -->
-#### § 31f (weggefallen)
-
-<!-- norm id="BJNE014301125" -->
-#### § 31g (weggefallen)
-
-<!-- norm id="BJNE014401125" -->
-#### § 31h (weggefallen)
-
-<!-- norm id="BJNE014501125" -->
-#### § 31i (weggefallen)
-
-<!-- norm id="BJNE014601125" -->
-#### § 31j (weggefallen)
-
-<!-- norm id="BJNE013903125" -->
-#### § 31k (weggefallen)
-
-<!-- norm id="BJNE014000125" -->
-#### § 31l Übergangsregelungen zu den §§ 31e bis 31k
-
-(1) Die Regelungen der §§ 31e bis 31k sind auf bereits vor ihrem Inkrafttreten begonnene, aber noch nicht abgeschlossene Verfahren anzuwenden. Ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, ist neu zu beginnen, wenn er nach den §§ 31e bis 31k durchgeführt wird. Ein Verfahrensschritt nach Satz 2 muss nicht beendet werden, wenn er nach den §§ 31e bis 31k entfallen kann.
-
-(2) Abweichend von Absatz 1 soll ein Verfahrensschritt, der bereits begonnen, aber noch nicht abgeschlossen wurde, nach den Vorschriften, die zum Zeitpunkt des Beginns des Verfahrens galten, beendet werden, wenn der Verfahrensschritt hiernach schneller abgeschlossen werden kann.
-
-(3) Für Verfahrensschritte, bei denen von einer Regelung nach den §§ 31e bis 31k Gebrauch gemacht worden ist und die bei Außerkrafttreten der §§ 31e bis 31k noch nicht abgeschlossen sind, gelten die Bestimmungen der §§ 31e bis 31k bis zum Abschluss des jeweiligen Verfahrensschrittes weiter.
 
 <!-- norm id="BJNE016400130" -->
 #### § 31m Abweichungen im Fall einer Krise
