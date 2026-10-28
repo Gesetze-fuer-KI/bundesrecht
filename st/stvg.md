@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
 ausfertigung: '1909-05-03'
 quelle: https://www.gesetze-im-internet.de/stvg/
 doknr: BJNR004370909
-builddate: '20261026220002'
+builddate: '20261027220006'
 ---
 
 # Straßenverkehrsgesetz (StVG)
@@ -1676,7 +1676,7 @@ die nach § 33 Absatz 1 Satz 1 Nummer 2 gespeicherten Halterdaten, soweit kein G
 
 (7) Die Übermittlung nach den Absätzen 1 bis 6 unterbleibt, wenn die Übermittlung bei entsprechendem Abruf auf Grund von § 36 im automatisierten Verfahren erfolgen dürfte.
 
-<!-- norm id="BJNE012604123" -->
+<!-- norm id="BJNE012605123" -->
 ### § 36 Abruf im automatisierten Verfahren
 
 (1) Die Übermittlung nach § 35 Absatz 1 Nummer 1, soweit es sich um Aufgaben nach § 32 Absatz 1 Nummer 1 oder 9 handelt, oder nach § 35 Absatz 1 Nummer 24 aus dem Zentralen Fahrzeugregister darf durch Abruf im automatisierten Verfahren erfolgen
@@ -1696,8 +1696,9 @@ die nach § 33 Absatz 1 Satz 1 Nummer 2 gespeicherten Halterdaten, soweit kein G
 - 1a\. an die Verwaltungsbehörden im Sinne des § 26 Abs. 1 für die Verfolgung von Ordnungswidrigkeiten nach § 24 Absatz 1, § 24a oder § 24c,
 - 2\. an die Zollfahndungsdienststellen zur Verhütung oder Verfolgung von Steuer- und Wirtschaftsstraftaten sowie an die mit der Steuerfahndung betrauten Dienststellen der Landesfinanzbehörden zur Verhütung oder Verfolgung von Steuerstraftaten,
 - 2a\. an die Behörden der Zollverwaltung zur Verfolgung von Straftaten, die mit einem der in § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes genannten Prüfgegenstände unmittelbar zusammenhängen, und
-- 3\. an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst zur Erfüllung ihrer durch Gesetz übertragenen Aufgaben und
-- 4\. an die Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz.
+- 3\. an die Verfassungsschutzbehörden, den Militärischen Abschirmdienst und den Bundesnachrichtendienst zur Erfüllung ihrer durch Gesetz übertragenen Aufgaben,
+- 4\. an die Zentralstelle für Finanztransaktionsuntersuchungen zur Erfüllung ihrer Aufgaben nach dem Geldwäschegesetz und
+- 5\. an die Staatsanwaltschaften zur Erfüllung ihrer Aufgaben als Vermögensabschöpfungsstelle nach Artikel 5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024.
 
 Satz 1 gilt entsprechend für den Abruf der örtlich zuständigen Polizeidienststellen der Länder und Verwaltungsbehörden im Sinne des § 26 Abs. 1 aus den jeweiligen örtlichen Fahrzeugregistern.
 

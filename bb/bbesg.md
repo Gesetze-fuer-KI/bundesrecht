@@ -2,16 +2,16 @@
 abkuerzung: BBesG
 jurabk: BBesG
 titel: Bundesbesoldungsgesetz
-stand: Zuletzt geändert durch Art. 62 Abs. 2 G v. 4.2.2026 I Nr. 33
+stand: Zuletzt geändert durch Art. 12 Abs. 18 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1975-05-23'
 quelle: https://www.gesetze-im-internet.de/bbesg/
 doknr: BJNR011740975
-builddate: '20260506174536'
+builddate: '20261027220021'
 ---
 
 # Bundesbesoldungsgesetz (BBesG)
 
-Stand: Zuletzt geändert durch Art. 62 Abs. 2 G v. 4.2.2026 I Nr. 33
+Stand: Zuletzt geändert durch Art. 12 Abs. 18 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/bbesg/>
 
@@ -944,7 +944,7 @@ der Bezüge nach Satz 1, so wird der volle Mehrbetrag als Mietzuschuss erstattet
 
 (4) Die Einzelheiten zur Festsetzung des Kaufkraftausgleichs regelt das Auswärtige Amt im Einvernehmen mit dem Bundesministerium des Innern, für Bau und Heimat und dem Bundesministerium der Finanzen, hinsichtlich der Bundeswehrstandorte im Ausland auch im Einvernehmen mit dem Bundesministerium der Verteidigung, durch allgemeine Verwaltungsvorschrift.
 
-<!-- norm id="BJNE013418130" -->
+<!-- norm id="BJNE013419126" -->
 ### § 56 Auslandsverwendungszuschlag
 
 (1) Auslandsverwendungszuschlag wird gezahlt bei einer Verwendung im Rahmen einer humanitären oder unterstützenden Maßnahme, die auf Grund eines Übereinkommens, eines Vertrages oder einer Vereinbarung mit einer zwischenstaatlichen oder überstaatlichen Einrichtung oder mit einem auswärtigen Staat im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen stattfindet (besondere Verwendung im Ausland). Dies gilt für
@@ -953,7 +953,7 @@ der Bezüge nach Satz 1, so wird der volle Mehrbetrag als Mietzuschuss erstattet
 - 2\. Einsätze des Technischen Hilfswerks im Ausland nach § 1 Absatz 2 Nummer 2 des THW-Gesetzes, wenn zwischen dem Bundesministerium des Innern, für Bau und Heimat und dem Auswärtigen Amt Einvernehmen über das Vorliegen einer Verwendung nach Satz 1 besteht,
 - 3\. humanitäre Hilfsdienste und Hilfsleistungen der Streitkräfte nach § 2 Absatz 2 Satz 3 des Parlamentsbeteiligungsgesetzes, wenn zwischen dem Bundesministerium der Verteidigung und dem Auswärtigen Amt Einvernehmen über das Vorliegen einer Verwendung nach Satz 1 besteht,
 - 4\. Maßnahmen der Streitkräfte, die keine humanitären Hilfsdienste oder Hilfsleistungen nach § 2 Absatz 2 Satz 3 des Parlamentsbeteiligungsgesetzes sind, wenn zwischen dem Bundesministerium der Verteidigung und dem Auswärtigen Amt Einvernehmen über das Vorliegen einer Verwendung nach Satz 1 besteht, oder
-- 5\. Einsätze der Bundespolizei nach den §§ 8 und 65 des Bundespolizeigesetzes, einschließlich der in diesem Rahmen und zu diesem Zweck abgeordneten oder zugewiesenen Beamten anderer Verwaltungen, des Bundesamtes für Migration und Flüchtlinge, des Bundeskriminalamtes und des Bundesamtes für Verfassungsschutz, wenn zwischen dem Bundesministerium des Innern, für Bau und Heimat und dem Auswärtigen Amt Einvernehmen über das Vorliegen einer Verwendung nach Satz 1 besteht.
+- 5\. Einsätze der Bundespolizei nach den §§ 9 und 99 des Bundespolizeigesetzes, einschließlich der in diesem Rahmen und zu diesem Zweck abgeordneten oder zugewiesenen Beamten anderer Verwaltungen, des Bundesamtes für Migration und Flüchtlinge, des Bundeskriminalamtes und des Bundesamtes für Verfassungsschutz, wenn zwischen dem Bundesministerium des Innern, für Bau und Heimat und dem Auswärtigen Amt Einvernehmen über das Vorliegen einer Verwendung nach Satz 1 besteht.
 
 Satz 1 gilt entsprechend für eine Verwendung im Ausland oder außerhalb des deutschen Hoheitsgebietes auf Schiffen oder in Luftfahrzeugen, die ausschließlich dazu dient, eine besondere Verwendung im Ausland
 

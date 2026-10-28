@@ -2,16 +2,16 @@
 abkuerzung: BGBEG
 jurabk: BGBEG
 titel: Einführungsgesetz zum Bürgerlichen Gesetzbuche
-stand: zuletzt geändert durch Art. 2 G v. 16.7.2026 I Nr. 212
+stand: zuletzt geändert durch Art. 16 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1896-08-18'
 quelle: https://www.gesetze-im-internet.de/bgbeg/
 doknr: BJNR006049896
-builddate: '20260926215514'
+builddate: '20261027220011'
 ---
 
 # Einführungsgesetz zum Bürgerlichen Gesetzbuche (BGBEG)
 
-Stand: zuletzt geändert durch Art. 2 G v. 16.7.2026 I Nr. 212
+Stand: zuletzt geändert durch Art. 16 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/bgbeg/>
 
@@ -2141,10 +2141,10 @@ Auf vor dem 1. Juli 2024 erfolgte Verfügungen eines nicht wirksam Verheirateten
 
 (2) Auf Landpachtverhältnisse gemäß § 585a des Bürgerlichen Gesetzbuchs, die vor dem 1. Januar 2025 entstanden sind, ist § 585a des Bürgerlichen Gesetzbuchs in der bis einschließlich 31. Dezember 2024 geltenden Fassung bis einschließlich 1. Juli 2026 weiter anzuwenden. Abweichend von Satz 1 ist auf Landpachtverhältnisse nach Satz 1, deren Änderung ab dem 1. Januar 2025 vereinbart wird, bereits ab dem Zeitpunkt der Änderungsvereinbarung § 585a des Bürgerlichen Gesetzbuchs in der Fassung vom 1. Januar 2025 anzuwenden.
 
-<!-- gliederung id="BJNE249700360" ebene="3" -->
+<!-- gliederung id="BJNE249701360" ebene="3" -->
 #### Art 229
 
-Auf einen Kaufvertrag, der vor dem 31. Juli 2026 geschlossen worden ist, sind die Vorschriften dieses Gesetzes und des Bürgerlichen Gesetzbuchs in der bis einschließlich 30. Juli 2026 geltenden Fassung anzuwenden. Die Neuregelung in § 434 Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs, wonach die Reparierbarkeit zu den sonstigen Merkmalen der Sache gehört, ist erst auf Kaufverträge zwischen Unternehmern anzuwenden, die nach dem 31. Dezember 2027 geschlossen werden.
+Auf einen Kaufvertrag, der vor dem 31. Juli 2026 geschlossen worden ist, sind die Vorschriften dieses Gesetzes und die §§ 434 bis 479 des Bürgerlichen Gesetzbuchs in der bis einschließlich 22. Juli 2026 geltenden Fassung anzuwenden. Die Neuregelung in § 434 Absatz 3 Satz 2 des Bürgerlichen Gesetzbuchs, wonach die Reparierbarkeit zu den sonstigen Merkmalen der Sache gehört, ist erst auf Kaufverträge zwischen Unternehmern anzuwenden, die nach dem 31. Dezember 2027 geschlossen werden.
 
 <!-- gliederung id="BJNG022802377" ebene="1" -->
 ## Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet

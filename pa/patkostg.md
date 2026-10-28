@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
 ausfertigung: '2001-12-13'
 quelle: https://www.gesetze-im-internet.de/patkostg/
 doknr: BJNR365610001
-builddate: '20260506174642'
+builddate: '20261027220057'
 ---
 
 # Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (PatKostG)

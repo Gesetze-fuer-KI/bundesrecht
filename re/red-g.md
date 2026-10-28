@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 Abs. 2 G v. 30.3.2021 I 402
 ausfertigung: '2012-08-20'
 quelle: https://www.gesetze-im-internet.de/red-g/
 doknr: BJNR179810012
-builddate: '20260506175542'
+builddate: '20261027220040'
 ---
 
 # Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus (RED-G)
@@ -24,10 +24,10 @@ Quelle: <https://www.gesetze-im-internet.de/red-g/>
 >
 > Das G wurde als Artikel 1 des G v. 20.8.2012 I 1798 vom Bundestag beschlossen. Es ist gem. Art. 3 Abs. 1 dieses G am 31.8.2012 in Kraft getreten. Art. 3 Abs. 2 dieses G lautet: Die Anwendung des Artikels 1 ist von der Bundesregierung vor dem 31. Januar 2016 unter Einbeziehung eines oder mehrerer wissenschaftlicher Sachverständiger, die im Einvernehmen mit dem Deutschen Bundestag bestellt werden, zu evaluieren. Bei der Untersuchung sind auch die Häufigkeit und die Auswirkungen der mit den Datenerhebungen, -verarbeitungen und -nutzungen verbundenen Grundrechtseingriffe einzubeziehen und in Beziehung zu setzen zu der anhand von Tatsachen darzustellenden Wirksamkeit zum Zweck der Bekämpfung des gewaltbezogenen Rechtsextremismus. Die Sachverständigenauswahl muss dem Maßstab der Evaluierung gemäß Satz 2 Rechnung tragen.
 
-<!-- norm id="BJNE000102311" -->
+<!-- norm id="BJNE000103125" -->
 ## § 1 Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
 
-(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der Länder sowie der Militärische Abschirmdienst führen beim Bundeskriminalamt zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus, insbesondere zur Verhinderung und Verfolgung von Straftaten mit derartigem Hintergrund, eine gemeinsame standardisierte zentrale Datei.
+(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der Länder sowie der Militärische Abschirmdienst führen beim Bundeskriminalamt zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben zur Aufklärung oder Bekämpfung des gewaltbezogenen Rechtsextremismus, insbesondere zur Verhinderung und Verfolgung von Straftaten mit derartigem Hintergrund, eine gemeinsame standardisierte zentrale Datei.
 
 (2) Der Bundesminister des Innern, für Bau und Heimat kann, bei Landesbehörden auf Ersuchen des jeweiligen Landes, durch Rechtsverordnung weitere Polizeivollzugsbehörden als beteiligte Behörden zur Teilnahme an der Rechtsextremismus-Datei berechtigen, soweit
 

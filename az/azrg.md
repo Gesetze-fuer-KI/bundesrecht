@@ -3,16 +3,16 @@ abkuerzung: AZRG
 jurabk: AZRG
 titel: Gesetz über das Ausländerzentralregister
 kurztitel: AZR-Gesetz
-stand: Zuletzt geändert durch Art. 16 G v 22.7.2026 I Nr. 222
+stand: Zuletzt geändert durch Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
 ausfertigung: '1994-09-02'
 quelle: https://www.gesetze-im-internet.de/azrg/
 doknr: BJNR226500994
-builddate: '20261001215514'
+builddate: '20261027220048'
 ---
 
 # Gesetz über das Ausländerzentralregister (AZRG)
 
-Stand: Zuletzt geändert durch Art. 16 G v 22.7.2026 I Nr. 222
+Stand: Zuletzt geändert durch Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/azrg/>
 
@@ -205,7 +205,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 <!-- gliederung id="BJNG000800000" ebene="2" -->
 ### Abschnitt 2 Datenübermittlung an die Registerbehörde, Verantwortlichkeiten, Aufzeichnungspflicht
 
-<!-- norm id="BJNE000936311" -->
+<!-- norm id="BJNE000953311" -->
 #### § 6 Übermittelnde Stellen, Inhalt der Datenübermittlung
 
 (1) Folgende Stellen sind in den jeweils genannten Fällen zur unverzüglichen Übermittlung von Daten an die Registerbehörde verpflichtet:
@@ -213,7 +213,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 - 1\. die Ausländerbehörden und die mit der Durchführung ausländerrechtlicher Vorschriften betrauten öffentlichen Stellen in den Fällen des § 2 Absatz 1 bis 2 Nummer 1 bis 4, 6, 11, 12 und 14, Absatz 2b sowie Absatz 3 Nummer 1, 3, 4 und 6, sofern nicht Absatz 2a etwas anderes regelt,
 - 1a\. die für die Aufnahmeeinrichtungen zuständigen Behörden (Aufnahmeeinrichtungen) in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und 2,
 - 1b\. die für die Unterbringung in Gemeinschaftsunterkünften und die für den öffentlichen Gesundheitsdienst zuständigen Behörden in den Fällen des § 2 Absatz 1a und 2 Nummer 1,
-- 2\. die mit grenzpolizeilichen Aufgaben betrauten Behörden und die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde in den Fällen des § 2 Absatz 1a und 2 Nummer 3 bis 6 und 13 und, soweit es der Stand des Verfahrens zulässt, in den Fällen des § 2 Absatz 2 Nummer 7 und 7a sowie Absatz 3 Nummer 3 und 5 bis 7,
+- 2\. die mit grenzpolizeilichen Aufgaben betrauten Behörden und die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde in den Fällen des § 2 Absatz 1a und 2 Nummer 3 bis 6 und 13 und, soweit es der Stand des Verfahrens zulässt, in den Fällen des § 2 Absatz 2 Nummer 7 und 7a sowie Absatz 3 Nummer 3 und 5 bis 7,
 - 3\. das Bundesamt für Migration und Flüchtlinge in den Fällen des § 2 Absatz 1a und 2 Nummer 1, 3 und 6, Absatz 2a sowie Absatz 3 Nummer 2, 3 und 6, sofern nicht Absatz 2a etwas anderes regelt,
 - 4\. das Bundeskriminalamt, die Landeskriminalämter, das Zollkriminalamt und sonstige Polizeivollzugsbehörden der Länder, in den Fällen des § 2 Absatz 1a Nummer 2 und 3 sowie Absatz 2 Nummer 6 und, soweit es der Stand des Verfahrens zulässt, die ermittlungsführenden Polizeibehörden in den Fällen des § 2 Absatz 2 Nummer 7 und 7a sowie Absatz 3 Nummer 6 und 7,
 - 4a\. die Polizeivollzugsbehörden der Länder in den Fällen des § 2 Absatz 1a Nummer 1,
@@ -916,12 +916,12 @@ Die Speicherung von Daten eines Ausländers ist zulässig, wenn er ein Visum bea
 
 (3) Im übrigen gelten die §§ 8, 9, 10 Abs. 1 sowie die §§ 11, 12 und 13 entsprechend.
 
-<!-- norm id="BJNE003711311" -->
+<!-- norm id="BJNE003712311" -->
 ### § 32 Dritte, an die Daten übermittelt werden
 
 (1) Auf Ersuchen werden die Daten an folgende öffentliche Stellen zur Erfüllung ihrer Aufgaben übermittelt:
 
-- 1\. die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und die mit grenzpolizeilichen Aufgaben betrauten Stellen,
+- 1\. die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und die mit grenzpolizeilichen Aufgaben betrauten Stellen,
 - 2\. das Bundesamt für Migration und Flüchtlinge,
 - 3\. das Bundeskriminalamt,
 - 4\. die Landeskriminalämter,

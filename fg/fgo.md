@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
 ausfertigung: '1965-10-06'
 quelle: https://www.gesetze-im-internet.de/fgo/
 doknr: BJNR014770965
-builddate: '20261008215506'
+builddate: '20261027220024'
 ---
 
 # Finanzgerichtsordnung (FGO)

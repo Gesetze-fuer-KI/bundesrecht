@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 15 Abs. 4 G v. 4.5.2021 I 882
 ausfertigung: '2009-07-31'
 quelle: https://www.gesetze-im-internet.de/gendg/
 doknr: BJNR252900009
-builddate: '20260506175825'
+builddate: '20261027220049'
 ---
 
 # Gesetz über genetische Untersuchungen bei Menschen (GenDG)
@@ -30,7 +30,7 @@ Quelle: <https://www.gesetze-im-internet.de/gendg/>
 
 Zweck dieses Gesetzes ist es, die Voraussetzungen für genetische Untersuchungen und im Rahmen genetischer Untersuchungen durchgeführte genetische Analysen sowie die Verwendung genetischer Proben und Daten zu bestimmen und eine Benachteiligung auf Grund genetischer Eigenschaften zu verhindern, um insbesondere die staatliche Verpflichtung zur Achtung und zum Schutz der Würde des Menschen und des Rechts auf informationelle Selbstbestimmung zu wahren.
 
-<!-- norm id="BJNE000300000" -->
+<!-- norm id="BJNE000301130" -->
 ### § 2 Anwendungsbereich
 
 (1) Dieses Gesetz gilt für genetische Untersuchungen und im Rahmen genetischer Untersuchungen durchgeführte genetische Analysen bei geborenen Menschen sowie bei Embryonen und Föten während der Schwangerschaft und den Umgang mit dabei gewonnenen genetischen Proben und genetischen Daten bei genetischen Untersuchungen zu medizinischen Zwecken, zur Klärung der Abstammung sowie im Versicherungsbereich und im Arbeitsleben.
@@ -39,7 +39,7 @@ Zweck dieses Gesetzes ist es, die Voraussetzungen für genetische Untersuchungen
 
 - 1\. zu Forschungszwecken,
 - 2\. auf Grund von Vorschriften
-  - a) über das Strafverfahren, über die internationale Rechtshilfe in Strafsachen, des Bundeskriminalamtgesetzes und der Polizeigesetze der Länder,
+  - a) über das Strafverfahren, über die internationale Rechtshilfe in Strafsachen, des Bundeskriminalamtgesetzes und der Polizeigesetze des Bundes und der Länder,
   - b) des Infektionsschutzgesetzes und der auf Grund des Infektionsschutzgesetzes erlassenen Rechtsverordnungen.
 
 <!-- norm id="BJNE000400000" -->

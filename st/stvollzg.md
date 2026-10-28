@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 349
 ausfertigung: '1976-03-16'
 quelle: https://www.gesetze-im-internet.de/stvollzg/
 doknr: BJNR005810976
-builddate: '20260609215502'
+builddate: '20261027220009'
 ---
 
 # Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung (StVollzG)

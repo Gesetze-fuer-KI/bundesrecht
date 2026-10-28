@@ -3,16 +3,16 @@ abkuerzung: BDBOSG
 jurabk: BDBOSG
 titel: Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
 kurztitel: BDBOS-Gesetz
-stand: Zuletzt geändert durch Art. 9 G v. 19.12.2022 I 2632
+stand: Zuletzt geändert durch Art. 12 Abs. 17 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2006-08-28'
 quelle: https://www.gesetze-im-internet.de/bdbosg/
 doknr: BJNR203900006
-builddate: '20240320214502'
+builddate: '20261027220046'
 ---
 
 # Gesetz über die Errichtung einer Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOSG)
 
-Stand: Zuletzt geändert durch Art. 9 G v. 19.12.2022 I 2632
+Stand: Zuletzt geändert durch Art. 12 Abs. 17 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/bdbosg/>
 
@@ -188,7 +188,7 @@ umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für Aufgaben 
 
 Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sind die für Arbeitnehmerinnen, Arbeitnehmer und Auszubildende des Bundes jeweils geltenden Tarifverträge und sonstigen Bestimmungen anzuwenden. § 13 Abs. 2 findet entsprechende Anwendung.
 
-<!-- norm id="BJNE001600000" -->
+<!-- norm id="BJNE001601126" -->
 ## § 15 Abwehr netzspezifischer Gefahren, Überwachung
 
 (1) Soweit es der Schutz der Funktionsfähigkeit und des laufenden Betriebs des Digitalfunk BOS dringend erfordert, ist die Präsidentin oder der Präsident befugt, die im Einzelfall zur Abwehr von Gefahren für den Digitalfunk BOS erforderlichen netz- und betriebsbezogenen Anordnungen zu treffen. Insbesondere kann die Präsidentin oder der Präsident der Bundesanstalt
@@ -199,7 +199,7 @@ Auf die Arbeitnehmerinnen, Arbeitnehmer und Auszubildenden der Bundesanstalt sin
 
 Die Umsetzung der Anordnung nach Satz 1 erfolgt auf Ersuchen der Präsidentin oder des Präsidenten durch die zuständige Polizei- oder Ordnungsbehörde. Ein generelles Ersuchen ist zulässig. Die Voraussetzungen für ein Tätigwerden werden in diesem Fall durch vorherige Vereinbarung festgelegt. Die sonstigen Vorschriften und Grundsätze der Amts- und Vollzugshilfe bleiben unberührt.
 
-(2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 15 bis 20 des Bundespolizeigesetzes entsprechend.
+(2) Anordnungen nach Absatz 1 müssen auf den Zeitraum beschränkt werden, in dem die Gefahr andauert. Im Übrigen gelten die §§ 16 bis 21 des Bundespolizeigesetzes entsprechend.
 
 (3) Erleidet jemand infolge einer rechtmäßigen Anordnung nach Absatz 1 einen Schaden an seinem Eigentum, so ist ihm ein angemessener Ausgleich zu gewähren, soweit er den Schaden nicht durch ein Tun oder Unterlassen zu verantworten hat.
 

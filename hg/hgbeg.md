@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 323
 ausfertigung: '1897-05-10'
 quelle: https://www.gesetze-im-internet.de/hgbeg/
 doknr: BJNR004370897
-builddate: '20260506174751'
+builddate: '20261027220005'
 ---
 
 # Einführungsgesetz zum Handelsgesetzbuch (HGBEG)

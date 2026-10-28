@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 Abs. 1 G v. 30.3.2021 I 402
 ausfertigung: '2006-12-22'
 quelle: https://www.gesetze-im-internet.de/atdg/
 doknr: BJNR340910006
-builddate: '20260506175926'
+builddate: '20261027220056'
 ---
 
 # Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern (ATDG)
@@ -24,10 +24,10 @@ Quelle: <https://www.gesetze-im-internet.de/atdg/>
 >
 > Das G wurde als Artikel 1 des G v. 22.12.2006 I 3409 vom Bundestag erlassen. Es tritt gem. Art. 5 Abs. 2 dieses G mit Ablauf des 30. Dezember 2017 außer Kraft und ist fünf Jahre nach dem Inkrafttreten unter Einbeziehung eines wissenschaftlichen Sachverständigen, der im Einvernehmen mit dem Deutschen Bundestag bestellt wird, zu evaluieren. Zur Geltungsverlängerung vgl. Hinweis zum Stand.
 
-<!-- norm id="BJNE000103311" -->
+<!-- norm id="BJNE000104125" -->
 ## § 1 Antiterrordatei
 
-(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der Länder, der Militärische Abschirmdienst, der Bundesnachrichtendienst und das Zollkriminalamt (beteiligte Behörden) führen beim Bundeskriminalamt zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben zur Aufklärung oder Bekämpfung des internationalen Terrorismus mit Bezug zur Bundesrepublik Deutschland eine gemeinsame standardisierte zentrale Antiterrordatei (Antiterrordatei).
+(1) Das Bundeskriminalamt, die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, die Landeskriminalämter, die Verfassungsschutzbehörden des Bundes und der Länder, der Militärische Abschirmdienst, der Bundesnachrichtendienst und das Zollkriminalamt (beteiligte Behörden) führen beim Bundeskriminalamt zur Erfüllung ihrer jeweiligen gesetzlichen Aufgaben zur Aufklärung oder Bekämpfung des internationalen Terrorismus mit Bezug zur Bundesrepublik Deutschland eine gemeinsame standardisierte zentrale Antiterrordatei (Antiterrordatei).
 
 (2) Der Bundesminister des Innern, für Bau und Heimat kann, bei Landesbehörden auf Ersuchen des jeweils zuständigen Landes, durch Rechtsverordnung weitere Polizeivollzugsbehörden als beteiligte Behörden zur Teilnahme an der Antiterrordatei berechtigen, soweit
 

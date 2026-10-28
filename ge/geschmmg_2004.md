@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 10 G v. 10.8.2021 I 3490
 ausfertigung: '2004-03-12'
 quelle: https://www.gesetze-im-internet.de/geschmmg_2004/
 doknr: BJNR039010004
-builddate: '20260506175117'
+builddate: '20261027220029'
 ---
 
 # Gesetz über den rechtlichen Schutz von Design (DesignG)

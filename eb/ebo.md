@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
 ausfertigung: '1967-05-08'
 quelle: https://www.gesetze-im-internet.de/ebo/
 doknr: BJNR215630967
-builddate: '20261023215512'
+builddate: '20261027220047'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)

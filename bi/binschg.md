@@ -7,7 +7,7 @@ stand: Geändert durch Art. 14 G v. 22.12.2023 I Nr. 409
 ausfertigung: '1956-02-15'
 quelle: https://www.gesetze-im-internet.de/binschg/
 doknr: BJNR203170956
-builddate: '20261014215503'
+builddate: '20261027220045'
 ---
 
 # Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt (BinSchAufgG)

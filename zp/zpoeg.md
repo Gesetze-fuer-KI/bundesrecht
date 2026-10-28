@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 17 G v. 8.12.2025 I Nr. 319
 ausfertigung: '1877-01-30'
 quelle: https://www.gesetze-im-internet.de/zpoeg/
 doknr: BJNR002440877
-builddate: '20260506174510'
+builddate: '20261027220003'
 ---
 
 # Gesetz, betreffend die Einführung der Zivilprozeßordnung (ZPOEG)

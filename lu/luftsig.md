@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 11.3.2026 I Nr. 68
 ausfertigung: '2005-01-11'
 quelle: https://www.gesetze-im-internet.de/luftsig/
 doknr: BJNR007810005
-builddate: '20260506174527'
+builddate: '20261027220019'
 ---
 
 # Luftsicherheitsgesetz (LuftSiG)

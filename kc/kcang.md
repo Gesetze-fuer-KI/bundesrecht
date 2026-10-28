@@ -7,7 +7,7 @@ stand: Geändert durch Art. 1 G v. 20.6.2024 I Nr. 207
 ausfertigung: '2024-03-27'
 quelle: https://www.gesetze-im-internet.de/kcang/
 doknr: BJNR06D0B0024
-builddate: '20241231222219'
+builddate: '20261027220032'
 ---
 
 # Gesetz zum Umgang mit Konsumcannabis (KCanG)
@@ -79,7 +79,7 @@ Im Sinne dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsvero
   - a) Verwandte und Verschwägerte gerader Linie, der Ehegatte oder der Lebenspartner, der Verlobte, Geschwister, Ehegatten oder Lebenspartner der Geschwister, Geschwister der Ehegatten oder Lebenspartner, und zwar auch dann, wenn die Ehe oder die Lebenspartnerschaft, die die Beziehung begründet hat, nicht mehr besteht oder wenn die Verwandtschaft oder Schwägerschaft erloschen ist, sowie
   - b) Pflegeeltern und Pflegekinder.
 
-<!-- norm id="BJNE000303130" -->
+<!-- norm id="BJNE000304130" -->
 ### § 2 Umgang mit Cannabis
 
 (1) Es ist verboten,
@@ -115,7 +115,7 @@ Satz 1 gilt nicht in militärischen Bereichen der Bundeswehr.
 
 (5) Vom Verbot nach den Absätzen 1 und 2 Satz 1 ausgenommen ist der Umgang mit Cannabis durch Bundes- oder Landesbehörden für den Bereich ihrer dienstlichen Tätigkeit sowie durch die von ihnen mit der Untersuchung von Cannabis beauftragten Behörden.
 
-(6) Die Zollbehörden können im Rahmen der Wahrnehmung ihrer Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht werden soll, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
+(6) Die Zollbehörden können im Rahmen der Wahrnehmung ihrer Aufgaben nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um Cannabis handelt, das entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden ist oder verbracht werden soll, sicherstellen. Die §§ 71, 73 Absatz 1 und § 74 Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 18 und 19 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 > **Fußnote**
 >

@@ -3,16 +3,16 @@ abkuerzung: FreizügG/EU
 jurabk: FreizügG/EU 2004
 titel: Gesetz über die allgemeine Freizügigkeit von Unionsbürgern
 kurztitel: Freizügigkeitsgesetz/EU
-stand: Zuletzt geändert durch Art. 5 G v. 16.7.2026 I Nr. 213
+stand: Zuletzt geändert durch Art. 10 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2004-07-30'
 quelle: https://www.gesetze-im-internet.de/freiz_gg_eu_2004/
 doknr: BJNR198600004
-builddate: '20260722220024'
+builddate: '20261027220045'
 ---
 
 # Gesetz über die allgemeine Freizügigkeit von Unionsbürgern (FreizügG/EU)
 
-Stand: Zuletzt geändert durch Art. 5 G v. 16.7.2026 I Nr. 213
+Stand: Zuletzt geändert durch Art. 10 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/freiz_gg_eu_2004/>
 
@@ -266,7 +266,7 @@ verlangen. Ein nicht erwerbstätiger Unionsbürger im Sinne des § 2 Abs. 2 Nr. 
 
 (3) Gegenstände, auf die sich eine Straftat nach Absatz 1 bezieht, können eingezogen werden.
 
-<!-- norm id="BJNE001005377" -->
+<!-- norm id="BJNE001006311" -->
 ## § 10 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -280,12 +280,12 @@ verlangen. Ein nicht erwerbstätiger Unionsbürger im Sinne des § 2 Abs. 2 Nr. 
 
 (4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 3 mit einer Geldbuße bis zu dreitausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu tausend Euro geahndet werden.
 
-(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 3 die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde.
+(5) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 3 die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde.
 
-<!-- norm id="BJNE002011311" -->
+<!-- norm id="BJNE002012311" -->
 ## § 11 Anwendung des allgemeinen Aufenthaltsrechts; Ausnahmen von der Anwendung dieses Gesetzes
 
-(1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8, die §§ 13, 14 Absatz 2, § 44 Absatz 4, die §§ 45a, 46 Absatz 2, § 50 Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 71 Absatz 2 und 3 Nummer 2 erste Alternative, die §§ 73, 74 Absatz 2, § 77 Absatz 1, die §§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4 und 8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer 2, Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des Aufenthaltsgesetzes entsprechende Anwendung.
+(1) Auf die Personen, deren Einreise und Aufenthalt nach § 1 Absatz 1 durch dieses Gesetz geregelt ist, finden § 3 Absatz 2, § 11 Absatz 8, die §§ 13, 14 Absatz 2, § 44 Absatz 4, die §§ 45a, 46 Absatz 2, § 50 Absatz 3 bis 6, § 59 Absatz 1 Satz 6 und 7, die §§ 69, 71 Absatz 2 und 3 Nummer 2 erste Alternative, Absatz 3 Nummer 6, die §§ 73, 74 Absatz 2, § 77 Absatz 1, die §§ 80, 82 Absatz 5, die §§ 85 bis 88, 90, 91, 95 Absatz 1 Nummer 4 und 8, Absatz 2 Nummer 2, Absatz 4, die §§ 96, 97, 98 Absatz 2 Nummer 2, Absatz 2a, 3 Nummer 3, Absatz 4 und 5 sowie § 99 des Aufenthaltsgesetzes entsprechende Anwendung.
 
 (2) § 73 des Aufenthaltsgesetzes ist nur zur Feststellung von Gründen gemäß § 6 Absatz 1, hiervon abweichend in den Fällen des Absatzes 8 Satz 1 und des Absatzes 12 Satz 2 ohne Einschränkung anzuwenden.
 

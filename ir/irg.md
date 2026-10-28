@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 2 G v. 10.2.2026 I Nr. 39
 ausfertigung: '1982-12-23'
 quelle: https://www.gesetze-im-internet.de/irg/
 doknr: BJNR020710982
-builddate: '20260506175016'
+builddate: '20261027220025'
 ---
 
 # Gesetz über die internationale Rechtshilfe in Strafsachen (IRG)

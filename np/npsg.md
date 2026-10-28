@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 7.1.2026 I Nr. 2
 ausfertigung: '2016-11-21'
 quelle: https://www.gesetze-im-internet.de/npsg/
 doknr: BJNR261510016
-builddate: '20260521215505'
+builddate: '20261027220051'
 ---
 
 # Neue-psychoaktive-Stoffe-Gesetz (NpSG)
@@ -55,7 +55,7 @@ Im Sinne dieses Gesetzes ist
 - 3\. Herstellen das Gewinnen, das Anfertigen, das Zubereiten, das Be- oder Verarbeiten, das Reinigen, das Umwandeln, das Abpacken und das Umfüllen einschließlich Abfüllen;
 - 4\. Inverkehrbringen das Vorrätighalten zum Verkauf oder zu sonstiger Abgabe sowie das Feilhalten, das Feilbieten, die Abgabe und das Überlassen zum unmittelbaren Verbrauch an andere.
 
-<!-- norm id="BJNE000302130" -->
+<!-- norm id="BJNE000303130" -->
 ## § 3 Unerlaubter Umgang mit neuen psychoaktiven Stoffen
 
 (1) Es ist verboten,
@@ -71,9 +71,9 @@ Im Sinne dieses Gesetzes ist
 - 2\. Verwendungen eines neuen psychoaktiven Stoffes durch Bundes- oder Landesbehörden für den Bereich ihrer dienstlichen Tätigkeit sowie durch die von ihnen mit der Untersuchung von neuen psychoaktiven Stoffen beauftragten Behörden und
 - 3\. die in Absatz 1 Nummer 2 bis 4 genannten Handlungen, wenn sie in einer Form erfolgen, die eine Extraktion des jeweiligen neuen psychoaktiven Stoffes nur unter unverhältnismäßigem Aufwand zulässt.
 
-(3) In den Fällen des Absatzes 1 erfolgen die Sicherstellung, die Verwahrung und die Vernichtung von neuen psychoaktiven Stoffen nach den §§ 47 bis 50 des Bundespolizeigesetzes und den Vorschriften der Polizeigesetze der Länder.
+(3) In den Fällen des Absatzes 1 erfolgen die Sicherstellung, die Verwahrung und die Vernichtung von neuen psychoaktiven Stoffen nach § 71 Absatz 1, den §§ 72, 74 Absatz 1 und § 75 Absatz 1 des Bundespolizeigesetzes und den Vorschriften der Polizeigesetze der Länder.
 
-(4) Unbeschadet des Absatzes 3 können die Zollbehörden im Rahmen ihrer Aufgabenwahrnehmung nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um neue psychoaktive Stoffe handelt, die entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden sind oder verbracht werden sollen, sicherstellen. Die §§ 48 bis 50 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 17 und 18 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
+(4) Unbeschadet des Absatzes 3 können die Zollbehörden im Rahmen ihrer Aufgabenwahrnehmung nach § 1 Absatz 3 des Zollverwaltungsgesetzes Waren, bei denen Grund zu der Annahme besteht, dass es sich um neue psychoaktive Stoffe handelt, die entgegen Absatz 1 in den, aus dem oder durch den Geltungsbereich dieses Gesetzes verbracht worden sind oder verbracht werden sollen, sicherstellen. § 71 Absatz 1, die §§ 72, 74 Absatz 1 und § 75 Absatz 1 des Bundespolizeigesetzes gelten entsprechend. Kosten, die den Zollbehörden durch die Sicherstellung und Verwahrung entstehen, sind vom Verantwortlichen zu tragen; die §§ 18 und 19 des Bundespolizeigesetzes gelten entsprechend. Mehrere Verantwortliche haften als Gesamtschuldner. Die Kosten können im Verwaltungsvollstreckungsverfahren beigetrieben werden.
 
 <!-- norm id="BJNE000401130" -->
 ## § 4 Strafvorschriften

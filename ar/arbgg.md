@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/arbgg/
 doknr: BJNR012670953
-builddate: '20261008215505'
+builddate: '20261027220023'
 ---
 
 # Arbeitsgerichtsgesetz (ArbGG)

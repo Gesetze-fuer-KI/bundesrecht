@@ -3,16 +3,16 @@ abkuerzung: AufenthG
 jurabk: AufenthG 2004
 titel: Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet
 kurztitel: Aufenthaltsgesetz
-stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
+stand: zuletzt geändert durch Art. 5 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2004-07-30'
 quelle: https://www.gesetze-im-internet.de/aufenthg_2004/
 doknr: BJNR195010004
-builddate: '20261022215505'
+builddate: '20261027220042'
 ---
 
 # Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet (AufenthG)
 
-Stand: zuletzt geändert durch Art. 13 G v. 22.7.2026 I Nr. 222
+Stand: zuletzt geändert durch Art. 5 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/aufenthg_2004/>
 
@@ -2874,7 +2874,7 @@ Soweit der Widerspruch Erfolg hat, ist die Gebühr auf die Gebühr für die vorz
 <!-- gliederung id="BJNG001801310" ebene="2" -->
 ### Abschnitt 1 Zuständigkeiten
 
-<!-- norm id="BJNE014413311" -->
+<!-- norm id="BJNE014414311" -->
 #### § 71 Zuständigkeit; Verordnungsermächtigung
 
 (1) Für aufenthalts- und passrechtliche Maßnahmen und Entscheidungen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen sind die Ausländerbehörden zuständig. Die Landesregierung oder die von ihr bestimmte Stelle kann bestimmen, dass für einzelne Aufgaben nur eine oder mehrere bestimmte Ausländerbehörden zuständig sind. Nach Satz 2 kann durch die zuständigen Stellen der betroffenen Länder auch geregelt werden, dass den Ausländerbehörden eines Landes für die Bezirke von Ausländerbehörden verschiedener Länder Aufgaben zugeordnet werden. Für die Vollziehung von Abschiebungen ist in den Ländern jeweils eine zentral zuständige Stelle zu bestimmen. Die Länder sollen jeweils mindestens eine zentrale Ausländerbehörde einrichten, die bei Visumanträgen nach § 6 zu Zwecken nach den §§ 16a, 16d, 17 Absatz 1, den §§ 18a, 18b, 18c Absatz 3, den §§ 18d, 18f, 18g, 19, 19b, 19c, 20 und 20a sowie bei Visumanträgen des Ehegatten oder der minderjährigen ledigen Kinder zum Zweck des Familiennachzugs, die in zeitlichem Zusammenhang gestellt werden, die zuständige Ausländerbehörde ist.
@@ -2900,6 +2900,14 @@ Soweit der Widerspruch Erfolg hat, ist die Gebühr auf die Gebühr für die vorz
 - 7\. die Beschaffung von Heimreisedokumenten im Wege der Amtshilfe in Einzelfällen für Ausländer,
 - 8\. die Erteilung von in Rechtsvorschriften der Europäischen Union vorgesehenen Vermerken und Bescheinigungen vom Datum und Ort der Einreise über die Außengrenze eines Mitgliedstaates, der den Schengen-Besitzstand vollständig anwendet; die Zuständigkeit der Ausländerbehörden oder anderer durch die Länder bestimmter Stellen wird hierdurch nicht ausgeschlossen,
 - 9\. die Überprüfung nach Artikel 5 Absatz 1 und 2 und Artikel 7 Absatz 1 der Verordnung (EU) 2024/1356 sowie die in diesem Zusammenhang zu ergreifenden Maßnahmen nach den §§ 14a, 15b, 48, 48a, 49 Absatz 2 bis 9, §§ 73 und 82 Absatz 3a, wenn der Ausländer von ihnen bei Erfüllung ihrer grenzpolizeilichen Aufgaben festgestellt wird.
+
+(3a) Ungeachtet der Zuständigkeit nach Absatz 3 ist die Bundespolizei für die Stellung des Erstantrags auf Haft oder Ausreisegewahrsam und die Festnahme zur Vorbereitung und Sicherung einer Abschiebung und Zurückschiebung von Ausländern zuständig, sofern
+
+- 1\. diese im Zuständigkeitsbereich der Bundespolizei festgestellt wurden,
+- 2\. diese vollziehbar ausreisepflichtig sind und
+- 3\. deren Abschiebung nicht oder nach § 60a Absatz 2 Satz 1 erste Alternative auf Grund von fehlenden Reisedokumenten ausgesetzt ist und nach Einschätzung der Bundespolizei die notwendigen Reisedokumente innerhalb von sechs Monaten beschafft werden können.
+
+Die Zuständigkeiten für die weiteren aufenthalts- und passrechtlichen Maßnahmen und für Haftfolgeanträge gegen Ausländer nach Satz 1 richten sich nach den Absätzen 1, 4 und 5.
 
 (4) Für die erforderlichen Maßnahmen nach den §§ 48, 48a und 49 Absatz 2 bis 9 sind die Ausländerbehörden, die Polizeivollzugsbehörden der Länder sowie bei Wahrnehmung ihrer gesetzlichen Aufgaben die Bundespolizei und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden zuständig. In den Fällen des § 49 Absatz 4 sind auch die Behörden zuständig, die die Verteilung nach § 15a veranlassen. In den Fällen des § 49 Absatz 5 Nummer 5 und 6 sind die vom Auswärtigen Amt ermächtigten Auslandsvertretungen zuständig. In den Fällen des § 49 Absatz 8 und 9 sind auch die Aufnahmeeinrichtungen im Sinne des § 44 des Asylgesetzes und die Außenstellen des Bundesamtes für Migration und Flüchtlinge befugt, bei Tätigwerden in Amtshilfe die erkennungsdienstlichen Maßnahmen bei ausländischen Kindern oder Jugendlichen, die unbegleitet in das Bundesgebiet eingereist sind, vorzunehmen; diese Maßnahmen sollen im Beisein des zuvor zur vorläufigen Inobhutnahme verständigten Jugendamtes und in kindgerechter Weise durchgeführt werden.
 
@@ -3055,10 +3063,10 @@ Die deutschen Auslandsvertretungen können im Verfahren zur Beantragung national
 <!-- gliederung id="BJNG002501310" ebene="2" -->
 ### Abschnitt 1a Durchbeförderung
 
-<!-- norm id="BJNE013203310" -->
+<!-- norm id="BJNE013204311" -->
 #### § 74a Durchbeförderung von Ausländern
 
-Ausländische Staaten dürfen Ausländer aus ihrem Hoheitsgebiet über das Bundesgebiet in einen anderen Staat zurückführen oder aus einem anderen Staat über das Bundesgebiet wieder in ihr Hoheitsgebiet zurückübernehmen, wenn ihnen dies von den zuständigen Behörden gestattet wurde (Durchbeförderung). Die Durchbeförderung erfolgt auf der Grundlage zwischenstaatlicher Vereinbarungen und Rechtsvorschriften der Europäischen Union. Zentrale Behörde nach Artikel 4 Abs. 5 der Richtlinie 2003/110/EG ist die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde. Der durchbeförderte Ausländer hat die erforderlichen Maßnahmen im Zusammenhang mit seiner Durchbeförderung zu dulden.
+Ausländische Staaten dürfen Ausländer aus ihrem Hoheitsgebiet über das Bundesgebiet in einen anderen Staat zurückführen oder aus einem anderen Staat über das Bundesgebiet wieder in ihr Hoheitsgebiet zurückübernehmen, wenn ihnen dies von den zuständigen Behörden gestattet wurde (Durchbeförderung). Die Durchbeförderung erfolgt auf der Grundlage zwischenstaatlicher Vereinbarungen und Rechtsvorschriften der Europäischen Union. Zentrale Behörde nach Artikel 4 Abs. 5 der Richtlinie 2003/110/EG ist die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde. Der durchbeförderte Ausländer hat die erforderlichen Maßnahmen im Zusammenhang mit seiner Durchbeförderung zu dulden.
 
 <!-- gliederung id="BJNG001901310" ebene="2" -->
 ### Abschnitt 2 Bundesamt für Migration und Flüchtlinge
@@ -3344,7 +3352,7 @@ Stellt die zuständige Stelle durch Bescheid fest, dass die im Ausland erworbene
 
 (5) Die Absätze 1 bis 4 gelten auch für sonstige qualifizierte Beschäftigte.
 
-<!-- norm id="BJNE008915311" -->
+<!-- norm id="BJNE008916311" -->
 #### § 82 Mitwirkung des Ausländers
 
 (1) Der Ausländer ist verpflichtet, seine Belange und für ihn günstige Umstände, soweit sie nicht offenkundig oder bekannt sind, unter Angabe nachprüfbarer Umstände unverzüglich geltend zu machen und die erforderlichen Nachweise über seine persönlichen Verhältnisse, sonstige erforderliche Bescheinigungen und Erlaubnisse sowie sonstige erforderliche Nachweise, die er erbringen kann, unverzüglich beizubringen. Die mit dem Vollzug des Aufenthaltsrechts betrauten Behörden können ihm dafür eine angemessene Frist setzen. Die Ausländerbehörde setzt ihm eine solche Frist, wenn sie die Bearbeitung eines Antrags auf Erteilung eines Aufenthaltstitels wegen fehlender oder unvollständiger Angaben aussetzt, und benennt dabei die nachzuholenden Angaben. Nach Ablauf der Frist geltend gemachte Umstände und beigebrachte Nachweise können unberücksichtigt bleiben. Der Ausländer, der eine ICT-Karte nach § 19 beantragt hat, ist verpflichtet, der zuständigen Ausländerbehörde jede Änderung mitzuteilen, die während des Antragsverfahrens eintritt und die Auswirkungen auf die Voraussetzungen der Erteilung der ICT-Karte hat. Der Inhaber einer Blauen Karte EU ist während der ersten zwölf Monate seit der Aufnahme der Beschäftigung mit der Blauen Karte EU verpflichtet, der zuständigen Ausländerbehörde jeden Wechsel des Arbeitgebers und jede Änderung mitzuteilen, die Auswirkungen auf die Erfüllung der Voraussetzungen für die Erteilung einer Blauen Karte EU hat.
@@ -3355,7 +3363,7 @@ Stellt die zuständige Stelle durch Bescheid fest, dass die im Ausland erworbene
 
 (3a) Wenn ein Ausländer einer Überprüfung nach Artikel 5 Absatz 1, 2 oder Artikel 7 Absatz 1 der Verordnung (EU) 2024/1356 zu unterziehen ist, hat die für die Überprüfung nach § 71 Absatz 3 Nummer 9 oder § 71 Absatz 4a zuständige Stelle eine vorläufige Gesundheitskontrolle nach Artikel 12 Absatz 1 Satz 1 und 2 der Verordnung (EU) 2024/1356 anzuordnen, um den Bedarf an einer sofortigen Gesundheitsversorgung oder Absonderung aus Gründen der öffentlichen Gesundheit zu ermitteln. Der Ausländer hat diese vorläufige Gesundheitskontrolle zu dulden. Werden im Rahmen der vorläufigen Gesundheitskontrolle körperliche Eingriffe vorgenommen, dürfen diese nur durch einen Arzt nach den Regeln der ärztlichen Kunst vorgenommen werden. Wird die vorläufige Gesundheitskontrolle von einer anderen als der anordnenden Stelle durchgeführt, wird das Ergebnis der vorläufigen Gesundheitskontrolle an die für die Überprüfung nach § 71 Absatz 3 Nummer 9 oder § 71 Absatz 4a zuständige Stelle übermittelt. Wird bei der vorläufigen Gesundheitskontrolle der Verdacht einer Erkrankung oder die Erkrankung an einer meldepflichtigen Krankheit nach § 6 des Infektionsschutzgesetzes oder eine Infektion mit einem Krankheitserreger nach § 7 des Infektionsschutzgesetzes festgestellt, ist diese Feststellung auch der für die Unterbringung zuständigen Behörde mitzuteilen, sofern eine Pflicht zur namentlichen Meldung nach den §§ 6 oder 7 des Infektionsschutzgesetzes besteht.
 
-(4) Soweit es zur Vorbereitung und Durchführung von Maßnahmen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen erforderlich ist, kann angeordnet werden, dass ein Ausländer bei der zuständigen Behörde sowie den Vertretungen oder ermächtigten Bediensteten des Staates, dessen Staatsangehörigkeit er vermutlich besitzt, persönlich erscheint und die zur Klärung seiner Identität erforderlichen Angaben macht sowie eine ärztliche Untersuchung zur Feststellung der Reisefähigkeit durchgeführt wird. Kommt der Ausländer einer Anordnung nach Satz 1 nicht nach, kann sie zwangsweise durchgesetzt werden. § 40 Abs. 1 und 2, die §§ 41, 42 Abs. 1 Satz 1 und 3 des Bundespolizeigesetzes finden entsprechende Anwendung.
+(4) Soweit es zur Vorbereitung und Durchführung von Maßnahmen nach diesem Gesetz und nach ausländerrechtlichen Bestimmungen in anderen Gesetzen erforderlich ist, kann angeordnet werden, dass ein Ausländer bei der zuständigen Behörde sowie den Vertretungen oder ermächtigten Bediensteten des Staates, dessen Staatsangehörigkeit er vermutlich besitzt, persönlich erscheint und die zur Klärung seiner Identität erforderlichen Angaben macht sowie eine ärztliche Untersuchung zur Feststellung der Reisefähigkeit durchgeführt wird. Kommt der Ausländer einer Anordnung nach Satz 1 nicht nach, kann sie zwangsweise durchgesetzt werden. § 62 Absatz 1 und 2 sowie die §§ 63 und 65 Absatz 1 Satz 1 und 3 des Bundespolizeigesetzes finden entsprechende Anwendung.
 
 (5) Der Ausländer, für den nach diesem Gesetz, dem Asylgesetz oder den zur Durchführung dieser Gesetze erlassenen Bestimmungen ein Dokument ausgestellt werden soll, hat auf Verlangen
 

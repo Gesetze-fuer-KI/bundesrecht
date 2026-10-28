@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/sgg/
 doknr: BJNR012390953
-builddate: '20261008215504'
+builddate: '20261027220022'
 ---
 
 # Sozialgerichtsgesetz (SGG)

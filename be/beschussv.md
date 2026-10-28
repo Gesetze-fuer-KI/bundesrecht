@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 1.10.2021 I 4622
 ausfertigung: '2006-07-13'
 quelle: https://www.gesetze-im-internet.de/beschussv/
 doknr: BJNR147400006
-builddate: '20260506175450'
+builddate: '20261027220039'
 ---
 
 # Allgemeine Verordnung zum Beschussgesetz (BeschussV)
@@ -1062,7 +1062,7 @@ Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird bezügli
 - **7.** **Technische Anforderungen an die Unbrauchbarmachung von Schusswaffen**  
   Die technischen Anforderungen an die Unbrauchbarmachung von Schusswaffen richten sich nach Anhang I der Durchführungsverordnung (EU) 2015/2403.
 
-<!-- norm id="BJNE004802123" -->
+<!-- norm id="BJNE004803123" -->
 ### Anlage II Beschusszeichen, Prüfzeichen
 
 ( Fundstelle: BGBl. I 2006, 1500 - 1503;  
@@ -1105,8 +1105,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
 | *(Abbildung, siehe Originalfassung)* | **Abbildung 8**<br>Prüfzeichen nach § 25 Abs. 2 für Geräte nach § 24 Abs. 1. Die Zahl im kleineren Quadrat bezeichnet die zwei letzten Ziffern der Jahreszahl, die einstellige Zahl in Richtung der Laufmündung das Quartal. |
 | **Abbildung 9 Prüfzeichen der Beschaffungsstellen für die Bundeswehr, der Bundespolizei und die Bereitschaftspolizeien der Länder (§ 9 Abs. 1 Satz 3)** |  |
 | *(Abbildung, siehe Originalfassung)* | Beschuss<br>bei Schusswaffen, die vom Bundesamt für Wehrtechnik und Beschaffung beschossen wurden |
-| *(Abbildung, siehe Originalfassung)* | Erstbeschuss<br>bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
-| *(Abbildung, siehe Originalfassung)* | Instandsetzungsbeschuss<br>bei Schusswaffen, die von der in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
+| *(Abbildung, siehe Originalfassung)* | Erstbeschuss<br>bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde beschossen wurden |
+| *(Abbildung, siehe Originalfassung)* | Instandsetzungsbeschuss<br>bei Schusswaffen, die von der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde erneut beschossen wurden |
 | *(Abbildung, siehe Originalfassung)* | **Abbildung 10**<br>Kennzeichen für Schusswaffen, deren Geschossen eine Bewegungsenergie von nicht mehr als 7,5 J erteilt wird (§ 7 Abs. 1 Satz 2 Nr. 1 und § 9 Abs. 2 Satz 1 Nr. 1 des Gesetzes) |
 
 |  |  |  |  |

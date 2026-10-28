@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1994-10-25'
 quelle: https://www.gesetze-im-internet.de/markeng/
 doknr: BJNR308210994
-builddate: '20260930215552'
+builddate: '20261027220054'
 ---
 
 # Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)

@@ -2,16 +2,16 @@
 abkuerzung: AufenthV
 jurabk: AufenthV
 titel: Aufenthaltsverordnung
-stand: Zuletzt geändert durch Art. 11 G v. 22.7.2026 I Nr. 222
+stand: Zuletzt geändert durch Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2004-11-25'
 quelle: https://www.gesetze-im-internet.de/aufenthv/
 doknr: BJNR294510004
-builddate: '20260803220005'
+builddate: '20261027220053'
 ---
 
 # Aufenthaltsverordnung (AufenthV)
 
-Stand: Zuletzt geändert durch Art. 11 G v. 22.7.2026 I Nr. 222
+Stand: Zuletzt geändert durch Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/aufenthv/>
 
@@ -1749,10 +1749,10 @@ Ordnungswidrig im Sinne des § 98 Abs. 3 Nr. 7 des Aufenthaltsgesetzes handelt, 
 - 5\. entgegen § 57a Nummer 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder ein Dokument nicht oder nicht rechtzeitig vorlegt oder
 - 6\. entgegen § 57a Nummer 2 ein Dokument nicht oder nicht rechtzeitig vorlegt oder die Neuausstellung nicht oder nicht rechtzeitig beantragt.
 
-<!-- norm id="BJNE007903310" -->
+<!-- norm id="BJNE007904311" -->
 ### § 78 Verwaltungsbehörden im Sinne des Gesetzes über Ordnungswidrigkeiten
 
-Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Abs. 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise begangen werden, und nach § 98 Abs. 3 Nr. 3 des Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
+Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten wird bei Ordnungswidrigkeiten nach § 98 Absatz 2 des Aufenthaltsgesetzes, wenn sie bei der Einreise oder der Ausreise begangen werden, nach § 98 Absatz 3 Nummer 2b des Aufenthaltsgesetzes, wenn die Anordnung durch eine mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörde erfolgte, und nach § 98 Absatz 3 Nummer 3 des Aufenthaltsgesetzes auf die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen, soweit nicht die Länder im Einvernehmen mit dem Bund Aufgaben des grenzpolizeilichen Einzeldienstes mit eigenen Kräften wahrnehmen.
 
 <!-- gliederung id="BJNG002000000" ebene="1" -->
 ## Kapitel 7 Übergangs- und Schlussvorschriften

@@ -3,16 +3,16 @@ abkuerzung: ProdHaftG
 jurabk: ProdHaftG
 titel: Gesetz über die Haftung für fehlerhafte Produkte
 kurztitel: Produkthaftungsgesetz
-stand: Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421
+stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1989-12-15'
 quelle: https://www.gesetze-im-internet.de/prodhaftg/
 doknr: BJNR021980989
-builddate: '20260506175024'
+builddate: '20261027220026'
 ---
 
 # Gesetz über die Haftung für fehlerhafte Produkte (ProdHaftG)
 
-Stand: Zuletzt geändert durch Art. 5 G v. 17.7.2017 I 2421
+Stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/prodhaftg/>
 
@@ -156,7 +156,7 @@ Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, du
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die aufgrund dieses Gesetzes erlassen werden, gelten nach Maßgabe des § 14 des Dritten Überleitungsgesetzes auch im Land Berlin.
 
-<!-- norm id="BJNE001900328" -->
-## § 19 Inkrafttreten
+<!-- norm id="BJNE001901360" -->
+## § 19 Außerkrafttreten
 
-Dieses Gesetz tritt am 1. Januar 1990 in Kraft.
+Dieses Gesetz tritt am 9. Dezember 2026 außer Kraft.

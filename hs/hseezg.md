@@ -3,16 +3,16 @@ abkuerzung: HSeeZG
 jurabk: HSeeZG
 titel: Gesetz über die internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen und über die internationale strafrechtliche Zusammenarbeit auf Hoher See
 kurztitel: Hohe-See-Zusammenarbeitsgesetz
-stand: Zuletzt geändert durch Art. 180 V v. 19.6.2020 I 1328
+stand: Zuletzt geändert durch Art. 12 Abs. 19 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2015-11-25'
 quelle: https://www.gesetze-im-internet.de/hseezg/
 doknr: BJNR209510015
-builddate: '20260506175716'
+builddate: '20261027220046'
 ---
 
 # Gesetz über die internationale Zusammenarbeit zur Durchführung von Sanktionsrecht der Vereinten Nationen und über die internationale strafrechtliche Zusammenarbeit auf Hoher See (HSeeZG)
 
-Stand: Zuletzt geändert durch Art. 180 V v. 19.6.2020 I 1328
+Stand: Zuletzt geändert durch Art. 12 Abs. 19 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/hseezg/>
 
@@ -127,12 +127,12 @@ Die Genehmigung kann im Einzelfall hinsichtlich des Umfanges der beabsichtigten 
 <!-- gliederung id="BJNG000500000" ebene="2" -->
 ### Abschnitt 1 Gemeinsame Regelungen
 
-<!-- norm id="BJNE000601311" -->
+<!-- norm id="BJNE000602126" -->
 #### § 6 Entschädigung
 
-(1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind die §§ 51 bis 56 des Bundespolizeigesetzes entsprechend anzuwenden.
+(1) Auf Maßnahmen, um deren Durchführung nach § 1 Absatz 1 ersucht wird oder deren Durchführung nach § 2 Absatz 1 bewilligt wird, sind die §§ 86 bis 91 des Bundespolizeigesetzes entsprechend anzuwenden.
 
-(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 51 bis 56, ausgenommen § 52 Absatz 1 Satz 2 und Absatz 2, des Bundespolizeigesetzes entsprechend anzuwenden.
+(2) Auf strafprozessuale Maßnahmen im Rahmen von § 5 sind die §§ 86 bis 91, ausgenommen § 87 Absatz 1 Satz 2 und Absatz 2, des Bundespolizeigesetzes entsprechend anzuwenden.
 
 <!-- norm id="BJNE000701125" -->
 #### § 7 Datenverarbeitung

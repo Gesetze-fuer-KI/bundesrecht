@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 519 V v. 31.8.2015 I 1474
 ausfertigung: '1972-02-25'
 quelle: https://www.gesetze-im-internet.de/esbo/
 doknr: BJNR002690972
-builddate: '20260506174733'
+builddate: '20261027220004'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen (ESBO)
@@ -17,10 +17,13 @@ Quelle: <https://www.gesetze-im-internet.de/esbo/>
 
 > **Fußnote**
 >
-> Überschrift: V gilt auch in Berlin gem. § 1 V 930-1-2 v. 15.11.1984 I 1369
+> ```text
+> (+++ Textnachweis Geltung ab: 1.12.1983 +++)
 >
-> (+++ Textnachweis Geltung ab: 1.12.1983 +++)  
 > (+++ Maßgaben aufgrund des EinigVtr vgl. ESBO Anhang EV +++)
+> ```
+>
+> Überschrift: V gilt auch in Berlin gem. § 1 V 930-1-2 v. 15.11.1984 I 1369
 
 <!-- norm id="BJNE000200304" -->
 ## Eingangsformel

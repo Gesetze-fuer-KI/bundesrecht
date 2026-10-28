@@ -3,16 +3,16 @@ abkuerzung: BfJG
 jurabk: BfJG
 titel: Gesetz über die Errichtung des Bundesamts für Justiz
 kurztitel: BfJG
-stand: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
+stand: Zuletzt geändert durch Art. 3 G v. 30.9.2025 I Nr. 233
 ausfertigung: '2006-12-17'
 quelle: https://www.gesetze-im-internet.de/bfjg/
 doknr: BJNR317110006
-builddate: '20261023215514'
+builddate: '20261027220056'
 ---
 
 # Gesetz über die Errichtung des Bundesamts für Justiz (BfJG)
 
-Stand: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
+Stand: Zuletzt geändert durch Art. 3 G v. 30.9.2025 I Nr. 233
 
 Quelle: <https://www.gesetze-im-internet.de/bfjg/>
 

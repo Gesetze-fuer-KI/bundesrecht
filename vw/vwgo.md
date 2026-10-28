@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1960-01-21'
 quelle: https://www.gesetze-im-internet.de/vwgo/
 doknr: BJNR000170960
-builddate: '20261008215501'
+builddate: '20261027220001'
 ---
 
 # Verwaltungsgerichtsordnung (VwGO)

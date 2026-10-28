@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 8 Abs. 7 G v. 27.9.2021 I 4530
 ausfertigung: '1990-06-20'
 quelle: https://www.gesetze-im-internet.de/gentg/
 doknr: BJNR110800990
-builddate: '20231231214239'
+builddate: '20261027220035'
 ---
 
 # Gesetz zur Regelung der Gentechnik (GenTG)

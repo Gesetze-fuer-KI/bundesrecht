@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 23.10.2024 I Nr. 324
 ausfertigung: '2017-06-27'
 quelle: https://www.gesetze-im-internet.de/strlschg/
 doknr: BJNR196610017
-builddate: '20260506175609'
+builddate: '20261027220044'
 ---
 
 # Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (StrlSchG)
@@ -1937,7 +1937,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 >
 > (+++ § 87: Inkraft gem. Art. 32 Abs. 1 Satz 2 G. v. 27.6.2017 I, 1966 mWv 1.10.2017 +++)
 
-<!-- norm id="BJNE008903119" -->
+<!-- norm id="BJNE008904123" -->
 #### § 88 Register über hochradioaktive Strahlenquellen; Verordnungsermächtigungen
 
 (1) Die Daten über hochradioaktive Strahlenquellen, die auf Grund dieses Gesetzes oder einer Rechtsverordnung nach § 89 Satz 1 Nummer 1 erhoben werden, werden zum Zweck der Sicherheit und Kontrolle von Strahlenquellen zum Schutz von Leben und Gesundheit in einem beim Bundesamt für Strahlenschutz eingerichteten Register erfasst.
@@ -1951,7 +1951,7 @@ Die Rechtsverordnung kann auch diejenigen Vorschriften der Rechtsverordnung fest
 - 5\. Erlangung oder Aufgabe der Sachherrschaft über die hochradioaktive Strahlenquelle,
 - 6\. Verlust, Diebstahl oder Fund der hochradioaktiven Strahlenquelle.
 
-(3) Lesenden Zugriff auf das Register haben die nach den §§ 184, 185, 188, 190 und 191 zuständigen Behörden, die nach § 24 des Atomgesetzes zuständigen Behörden, das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Lesenden Zugriff haben zum Zweck der sofortigen Ermittlung eines Inhabers und der Eigenschaften einer hochradioaktiven Strahlenquelle auf Grund von Fund, Verlust oder der Gefahr missbräuchlicher Verwendung und bei Hinweisen und Ermittlungen im Zusammenhang mit der Bekämpfung des Nuklearterrorismus oder der Nuklearkriminalität sowie des Nuklearschmuggels oder des sonstigen illegalen grenzüberschreitenden Verbringens hochradioaktiver Strahlenquellen auch das Bundeskriminalamt und die Landeskriminalämter, die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, das Zollkriminalamt und die Verfassungsschutzbehörden des Bundes und der Länder gemäß ihren jeweiligen gesetzlichen Zuständigkeiten.
+(3) Lesenden Zugriff auf das Register haben die nach den §§ 184, 185, 188, 190 und 191 zuständigen Behörden, die nach § 24 des Atomgesetzes zuständigen Behörden, das Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe. Lesenden Zugriff haben zum Zweck der sofortigen Ermittlung eines Inhabers und der Eigenschaften einer hochradioaktiven Strahlenquelle auf Grund von Fund, Verlust oder der Gefahr missbräuchlicher Verwendung und bei Hinweisen und Ermittlungen im Zusammenhang mit der Bekämpfung des Nuklearterrorismus oder der Nuklearkriminalität sowie des Nuklearschmuggels oder des sonstigen illegalen grenzüberschreitenden Verbringens hochradioaktiver Strahlenquellen auch das Bundeskriminalamt und die Landeskriminalämter, die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde, das Zollkriminalamt und die Verfassungsschutzbehörden des Bundes und der Länder gemäß ihren jeweiligen gesetzlichen Zuständigkeiten.
 
 (4) Auskünfte aus dem Register dürfen erteilt werden
 

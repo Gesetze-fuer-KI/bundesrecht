@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 6 G v. 25.9.2026 I Nr. 275
 ausfertigung: '2002-04-22'
 quelle: https://www.gesetze-im-internet.de/findag/
 doknr: BJNR131010002
-builddate: '20261013215501'
+builddate: '20261027220037'
 ---
 
 # Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht (FinDAG)

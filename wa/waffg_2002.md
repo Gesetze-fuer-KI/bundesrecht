@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
 ausfertigung: '2002-10-11'
 quelle: https://www.gesetze-im-internet.de/waffg_2002/
 doknr: BJNR397010002
-builddate: '20260506174643'
+builddate: '20261027220057'
 ---
 
 # Waffengesetz (WaffG)
@@ -110,7 +110,7 @@ Die nach Landesrecht zuständigen Behörden sind vor der Entscheidung zu hören.
 
 (6) Zur Erforschung des Sachverhalts ist die zuständige Behörde befugt, in öffentlich zugänglichen Quellen zu recherchieren und diese Erkenntnisse insbesondere in die Prüfung nach den §§ 5 und 6 einfließen zu lassen.
 
-<!-- norm id="BJNE000508128" -->
+<!-- norm id="BJNE000509123" -->
 #### § 5 Zuverlässigkeit
 
 (1) Die erforderliche Zuverlässigkeit besitzen Personen nicht,
@@ -152,12 +152,12 @@ Die nach Landesrecht zuständigen Behörden sind vor der Entscheidung zu hören.
 
 - 1\. die unbeschränkte Auskunft aus dem Bundeszentralregister;
 - 2\. die Auskunft aus dem zentralen staatsanwaltschaftlichen Verfahrensregister hinsichtlich der in Absatz 2 Nummer 1 genannten Straftaten;
-- 3\. die Stellungnahmen der zuständigen Behörde der Landespolizei oder der zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes sowie der in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde und des Zollkriminalamtes sowie, soweit im Einzelfall erforderlich, des Bundeskriminalamtes (Bedarfsabfragebehörde), ob Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit begründen; die zuständige Behörde der Landespolizei oder die zentrale Polizeidienststelle oder das zuständige Landeskriminalamt und die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde schließen in ihre Stellungnahme das Ergebnis der von ihnen vorzunehmenden Prüfung nach Absatz 2 Nummer 4 ein;
+- 3\. die Stellungnahmen der zuständigen Behörde der Landespolizei oder der zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes sowie der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde und des Zollkriminalamtes sowie, soweit im Einzelfall erforderlich, des Bundeskriminalamtes (Bedarfsabfragebehörde), ob Tatsachen vorliegen, die Bedenken gegen die Zuverlässigkeit begründen; die zuständige Behörde der Landespolizei oder die zentrale Polizeidienststelle oder das zuständige Landeskriminalamt und die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde schließen in ihre Stellungnahme das Ergebnis der von ihnen vorzunehmenden Prüfung nach Absatz 2 Nummer 4 ein;
 - 4\. die Auskunft der für den Wohnsitz der betroffenen Person zuständigen Verfassungsschutzbehörde, ob Tatsachen bekannt sind, die Bedenken gegen die Zuverlässigkeit nach Absatz 2 Nummer 2 und 3 begründen; liegt der Wohnsitz der betroffenen Person außerhalb des Geltungsbereichs dieses Gesetzes, ist das Bundesamt für Verfassungsschutz für die Erteilung der Auskunft zuständig.
 
 Die nach Satz 1 Nummer 2 erhobenen personenbezogenen Daten dürfen nur für den Zweck der waffenrechtlichen Zuverlässigkeitsprüfung verwendet werden.
 
-<!-- norm id="BJNE000603123" -->
+<!-- norm id="BJNE000604123" -->
 #### § 6 Persönliche Eignung
 
 (1) Die erforderliche persönliche Eignung besitzen Personen nicht, wenn Tatsachen die Annahme rechtfertigen, dass sie
@@ -170,7 +170,7 @@ Die erforderliche persönliche Eignung besitzen in der Regel Personen nicht, wen
 
 - 1\. der zuständigen Behörde der Landespolizei oder der zentralen Polizeidienststelle oder des zuständigen Landeskriminalamtes,
 - 2\. der Polizeidienststellen der innegehabten Wohnsitze im Inland der betroffenen Person, beschränkt auf die letzten zehn Jahre vor Durchführung der Prüfung der persönlichen Eignung,
-- 3\. der in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde,
+- 3\. der in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmten Bundespolizeibehörde,
 - 4\. des Zollkriminalamtes.
 
 Der persönlichen Eignung können auch im Erziehungsregister eingetragene Entscheidungen oder Anordnungen nach § 60 Abs. 1 Nr. 1 bis 7 des Bundeszentralregistergesetzes entgegenstehen.

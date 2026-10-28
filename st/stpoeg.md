@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 8.12.2025 I Nr. 319
 ausfertigung: '1877-02-01'
 quelle: https://www.gesetze-im-internet.de/stpoeg/
 doknr: BJNR003460877
-builddate: '20260506174513'
+builddate: '20261027220005'
 ---
 
 # Einführungsgesetz zur Strafprozeßordnung (StPOEG)
