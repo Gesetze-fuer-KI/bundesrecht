@@ -3,16 +3,16 @@ abkuerzung: BinSchAufgG
 jurabk: BinSchG
 titel: Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt
 kurztitel: Binnenschiffahrtsaufgabengesetz
-stand: Geändert durch Art. 14 G v. 22.12.2023 I Nr. 409
+stand: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 320
 ausfertigung: '1956-02-15'
 quelle: https://www.gesetze-im-internet.de/binschg/
 doknr: BJNR203170956
-builddate: '20261027220045'
+builddate: '20261028220008'
 ---
 
 # Gesetz über die Aufgaben des Bundes auf dem Gebiet der Binnenschiffahrt (BinSchAufgG)
 
-Stand: Geändert durch Art. 14 G v. 22.12.2023 I Nr. 409
+Stand: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 320
 
 Quelle: <https://www.gesetze-im-internet.de/binschg/>
 
@@ -346,7 +346,7 @@ durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- 
 
 (13) Die Absätze 1 bis 12 sind nicht auf Seeschifffahrtsstraßen anzuwenden.
 
-<!-- norm id="BJNE001213119" -->
+<!-- norm id="BJNE001214119" -->
 ## § 9 Binnenschiffsbestandsdatei
 
 (1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine zentrale Binnenschiffsbestandsdatei über Wasserfahrzeuge einschließlich Schwimmkörper und schwimmender Anlagen sowie über deren Eigentümer und Ausrüster
@@ -382,8 +382,9 @@ durch die zuständigen Organe und Einrichtungen der Europäischen Union, über- 
   an die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder der Polizeidienststellen der Länder, an die obersten Dienststellen der Wasser- und Schifffahrtsverwaltungen der Länder, an die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation und an die jeweilige deutsche Niederlassung der im Anhang VII der Anlage zur Binnenschiffsuntersuchungsordnung aufgeführten Klassifikationsgesellschaften,
 - 2\. Überprüfung von Angaben, die im Zusammenhang mit der Beantragung und Ausstellung der in Artikel 2 Absatz 3 der Revidierten Rheinschifffahrtsakte genannten Urkunde gemacht werden, an die vom Bundesministerium für Digitales und Verkehr zu bestimmende Stelle,
 - 3\. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr oder sonst im Zusammenhang mit Wasserfahrzeugen oder Dokumenten, die das Schiff, seine Ladung oder Besatzung betreffen, stehen, oder Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte, Staatsanwaltschaften, das Bundeskriminalamt als Strafverfolgungsbehörde, die Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der Polizeidienststellen der Länder,
-- 4\. Überprüfung von Angaben in Zusammenhang mit den Regelungen des Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
-- 5\. Durchführung der Marktbeobachtung nach § 14 des Güterkraftverkehrsgesetzes an das Bundesamt für Logistik und Mobilität
+- 4\. Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel 5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an Staatsanwaltschaften und das Bundeskriminalamt,
+- 5\. Überprüfung von Angaben in Zusammenhang mit den Regelungen des Energiesteuergesetzes oder der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen über den Bezug von steuerbegünstigten Kraftstoffen für die Schifffahrt an Dienststellen der Zollverwaltung des Bundes,
+- 6\. Durchführung der Marktbeobachtung nach § 14 des Güterkraftverkehrsgesetzes an das Bundesamt für Logistik und Mobilität
 
 übermittelt werden.
 
@@ -473,7 +474,7 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 (8) Bis zur Errichtung der Datei nach Absatz 1 dürfen die Daten nach Absatz 2 von der Generaldirektion Wasserstraßen und Schifffahrt erhoben und in den bestehenden regionalen Dateien gespeichert und genutzt werden.
 
-<!-- norm id="BJNE002108119" -->
+<!-- norm id="BJNE002109119" -->
 ## § 12 Verzeichnis über Kleinfahrzeuge
 
 (1) Jedes Wasserstraßen- und Schifffahrtsamt führt ein Verzeichnis über Wasserfahrzeuge mit einer Länge von weniger als 20 Meter (Kleinfahrzeuge), für die von ihm ein Kennzeichen zugeteilt wurde, zur
@@ -495,11 +496,12 @@ Die Übermittlung ist nur zulässig, wenn die betroffene Person kein überwiegen
 
 (3) Das Bundesministerium für Digitales und Verkehr wird ermächtigt, durch Rechtsverordnung das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2 zu bestimmen.
 
-(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen, soweit dies erforderlich ist, zum Zwecke der
+(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen, soweit dies erforderlich ist, übermittelt werden zum Zwecke der
 
 - 1\. Durchführung von Verwaltungsaufgaben nach diesem Gesetz oder auf Grund dieses Gesetzes oder des Seeaufgabengesetzes erlassener Rechtsvorschriften an Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder an andere mit Aufgaben der Kennzeichnung betraute Stellen,
-- 2\. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, der Vollstreckung oder des Vollzuges von Maßnahmen im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches an Gerichte, Staatsanwaltschaften und das Bundeskriminalamt als Strafverfolgungsbehörde, oder
-- 3\. Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte und Staatsanwaltschaften übermittelt werden.
+- 2\. Verfolgung von Straftaten, die im Zusammenhang mit dem Schiffsverkehr stehen, der Vollstreckung oder des Vollzuges von Maßnahmen im Sinne des § 11 Absatz 1 Nummer 8 des Strafgesetzbuches an Gerichte, Staatsanwaltschaften und das Bundeskriminalamt als Strafverfolgungsbehörde,
+- 3\. Erfüllung der Aufgaben als Vermögensabschöpfungsstelle nach Artikel 5 der Richtlinie (EU) 2024/1260 in der Fassung vom 24. April 2024 an Staatsanwaltschaften und das Bundeskriminalamt,
+- 4\. Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an Gerichte und Staatsanwaltschaften.
 
 (5) Die Wasserstraßen- und Schifffahrtsämter übermitteln in regelmäßigen Abständen, mindestens jedoch alle drei Monate, die nach Absatz 2 gespeicherten Daten an das beim Präsidium der Wasserschutzpolizei Nordrhein-Westfalen zu führende Verzeichnis zur Durchführung schifffahrts- oder hafenpolizeilicher Vollzugsaufgaben.
 

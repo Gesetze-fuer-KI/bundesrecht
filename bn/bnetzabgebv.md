@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 V v. 17.2.2025 I Nr. 42
 ausfertigung: '2021-08-19'
 quelle: https://www.gesetze-im-internet.de/bnetzabgebv/
 doknr: BJNR371500021
-builddate: '20260721215503'
+builddate: '20261028220014'
 ---
 
 # Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Energie für individuell zurechenbare öffentliche Leistungen der Bundesnetzagentur (BNetzABGebV)

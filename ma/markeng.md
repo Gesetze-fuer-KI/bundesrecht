@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1994-10-25'
 quelle: https://www.gesetze-im-internet.de/markeng/
 doknr: BJNR308210994
-builddate: '20261027220054'
+builddate: '20261028220011'
 ---
 
 # Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)
@@ -20,9 +20,11 @@ Quelle: <https://www.gesetze-im-internet.de/markeng/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.1.1995 +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EWGRL 104/89 (CELEX Nr: 389L0104) +++)
+>
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.1.2026 I Nr. 9 +++)
 > ```
 >

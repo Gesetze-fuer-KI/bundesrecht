@@ -3,16 +3,16 @@ abkuerzung: RED-G
 jurabk: RED-G
 titel: Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus
 kurztitel: Rechtsextremismus-Datei-Gesetz
-stand: Zuletzt geändert durch Art. 2 Abs. 2 G v. 30.3.2021 I 402
+stand: Zuletzt geändert Art. 12 Abs. 5 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2012-08-20'
 quelle: https://www.gesetze-im-internet.de/red-g/
 doknr: BJNR179810012
-builddate: '20261027220040'
+builddate: '20261028220006'
 ---
 
 # Gesetz zur Errichtung einer standardisierten zentralen Datei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern zur Bekämpfung des gewaltbezogenen Rechtsextremismus (RED-G)
 
-Stand: Zuletzt geändert durch Art. 2 Abs. 2 G v. 30.3.2021 I 402
+Stand: Zuletzt geändert Art. 12 Abs. 5 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/red-g/>
 

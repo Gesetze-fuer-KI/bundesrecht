@@ -2,16 +2,16 @@
 abkuerzung: ESBO
 jurabk: ESBO
 titel: Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen
-stand: Zuletzt geändert durch Art. 519 V v. 31.8.2015 I 1474
+stand: Zuletzt geändert durch Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1972-02-25'
 quelle: https://www.gesetze-im-internet.de/esbo/
 doknr: BJNR002690972
-builddate: '20261027220004'
+builddate: '20261028220003'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen (ESBO)
 
-Stand: Zuletzt geändert durch Art. 519 V v. 31.8.2015 I 1474
+Stand: Zuletzt geändert durch Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/esbo/>
 
@@ -635,7 +635,7 @@ Die Vorschriften der §§ 47 bis 54 der EBO gelten entsprechend.
 
 Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 
-<!-- norm id="BJNE005103308" -->
+<!-- norm id="BJNE005104119" -->
 ## § 49 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer entgegen den Vorschriften des § 48 vorsätzlich  
@@ -653,7 +653,7 @@ Die Vorschriften der §§ 62 bis 64a der EBO gelten entsprechend.
 - 4\. eine Sache aus dem Wagen wirft, die geeignet ist, einen anderen zu verletzen oder eine Sache zu beschädigen, oder
 - 5\. eine Schranke oder eine sonstige Sicherungseinrichtung unerlaubt öffnet, ein Fahrthindernis bereitet oder eine andere betriebsstörende oder betriebsgefährdende Handlung vornimmt.
 
-(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
+(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
 <!-- norm id="BJNE005200304" -->
 ## § 50 Inkrafttreten

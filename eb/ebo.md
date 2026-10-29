@@ -2,16 +2,16 @@
 abkuerzung: EBO
 jurabk: EBO
 titel: Eisenbahn-Bau- und Betriebsordnung
-stand: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
+stand: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1967-05-08'
 quelle: https://www.gesetze-im-internet.de/ebo/
 doknr: BJNR215630967
-builddate: '20261027220047'
+builddate: '20261028220008'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)
 
-Stand: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
+Stand: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/ebo/>
 
@@ -1009,7 +1009,7 @@ Es ist verboten, Bahnanlagen, Betriebseinrichtungen oder Fahrzeuge zu beschädig
 
 Die Vorschriften der §§ 62 bis 64 gelten nicht für Bedienstete der Eisenbahnen in Ausübung ihres Dienstes.
 
-<!-- norm id="BJNE007406124" -->
+<!-- norm id="BJNE007407119" -->
 ### § 64b Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 28 des Allgemeinen Eisenbahngesetzes handelt, wer vorsätzlich
@@ -1029,7 +1029,7 @@ Die Vorschriften der §§ 62 bis 64 gelten nicht für Bedienstete der Eisenbahne
 - 5\. eine Schranke oder eine sonstige Sicherungseinrichtung unerlaubt öffnet, ein Fahrthindernis bereitet oder eine andere betriebsstörende oder betriebsgefährdende Handlung vornimmt oder
 - 6\. den Bahnübergang eines Privatwegs mit öffentlichem Verkehr anlegt und dem öffentlichen Verkehr überläßt, ohne dies mit dem Bahnunternehmer vereinbart oder ihm obliegende Sicherungsmaßnahmen durchgeführt zu haben.
 
-(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 58 Abs. 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
+(3) Die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach den Absätzen 1 und 2 wird im Bereich der Eisenbahnen des Bundes auf die in der Rechtsverordnung nach § 93 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde übertragen.
 
 <!-- norm id="BJNE009500308" -->
 ### § 65 Übergangsregelung

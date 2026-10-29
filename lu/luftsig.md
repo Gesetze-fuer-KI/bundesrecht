@@ -2,16 +2,16 @@
 abkuerzung: LuftSiG
 jurabk: LuftSiG
 titel: Luftsicherheitsgesetz
-stand: Zuletzt geändert durch Art. 1 G v. 11.3.2026 I Nr. 68
+stand: Zuletzt geändert durch Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2005-01-11'
 quelle: https://www.gesetze-im-internet.de/luftsig/
 doknr: BJNR007810005
-builddate: '20261027220019'
+builddate: '20261028220003'
 ---
 
 # Luftsicherheitsgesetz (LuftSiG)
 
-Stand: Zuletzt geändert durch Art. 1 G v. 11.3.2026 I Nr. 68
+Stand: Zuletzt geändert durch Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/luftsig/>
 
@@ -359,7 +359,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 
 (3) § 27 Abs. 2 des Luftverkehrsgesetzes bleibt unberührt.
 
-<!-- norm id="BJNE001301308" -->
+<!-- norm id="BJNE001302119" -->
 ### § 12 Aufgaben und Befugnisse des verantwortlichen Luftfahrzeugführers
 
 (1) Der verantwortliche Luftfahrzeugführer hat als Beliehener für die Aufrechterhaltung der Sicherheit und Ordnung an Bord des im Flug befindlichen Luftfahrzeuges zu sorgen. Er ist nach Maßgabe von Absatz 2 und der sonst geltenden Gesetze befugt, die erforderlichen Maßnahmen zu treffen.
@@ -371,7 +371,7 @@ entspricht. Die Standards nach Satz 2 Nummer 1 gelten als erfüllt, wenn die Sic
 - 3\. eine Person oder Sachen durchsuchen,
 - 4\. eine Person fesseln, wenn Tatsachen die Annahme rechtfertigen, dass die Person den Luftfahrzeugführer oder Dritte angreifen oder Sachen beschädigen wird.
 
-(3) Zur Durchsetzung der Maßnahmen darf der Luftfahrzeugführer Zwangsmittel anwenden. Die Anwendung körperlicher Gewalt ist nur zulässig, wenn andere Zwangsmittel nicht in Betracht kommen, keinen Erfolg versprechen oder unzweckmäßig sind. Der Gebrauch von Schusswaffen ist Polizeivollzugsbeamten, insbesondere denjenigen der Bundespolizei nach § 4a des Bundespolizeigesetzes vorbehalten.
+(3) Zur Durchsetzung der Maßnahmen darf der Luftfahrzeugführer Zwangsmittel anwenden. Die Anwendung körperlicher Gewalt ist nur zulässig, wenn andere Zwangsmittel nicht in Betracht kommen, keinen Erfolg versprechen oder unzweckmäßig sind. Der Gebrauch von Schusswaffen ist Polizeivollzugsbeamten, insbesondere denjenigen der Bundespolizei nach § 5 des Bundespolizeigesetzes vorbehalten.
 
 (4) Alle an Bord befindlichen Personen haben den Anordnungen des Luftfahrzeugführers oder seiner Beauftragten nach Absatz 2 Folge zu leisten.
 

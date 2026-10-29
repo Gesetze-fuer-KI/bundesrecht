@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 3 V v. 24.6.2026 I Nr. 193
 ausfertigung: '2014-01-02'
 quelle: https://www.gesetze-im-internet.de/designv/
 doknr: BJNR001810014
-builddate: '20261027220003'
+builddate: '20261028220001'
 ---
 
 # Verordnung zur Ausführung des Designgesetzes (DesignV)
@@ -20,7 +20,12 @@ Quelle: <https://www.gesetze-im-internet.de/designv/>
 >
 > ```text
 > (+++ Textnachweis ab: 10.1.2014 +++)
+>
 > (+++ Zur Anwendung vgl. § 27 +++)
+>
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+> Umsetzung der
+> EURL 2024/2823 (CELEX Nr: 32024L2823) vgl. G v. 22.10.2026 I Nr. 322 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 2.1.2014 I 18 vom Bundesministerium der Justiz und für Verbraucherschutz beschlossen. Sie ist gem. Art. 6 Abs. 1 Satz 1 dieser V am 10.1.2014 in Kraft getreten.

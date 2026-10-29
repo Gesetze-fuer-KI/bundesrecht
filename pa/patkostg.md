@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
 ausfertigung: '2001-12-13'
 quelle: https://www.gesetze-im-internet.de/patkostg/
 doknr: BJNR365610001
-builddate: '20261027220057'
+builddate: '20261028220013'
 ---
 
 # Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (PatKostG)
@@ -20,6 +20,10 @@ Quelle: <https://www.gesetze-im-internet.de/patkostg/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.1.2002 +++)
+>
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+> Umsetzung der
+> EURL 2024/2823 (CELEX Nr: 32024L2823) vgl. G v. 22.10.2026 I Nr. 322 +++)
 > ```
 >
 > Das G wurde als Artikel 1 d. G 424-4-9/1 v. 13.12.2001 I 3656 vom Bundestag beschlossen. Es ist gem. Art. 30 Abs. 1 am 1.1.2002 in Kraft getreten. Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen, sind am 20.12.2001 in Kraft getreten.

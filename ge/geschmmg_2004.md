@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 10 G v. 10.8.2021 I 3490
 ausfertigung: '2004-03-12'
 quelle: https://www.gesetze-im-internet.de/geschmmg_2004/
 doknr: BJNR039010004
-builddate: '20261027220029'
+builddate: '20261028220004'
 ---
 
 # Gesetz über den rechtlichen Schutz von Design (DesignG)
@@ -20,10 +20,12 @@ Quelle: <https://www.gesetze-im-internet.de/geschmmg_2004/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.6.2004 +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EGRL 71/98 (CELEX Nr: 398L0071) vgl. G v. 12.3.2004 I 390 u.
-> G v. 10.10.2013 I 3799 +++)
+> G v. 10.10.2013 I 3799
+> EURL 2024/2823 (CELEX Nr: 32024L2823) vgl. G v. 22.10.2026 I Nr. 322 +++)
 > ```
 >
 > Dieses Gesetz dient der Umsetzung der Richtlinie 98/71/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über den rechtlichen Schutz von Mustern und Modellen (ABl. EG Nr. L 289 S. 28). Das G wurde als Artikel 1 d. G v. 12.3.2004 I 390 vom Bundestag beschlossen. Es tritt gem. Art. 6 Abs. 1 dieses G am 1.6.2004 in Kraft. Gem. Art. 6 Abs. 2 treten § 26, § 52 Abs. 2 und § 63 Abs. 2 mWv 19.3.2004 in Kraft.  

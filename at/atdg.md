@@ -3,16 +3,16 @@ abkuerzung: ATDG
 jurabk: ATDG
 titel: Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern
 kurztitel: Antiterrordateigesetz
-stand: Zuletzt geändert durch Art. 2 Abs. 1 G v. 30.3.2021 I 402
+stand: Zuletzt geändert durch Art. 12 Abs. 6 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2006-12-22'
 quelle: https://www.gesetze-im-internet.de/atdg/
 doknr: BJNR340910006
-builddate: '20261027220056'
+builddate: '20261028220013'
 ---
 
 # Gesetz zur Errichtung einer standardisierten zentralen Antiterrordatei von Polizeibehörden und Nachrichtendiensten von Bund und Ländern (ATDG)
 
-Stand: Zuletzt geändert durch Art. 2 Abs. 1 G v. 30.3.2021 I 402
+Stand: Zuletzt geändert durch Art. 12 Abs. 6 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/atdg/>
 

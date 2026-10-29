@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 1a G v. 16.4.2026 I Nr. 107
 ausfertigung: '2003-12-24'
 quelle: https://www.gesetze-im-internet.de/sgb_2/
 doknr: BJNR295500003
-builddate: '20260714215503'
+builddate: '20261028220010'
 ---
 
 # Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende (SGB 2)

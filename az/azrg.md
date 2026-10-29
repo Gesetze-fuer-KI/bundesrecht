@@ -3,16 +3,16 @@ abkuerzung: AZRG
 jurabk: AZRG
 titel: Gesetz über das Ausländerzentralregister
 kurztitel: AZR-Gesetz
-stand: Zuletzt geändert durch Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
+stand: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1994-09-02'
 quelle: https://www.gesetze-im-internet.de/azrg/
 doknr: BJNR226500994
-builddate: '20261027220048'
+builddate: '20261028220009'
 ---
 
 # Gesetz über das Ausländerzentralregister (AZRG)
 
-Stand: Zuletzt geändert durch Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
+Stand: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/azrg/>
 

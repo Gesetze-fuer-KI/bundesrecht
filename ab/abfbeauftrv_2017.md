@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
 ausfertigung: '2016-12-02'
 quelle: https://www.gesetze-im-internet.de/abfbeauftrv_2017/
 doknr: BJNR278900016
-builddate: '20260811215506'
+builddate: '20261028220010'
 ---
 
 # Verordnung über Betriebsbeauftragte für Abfall (AbfBeauftrV)
@@ -20,7 +20,9 @@ Quelle: <https://www.gesetze-im-internet.de/abfbeauftrv_2017/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.6.2017 +++)
+>
 > (+++ Zur Anwendung vgl. § 10 Abs. 1) +++)
+>
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2025 I Nr. 233 +++)
 > ```
 >

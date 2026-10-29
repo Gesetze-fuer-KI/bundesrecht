@@ -6,7 +6,7 @@ kurztitel: KI-Marktüberwachungs-und-Innovationsförderungs-Gesetz
 ausfertigung: '2026-07-22'
 quelle: https://www.gesetze-im-internet.de/ki-mig/
 doknr: BJNR0DF0B0026
-builddate: '20260729215513'
+builddate: '20261028220005'
 ---
 
 # Gesetz zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz (KI-MIG)
@@ -16,7 +16,9 @@ Quelle: <https://www.gesetze-im-internet.de/ki-mig/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text dokumentarisch noch nicht bearbeitet +++)
+> (+++ Textnachweis ab: 29.7.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.07.2026 I Nr. 223 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 22.7.2026 I Nr. 223 vom Bundestag beschlossen. Es tritt gem. Art. 5 dieses G am 29.7.2026 in Kraft.

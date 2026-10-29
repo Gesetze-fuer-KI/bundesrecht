@@ -1,62 +1,22 @@
-Stand 2026-10-28: 58 geändert, 1 neu, 1 entfernt
+Stand 2026-10-29: 20 geändert, 0 neu, 0 entfernt
 
-- AMG: zuletzt geändert durch Art. 2 Abs. 4 G v. 12.5.2026 I Nr. 143
-- AO: zuletzt geändert durch Art. 15 Abs. 6 G v. 3.7.2026 I Nr. 199
-- ArbGG: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
-- ATDG: Zuletzt geändert durch Art. 2 Abs. 1 G v. 30.3.2021 I 402
-- AufenthG: zuletzt geändert durch Art. 5 G v. 22.10.2026 I Nr. 318
-- AufenthV: Zuletzt geändert durch Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
-- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v 22.10.2026 I Nr. 318
-- AZRG-DV: Zuletzt geändert durch Art. 15 G v. 22.7.2026 I Nr. 222
-- BBesG: Zuletzt geändert durch Art. 12 Abs. 18 G v. 22.10.2026 I Nr. 318
-- BDBOSG: Zuletzt geändert durch Art. 12 Abs. 17 G v. 22.10.2026 I Nr. 318
-- BeschussV: Zuletzt geändert durch Art. 1 V v. 1.10.2021 I 4622
-- BfJG: Zuletzt geändert durch Art. 3 G v. 30.9.2025 I Nr. 233
-- BGBEG: zuletzt geändert durch Art. 16 G v. 22.10.2026 I Nr. 321
-- BinSchAufgG: Geändert durch Art. 14 G v. 22.12.2023 I Nr. 409
-- BKAG: Zuletzt geändert durch Art. 11 G v. 23.4.2026 I Nr. 111
-- BPolZV: Zuletzt geändert durch Art. 10 G v. 25.10.2024 I Nr. 332
-- BSIG: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 318
-- BtMG: zuletzt geändert durch Art. 1 V v. 19.5.2026 I Nr. 150
+- AABG: geändert
+- AbfBeauftrV: Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
+- ATDG: Zuletzt geändert durch Art. 12 Abs. 6 G v. 22.10.2026 I Nr. 318
+- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
+- BinSchAufgG: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 320
+- BNetzABGebV: Zuletzt geändert durch Art. 2 V v. 17.2.2025 I Nr. 42
 - DesignG: Zuletzt geändert durch Art. 10 G v. 10.8.2021 I 3490
 - DesignV: Zuletzt geändert durch Art. 3 V v. 24.6.2026 I Nr. 193
-- EBO: Zuletzt geändert durch Art. 22 G v. 22.7.2026 I Nr. 224
-- ESBO: Zuletzt geändert durch Art. 519 V v. 31.8.2015 I 1474
-- FamFG: Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192
-- FGO: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
-- FinDAG: Zuletzt geändert durch Art. 6 G v. 25.9.2026 I Nr. 275
-- FreizügG/EU: Zuletzt geändert durch Art. 10 G v. 22.10.2026 I Nr. 318
-- GenDG: Zuletzt geändert durch Art. 15 Abs. 4 G v. 4.5.2021 I 882
-- GenTG: zuletzt geändert durch Art. 8 Abs. 7 G v. 27.9.2021 I 4530
-- GÜG: Zuletzt geändert durch Art. 10 G v. 22.12.2025 I Nr. 371
-- GVG: zuletzt geändert durch Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95
-- HGBEG: Zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 323
-- HSeeZG: Zuletzt geändert durch Art. 12 Abs. 19 G v. 22.10.2026 I Nr. 318
-- IRG: zuletzt geändert durch Art. 2 G v. 10.2.2026 I Nr. 39
-- KCanG: Geändert durch Art. 1 G v. 20.6.2024 I Nr. 207
-- LuftSiG: Zuletzt geändert durch Art. 1 G v. 11.3.2026 I Nr. 68
+- EBO: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
+- ESBO: Zuletzt geändert durch Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318
+- GGAV 2002: zuletzt geändert durch Art. 3 V v. 19.6.2025 I Nr. 147
+- KI-MIG: geändert
+- LuftSiG: Zuletzt geändert durch Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318
 - MarkenG: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
-- NpSG: Zuletzt geändert durch Art. 1 G v. 7.1.2026 I Nr. 2
-- OWiG: Zuletzt geändert durch Art. 21 G v. 22.12.2025 I Nr. 349
-- PassG: zuletzt geändert durch Art. 2 G v. 16.7.2026 I Nr. 213
 - PatKostG: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
-- ProdHaftG: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 321
-- RED-G: Zuletzt geändert durch Art. 2 Abs. 2 G v. 30.3.2021 I 402
-- SGG: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
-- StPO: zuletzt geändert durch Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95
-- StPOEG: Zuletzt geändert durch Art. 4 G v. 8.12.2025 I Nr. 319
-- StrlSchG: Zuletzt geändert durch Art. 4 G v. 23.10.2024 I Nr. 324
-- StVG: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
-- StVollzG: Zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 349
-- SÜG: Zuletzt geändert durch Art. 4 G v. 9.1.2026 I Nr. 7
-- TKG: Zuletzt geändert durch Art. 6 V v. 6.10.2026 I Nr. 289
-- TKÜV: Zuletzt geändert durch Art. 11 G v. 9.1.2026 I Nr. 7
+- RED-G: Zuletzt geändert Art. 12 Abs. 5 G v. 22.10.2026 I Nr. 318
+- SGB 2: zuletzt geändert durch Art. 1a G v. 16.4.2026 I Nr. 107
+- TKG: Zuletzt geändert durch Art. 12 Abs. 15 G v. 22.10.2026 I Nr. 318
+- TKÜV: Zuletzt geändert durch Art. 9 G v. 22.10.2026 I Nr. 318
 - UWG: Zuletzt geändert durch Art. 6 G v. 12.5.2026 I Nr. 139
-- VwGO: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
-- WaffG: Zuletzt geändert durch Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
-- WissFG: Zuletzt geändert durch Art. 153 V v. 19.6.2020 I 1328
-- ZFdG: Zuletzt geändert durch Art. 14 G v. 9.4.2026 I Nr. 97
-- ZollVG: Zuletzt geändert durch Art. 2 Abs. 8 G v. 20.3.2026 I Nr. 95
-- ZPOEG: Zuletzt geändert durch Art. 17 G v. 8.12.2025 I Nr. 319
-- neu: BPolG (Gesetz über die Bundespolizei)
-- entfernt: bgsg_1994
