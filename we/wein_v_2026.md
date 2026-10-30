@@ -5,7 +5,7 @@ titel: Weinüberwachungsverordnung
 ausfertigung: '2026-08-24'
 quelle: https://www.gesetze-im-internet.de/wein_v_2026/
 doknr: BJNR0F30B0026
-builddate: '20260901215503'
+builddate: '20261029220013'
 ---
 
 # Weinüberwachungsverordnung (WeinÜV)
@@ -15,7 +15,9 @@ Quelle: <https://www.gesetze-im-internet.de/wein_v_2026/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+> (+++ Textnachweis ab: 2.9.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 24.08.2026 I Nr. 243 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 24.8.2026 I Nr. 243 vom Bundesministerium für Landwirtschaft, Ernährung und Heimat im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium für Wirtschaft und Energie und mit Zustimmung des Bundesrats erlassen. Sie tritt gem. Art. 6 dieser V am 2.9.2026 in Kraft.

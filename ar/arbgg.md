@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/arbgg/
 doknr: BJNR012670953
-builddate: '20261027220023'
+builddate: '20261029220010'
 ---
 
 # Arbeitsgerichtsgesetz (ArbGG)
@@ -1409,14 +1409,14 @@ Ein vor dem Schiedsgericht geschlossener Vergleich ist unter Angabe des Tages se
 
 (2) Zur Beilegung von Streitigkeiten zwischen Ausbildenden und Auszubildenden aus einem bestehenden Berufsausbildungsverhältnis können im Bereich des Handwerks die Handwerksinnungen, im übrigen die zuständigen Stellen im Sinne des Berufsbildungsgesetzes Ausschüsse bilden, denen Arbeitgeber und Arbeitnehmer in gleicher Zahl angehören müssen. Der Ausschuß hat die Parteien mündlich zu hören. Wird der von ihm gefällte Spruch nicht innerhalb einer Woche von beiden Parteien anerkannt, so kann binnen zwei Wochen nach ergangenem Spruch Klage beim zuständigen Arbeitsgericht erhoben werden. § 9 Abs. 5 gilt entsprechend. Der Klage muß in allen Fällen die Verhandlung vor dem Ausschuß vorangegangen sein. Aus Vergleichen, die vor dem Ausschuß geschlossen sind, und aus Sprüchen des Ausschusses, die von beiden Seiten anerkannt sind, findet die Zwangsvollstreckung statt. Die §§ 107 und 109 gelten entsprechend.
 
-<!-- norm id="BJNE014312131" -->
+<!-- norm id="BJNE014316131" -->
 ### § 112 Übergangsregelungen; Verordnungsermächtigung
 
 (1) Für Beschlussverfahren nach § 2a Absatz 1 Nummer 4, die bis zum Ablauf des 15. August 2014 anhängig gemacht worden sind, gilt § 97 in der an diesem Tag geltenden Fassung bis zum Abschluss des Verfahrens durch einen rechtskräftigen Beschluss fort.
 
 (2) § 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt entsprechend.
 
-(3) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen abweichend von den §§ 46c bis 46f bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 46c bis 46f in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+(3) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen abweichend von den §§ 46c bis 46g bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 abweichend von den §§ 46c bis 46g in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 46c bis 46g in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 (4) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend von § 46e Absatz 1 Satz 1 und Absatz 3 Satz 1 bis einschließlich 31. Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in Papierform angelegt oder elektronisch übermittelte Akten in Papierform geführt oder weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Bundesregierung kann die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die Landesregierungen können die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die für die Arbeitsgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 

@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 8.5.2024 I Nr. 153
 ausfertigung: '2005-08-16'
 quelle: https://www.gesetze-im-internet.de/ustatg_2005/
 doknr: BJNR244610005
-builddate: '20240521214025'
+builddate: '20261029220015'
 ---
 
 # Umweltstatistikgesetz (UStatG)

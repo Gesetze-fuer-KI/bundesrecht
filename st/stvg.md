@@ -2,16 +2,16 @@
 abkuerzung: StVG
 jurabk: StVG
 titel: Straßenverkehrsgesetz
-stand: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
+stand: zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 320
 ausfertigung: '1909-05-03'
 quelle: https://www.gesetze-im-internet.de/stvg/
 doknr: BJNR004370909
-builddate: '20261027220006'
+builddate: '20261029220004'
 ---
 
 # Straßenverkehrsgesetz (StVG)
 
-Stand: zuletzt geändert durch Art. 1 G v. 25.9.2026 I Nr. 276
+Stand: zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 320
 
 Quelle: <https://www.gesetze-im-internet.de/stvg/>
 
@@ -29,7 +29,8 @@ Quelle: <https://www.gesetze-im-internet.de/stvg/>
 > EWGBes 465/93 (CELEX Nr: 31993D0465) vgl. G v. 22.4.1997 I 934
 > EWGRL 439/91 (CELEX Nr: 31991L0439) vgl. G v. 24.4.1998 I 747 +++)
 >
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.5.2026 I Nr. 142 +++)
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.5.2026 I Nr. 142 u.
+> G v. 22.10.2026 I Nr. 320 +++)
 >
 > Im Saarland eingeführt durch § 15 Buchst. q G v. 23.12.1956 I 1011
 > ```

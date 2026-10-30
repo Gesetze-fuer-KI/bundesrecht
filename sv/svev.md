@@ -3,16 +3,16 @@ abkuerzung: SvEV
 jurabk: SvEV
 titel: Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt
 kurztitel: Sozialversicherungsentgeltverordnung
-stand: Zuletzt geändert durch Art. 11 G v. 16.1.2026 I Nr. 14
+stand: Zuletzt geändert durch Art. 1 V v. 26.10.2026 I Nr. 324
 ausfertigung: '2006-12-21'
 quelle: https://www.gesetze-im-internet.de/svev/
 doknr: BJNR338510006
-builddate: '20260506174641'
+builddate: '20261029220018'
 ---
 
 # Verordnung über die sozialversicherungsrechtliche Beurteilung von Zuwendungen des Arbeitgebers als Arbeitsentgelt (SvEV)
 
-Stand: Zuletzt geändert durch Art. 11 G v. 16.1.2026 I Nr. 14
+Stand: Zuletzt geändert durch Art. 1 V v. 26.10.2026 I Nr. 324
 
 Quelle: <https://www.gesetze-im-internet.de/svev/>
 

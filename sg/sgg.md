@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/sgg/
 doknr: BJNR012390953
-builddate: '20261027220022'
+builddate: '20261029220009'
 ---
 
 # Sozialgerichtsgesetz (SGG)
@@ -2020,10 +2020,10 @@ Verfahren in Streitigkeiten über Entscheidungen von Vergabekammern, die Rechtsb
 
 (3) Verfahren gegen Entscheidungen der Schiedsstellen nach den §§ 125, 131 und 134a des Fünften Buches Sozialgesetzbuch, der Schlichtungsstelle nach § 319 des Fünften Buches Sozialgesetzbuch, des Qualitätsausschusses nach § 113b Absatz 1 des Elften Buches Sozialgesetzbuch und des erweiterten Qualitätsausschusses nach § 113b Absatz 3 des Elften Buches Sozialgesetzbuch sowie Klagen, welche die Mitwirkung an den Richtlinien des Medizinischen Dienstes Bund betreffen (§ 17 Absatz 1, §§ 18b, 112a Absatz 2, § 114a Absatz 7 und § 114c Absatz 1 des Elften Buches Sozialgesetzbuch in der am 31. Dezember 2022 geltenden Fassung), die am 1. Januar 2023 anhängig sind, gehen in dem Stadium, in dem sie sich befinden, auf das Landessozialgericht Berlin-Brandenburg über. Satz 1 gilt nicht für Verfahren, die sich in der Hauptsache erledigt haben.
 
-<!-- norm id="BJNE026407131" -->
+<!-- norm id="BJNE026409131" -->
 ### § 211
 
-(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 65a bis 65d in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 65a bis 65d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+(1) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 65a bis 65d in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 abweichend von den §§ 65a bis 65d in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 65a bis 65d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 (2) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend von § 65b Absatz 1 Satz 1 und Absatz 2 Satz 1 bis einschließlich 31. Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in Papierform angelegt oder elektronisch übermittelte Akten in Papierform geführt oder weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Bundesregierung kann die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die zuständigen Bundesministerien übertragen. Die Landesregierungen können die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die für die Sozialgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 

@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
 ausfertigung: '1960-01-21'
 quelle: https://www.gesetze-im-internet.de/vwgo/
 doknr: BJNR000170960
-builddate: '20261027220001'
+builddate: '20261029220002'
 ---
 
 # Verwaltungsgerichtsordnung (VwGO)
@@ -1899,10 +1899,10 @@ Bei den Verwaltungsgerichten dürfen bis zum Ablauf des 31. Dezember 2025 abweic
 - 1\. zwei abgeordnete Richter auf Lebenszeit oder
 - 2\. ein abgeordneter Richter auf Lebenszeit und entweder ein Richter auf Probe oder ein Richter kraft Auftrags.
 
-<!-- norm id="BJNE019706125" -->
+<!-- norm id="BJNE019708131" -->
 ### § 177
 
-Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 55a bis 55d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 <!-- norm id="BJNE020001308" -->
 ### (XXXX) §§ 178 und 179

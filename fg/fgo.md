@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
 ausfertigung: '1965-10-06'
 quelle: https://www.gesetze-im-internet.de/fgo/
 doknr: BJNR014770965
-builddate: '20261027220024'
+builddate: '20261029220011'
 ---
 
 # Finanzgerichtsordnung (FGO)
@@ -1540,10 +1540,10 @@ Soweit der Finanzrechtsweg auf Grund des § 33 Abs. 1 Nr. 4 eröffnet wird, kön
 
 (Aufhebung von Vorschriften)
 
-<!-- norm id="BJNE021601125" -->
+<!-- norm id="BJNE021602131" -->
 ### § 162
 
-Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von den §§ 52a bis 52d in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 <!-- norm id="BJNE017702125" -->
 ### (XXXX) §§ 163 bis 183 (weggefallen)

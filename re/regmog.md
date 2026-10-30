@@ -7,7 +7,7 @@ stand: Geändert durch Art. 17 G v. 28.6.2021 I 2250
 ausfertigung: '2021-03-28'
 quelle: https://www.gesetze-im-internet.de/regmog/
 doknr: BJNR059100021
-builddate: '20261001215507'
+builddate: '20261029220012'
 ---
 
 # Gesetz zur Einführung und Verwendung einer Identifikationsnummer in der öffentlichen Verwaltung und zur Änderung weiterer Gesetze (RegMoG)

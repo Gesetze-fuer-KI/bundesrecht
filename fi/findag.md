@@ -3,16 +3,16 @@ abkuerzung: FinDAG
 jurabk: FinDAG
 titel: Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht
 kurztitel: Finanzdienstleistungsaufsichtsgesetz
-stand: Zuletzt geändert durch Art. 6 G v. 25.9.2026 I Nr. 275
+stand: Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
 ausfertigung: '2002-04-22'
 quelle: https://www.gesetze-im-internet.de/findag/
 doknr: BJNR131010002
-builddate: '20261027220037'
+builddate: '20261029220014'
 ---
 
 # Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht (FinDAG)
 
-Stand: Zuletzt geändert durch Art. 6 G v. 25.9.2026 I Nr. 275
+Stand: Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
 
 Quelle: <https://www.gesetze-im-internet.de/findag/>
 

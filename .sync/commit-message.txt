@@ -1,22 +1,20 @@
-Stand 2026-10-29: 20 geändert, 0 neu, 0 entfernt
+Stand 2026-10-30: 18 geändert, 0 neu, 0 entfernt
 
-- AABG: geändert
-- AbfBeauftrV: Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
-- ATDG: Zuletzt geändert durch Art. 12 Abs. 6 G v. 22.10.2026 I Nr. 318
-- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
-- BinSchAufgG: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 320
-- BNetzABGebV: Zuletzt geändert durch Art. 2 V v. 17.2.2025 I Nr. 42
-- DesignG: Zuletzt geändert durch Art. 10 G v. 10.8.2021 I 3490
-- DesignV: Zuletzt geändert durch Art. 3 V v. 24.6.2026 I Nr. 193
-- EBO: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
-- ESBO: Zuletzt geändert durch Art. 12 Abs. 12 G v. 22.10.2026 I Nr. 318
-- GGAV 2002: zuletzt geändert durch Art. 3 V v. 19.6.2025 I Nr. 147
-- KI-MIG: geändert
-- LuftSiG: Zuletzt geändert durch Art. 12 Abs. 16 G v. 22.10.2026 I Nr. 318
-- MarkenG: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
-- PatKostG: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
-- RED-G: Zuletzt geändert Art. 12 Abs. 5 G v. 22.10.2026 I Nr. 318
-- SGB 2: zuletzt geändert durch Art. 1a G v. 16.4.2026 I Nr. 107
-- TKG: Zuletzt geändert durch Art. 12 Abs. 15 G v. 22.10.2026 I Nr. 318
-- TKÜV: Zuletzt geändert durch Art. 9 G v. 22.10.2026 I Nr. 318
-- UWG: Zuletzt geändert durch Art. 6 G v. 12.5.2026 I Nr. 139
+- AO: zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 320
+- ArbGG: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
+- BPolZV: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 318
+- FamFG: Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192
+- FGO: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
+- FinDAG: Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
+- PStV: Zuletzt geändert durch Art. 5 G v. 21.7.2026 I Nr. 221
+- RegMoG: Geändert durch Art. 17 G v. 28.6.2021 I 2250
+- SGG: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
+- StPOEG: Zuletzt geändert durch Art. 4 G v. 8.12.2025 I Nr. 319
+- StVG: zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 320
+- StVollzG: Zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 349
+- SÜG: Zuletzt geändert durch Art. 11 G v. 22.10.2026 I Nr. 318
+- SvEV: Zuletzt geändert durch Art. 1 V v. 26.10.2026 I Nr. 324
+- UStatG: Zuletzt geändert durch Art. 1 G v. 8.5.2024 I Nr. 153
+- VwGO: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
+- WeinÜV: geändert
+- ZPOEG: Zuletzt geändert durch Art. 17 G v. 8.12.2025 I Nr. 319

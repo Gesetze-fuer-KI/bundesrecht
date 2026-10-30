@@ -3,16 +3,16 @@ abkuerzung: SÜG
 jurabk: SÜG
 titel: Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes und den Schutz von Verschlusssachen
 kurztitel: Sicherheitsüberprüfungsgesetz
-stand: Zuletzt geändert durch Art. 4 G v. 9.1.2026 I Nr. 7
+stand: Zuletzt geändert durch Art. 11 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1994-04-20'
 quelle: https://www.gesetze-im-internet.de/s_g/
 doknr: BJNR086700994
-builddate: '20261027220033'
+builddate: '20261029220013'
 ---
 
 # Gesetz über die Voraussetzungen und das Verfahren von Sicherheitsüberprüfungen des Bundes und den Schutz von Verschlusssachen (SÜG)
 
-Stand: Zuletzt geändert durch Art. 4 G v. 9.1.2026 I Nr. 7
+Stand: Zuletzt geändert durch Art. 11 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/s_g/>
 

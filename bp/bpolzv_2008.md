@@ -2,16 +2,16 @@
 abkuerzung: BPolZV
 jurabk: BPolZV 2008
 titel: Verordnung über die Zuständigkeit der Bundespolizeibehörden
-stand: Zuletzt geändert durch Art. 10 G v. 25.10.2024 I Nr. 332
+stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2008-02-22'
 quelle: https://www.gesetze-im-internet.de/bpolzv_2008/
 doknr: BJNR025000008
-builddate: '20261027220028'
+builddate: '20261029220012'
 ---
 
 # Verordnung über die Zuständigkeit der Bundespolizeibehörden (BPolZV)
 
-Stand: Zuletzt geändert durch Art. 10 G v. 25.10.2024 I Nr. 332
+Stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/bpolzv_2008/>
 

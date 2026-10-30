@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192
 ausfertigung: '2008-12-17'
 quelle: https://www.gesetze-im-internet.de/famfg/
 doknr: BJNR258700008
-builddate: '20261027220050'
+builddate: '20261029220017'
 ---
 
 # Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG)
@@ -174,7 +174,7 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 (7) Über die Akteneinsicht entscheidet das Gericht, bei Kollegialgerichten der Vorsitzende.
 
-<!-- norm id="BJNE001513131" -->
+<!-- norm id="BJNE001519131" -->
 #### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
 
 (1) Die Gerichtsakten werden elektronisch geführt. § 298a Absatz 2 der Zivilprozessordnung gilt entsprechend. Die Bundesregierung und die Landesregierungen bestimmen jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen und dem Stand der Technik entsprechenden technischen Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der elektronischen Akten einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit. Die Landesregierungen können die Ermächtigung nach Satz 3 durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
@@ -185,11 +185,11 @@ Im Termin können die Beteiligten mit Beiständen erscheinen. Beistand kann sein
 
 (4) Akten, die in Papierform angelegt wurden, können in Papierform weitergeführt werden. Sie können ab einem bestimmten Stichtag oder Ereignis in elektronischer Form weitergeführt werden. Der Beginn der Weiterführung der Akten in elektronischer Form ist aktenkundig zu machen.
 
-(4a) Die Bundesregierung und die Landesregierungen können jeweils für ihren Bereich durch Rechtsverordnung bestimmen, dass Akten abweichend von § 14 Absatz 1 bis einschließlich 31. Dezember 2026 in Papierform angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2026 übermittelte elektronische Akten in Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in Papierform angelegt oder elektronisch übermittelte Akten in Papierform geführt oder weitergeführt werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der Zustimmung des Bundesrates. Die Landesregierungen können die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
+(4a) Die Landesregierungen können durch Rechtsverordnung bestimmen, dass Akten abweichend von Absatz 1 bis einschließlich 31. Dezember 2029 in Papierform angelegt sowie von anderer Stelle bis einschließlich 31. Dezember 2029 übermittelte elektronische Akten in Papierform geführt oder weitergeführt werden. Die Bestimmung kann auf einzelne Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, so kann in der Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt wird, in welchen Verfahren Akten in Papierform angelegt oder elektronisch übermittelte Akten in Papierform geführt oder weitergeführt werden. Die Landesregierungen können die in Satz 1 genannte Ermächtigung durch Rechtsverordnung auf die zuständigen obersten Landesbehörden übertragen.
 
 (5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger übertragen worden und liegt der schriftliche Nachweis darüber vor, dass die Wiedergabe mit der Urschrift übereinstimmt, so können Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke werden in diesem Fall bei dem Nachweis angebracht.
 
-(6) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+(6) Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 (7) Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung elektronischer Akten zwischen Behörden und Gerichten geltenden Standards bestimmen.
 

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 5 G v. 21.7.2026 I Nr. 221
 ausfertigung: '2008-11-22'
 quelle: https://www.gesetze-im-internet.de/pstv/
 doknr: BJNR226300008
-builddate: '20260806215513'
+builddate: '20261029220015'
 ---
 
 # Verordnung zur Ausführung des Personenstandsgesetzes (PStV)
