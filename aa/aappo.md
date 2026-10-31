@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 7.6.2023 I Nr. 148
 ausfertigung: '1989-07-19'
 quelle: https://www.gesetze-im-internet.de/aappo/
 doknr: BJNR014890989
-builddate: '20230930213522'
+builddate: '20261030220009'
 ---
 
 # Approbationsordnung für Apotheker (AAppO)

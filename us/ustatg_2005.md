@@ -2,16 +2,16 @@
 abkuerzung: UStatG
 jurabk: UStatG 2005
 titel: Umweltstatistikgesetz
-stand: Zuletzt geändert durch Art. 1 G v. 8.5.2024 I Nr. 153
+stand: Zuletzt geändert durch Art. 3 Abs. 7 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2005-08-16'
 quelle: https://www.gesetze-im-internet.de/ustatg_2005/
 doknr: BJNR244610005
-builddate: '20261029220015'
+builddate: '20261030220015'
 ---
 
 # Umweltstatistikgesetz (UStatG)
 
-Stand: Zuletzt geändert durch Art. 1 G v. 8.5.2024 I Nr. 153
+Stand: Zuletzt geändert durch Art. 3 Abs. 7 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/ustatg_2005/>
 
@@ -22,6 +22,7 @@ Quelle: <https://www.gesetze-im-internet.de/ustatg_2005/>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EURL 2020/2184 (CELEX Nr: 32020L2184) vgl. Bek. v. 24.1.2024 I Nr. 16 +++)
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G. v. 13.7.2026 I Nr. 207 +++)
 > ```
 >
 > Das G wurde als Art. 1 d. G v. 16.8.2005 I 2446 (UStatStraffG) vom Bundestag mit Zustimmung des Bundesrates erlassen. Es ist gem. Art. 2 Satz 1 dieses G am 20.8.2005 in Kraft getreten. Das G löst das UStatG v. 21.9.1994 I 2530 ab.
@@ -87,7 +88,7 @@ Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den zus
   - a) Art und Menge der Abfälle nach Herkunfts- und Empfängerstaat,
   - b) Art der Beseitigung und Verwertung.
 
-<!-- norm id="BJNE000503311" -->
+<!-- norm id="BJNE000504360" -->
 ## § 5 Erhebung der Entsorgung bestimmter Abfälle
 
 (1) Die Erhebung erfasst alle zwei Jahre, beginnend mit dem Berichtsjahr 2006, bei den Betreibern von Anlagen zur Aufbereitung und Verwertung von Bau- und Abbruchabfällen die Erhebungsmerkmale
@@ -99,40 +100,38 @@ Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den zus
 
 Erstreckt sich der Einsatz nicht stationärer Anlagen über mehrere Länder, werden die Erhebungsmerkmale getrennt für jedes Land erfasst.
 
-(2) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die Abfälle aus Verpackungen nach § 15 Absatz 1 Satz 1 des Verpackungsgesetzes in der jeweils geltenden Fassung sowie Abfälle aus pfandpflichtigen Einweggetränkeverpackungen nach § 31 Absatz 1 Satz 1 des Verpackungsgesetzes einsammeln oder entsorgen, die Erhebungsmerkmale Art, Menge und Verbleib dieser Abfälle aus Verpackungen.
+(2) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die Abfälle aus nicht systembeteiligungspflichtigen Verpackungen nach § 39 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes sowie Abfälle aus pfandpflichtigen Einweggetränkeverpackungen nach § 46 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes einsammeln oder entsorgen, die Erhebungsmerkmale Art, Menge und Verbleib dieser Abfälle aus Verpackungen.
 
 (3) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2006, bei den Unternehmen, Einrichtungen und öffentlich-rechtlichen Entsorgungsträgern, die mit der Sammlung, Behandlung oder Entsorgung von Elektro- und Elektronikaltgeräten nach dem Elektro- und Elektronikgerätegesetz vom 20. Oktober 2015 (BGBl. I S. 1739) in der jeweils geltenden Fassung befasst sind, die Erhebungsmerkmale Art, Menge und Verbleib der Geräte.
 
-<!-- norm id="BJNE001801128" -->
+<!-- norm id="BJNE001802360" -->
 ## § 5a Erhebung des Inverkehrbringens und der Entsorgung bestimmter Erzeugnisse
 
-(1) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei der Zentralen Stelle nach § 3 Absatz 18 des Verpackungsgesetzes folgende Erhebungsmerkmale:
+(1) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei der Zentralen Stelle Verpackungsregister nach § 3 Absatz 14 des Verpackungsrecht-Durchführungsgesetzes folgende Erhebungsmerkmale:
 
-- 1\. Materialart und Menge der erstmals in Verkehr gebrachten systembeteiligungspflichtigen Verpackungen nach § 3 Absatz 8 des Verpackungsgesetzes,
-- 2\. Materialart und Menge der Verpackungsabfälle, die bei den privaten Endverbrauchern nach § 3 Absatz 11 des Verpackungsgesetzes von den Systemen nach § 14 Absatz 1 Satz 1 des Verpackungsgesetzes gesammelt oder von den Branchenlösungen nach § 8 Absatz 1 Satz 1 des Verpackungsgesetzes zurückgenommen worden sind, gegliedert nach Ländern,
+- 1\. Materialart und Menge der erstmals im Bundesgebiet bereitgestellten systembeteiligungspflichtigen Verpackungen nach § 3 Absatz 6 des Verpackungsrecht-Durchführungsgesetzes,
+- 2\. Materialart und Menge der Verpackungsabfälle, die bei privaten Haushaltungen und vergleichbaren Anfallstellen nach § 3 Absatz 7 des Verpackungsrecht-Durchführungsgesetzes von den Systemen nach § 40 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes gesammelt oder von den Branchenlösungen nach § 8 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes zurückgenommen worden sind, gegliedert nach Ländern,
 - 3\. Verbleib und Entsorgung der Verpackungsabfälle nach Nummer 2.
 
 Die Erhebung wird vom Statistischen Bundesamt durchgeführt.
 
-(2) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei denjenigen, die eine gemeinschaftliche Nutzung von Mehrwegverpackungen nach § 3 Absatz 3 des Verpackungsgesetzes durch mehrere Unternehmen ermöglichen, folgende Erhebungsmerkmale:
+(2) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei denjenigen, die eine gemeinschaftliche Nutzung von wiederverwendbaren Verpackungen nach Artikel 11 Absatz 1 der Verordnung (EU) 2025/40 durch mehrere Unternehmen ermöglichen, folgende Erhebungsmerkmale, jeweils gegliedert nach Verkaufsverpackungen im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2025/40 und sonstigen wiederverwendbaren Verpackungen, soweit ihnen diese Daten vorliegen:
 
-- 1\. Art und Menge der erstmals an die teilnehmenden Unternehmen abgegebenen Mehrwegverpackungen,
-- 2\. Art und Menge der insgesamt im Verkehr befindlichen Mehrwegverpackungen,
-- 3\. Anzahl der Umläufe der Mehrwegverpackungen und
-- 4\. Art und Menge der als Abfall ausgesonderten Mehrwegverpackungen sowie deren Verbleib und Entsorgung,
+- 1\. Art und Menge der erstmals an die teilnehmenden Unternehmen abgegebenen wiederverwendbaren Verpackungen,
+- 2\. Art und Menge der insgesamt im Verkehr befindlichen wiederverwendbaren Verpackungen,
+- 3\. Anzahl der Umläufe der wiederverwendbaren Verpackungen und
+- 4\. Art und Menge der als Abfall ausgesonderten wiederverwendbaren Verpackungen sowie deren Verbleib und Entsorgung.
 
-jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1 des Verpackungsgesetzes und sonstigen Mehrwegverpackungen, soweit ihnen diese Daten vorliegen.
+(3) Die Erhebung erstreckt sich auf Hersteller nach Artikel 3 Absatz 1 Nummer 15 der Verordnung (EU) 2025/40, die mit Ware befüllte Verpackungen im Bundesgebiet bereitstellen. Die Erhebung wird beginnend mit dem Berichtsjahr 2023 alle zehn Jahre als Vollerhebung durchgeführt. In den dazwischenliegenden Jahren wird die Erhebung jährlich als Stichprobenerhebung durchgeführt. Hierfür erfolgt die Auswahl der Erhebungseinheiten nach mathematisch-statistischen Verfahren. § 6 Absatz 4 des Bundesstatistikgesetzes findet keine Anwendung. Die Erhebung erfasst folgende Erhebungsmerkmale:
 
-(3) Die Erhebung erstreckt sich auf Hersteller nach § 3 Absatz 14 des Verpackungsgesetzes, die mit Ware befüllte Verpackungen in Verkehr bringen. Die Erhebung wird beginnend mit dem Berichtsjahr 2023 alle zehn Jahre als Vollerhebung durchgeführt. In den dazwischenliegenden Jahren wird die Erhebung jährlich als Stichprobenerhebung durchgeführt. Hierfür erfolgt die Auswahl der Erhebungseinheiten nach mathematisch-statistischen Verfahren. § 6 Absatz 4 des Bundesstatistikgesetzes findet keine Anwendung. Die Erhebung erfasst folgende Erhebungsmerkmale:
+- 1\. Art und Menge der erstmals im Bundesgebiet bereitgestellten nicht systembeteiligungspflichtigen Verpackungen nach § 39 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes, mit Ausnahme von wiederverwendbaren Verpackungen nach Artikel 11 Absatz 1 der Verordnung (EU) 2025/40,
+- 2\. Art und Menge der nach § 39 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes zurückgenommenen Verpackungen, mit Ausnahme von wiederverwendbaren Verpackungen nach Artikel 11 Absatz 1 der Verordnung (EU) 2025/40, sowie deren Verbleib und Entsorgung,
+- 3\. Art und Menge der erstmals im Bundesgebiet bereitgestellten wiederverwendbaren Verpackungen nach Artikel 11 Absatz 1 der Verordnung (EU) 2025/40, die Art und Menge der insgesamt im Verkehr befindlichen wiederverwendbaren Verpackungen und die Anzahl ihrer Umläufe, jeweils gegliedert nach Verkaufsverpackungen im Sinne des Artikels 3 Absatz 1 Nummer 5 der Verordnung (EU) 2025/40 und sonstigen wiederverwendbaren Verpackungen, soweit sie nicht nach Absatz 2 erfasst werden und soweit ihnen diese Daten vorliegen,
+- 4\. Art und Menge der als Abfall ausgesonderten wiederverwendbaren Verpackungen sowie deren Verbleib und Entsorgung, gegliedert nach Verkaufsverpackungen und sonstigen wiederverwendbaren Verpackungen, soweit sie nicht nach Absatz 2 erfasst werden und soweit ihnen diese Daten vorliegen,
+- 5\. Art und Menge der erstmals im Bundesgebiet bereitgestellten Einweggetränkeverpackungen, die der Pfand- und Rücknahmepflicht nach § 46 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes unterliegen, sowie bei Einwegkunststoffgetränkeflaschen zusätzlich der Rezyklatanteil,
+- 6\. Art und Menge der zurückgenommenen Einweggetränkeverpackungen, die der Pfand- und Rücknahmepflicht nach § 46 Absatz 1 Satz 1 des Verpackungsrecht-Durchführungsgesetzes unterliegen, sowie deren Verbleib und Entsorgung.
 
-- 1\. Art und Menge der erstmals in Verkehr gebrachten Verpackungen nach § 15 Absatz 1 Satz 1 des Verpackungsgesetzes, mit Ausnahme von Mehrwegverpackungen nach § 3 Absatz 3 des Verpackungsgesetzes,
-- 2\. Art und Menge der nach § 15 Absatz 1 Satz 1 des Verpackungsgesetzes zurückgenommenen Verpackungen, mit Ausnahme von Mehrwegverpackungen nach § 3 Absatz 3 des Verpackungsgesetzes, sowie deren Verbleib und Entsorgung,
-- 3\. Art und Menge der erstmals in Verkehr gebrachten Mehrwegverpackungen nach § 3 Absatz 3 des Verpackungsgesetzes, die Art und Menge der insgesamt im Verkehr befindlichen Mehrwegverpackungen und die Anzahl ihrer Umläufe, jeweils gegliedert nach Verkaufsverpackungen im Sinne des § 3 Absatz 1 Nummer 1 des Verpackungsgesetzes und sonstigen Mehrwegverpackungen, soweit sie nicht nach Absatz 2 erfasst werden und soweit ihnen diese Daten vorliegen,
-- 4\. Art und Menge der als Abfall ausgesonderten Mehrwegverpackungen sowie deren Verbleib und Entsorgung, gegliedert nach Verkaufsverpackungen und sonstigen Mehrwegverpackungen, soweit sie nicht nach Absatz 2 erfasst werden und soweit ihnen diese Daten vorliegen,
-- 5\. Art und Menge der erstmals in Verkehr gebrachten Einweggetränkeverpackungen, die der Pfand- und Rücknahmepflicht nach § 31 des Verpackungsgesetzes unterliegen, sowie bei Einwegkunststoffgetränkeflaschen zusätzlich der Rezyklatanteil,
-- 6\. Art und Menge der zurückgenommenen Einweggetränkeverpackungen, die der Pfand- und Rücknahmepflicht nach § 31 des Verpackungsgesetzes unterliegen, sowie deren Verbleib und Entsorgung.
-
-(4) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die sehr leichte Kunststofftragetaschen nach Artikel 3 Nummer 1d der Richtlinie 94/62/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994 über Verpackungen und Verpackungsabfälle (ABl. L 365 vom 31.12.1994, S. 10), die zuletzt durch die Richtlinie (EU) 2018/852 (ABl. L 150 vom 14.6.2018, S. 141; L 306 vom 30.11.2018, S. 72) geändert worden ist, in der jeweils geltenden Fassung erstmals in Verkehr bringen, das Erhebungsmerkmal Menge der erstmals in Verkehr gebrachten sehr leichten Kunststofftragetaschen.
+(4) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die sehr leichte Kunststofftragetaschen nach Artikel 3 Absatz 1 Nummer 57 der Verordnung (EU) 2025/40 erstmals im Bundesgebiet bereitstellen, das Erhebungsmerkmal Menge der erstmals im Bundesgebiet bereitgestellten sehr leichten Kunststofftragetaschen.
 
 (5) Die Erhebung erfasst jährlich, beginnend mit dem Berichtsjahr 2022, bei den Unternehmen, die in Artikel 13 Absatz 1 der Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt (ABl. L 155 vom 12.6.2019, S. 1) in der jeweils geltenden Fassung genannte Erzeugnisse erstmals in Verkehr bringen, die Erhebungsmerkmale Art und Menge der erstmals in Verkehr gebrachten Erzeugnisse, soweit sie nicht nach Absatz 1 bis 4 erfasst werden.
 
@@ -318,7 +317,7 @@ Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden nach Umweltmaßnahmen sowie na
 
 (3) Mit den Hilfsmerkmalen nach Absatz 1 Nummer 4 dürfen die Erhebungsmerkmale nach den §§ 7 und 8 zusammengeführt werden.
 
-<!-- norm id="BJNE001406128" -->
+<!-- norm id="BJNE001407360" -->
 ## § 14 Auskunftspflicht
 
 (1) Für die Erhebungen nach diesem Gesetz besteht Auskunftspflicht. Die Angaben zu § 13 Abs. 1 Nr. 2 sind freiwillig.
@@ -337,7 +336,7 @@ Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden nach Umweltmaßnahmen sowie na
   - b) im Falle des Absatzes 2 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen,
   - c) im Falle des Absatzes 3 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen und Einrichtungen sowie die Entsorgungsträger,
 - 4\. § 5a
-  - a) im Falle des Absatzes 1 die Zentrale Stelle nach § 3 Absatz 18 des Verpackungsgesetzes,
+  - a) im Falle des Absatzes 1 die Zentrale Stelle nach § 3 Absatz 14 des Verpackungsrecht-Durchführungsgesetzes,
   - b) im Falle der Absätze 2 bis 5 die Inhaber oder Inhaberinnen oder Leitungen der genannten Betriebe und Unternehmen,
   - c) im Falle der Absätze 6 bis 8 die Inhaber oder Inhaberinnen oder Leitungen der genannten Unternehmen, Körperschaften und Einrichtungen oder die genannten Behörden,
 - 5\. § 7
@@ -360,12 +359,12 @@ Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden nach Umweltmaßnahmen sowie na
 
 (5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4 sind natürliche Personen, die eine gewerbliche oder freiberufliche Tätigkeit in Form einer Neugründung, einer Übernahme oder einer tätigen Beteiligung aus abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus aufnehmen.
 
-<!-- norm id="BJNE001503311" -->
+<!-- norm id="BJNE001504360" -->
 ## § 15 Anschriftenübermittlung
 
 (1) Die für das Erteilen von Einsammlungsgenehmigungen und für die Genehmigung und Überwachung zulassungsbedürftiger Anlagen zuständigen Behörden übermitteln den statistischen Ämtern der Länder auf Anforderung die für die Erhebungen nach den §§ 3 und 5 erforderlichen Namen und Anschriften der Einsammler von Abfällen und der Betreiber zulassungsbedürftiger Anlagen.
 
-(2) Die Zentrale Stelle nach § 3 Absatz 18 des Verpackungsgesetzes, die mit der Abwicklung von Pfanderstattungsansprüchen nach § 31 Absatz 1 Satz 4 des Verpackungsgesetzes befasste juristische Person und die nach Landesrecht zuständigen Behörden übermitteln den statistischen Ämtern der Länder auf Anforderung die für die Erhebungen nach § 5a erforderlichen Namen, Anschriften und europäischen oder internationalen Steuernummern der Hersteller nach § 3 Absatz 14 des Verpackungsgesetzes sowie der durch die Erhebungen nach § 5a Absatz 2 bis 6 betroffenen Unternehmen, soweit sie ihnen vorliegen.
+(2) Die Zentrale Stelle Verpackungsregister nach § 3 Absatz 14 des Verpackungsrecht-Durchführungsgesetzes, die mit der Abwicklung von Pfanderstattungsansprüchen nach § 36 Absatz 1 Satz 4 des Verpackungsrecht-Durchführungsgesetzes befasste juristische Person und die nach Landesrecht zuständigen Behörden übermitteln den statistischen Ämtern der Länder auf Anforderung die für die Erhebungen nach § 5a erforderlichen Namen, Anschriften und europäischen oder internationalen Steuernummern der Hersteller nach Artikel 3 Absatz 1 Nummer 15 der Verordnung (EU) 2025/40 sowie der durch die Erhebungen nach § 5a Absatz 2 bis 6 betroffenen Unternehmen, soweit sie ihnen vorliegen.
 
 (3) Die für die Ausführung der Rechtsvorschriften zum Umweltschutz zuständigen Stellen der Länder übermitteln den statistischen Ämtern der Länder auf Anforderung die für die Erhebungen nach § 8 erforderlichen Namen und Anschriften der Wassergewinner und Abwassereinleiter.
 

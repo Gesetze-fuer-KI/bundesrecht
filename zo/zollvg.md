@@ -2,16 +2,16 @@
 abkuerzung: ZollVG
 jurabk: ZollVG
 titel: Zollverwaltungsgesetz
-stand: Zuletzt geändert durch Art. 2 Abs. 8 G v. 20.3.2026 I Nr. 95
+stand: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1992-12-21'
 quelle: https://www.gesetze-im-internet.de/zollvg/
 doknr: BJNR121250992
-builddate: '20261027220035'
+builddate: '20261030220013'
 ---
 
 # Zollverwaltungsgesetz (ZollVG)
 
-Stand: Zuletzt geändert durch Art. 2 Abs. 8 G v. 20.3.2026 I Nr. 95
+Stand: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/zollvg/>
 

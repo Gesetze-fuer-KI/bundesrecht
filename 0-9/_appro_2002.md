@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 2 V v. 7.6.2023 I Nr. 148
 ausfertigung: '2002-06-27'
 quelle: https://www.gesetze-im-internet.de/_appro_2002/
 doknr: BJNR240500002
-builddate: '20260506175811'
+builddate: '20261030220014'
 ---
 
 # Approbationsordnung für Ärzte (ÄApprO 2002)

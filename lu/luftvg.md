@@ -2,16 +2,16 @@
 abkuerzung: LuftVG
 jurabk: LuftVG
 titel: Luftverkehrsgesetz
-stand: zuletzt geändert durch Art. 7 V v. 6.10.2026 I Nr. 289
+stand: zuletzt geändert durch Art. 7 G v. 6.10.2026 I Nr. 289
 ausfertigung: '1922-08-01'
 quelle: https://www.gesetze-im-internet.de/luftvg/
 doknr: BJNR006810922
-builddate: '20261010215501'
+builddate: '20261030220008'
 ---
 
 # Luftverkehrsgesetz (LuftVG)
 
-Stand: zuletzt geändert durch Art. 7 V v. 6.10.2026 I Nr. 289
+Stand: zuletzt geändert durch Art. 7 G v. 6.10.2026 I Nr. 289
 
 Quelle: <https://www.gesetze-im-internet.de/luftvg/>
 

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 3 G v. 30.9.2025 I Nr. 233
 ausfertigung: '2006-12-17'
 quelle: https://www.gesetze-im-internet.de/bfjg/
 doknr: BJNR317110006
-builddate: '20261027220056'
+builddate: '20261030220015'
 ---
 
 # Gesetz über die Errichtung des Bundesamts für Justiz (BfJG)
@@ -31,7 +31,7 @@ Quelle: <https://www.gesetze-im-internet.de/bfjg/>
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
 
-<!-- norm id="BJNE000205130" -->
+<!-- norm id="BJNE000206131" -->
 ## § 2 Aufgaben des Bundesamts
 
 (1) Das Bundesamt nimmt Aufgaben des Bundes auf den Gebieten des Registerwesens, des internationalen Rechtsverkehrs, der Verfolgung und Ahndung von Ordnungswidrigkeiten, der allgemeinen Justizverwaltung und des Verbraucherschutzes wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesen werden.
@@ -44,8 +44,7 @@ Quelle: <https://www.gesetze-im-internet.de/bfjg/>
   - a) auf dem Gebiet der Rechtshilfe in Zivilsachen,
   - b) auf dem Gebiet der Auslieferung, der Vollstreckungshilfe und sonstigen Rechtshilfe in Strafsachen,
   - c) im Rahmen der Aufgaben als nationale Kontaktstelle im Bereich der internationalen Rechtshilfe in Strafsachen, insbesondere als eine der nationalen Kontaktstellen des Europäischen Justiziellen Netzes,
-  - d) als Vermögensabschöpfungsstelle; § 9 Absatz 6 des Bundeskriminalamtgesetzes gilt entsprechend,
-  - e) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
+  - d) in Fragen der Vereinfachung des internationalen Rechtsverkehrs,
 - 4\. Durchführung der Justizforschung, der kriminologischen Forschung und auf dem Gebiet der Kriminalprävention,
 - 5\. Wahrnehmung der Aufgaben des Verbraucherschutzes, insbesondere bei der Verbraucherrechtsdurchsetzung
 

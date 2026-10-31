@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 21.11.2024 I Nr. 360
 ausfertigung: '2019-07-08'
 quelle: https://www.gesetze-im-internet.de/zappro/
 doknr: BJNR093310019
-builddate: '20260506175252'
+builddate: '20261030220012'
 ---
 
 # Approbationsordnung für Zahnärzte und Zahnärztinnen (ZApprO)

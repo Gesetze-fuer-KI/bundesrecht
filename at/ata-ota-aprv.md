@@ -7,7 +7,7 @@ stand: Geändert durch Art. 8z6 G v. 12.12.2023 I Nr. 359
 ausfertigung: '2020-11-04'
 quelle: https://www.gesetze-im-internet.de/ata-ota-aprv/
 doknr: BJNR229510020
-builddate: '20260506175756'
+builddate: '20261030220014'
 ---
 
 # Ausbildungs- und Prüfungsverordnung über die Ausbildung zur Anästhesietechnischen Assistentin und zum Anästhesietechnischen Assistenten und über die Ausbildung zur Operationstechnischen Assistentin und zum Operationstechnischen Assistenten (ATA-OTA-APrV)

@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 5 V v. 21.11.2024 I Nr. 360
 ausfertigung: '2020-01-08'
 quelle: https://www.gesetze-im-internet.de/hebstprv/
 doknr: BJNR003900020
-builddate: '20241127222502'
+builddate: '20261030220002'
 ---
 
 # Studien- und Prüfungsverordnung für Hebammen (HebStPrV)
