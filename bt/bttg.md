@@ -6,7 +6,7 @@ kurztitel: Bundestariftreuegesetz
 ausfertigung: '2026-04-27'
 quelle: https://www.gesetze-im-internet.de/bttg/
 doknr: BJNR0770B0026
-builddate: '20260529215507'
+builddate: '20261102215504'
 ---
 
 # Gesetz zur Sicherung der Tariftreue bei der Vergabe und Ausführung öffentlicher Aufträge und Konzessionen des Bundes (BTTG)
@@ -17,7 +17,6 @@ Quelle: <https://www.gesetze-im-internet.de/bttg/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.5.2026 +++)
-> (+++ Änderungsvorschrift - kein Textnachweis +++)
 >
 > Das G wurde als Artikel 1 des G v. 27.4.2026 I Nr. 119 vom Bundestag mit
 > Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 10 Abs. 1 dieses G

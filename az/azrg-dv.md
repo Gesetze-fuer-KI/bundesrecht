@@ -3,16 +3,16 @@ abkuerzung: AZRG-DV
 jurabk: AZRG-DV
 titel: Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister
 kurztitel: AZRG-Durchführungsverordnung
-stand: Zuletzt geändert durch Art. 15 G v. 22.7.2026 I Nr. 222
+stand: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 222
 ausfertigung: '1995-05-17'
 quelle: https://www.gesetze-im-internet.de/azrg-dv/
 doknr: BJNR069500995
-builddate: '20261031220004'
+builddate: '20261102215502'
 ---
 
 # Verordnung zur Durchführung des Gesetzes über das Ausländerzentralregister (AZRG-DV)
 
-Stand: Zuletzt geändert durch Art. 15 G v. 22.7.2026 I Nr. 222
+Stand: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 222
 
 Quelle: <https://www.gesetze-im-internet.de/azrg-dv/>
 
@@ -1759,7 +1759,6 @@ Hinsichtlich der Datenübermittlung durch die Registerbehörde ist der größtm�
 
 > **Fußnote**
 >
-> Anlage: (+++ Text der Anlage in Bearbeitung: Stand entspricht Art. 15 G v. 22.7.2026 I Nr. 222 +++)  
 > Anlage Abschn. I Nr. 4 Spalte D Kursivdruck: Gemäß Art. 8 Nr. 5 Buchst. a DBuchst. dd G v. 22.7.2026 I Nr. 222 soll mWv 1.11.2025 die Angabe "- Staatsangehörigkeits- und Vertriebenenbehörden zu Spalte A Buchstabe c" gestrichen werden. Aufgrund textlicher Unstimmigkeit ist die Änderungsanweisung nicht ausführbar.  
 > Anlage Abschn. I Nr. 9c: IdF d. Art. 2 Nr. 5 Buchst. r G v. 8.5.2024 I Nr. 152 mWv 1.11.2025 (Kursivdruck müsste lauten: "BeschV")  
 > Anlage Abschn. II Nr. 35 Spalte D Kursivdruck: Gemäß Art. 2 Nr. 6 Buchst. g DBuchst. cc G v. 22.7.2026 I Nr. 222 soll mWv 1.11.2026 die Angabe: "Angaben zum Verpflichtungsgeber sowie die Verpflichtungserklärung als Dokument (§ 29 Absatz 1 Nummer 10) werden nur an die Ausländerbehörden, die in der Rechtsverordnung nach § 58 Absatz 1 des Bundespolizeigesetzes bestimmte Bundespolizeibehörde und andere mit der polizeilichen Kontrolle des grenzüberschreitenden Verkehrs beauftragte Behörden, die deutschen Auslandsvertretungen, das Bundesamt für Auswärtige Angelegenheiten und andere öffentliche Stellen im Visumverfahren, die Träger der Sozialhilfe, die für die Durchführung des Asylbewerberleistungsgesetzes zuständigen Stellen, die für die Durchführung der Grundsicherung für Arbeitsuchende zuständigen Stellen und die Jugendämter übermittelt." gestrichen werden. Aufgrund textlicher Unstimmigkeit ist die Änderungsanweisung nicht ausführbar.

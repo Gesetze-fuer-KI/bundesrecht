@@ -5,7 +5,7 @@ titel: Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bun
 ausfertigung: '2026-09-18'
 quelle: https://www.gesetze-im-internet.de/gdbndverfschvdv_2026/
 doknr: BJNR1110B0026
-builddate: '20260930215555'
+builddate: '20261102215506'
 ---
 
 # Verordnung über den Vorbereitungsdienst für den gehobenen Dienst im Bundesnachrichtendienst und den gehobenen Dienst im Verfassungsschutz des Bundes (GDBNDVerfSchVDV)
@@ -15,7 +15,7 @@ Quelle: <https://www.gesetze-im-internet.de/gdbndverfschvdv_2026/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+> (+++ Textnachweis ab: 1.10.2026 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 18.9.2026 I Nr. 273 vom Bundeskanzleramt und dem Bundesministerium des Innern beschlossen . Sie ist gem. Art. 3 dieser V am 1.10.2026 in Kraft getreten.

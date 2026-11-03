@@ -3,16 +3,16 @@ abkuerzung: PreisAngG
 jurabk: PreisAngG
 titel: Gesetz über die Preisangaben
 kurztitel: Preisangabengesetz
-stand: Zuletzt geändert durch Art. 296 V v. 31.8.2015 I 1474
+stand: Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 314
 ausfertigung: '1984-12-03'
 quelle: https://www.gesetze-im-internet.de/preisangg/
 doknr: BJNR114290984
-builddate: '20261022215504'
+builddate: '20261102215507'
 ---
 
 # Gesetz über die Preisangaben (PreisAngG)
 
-Stand: Zuletzt geändert durch Art. 296 V v. 31.8.2015 I 1474
+Stand: Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 314
 
 Quelle: <https://www.gesetze-im-internet.de/preisangg/>
 
@@ -20,6 +20,8 @@ Quelle: <https://www.gesetze-im-internet.de/preisangg/>
 >
 > ```text
 > (+++ Textnachweis ab: 7.12.1984 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 19.10.2026 I Nr. 314 +++)
 > ```
 >
 > Überschrift: Bezeichnung idF d. Art. 11 Nr. 1 G v. 7.9.2007 I 2246 mWv 14.9.2007;  

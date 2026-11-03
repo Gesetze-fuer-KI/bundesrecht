@@ -1,31 +1,17 @@
-Stand 2026-11-01: 19 geändert, 3 neu, 7 entfernt
+Stand 2026-11-03: 15 geändert, 0 neu, 0 entfernt
 
-- AAppO: Zuletzt geändert durch Art. 1 V v. 7.6.2023 I Nr. 148
-- ÄApprO 2002: Zuletzt geändert durch Art. 2 V v. 7.6.2023 I Nr. 148
-- ATA-OTA-APrV: Geändert durch Art. 8z6 G v. 12.12.2023 I Nr. 359
-- AufenthV: Zuletzt geändert durch Art. 12 Abs. 9 G v. 22.10.2026 I Nr. 318
-- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
-- AZRG-DV: Zuletzt geändert durch Art. 15 G v. 22.7.2026 I Nr. 222
-- BÄO: zuletzt geändert durch Art. 1 V v. 20.3.2024 I Nr. 99
-- BApO: zuletzt geändert durch Art. 8 Abs. 3a G v. 27.9.2021 I 4530
-- EnVKG: Zuletzt geändert durch Art. 8 Abs. 7 G v. 23.7.2026 I Nr. 226
-- FZV: Zuletzt geändert durch Art. 5 G v. 12.5.2026 I Nr. 142
-- GWB: Zuletzt geändert durch Art. 9 G v. 20.7.2026 I Nr. 215
-- HebG: Zuletzt geändert durch Art. 5 G v. 12.12.2023 I Nr. 359
-- HebStPrV: Zuletzt geändert durch Art. 5 V v. 21.11.2024 I Nr. 360
-- IntTestV: Geändert durch Art. 1 V v. 13.10.2026 I Nr. 306
-- MüG: Geändert durch Art. 4 G v. 22.6.2026 I nr. 191
-- ÖkodesignG: geändert
-- ReifKennzV: Geändert durch Art. 4 V v. 8.10.2026 I Nr. 292
-- UKlaG: zuletzt geändert durch Art. 5 G v. 22.6.2026 I Nr. 191
-- ZHG: zuletzt geändert durch Art. 13 G v. 19.5.2020 I 1018
-- neu: EnVKBgV (Verordnung zur Sanktionsbewehrung unionsrechtlicher Verordnungen auf dem Gebiet der Kennzeichnung von energieverbrauchsrelevanten Produkten)
-- neu: ÖkodesignGV (Verordnung zur Durchführung des Ökodesign-Gesetzes)
-- neu: PrintMedMstrV (Verordnung über die Meisterprüfung in den Teilen I und II im Print- und Medientechnologen (Drucker, Siebdrucker, Flexografen)-Handwerk)
-- entfernt: druckmstrv
-- entfernt: ebpg
-- entfernt: envkv
-- entfernt: evpgv
-- entfernt: flexmstrv
-- entfernt: schrisemstrv
-- entfernt: siebdrmstrv_2006
+- AZRG-DV: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 222
+- BeschussV: Zuletzt geändert durch Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318
+- BMWSBBBRBeamtZustAnO: geändert
+- BrauMäAusbV: geändert
+- BTTG: geändert
+- GDBNDVerfSchVDV: geändert
+- LiqV: Zuletzt geändert durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81
+- MarkenG: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 322
+- PAngV: Zuletzt geändert durch Art. 3 G v. 19.10.2026 I Nr. 314
+- PatKostG: Zuletzt geändert durch Art. 3 G v. 22.10.2026 I Nr. 322
+- PreisAngG: Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 314
+- StrlSchG: Zuletzt geändert durch Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318
+- UWG: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 322
+- WaffG: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
+- ZApprO: Zuletzt geändert durch Art. 1 V v. 21.11.2024 I Nr. 360

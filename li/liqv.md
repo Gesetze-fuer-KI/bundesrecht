@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81
 ausfertigung: '2006-12-14'
 quelle: https://www.gesetze-im-internet.de/liqv/
 doknr: BJNR311700006
-builddate: '20260702215527'
+builddate: '20261102215512'
 ---
 
 # Verordnung über die Liquidität der Institute (LiqV)
@@ -20,7 +20,6 @@ Quelle: <https://www.gesetze-im-internet.de/liqv/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.1.2007 +++)
-> (+++ Änderungsvorschrift - kein Textnachweis +++)
 >
 > (+++ zur Anwendung vgl. § 1 +++)
 >

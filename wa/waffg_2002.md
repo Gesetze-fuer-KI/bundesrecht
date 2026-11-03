@@ -2,16 +2,16 @@
 abkuerzung: WaffG
 jurabk: WaffG 2002
 titel: Waffengesetz
-stand: Zuletzt geändert durch Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
+stand: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2002-10-11'
 quelle: https://www.gesetze-im-internet.de/waffg_2002/
 doknr: BJNR397010002
-builddate: '20261027220057'
+builddate: '20261102215513'
 ---
 
 # Waffengesetz (WaffG)
 
-Stand: Zuletzt geändert durch Art. 2 Abs. 10 G v. 20.3.2026 I Nr. 95
+Stand: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/waffg_2002/>
 

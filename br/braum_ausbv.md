@@ -6,7 +6,7 @@ kurztitel: Brauer- und Mälzerausbildungsverordnung
 ausfertigung: '2021-06-04'
 quelle: https://www.gesetze-im-internet.de/braum_ausbv/
 doknr: BJNR148300021
-builddate: '20260506175452'
+builddate: '20261102215508'
 ---
 
 # Verordnung über die Berufsausbildung zum Brauer und Mälzer und zur Brauerin und Mälzerin (BrauMäAusbV)
@@ -17,10 +17,6 @@ Quelle: <https://www.gesetze-im-internet.de/braum_ausbv/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.8.2021 +++)
-> (+++ Änderungsvorschrift - kein Textnachweis +++)
-> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
-> Umsetzung der
-> EURL 2021/.. (CELEX Nr: 32021L....) +++)
 > ```
 
 <!-- norm id="BJNE000100000" -->

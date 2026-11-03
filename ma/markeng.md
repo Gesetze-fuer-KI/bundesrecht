@@ -3,16 +3,16 @@ abkuerzung: MarkenG
 jurabk: MarkenG
 titel: Gesetz über den Schutz von Marken und sonstigen Kennzeichen
 kurztitel: Markengesetz
-stand: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
+stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 322
 ausfertigung: '1994-10-25'
 quelle: https://www.gesetze-im-internet.de/markeng/
 doknr: BJNR308210994
-builddate: '20261028220011'
+builddate: '20261102215511'
 ---
 
 # Gesetz über den Schutz von Marken und sonstigen Kennzeichen (MarkenG)
 
-Stand: Zuletzt geändert durch Art. 14 G v. 20.5.2026 I Nr. 152
+Stand: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 322
 
 Quelle: <https://www.gesetze-im-internet.de/markeng/>
 

@@ -2,16 +2,16 @@
 abkuerzung: PAngV
 jurabk: PAngV 2022
 titel: Preisangabenverordnung
-stand: Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139
+stand: Zuletzt geändert durch Art. 3 G v. 19.10.2026 I Nr. 314
 ausfertigung: '2021-11-12'
 quelle: https://www.gesetze-im-internet.de/pangv_2022/
 doknr: BJNR492110021
-builddate: '20261022215510'
+builddate: '20261102215513'
 ---
 
 # Preisangabenverordnung (PAngV)
 
-Stand: Zuletzt geändert durch Art. 8 G v. 12.5.2026 I Nr. 139
+Stand: Zuletzt geändert durch Art. 3 G v. 19.10.2026 I Nr. 314
 
 Quelle: <https://www.gesetze-im-internet.de/pangv_2022/>
 

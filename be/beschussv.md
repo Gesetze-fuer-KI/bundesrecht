@@ -3,16 +3,16 @@ abkuerzung: BeschussV
 jurabk: BeschussV
 titel: Allgemeine Verordnung zum Beschussgesetz
 kurztitel: Beschussverordnung
-stand: Zuletzt geändert durch Art. 1 V v. 1.10.2021 I 4622
+stand: Zuletzt geändert durch Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2006-07-13'
 quelle: https://www.gesetze-im-internet.de/beschussv/
 doknr: BJNR147400006
-builddate: '20261027220039'
+builddate: '20261102215508'
 ---
 
 # Allgemeine Verordnung zum Beschussgesetz (BeschussV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 1.10.2021 I 4622
+Stand: Zuletzt geändert durch Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/beschussv/>
 

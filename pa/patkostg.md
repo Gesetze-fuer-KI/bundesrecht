@@ -3,16 +3,16 @@ abkuerzung: PatKostG
 jurabk: PatKostG
 titel: Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts
 kurztitel: Patentkostengesetz
-stand: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
+stand: Zuletzt geändert durch Art. 3 G v. 22.10.2026 I Nr. 322
 ausfertigung: '2001-12-13'
 quelle: https://www.gesetze-im-internet.de/patkostg/
 doknr: BJNR365610001
-builddate: '20261028220013'
+builddate: '20261102215512'
 ---
 
 # Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (PatKostG)
 
-Stand: Zuletzt geändert durch Art. 11 G v. 11.1.2026 I Nr. 9
+Stand: Zuletzt geändert durch Art. 3 G v. 22.10.2026 I Nr. 322
 
 Quelle: <https://www.gesetze-im-internet.de/patkostg/>
 

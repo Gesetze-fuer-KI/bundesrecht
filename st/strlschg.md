@@ -3,16 +3,16 @@ abkuerzung: StrlSchG
 jurabk: StrlSchG
 titel: Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung
 kurztitel: Strahlenschutzgesetz
-stand: Zuletzt geändert durch Art. 4 G v. 23.10.2024 I Nr. 324
+stand: Zuletzt geändert durch Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2017-06-27'
 quelle: https://www.gesetze-im-internet.de/strlschg/
 doknr: BJNR196610017
-builddate: '20261027220044'
+builddate: '20261102215509'
 ---
 
 # Gesetz zum Schutz vor der schädlichen Wirkung ionisierender Strahlung (StrlSchG)
 
-Stand: Zuletzt geändert durch Art. 4 G v. 23.10.2024 I Nr. 324
+Stand: Zuletzt geändert durch Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/strlschg/>
 
