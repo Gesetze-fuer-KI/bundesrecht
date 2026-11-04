@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1994-09-02'
 quelle: https://www.gesetze-im-internet.de/azrg/
 doknr: BJNR226500994
-builddate: '20261031220009'
+builddate: '20261103220012'
 ---
 
 # Gesetz über das Ausländerzentralregister (AZRG)
@@ -248,7 +248,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 - 2\. die in Absatz 1 Nummer 1a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2, 3 Nummer 1 und 2, Absatz 3c,
 - 3\. die in Absatz 1 Nummer 1b bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5e und Absatz 2 Nummer 9 bis 11,
 - 4\. die in Absatz 1 Nummer 2 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 6 und 8, Absatz 2 Nummer 1, 2 und 4 bis 8, Absatz 3c bis 3e,
-- 4a\. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach Absatz 2 Nummer 1 bis 2, 4 bis 8, 10 und 12,
+- 4a\. die in Absatz 1 Nummer 4a bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, Absatz 2 Nummer 1 bis 2, 4 bis 8, 10 und 12,
 - 5\. die in Absatz 1 Nummer 3 bezeichnete Stelle die Daten nach § 3 Absatz 1 Nummer 5b bis 5d, 6 und 8, Absatz 2 Nummer 1 bis 8, Absatz 3 Nummer 3, Absatz 3b und 3d sowie § 4 Absatz 1 und 2, sofern nicht Absatz 2a etwas anderes regelt,
 - 5a\. die in Absatz 1 Nummer 4 bezeichneten Stellen die Daten nach § 3 Absatz 1 Nummer 5b und zusätzlich das Bundeskriminalamt die Referenznummern nach § 3 Absatz 2 Nummer 1 in den Fällen des § 2 Absatz 1a Nummer 2 und 3, die Referenznummern nach § 3 Absatz 3a Nummer 1 in den Fällen des § 2 Absatz 2 Nummer 3 und die Referenznummern nach § 3 Absatz 3b in den Fällen des § 2 Absatz 2a,
 - 6\. die Bundesagentur für Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen Stellen, die örtlichen Träger der öffentlichen Jugendhilfe, die Unterhaltsvorschussstellen und die Träger der Sozialhilfe die Daten nach § 3 Absatz 1 Nummer 6a in den Fällen des § 2 Absatz 2 Nummer 3a sowie die Daten nach § 3 Absatz 6 Nummer 4 in den Fällen des § 2 Absatz 4, die örtlichen Träger der öffentlichen Jugendhilfe, die Unterhaltsvorschussstellen und die Träger der Sozialhilfe die Daten nach § 3 Absatz 1 Nummer 5e in den Fällen des § 2 Absatz 2 Nummer 3a, die Bundesagentur für Arbeit und die für die Grundsicherung für Arbeitsuchende zuständigen Stellen die Daten nach § 3 Absatz 3 in den Fällen des § 2 Absatz 1a Nummer 1 und Absatz 2 Nummer 1, die örtlichen Träger der öffentlichen Jugendhilfe die Daten nach § 3 Absatz 2 Nummer 8 in den Fällen des § 2 Absatz 1a und 2 Nummer 1 und die Daten nach § 3 Absatz 3c in den Fällen des § 2 Absatz 2 Nummer 2 sowie die Bundesagentur für Arbeit die Daten nach § 3 Absatz 1 Nummer 1, 3, 4 und 7 in den Fällen des § 2 Absatz 2c,

@@ -3,16 +3,16 @@ abkuerzung: DesignV
 jurabk: DesignV
 titel: Verordnung zur Ausführung des Designgesetzes
 kurztitel: Designverordnung
-stand: Zuletzt geändert durch Art. 3 V v. 24.6.2026 I Nr. 193
+stand: Zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 322
 ausfertigung: '2014-01-02'
 quelle: https://www.gesetze-im-internet.de/designv/
 doknr: BJNR001810014
-builddate: '20261028220001'
+builddate: '20261103220002'
 ---
 
 # Verordnung zur Ausführung des Designgesetzes (DesignV)
 
-Stand: Zuletzt geändert durch Art. 3 V v. 24.6.2026 I Nr. 193
+Stand: Zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 322
 
 Quelle: <https://www.gesetze-im-internet.de/designv/>
 

@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
 ausfertigung: '1988-12-20'
 quelle: https://www.gesetze-im-internet.de/sgb_5/
 doknr: BJNR024820988
-builddate: '20261023215508'
+builddate: '20261103220010'
 ---
 
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
@@ -4855,8 +4855,6 @@ Die Vergütung ambulanter Leistungen zur Behandlung von Notfällen nach § 76 Ab
 
 (5) Beamtenrechtliche Vorschriften über die Entrichtung eines Entgelts bei der Inanspruchnahme von Einrichtungen, Personal und Material des Dienstherrn oder vertragliche Regelungen über ein weitergehendes Nutzungsentgelt, das neben der Kostenerstattung auch einen Vorteilsausgleich umfaßt, und sonstige Abgaben der Ärzte werden durch die Absätze 1 bis 4 nicht berührt.
 
-(6) (weggefallen)
-
 <!-- norm id="BJNE020405126" -->
 #### § 121 Belegärztliche Leistungen
 
@@ -5070,10 +5068,6 @@ Eine Über- oder Unterschreitung nach Satz 2 ist begründet, wenn Besonderheiten
 (8) Der Spitzenverband Bund der Krankenkassen gibt bis zum 30. Juni 2017 Rahmenempfehlungen zur Sicherung der Qualität in der Hilfsmittelversorgung ab, in denen insbesondere Regelungen zum Umfang der Stichprobenprüfungen in den jeweiligen Produktbereichen, zu möglichen weiteren Überwachungsinstrumenten und darüber getroffen werden, wann Auffälligkeiten anzunehmen sind.
 
 (9) Der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Interessen der Leistungserbringer maßgeblichen Spitzenorganisationen auf Bundesebene geben bis zum 31. Dezember 2017 gemeinsam Rahmenempfehlungen zur Vereinfachung und Vereinheitlichung der Durchführung und Abrechnung der Versorgung mit Hilfsmitteln ab. Kommt eine Einigung bis zum Ablauf der nach Satz 1 bestimmten Frist nicht zustande, wird der Empfehlungsinhalt durch eine von den Empfehlungspartnern nach Satz 1 gemeinsam zu benennende unabhängige Schiedsperson festgelegt. Einigen sich die Empfehlungspartner nicht auf eine Schiedsperson, so wird diese von der für den Spitzenverband Bund der Krankenkassen zuständigen Aufsichtsbehörde bestimmt. Die Kosten des Schiedsverfahrens tragen der Spitzenverband Bund der Krankenkassen und die für die Wahrnehmung der Interessen der Leistungserbringer maßgeblichen Spitzenorganisationen auf Bundesebene je zur Hälfte. In den Empfehlungen können auch Regelungen über die in § 302 Absatz 2 Satz 1 und Absatz 3 genannten Inhalte getroffen werden. § 139 Absatz 2 bleibt unberührt. In den Empfehlungen sind auch die notwendigen Regelungen für die Verwendung von Verordnungen von Leistungen nach § 33 in elektronischer Form zu treffen. Es ist festzulegen, dass für die Übermittlung der elektronischen Verordnung die Dienste der Anwendungen der Telematikinfrastruktur nach § 334 Absatz 1 Satz 2 genutzt werden, sobald diese Dienste zur Verfügung stehen. Die Regelungen müssen vereinbar sein mit den Festlegungen der Bundesmantelverträge nach § 86. Die Empfehlungen nach Satz 1 sind den Verträgen nach den Absätzen 1 und 3 zugrunde zu legen.
-
-> **Fußnote**
->
-> (+++ § 127 Abs. 4: Zur Anwendung vgl. § 24e +++)
 
 <!-- norm id="BJNE021107301" -->
 #### § 128 Unzulässige Zusammenarbeit zwischen Leistungserbringern und Vertragsärzten

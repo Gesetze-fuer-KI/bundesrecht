@@ -2,16 +2,16 @@
 abkuerzung: GebOSt
 jurabk: StGebO 2011
 titel: Gebührenordnung für Maßnahmen im Straßenverkehr
-stand: Zuletzt geändert durch Art. 6 V v. 12.8.2026 I Nr. 236
+stand: Zuletzt geändert durch Art. 2 V v. 14.10.2026 I Nr. 310
 ausfertigung: '2011-01-25'
 quelle: https://www.gesetze-im-internet.de/stgebo_2011/
 doknr: BJNR009800011
-builddate: '20261021215501'
+builddate: '20261103220007'
 ---
 
 # Gebührenordnung für Maßnahmen im Straßenverkehr (GebOSt)
 
-Stand: Zuletzt geändert durch Art. 6 V v. 12.8.2026 I Nr. 236
+Stand: Zuletzt geändert durch Art. 2 V v. 14.10.2026 I Nr. 310
 
 Quelle: <https://www.gesetze-im-internet.de/stgebo_2011/>
 
@@ -19,6 +19,8 @@ Quelle: <https://www.gesetze-im-internet.de/stgebo_2011/>
 >
 > ```text
 > (+++ Textnachweis ab: 11.2.2011 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.10.2026 I Nr. 310 +++)
 > ```
 
 <!-- norm id="BJNE000100000" -->

@@ -1,17 +1,9 @@
-Stand 2026-11-03: 15 geändert, 0 neu, 0 entfernt
+Stand 2026-11-04: 7 geändert, 0 neu, 0 entfernt
 
-- AZRG-DV: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 222
-- BeschussV: Zuletzt geändert durch Art. 12 Abs. 10 G v. 22.10.2026 I Nr. 318
-- BMWSBBBRBeamtZustAnO: geändert
-- BrauMäAusbV: geändert
-- BTTG: geändert
-- GDBNDVerfSchVDV: geändert
-- LiqV: Zuletzt geändert durch Art. 26 Abs. 4 G v. 25.3.2026 I Nr. 81
-- MarkenG: Zuletzt geändert durch Art. 2 G v. 22.10.2026 I Nr. 322
-- PAngV: Zuletzt geändert durch Art. 3 G v. 19.10.2026 I Nr. 314
-- PatKostG: Zuletzt geändert durch Art. 3 G v. 22.10.2026 I Nr. 322
-- PreisAngG: Zuletzt geändert durch Art. 1 G v. 19.10.2026 I Nr. 314
-- StrlSchG: Zuletzt geändert durch Art. 12 Abs. 4 G v. 22.10.2026 I Nr. 318
-- UWG: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 322
-- WaffG: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
-- ZApprO: Zuletzt geändert durch Art. 1 V v. 21.11.2024 I Nr. 360
+- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
+- BfJG: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
+- DesignV: Zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 322
+- GebOSt: Zuletzt geändert durch Art. 2 V v. 14.10.2026 I Nr. 310
+- GVG: zuletzt geändert durch Art. 5 G v. 2.7.2026 I Nr. 198
+- SGB 5: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
+- StPO: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
