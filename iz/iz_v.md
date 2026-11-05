@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 G v. 3.7.2024 I Nr. 225
 ausfertigung: '2013-05-02'
 quelle: https://www.gesetze-im-internet.de/iz_v/
 doknr: BJNR101100013
-builddate: '20240708214525'
+builddate: '20261104215503'
 ---
 
 # Verordnung zur Regelung des Verfahrens bei Zulassung und Überwachung industrieller Abwasserbehandlungsanlagen und Gewässerbenutzungen (IZÜV)
@@ -21,7 +21,13 @@ Quelle: <https://www.gesetze-im-internet.de/iz_v/>
 > ```text
 > (+++ Textnachweis ab: 2.5.2013 +++)
 >
+> (+++ § 2: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+> (+++ § 3 Abs. 1 bis 3 und Abs. 4 Satz 1 bis 3: zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
 > (+++ § 4: zur Geltung vgl. § 5 Abs. 1 Nr. 1 bis 3 LNGG +++)
+> (+++ § 4 Abs. 1 u. 3: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+> (+++ § 4 Abs. 2: Zur Anwendung vgl. § 61f Abs. 1 Satz 6 WHG 2009 +++)
+> (+++ § 5: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+> (+++ § 6: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
 >
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
@@ -66,6 +72,10 @@ Die §§ 8, 9 und 10 gelten darüber hinaus auch für Indirekteinleitungen nach 
 
 (2) Soweit für ein Vorhaben nach Absatz 1 eine Zulassung nach dem Wasserhaushaltsgesetz sowie nach anderen Gesetzen vorgeschrieben ist, ist eine vollständige Koordinierung der Zulassungsverfahren sowie der Inhalts- und Nebenbestimmungen für das Vorhaben sicherzustellen, um ein hohes Schutzniveau für die Umwelt insgesamt zu gewährleisten. Die für das Zulassungsverfahren nach dieser Verordnung zuständige Behörde hat mit den Behörden, die für die anderweitigen Verfahren zuständig sind, den von ihr beabsichtigten Inhalt der Zulassung frühzeitig zu erörtern und abzustimmen.
 
+> **Fußnote**
+>
+> (+++ § 2: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+
 <!-- norm id="BJNE000302118" -->
 ### § 3 Antragsunterlagen und Entscheidungsfrist
 
@@ -94,6 +104,10 @@ Entsprechende Angaben in einer Umwelterklärung nach Anhang IV der Verordnung (E
 
 (4) Das Zulassungsverfahren setzt einen schriftlichen oder elektronischen Antrag und die Vorlage der in den Absätzen 1 bis 3 genannten Antragsunterlagen voraus. Reichen die Unterlagen für die Prüfung nicht aus, so hat der Antragsteller sie auf Verlangen der zuständigen Behörde innerhalb einer angemessenen Frist zu ergänzen. Erfolgt die Antragstellung elektronisch, kann die zuständige Behörde Mehrfertigungen sowie die Übermittlung der Unterlagen, die dem Antrag beizufügen sind, auch in schriftlicher Form verlangen. Über den Antrag auf Erteilung einer Erlaubnis oder Genehmigung ist nach Eingang des Antrags und der nach den Sätzen 1 und 2 einzureichenden Unterlagen innerhalb einer Frist von sieben Monaten zu entscheiden. Die zuständige Behörde kann die Frist verlängern, wenn dies wegen der Schwierigkeit der Prüfung oder aus Gründen, die dem Antragsteller zuzurechnen sind, erforderlich ist. Die Fristverlängerung soll gegenüber dem Antragsteller begründet werden.
 
+> **Fußnote**
+>
+> (+++ § 3 Abs. 1 bis 3 und Abs. 4 Satz 1 bis 3: zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+
 <!-- norm id="BJNE000401118" -->
 ### § 4 Öffentlichkeitsbeteiligung und Zugang zu Informationen
 
@@ -119,7 +133,9 @@ Der Erlaubnisbescheid oder der Genehmigungsbescheid, die Bezeichnung des für di
 
 > **Fußnote**
 >
-> (+++ § 4: Zur Geltung vgl. § 5 Abs. 1 Nr. 1 bis 3 LNGG +++)
+> (+++ § 4: Zur Geltung vgl. § 5 Abs. 1 Nr. 1 bis 3 LNGG +++)  
+> (+++ § 4 Abs. 1 u. 3: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)  
+> (+++ § 4 Abs. 2: Zur Anwendung vgl. § 61f Abs. 1 Satz 6 WHG 2009 +++)
 
 <!-- norm id="BJNE000502119" -->
 ### § 5 Grenzüberschreitende Beteiligung von Behörden und Öffentlichkeit
@@ -147,6 +163,10 @@ Die in dem anderen Staat ansässigen Personen sind Inländern gleichgestellt.
 
 (7) Zulassungen und Anpassungen von Zulassungen von Behörden anderer Staaten sind der Öffentlichkeit nach Landesrecht zugänglich zu machen.
 
+> **Fußnote**
+>
+> (+++ § 5: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
+
 <!-- norm id="BJNE000601118" -->
 ### § 6 Notwendige Vorgaben in der Erlaubnis und der Genehmigung
 
@@ -169,6 +189,10 @@ Die Erlaubnis für Gewässerbenutzungen, die zu einer Industrieanlage gehören, 
 - 9\. Vorkehrungen zur weitestgehenden Verminderung der weiträumigen oder grenzüberschreitenden Umweltverschmutzung.
 
 In den Fällen von Nummer 6 Buchstabe c sind die Zeiträume für die Überwachung so festzulegen, dass sie mindestens alle fünf Jahre für das Grundwasser und mindestens alle zehn Jahre für den Boden betragen, es sei denn, diese Überwachung erfolgt anhand einer systematischen Beurteilung gemäß § 9 Absatz 2 des Verschmutzungsrisikos.
+
+> **Fußnote**
+>
+> (+++ § 6: Zur Nichtanwendung vgl. § 61f Abs. 1 Satz 5 WHG 2009 +++)
 
 <!-- norm id="BJNE000702119" -->
 ### § 7 Besondere Pflichten des Inhabers einer Erlaubnis oder einer Genehmigung

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 5 G v. 21.7.2026 I Nr. 221
 ausfertigung: '2008-11-22'
 quelle: https://www.gesetze-im-internet.de/pstv/
 doknr: BJNR226300008
-builddate: '20261029220015'
+builddate: '20261104215504'
 ---
 
 # Verordnung zur Ausführung des Personenstandsgesetzes (PStV)
@@ -492,10 +492,10 @@ des Verstorbenen vorgelegt wird. Auf die Vorlage der nach Nummer 2 erforderliche
 <!-- gliederung id="BJNG001000000" ebene="1" -->
 ## Kapitel 8 Berichtigungen
 
-<!-- norm id="BJNE004902360" -->
+<!-- norm id="BJNE004903360" -->
 ### § 47 Berichtigungen
 
-(1) Das Standesamt, das selbst oder auf Anordnung des Gerichts einen abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in anderen Personenstandsregistern eine Berichtigung vorgenommen werden muss. Es teilt dem in Betracht kommenden Standesamt die Berichtigung mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates (§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung des betreffenden Ausländers bestätigt hat.
+(1) Das Standesamt, das selbst oder auf Anordnung des Gerichts einen abgeschlossenen Registereintrag berichtigt, hat zu prüfen, ob auch in anderen Personenstandsregistern oder in den beim Bundeszentralamt für Steuern zu einer Person gespeicherten Daten nach § 4 Absatz 2 und 3 des Identifikationsnummerngesetzes eine Berichtigung vorgenommen werden muss. Es teilt dem in Betracht kommenden Standesamt und der Meldebehörde die Berichtigung mit. Eine Berichtigung auf Grund von Dokumenten des Heimatstaates (§ 47 Absatz 1 Satz 3 Nummer 2 des Gesetzes) ist nur zulässig, wenn zuvor die zuständige Ausländerbehörde beteiligt wurde und diese den Zusammenhang zwischen den vorgelegten Dokumenten und der Rückführung des betreffenden Ausländers bestätigt hat.
 
 (2) Hat das Standesamt von Amts wegen auf Grund eines Registereintrags eine Mitteilung an eine Behörde, ein Gericht oder eine sonstige öffentliche Stelle gemacht und wird dieser Eintrag berichtigt, ist dem Empfänger die Berichtigung mitzuteilen.
 
@@ -665,7 +665,7 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
 
 (8) Mitteilungspflichten an die Standesämter auf Grund anderer Rechtsvorschriften und internationaler Vereinbarungen bleiben unberührt.
 
-<!-- norm id="BJNE005904116" -->
+<!-- norm id="BJNE005906360" -->
 #### § 57 Mitteilungen bei Beurkundung im Geburtenregister
 
 (1) Das Standesamt, das die Geburt beurkundet, hat dies mitzuteilen:
@@ -736,9 +736,10 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
 - 17\. Angaben zum Tod des Vaters vor der Geburt des Kindes,
 - 18\. Angaben zur elterlichen Sorge für das Kind,
 - 19\. Anschriften des Kindes und der Eltern,
-- 20\. Pseudonym der Mutter im Falle einer vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes.
+- 20\. Pseudonym der Mutter im Falle einer vertraulichen Geburt nach § 25 Absatz 1 des Schwangerschaftskonfliktgesetzes,
+- 21\. Identifikationsnummer nach § 139b der Abgabenordnung.
 
-<!-- norm id="BJNE006005116" -->
+<!-- norm id="BJNE006006360" -->
 #### § 58 Mitteilungen bei Beurkundung im Eheregister
 
 (1) Das Standesamt, das die Eheschließung oder die Umwandlung einer Lebenspartnerschaft in eine Ehe beurkundet, im Falle der Nummer 6 die Anmeldung der Eheschließung entgegennimmt, hat dies mitzuteilen:
@@ -789,9 +790,10 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
 - 15\. Daten über die Auflösung der Ehe durch Scheidung und Tod,
 - 16\. Daten über Todeserklärung und gerichtliche Feststellung der Todeszeit eines Ehegatten,
 - 17\. Daten über eine im Ausland erfolgte erneute Eheschließung oder Begründung einer Lebenspartnerschaft eines Ehegatten nach Eheauflösung,
-- 18\. Anschriften der Ehegatten.
+- 18\. Anschriften der Ehegatten,
+- 19\. Identifikationsnummer nach § 139b der Abgabenordnung.
 
-<!-- norm id="BJNE006105116" -->
+<!-- norm id="BJNE006106360" -->
 #### § 59 Mitteilungen bei Beurkundung im Lebenspartnerschaftsregister
 
 (1) Das Standesamt, das die Begründung einer Lebenspartnerschaft nach § 35 des Gesetzes beurkundet, hat dies mitzuteilen:
@@ -835,9 +837,10 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
 - 14\. Angaben zu fortgesetzter Gütergemeinschaft eines Lebenspartners mit seinem Abkömmling,
 - 15\. Daten über die Auflösung der Lebenspartnerschaft,
 - 16\. Daten über eine im Ausland erfolgte erneute Eheschließung oder Begründung einer Lebenspartnerschaft eines Lebenspartners nach Auflösung der Lebenspartnerschaft,
-- 17\. Anschriften der Lebenspartner.
+- 17\. Anschriften der Lebenspartner,
+- 18\. Identifikationsnummer nach § 139b der Abgabenordnung.
 
-<!-- norm id="BJNE006203116" -->
+<!-- norm id="BJNE006204360" -->
 #### § 60 Mitteilungen bei Beurkundung im Sterberegister
 
 (1) Das Standesamt, das den Sterbefall beurkundet, hat dies mitzuteilen:
@@ -880,7 +883,21 @@ Die Versagungsgründe nach § 65 Absatz 3 Satz 2 des Gesetzes bleiben unberührt
 - 17\. Tag der Geburt eines minderjährigen Kindes des Verstorbenen,
 - 18\. Angaben darüber, dass der Verstorbene Vollwaise war,
 - 19\. Angaben darüber, dass ein Kind des Verstorbenen durch den Sterbefall Vollwaise geworden ist,
-- 20\. Anschrift des Verstorbenen.
+- 20\. Anschrift des Verstorbenen,
+- 21\. Identifikationsnummer nach § 139b der Abgabenordnung.
+
+<!-- norm id="BJNE009400360" -->
+#### § 60a Mitteilungen für Identitätszwecke
+
+Das Standesamt, das eine Fortführung im Personenstandsregister vornimmt, teilt dies der Registermodernisierungsbehörde nach dem Identifikationsnummerngesetz nur mit, wenn die Daten nicht bereits der Meldebehörde nach den §§ 57 bis 60 übermittelt worden sind. Soweit eine Mitteilung des Standesamtes zum Zwecke der Überprüfung und Bestätigung der Identität natürlicher Personen beim Bundeszentralamt für Steuern nach Satz 1 erforderlich ist, werden folgende Daten mitgeteilt:
+
+- 1\. Familienname,
+- 2\. Vornamen,
+- 3\. frühere Familiennamen und Vornamen,
+- 4\. Tag und Ort der Geburt,
+- 5\. Geschlecht,
+- 6\. gegenwärtige und letzte Anschrift, wenn diese bekannt ist,
+- 7\. Sterbedatum.
 
 <!-- norm id="BJNE006302130" -->
 #### § 61 Mitteilungen für statistische Zwecke
@@ -1041,7 +1058,7 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
-<!-- norm id="BJNE007905116" -->
+<!-- norm id="BJNE007906116" -->
 ### Anlage 1 (zu § 11)Datenfelder in den Personenstandsregistern
 
 | Nr. | Datenfelder | Anmerkungen | Verwendung |  |  |  |  |
@@ -1091,6 +1108,7 @@ __________
 | 1130 | Religion/Weltanschauung |  | X | X |  |  | 3) |
 | 1180 | Deutsche Staatsangehörigkeit | Nur Erwerb nach § 4 Abs. 3 StAG |  |  | X |  |  |
 | 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1199 | Familiennamensführung nicht nachgewiesen | Nur bei nicht nachgewiesener Identität der Eltern | X |  |  |  |  |
 |  | **Angaben zu den Eltern** |  |  |  |  |  |  |
 |  | 1. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -1112,6 +1130,7 @@ __________
 | 1275 | Registernummer | Beispiel: G 399/2010 |  |  | X |  |  |
 | 1280 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 1298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1299A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Geburtsurkunde | X | X | X |  | 4) |
@@ -1132,6 +1151,7 @@ __________
 | 1371 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 1375 | Registernummer | Beispiel: G 1499/2009 |  |  | X |  |  |
 | 1380 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 1399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 | 1399A | Namensführung nicht nachgewiesen |  | X | X |  |  |  |
@@ -1242,6 +1262,7 @@ __________
 | 2175 | Registernummer |  |  |  | X |  |  |
 | 2180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 2198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Eheurkunde | X | X | X |  | 4) |
 | 2200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Ehefrau“ oder „Ehemann“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Ehepartner“ anzugeben,<br>Beispiel: „2. Ehefrau“ | X | X |  |  | 4) |
 | 2201 | Familienname vor der Ehe |  | X | X |  | X |  |
@@ -1273,6 +1294,7 @@ __________
 | 2271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 2275 | Registernummer |  |  |  | X |  |  |
 | 2280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 2298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | **Auflösung der Ehe** |  |  |  |  |  |  |
 | 2390 | Art der Eheauflösung | Beispiel: Scheidung, Aufhebung, Tod, Wiederverheiratung nach Todeserklärung |  | X |  |  | 3) |
@@ -1377,6 +1399,7 @@ __________
 | 3175 | Registernummer |  |  |  | X |  |  |
 | 3180 | Staatsangehörigkeit |  |  |  | X |  |  |
 | 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 3198 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | 2. | Leittext zur Zuordnung der folgenden Datenfelder sowie der Hinweise und Folgebeurkundungen im Registerausdruck und in der Lebenspartnerschaftsurkunde | X | X | X |  | 4) |
 | 3200 | Familienrechtliche Bezeichnung | Es können die Bezeichnungen „Lebenspartner“ oder „Lebenspartnerin“ angegeben werden; Personen, die weder dem männlichen noch dem weiblichen Geschlecht angehören, sind als „Lebenspartner“ anzugeben,<br>Beispiel: „2. Lebenspartner“ | X | X |  |  | 4) |
 | 3201 | Familienname vor der Begründung |  | X | X |  | X |  |
@@ -1408,6 +1431,7 @@ __________
 | 3271 | Behördenname | Ortsbezeichnung |  |  | X |  |  |
 | 3275 | Registernummer |  |  |  | X |  |  |
 | 3280 | Staatsangehörigkeit |  |  |  | X |  |  |
+| 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 3298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 |  | **Auflösung oder Umwandlung der Lebenspartnerschaft in eine Ehe** |  |  |  |  |  |  |
 | 3390 | Art der Auflösung | Beispiel: Aufhebung, Tod, Todeserklärung, Feststellung der Todeszeit, Umwandlung in Ehe |  | X |  |  | 3) |
@@ -1501,6 +1525,7 @@ __________
 | 4294 | Anschrift, Ortsteil | Bei landesrechtlicher Vorgabe | X | X |  |  |  |
 | 4297 | Anschrift, Staat | Nur bei Wohnort im Ausland | X | X |  |  |  |
 | 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
+| 4298 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4299 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | **Familienstand der verstorbenen Person** |  |  |  |  |  |  |
 | 4300 | Familienstand |  | X | X |  |  |  |
@@ -1512,6 +1537,7 @@ __________
 | 4303 | Vornamen des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
 | 4303A | Ausländische Namensart | Bezeichnung einer ausländischen Namensform des Vornamens | X | X |  |  |  |
 | 4320 | Geschlecht des Ehegatten, Ehe- oder Lebenspartners |  | X | X |  |  |  |
+| 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4398 | Identifikationsnummer | Gemäß § 139b der Abgabenordnung |  |  |  |  | 1) |
 | 4399 | Identität nicht nachgewiesen | Nur bei nicht nachgewiesener Identität | X | X |  |  |  |
 |  | **Ehe der verstorbenen Person** |  |  |  |  |  |  |

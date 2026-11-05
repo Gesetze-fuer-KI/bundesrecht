@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
 ausfertigung: '1967-05-08'
 quelle: https://www.gesetze-im-internet.de/ebo/
 doknr: BJNR215630967
-builddate: '20261028220008'
+builddate: '20261104215503'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)

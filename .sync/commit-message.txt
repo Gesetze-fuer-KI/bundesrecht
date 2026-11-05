@@ -1,9 +1,7 @@
-Stand 2026-11-04: 7 geändert, 0 neu, 0 entfernt
+Stand 2026-11-05: 5 geändert, 0 neu, 0 entfernt
 
-- AZRG: Zuletzt geändert durch Art. 12 Abs. 7 G v. 22.10.2026 I Nr. 318
-- BfJG: Zuletzt geändert durch Art. 15 Abs. 1 G v. 3.7.2026 I Nr. 199
-- DesignV: Zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 322
-- GebOSt: Zuletzt geändert durch Art. 2 V v. 14.10.2026 I Nr. 310
-- GVG: zuletzt geändert durch Art. 5 G v. 2.7.2026 I Nr. 198
-- SGB 5: Zuletzt geändert durch Art. 1 G v. 26.6.2026 I Nr. 195
-- StPO: zuletzt geändert durch Art. 15 Abs. 16 G v. 3.7.2026 I Nr. 199
+- EBO: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
+- IZÜV: Zuletzt geändert durch Art. 2 G v. 3.7.2024 I Nr. 225
+- PStV: Zuletzt geändert durch Art. 5 G v. 21.7.2026 I Nr. 221
+- RegMoG: Geändert durch Art. 17 G v. 28.6.2021 I 2250
+- WHG: Zuletzt geändert durch Art. 8 G v. 22.7.2026 I Nr. 224
