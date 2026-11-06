@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
 ausfertigung: '2005-02-16'
 quelle: https://www.gesetze-im-internet.de/bartschv_2005/
 doknr: BJNR025810005
-builddate: '20231128213527'
+builddate: '20261105215502'
 ---
 
 # Verordnung zum Schutz wild lebender Tier- und Pflanzenarten (BArtSchV)
@@ -324,7 +324,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
   Willis, J. (1973): A Dictionary of Flowering Plants and Ferns. - Cambridge.  
   Wilson, D.E. & Reeder, D.M. (1993): Mammal Species of the World. - 2nd edition. Washington & London.
 
-| Wissenschaftliche Bezeichnung | Deutscher Name | Besonders geschützte Arten zu § 1 Satz 1 | Streng geschützte Arten zu § 1 Satz 2 |  |
+| Wissenschaftliche Bezeichnung | Deutscher Name | Besonders<br>geschützte Arten<br>zu § 1 Satz 1 | Streng<br>geschützte Arten<br>zu § 1 Satz 2 |  |
 |---|---|---|---|---|
 | 1 | 2 | 3 |  |  |
 | **Fauna** |  |  |  |  |
@@ -333,7 +333,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Crocidura suaveolens cypria | Zypriotische Gartenspitzmaus | + |  |  |
 | Desmana moschata | Russischer Desman | + |  |  |
 | Gazella subgutturosa | Kropfgazelle | + |  |  |
-| Gulo gulo 1) | Vielfraß | + |  |  |
+| Gulo gulo ¹) | Vielfraß | + |  |  |
 | Mesocricetus newtoni | Rumänischer Hamster | + |  |  |
 | Microtus bavaricus | Bayerische Kleinwühlmaus | + | + |  |
 | Ovibos moschatus | Moschusochse | + |  |  |
@@ -341,7 +341,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | - | nur die Unterart ladogensis |  |  |  |
 | Spalax graecus | Bukowinische Blindmaus | + |  |  |
 | Vormela peregusna | Tigeriltis | + |  |  |
-| Mammalia spp. 2) 3) 4) | Säugetiere | + |  |  |
+| Mammalia spp. ²) ³) ⁴) | Säugetiere | + |  |  |
 | excl. | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt, mit Ausnahme von |  |  |
 | Arvicola terrestris | Schermaus |  |  |  |
 | Clethrionomys glareolus | Rötelmaus |  |  |  |
@@ -356,118 +356,118 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Rattus norvegicus | Wanderratte |  |  |  |
 | Rattus rattus | Hausratte |  |  |  |
 | **Aves** | **Vögel** |  |  |  |
-| Acrocephalus arundinaceus 5) | Drosselrohrsänger |  | + |  |
-| Acrocephalus paludicola 5) | Seggenrohrsänger |  | + |  |
-| Acrocephalus schoenobaenus 5) | Schilfrohrsänger |  | + |  |
-| Actitis hypoleucos 5) | Flussuferläufer |  | + |  |
-| Alcedo atthis 5) | Eisvogel |  | + |  |
-| Alectoris gaeca 5) | Steinhuhn |  | + |  |
-| Alectoris rufa 5) | Rothuhn |  | + |  |
-| Anthus campestris 5) | Brachpieper |  | + |  |
-| Ardea purpurea 5) | Purpurreiher |  | + |  |
-| Arenaria interpres 5) | Steinwälzer |  | + |  |
+| Acrocephalus arundinaceus ⁵) | Drosselrohrsänger |  | + |  |
+| Acrocephalus paludicola ⁵) | Seggenrohrsänger |  | + |  |
+| Acrocephalus schoenobaenus ⁵) | Schilfrohrsänger |  | + |  |
+| Actitis hypoleucos ⁵) | Flussuferläufer |  | + |  |
+| Alcedo atthis ⁵) | Eisvogel |  | + |  |
+| Alectoris gaeca ⁵) | Steinhuhn |  | + |  |
+| Alectoris rufa ⁵) | Rothuhn |  | + |  |
+| Anthus campestris ⁵) | Brachpieper |  | + |  |
+| Ardea purpurea ⁵) | Purpurreiher |  | + |  |
+| Arenaria interpres ⁵) | Steinwälzer |  | + |  |
 | Aythya nyroca | Moorente |  | + |  |
-| Botaurus stellaris 5) | Rohrdommel |  | + |  |
-| Burhinus oedicnemus 5) | Triel |  | + |  |
-| Calidris alpina 5) | Alpenstrandläufer |  | + |  |
-| Caprimulgus europaeus 5) | Ziegenmelker |  | + |  |
-| Carpodacus erythrinus 5) | Karmingimpel |  | + |  |
+| Botaurus stellaris ⁵) | Rohrdommel |  | + |  |
+| Burhinus oedicnemus ⁵) | Triel |  | + |  |
+| Calidris alpina ⁵) | Alpenstrandläufer |  | + |  |
+| Caprimulgus europaeus ⁵) | Ziegenmelker |  | + |  |
+| Carpodacus erythrinus ⁵) | Karmingimpel |  | + |  |
 | Cathartes aura | Truthahngeier | + |  |  |
 | Cathartes burrovianus | Kleiner Gelbkopfgeier | + |  |  |
 | Cathartes melambrotus | Großer Gelbkopfgeier | + |  |  |
-| Charadrius alexandrinus 5) | Seeregenpfeifer |  | + |  |
-| Charadrius dubius 5) | Flussregenpfeifer |  | + |  |
-| Charadrius hiaticula 5) | Sandregenpfeifer |  | + |  |
-| Chlidonias leucopterus 5) | Weißflügelseeschwalbe |  | + |  |
-| Chlidonias niger 5) | Trauerseeschwalbe |  | + |  |
-| Ciconia ciconia 5) | Weißstorch |  | + |  |
-| Coracias garrulus 5) | Blauracke |  | + |  |
+| Charadrius alexandrinus ⁵) | Seeregenpfeifer |  | + |  |
+| Charadrius dubius ⁵) | Flussregenpfeifer |  | + |  |
+| Charadrius hiaticula ⁵) | Sandregenpfeifer |  | + |  |
+| Chlidonias leucopterus ⁵) | Weißflügelseeschwalbe |  | + |  |
+| Chlidonias niger ⁵) | Trauerseeschwalbe |  | + |  |
+| Ciconia ciconia ⁵) | Weißstorch |  | + |  |
+| Coracias garrulus ⁵) | Blauracke |  | + |  |
 | Coragyps atratus | Rabengeier | + |  |  |
-| Crex crex 5) | Wachtelkönig |  | + |  |
-| Cygnus cygnus 5) | Singschwan |  | + |  |
-| Dendrocopos leucotos 5) | Weißrückenspecht |  | + |  |
-| Dendrocopos medius 5) | Mittelspecht |  | + |  |
-| Dryocopus martius 5) | Schwarzspecht |  | + |  |
-| Emberiza calandra 5) | Grauammer |  | + |  |
-| Emberiza cia 5) | Zippammer |  | + |  |
-| Emberiza cirlus 5) | Zaunammer |  | + |  |
-| Emberiza hortulana 5) | Ortolan |  | + |  |
-| Eudromias morinellus 5) | Mornellregenpfeifer |  | + |  |
-| Ficedula albicollis 5) | Halsbandschnäpper |  | + |  |
-| Ficedula parva 5) | Zwergschnäpper |  | + |  |
-| Fratercula arctica 5) | Papageitaucher |  | + |  |
-| Fulmarus glacialis 5) | Eissturmvogel |  | + |  |
-| Galerida cristata 5) | Haubenlerche |  | + |  |
-| Gallinago gallinago 5) | Bekassine |  | + |  |
-| Gallinago media 5) | Doppelschnepfe |  | + |  |
-| Gallinula chloropus 5) | Teichhuhn |  | + |  |
-| Gavia immer 5) | Eistaucher |  | + |  |
-| Gelochelidon nilotica 5) | Lachseeschwalbe |  | + |  |
-| Himantopus himantopus 5) | Stelzenläufer |  | + |  |
-| Hydrobates pelagicus 5) | Sturmschwalbe |  | + |  |
-| Ixobrychus minutus 5) | Zwergdommel |  | + |  |
-| Jynx torquilla 5) | Wendehals |  | + |  |
-| Lanius excubitor 5) | Raubwürger |  | + |  |
-| Lanius minor 5) | Schwarzstirnwürger |  | + |  |
-| Lanius senator 5) | Rotkopfwürger |  | + |  |
-| Limosa limosa 5) | Uferschnepfe |  | + |  |
-| Locustella luscinioides 5) | Rohrschwirl |  | + |  |
-| Lullula arborea 5) | Heidelerche |  | + |  |
-| Luscinia svecica 5) | Blaukehlchen |  | + |  |
-| Lymnocryptes minimus 5) | Zwergschnepfe |  | + |  |
-| Merops apiaster 5) | Bienenfresser |  | + |  |
-| Monticola saxatilis 5) | Steinrötel |  | + |  |
-| Numenius arquata 5) | Großer Brachvogel |  | + |  |
-| Nycticorax nycticorax 5) | Nachtreiher |  | + |  |
-| Oceanodroma leucorhoa 5) | Wellenläufer |  | + |  |
-| Petronia petronia 5) | Steinsperling |  | + |  |
-| Phalaropus lobatus 5) | Odinshühnchen |  | + |  |
-| Philomachus pugnax 5) | Kampfläufer |  | + |  |
-| Phylloscopus bonelli 5) | Berglaubsänger |  | + |  |
-| Picoides tridactylus 5) | Dreizehenspecht |  | + |  |
-| Picus canus 5) | Grauspecht |  | + |  |
-| Picus viridis 5) | Grünspecht |  | + |  |
-| Plegadis falcinellus 5) | Braunsichler |  | + |  |
-| Pluvialis apricaria 5) | Goldregenpfeifer |  | + |  |
-| Podiceps auritus 5) | Ohrentaucher |  | + |  |
-| Podiceps grisegena 5) | Rothalstaucher |  | + |  |
-| Podiceps nigricollis 5) | Schwarzhalstaucher |  | + |  |
-| Porzana parva 5) | Kleines Sumpfhuhn |  | + |  |
-| Porzana porzana 5) | Tüpfelsumpfhuhn |  | + |  |
-| Porzana pusilla 5) | Zwergsumpfhuhn |  | + |  |
-| Ptyonoprogne rupestris 5) | Felsenschwalbe |  | + |  |
-| Recurvirostra avosetta 5) | Säbelschnäbler |  | + |  |
-| Riparia riparia 5) | Uferschwalbe |  | + |  |
-| Serinus citrinella 5) | Zitronengirlitz |  | + |  |
-| Sterna albifrons 5) | Zwergseeschwalbe |  | + |  |
-| Sterna caspia 5) | Raubseeschwalbe |  | + |  |
-| Sterna dougallii 5) | Rosenseeschwalbe |  | + |  |
-| Sterna hirundo 5) | Flussseeschwalbe |  | + |  |
-| Sterna paradisaea 5) | Küstenseeschwalbe |  | + |  |
-| Sterna sandvicensis 5) | Brandseeschwalbe |  | + |  |
-| Sylvia nisoria 5) | Sperbergrasmücke |  | + |  |
+| Crex crex ⁵) | Wachtelkönig |  | + |  |
+| Cygnus cygnus ⁵) | Singschwan |  | + |  |
+| Dendrocopos leucotos ⁵) | Weißrückenspecht |  | + |  |
+| Dendrocopos medius ⁵) | Mittelspecht |  | + |  |
+| Dryocopus martius ⁵) | Schwarzspecht |  | + |  |
+| Emberiza calandra ⁵) | Grauammer |  | + |  |
+| Emberiza cia ⁵) | Zippammer |  | + |  |
+| Emberiza cirlus ⁵) | Zaunammer |  | + |  |
+| Emberiza hortulana ⁵) | Ortolan |  | + |  |
+| Eudromias morinellus ⁵) | Mornellregenpfeifer |  | + |  |
+| Ficedula albicollis ⁵) | Halsbandschnäpper |  | + |  |
+| Ficedula parva ⁵) | Zwergschnäpper |  | + |  |
+| Fratercula arctica ⁵) | Papageitaucher |  | + |  |
+| Fulmarus glacialis ⁵) | Eissturmvogel |  | + |  |
+| Galerida cristata ⁵) | Haubenlerche |  | + |  |
+| Gallinago gallinago ⁵) | Bekassine |  | + |  |
+| Gallinago media ⁵) | Doppelschnepfe |  | + |  |
+| Gallinula chloropus ⁵) | Teichhuhn |  | + |  |
+| Gavia immer ⁵) | Eistaucher |  | + |  |
+| Gelochelidon nilotica ⁵) | Lachseeschwalbe |  | + |  |
+| Himantopus himantopus ⁵) | Stelzenläufer |  | + |  |
+| Hydrobates pelagicus ⁵) | Sturmschwalbe |  | + |  |
+| Ixobrychus minutus ⁵) | Zwergdommel |  | + |  |
+| Jynx torquilla ⁵) | Wendehals |  | + |  |
+| Lanius excubitor ⁵) | Raubwürger |  | + |  |
+| Lanius minor ⁵) | Schwarzstirnwürger |  | + |  |
+| Lanius senator ⁵) | Rotkopfwürger |  | + |  |
+| Limosa limosa ⁵) | Uferschnepfe |  | + |  |
+| Locustella luscinioides ⁵) | Rohrschwirl |  | + |  |
+| Lullula arborea ⁵) | Heidelerche |  | + |  |
+| Luscinia svecica ⁵) | Blaukehlchen |  | + |  |
+| Lymnocryptes minimus ⁵) | Zwergschnepfe |  | + |  |
+| Merops apiaster ⁵) | Bienenfresser |  | + |  |
+| Monticola saxatilis ⁵) | Steinrötel |  | + |  |
+| Numenius arquata ⁵) | Großer Brachvogel |  | + |  |
+| Nycticorax nycticorax ⁵) | Nachtreiher |  | + |  |
+| Oceanodroma leucorhoa ⁵) | Wellenläufer |  | + |  |
+| Petronia petronia ⁵) | Steinsperling |  | + |  |
+| Phalaropus lobatus ⁵) | Odinshühnchen |  | + |  |
+| Philomachus pugnax ⁵) | Kampfläufer |  | + |  |
+| Phylloscopus bonelli ⁵) | Berglaubsänger |  | + |  |
+| Picoides tridactylus ⁵) | Dreizehenspecht |  | + |  |
+| Picus canus ⁵) | Grauspecht |  | + |  |
+| Picus viridis ⁵) | Grünspecht |  | + |  |
+| Plegadis falcinellus ⁵) | Braunsichler |  | + |  |
+| Pluvialis apricaria ⁵) | Goldregenpfeifer |  | + |  |
+| Podiceps auritus ⁵) | Ohrentaucher |  | + |  |
+| Podiceps grisegena ⁵) | Rothalstaucher |  | + |  |
+| Podiceps nigricollis ⁵) | Schwarzhalstaucher |  | + |  |
+| Porzana parva ⁵) | Kleines Sumpfhuhn |  | + |  |
+| Porzana porzana ⁵) | Tüpfelsumpfhuhn |  | + |  |
+| Porzana pusilla ⁵) | Zwergsumpfhuhn |  | + |  |
+| Ptyonoprogne rupestris ⁵) | Felsenschwalbe |  | + |  |
+| Recurvirostra avosetta ⁵) | Säbelschnäbler |  | + |  |
+| Riparia riparia ⁵) | Uferschwalbe |  | + |  |
+| Serinus citrinella ⁵) | Zitronengirlitz |  | + |  |
+| Sterna albifrons ⁵) | Zwergseeschwalbe |  | + |  |
+| Sterna caspia ⁵) | Raubseeschwalbe |  | + |  |
+| Sterna dougallii ⁵) | Rosenseeschwalbe |  | + |  |
+| Sterna hirundo ⁵) | Flussseeschwalbe |  | + |  |
+| Sterna paradisaea ⁵) | Küstenseeschwalbe |  | + |  |
+| Sterna sandvicensis ⁵) | Brandseeschwalbe |  | + |  |
+| Sylvia nisoria ⁵) | Sperbergrasmücke |  | + |  |
 | Tetrao tetrix | Birkhuhn |  | + |  |
 | Tetrao urogallus | Auerhuhn |  | + |  |
-| Tringa glareola 5) | Bruchwasserläufer |  | + |  |
-| Tringa ochropus 5) | Waldwasserläufer |  | + |  |
-| Tringa stagnatilis 5) | Teichwasserläufer |  | + |  |
-| Tringa totanus 5) | Rotschenkel |  | + |  |
-| Upupa epops 5) | Wiedehopf |  | + |  |
-| Vanellus vanellus 5) | Kiebitz |  | + |  |
+| Tringa glareola ⁵) | Bruchwasserläufer |  | + |  |
+| Tringa ochropus ⁵) | Waldwasserläufer |  | + |  |
+| Tringa stagnatilis ⁵) | Teichwasserläufer |  | + |  |
+| Tringa totanus ⁵) | Rotschenkel |  | + |  |
+| Upupa epops ⁵) | Wiedehopf |  | + |  |
+| Vanellus vanellus ⁵) | Kiebitz |  | + |  |
 | **Reptilia** | **Kriechtiere** |  |  |  |
 | Lacerta bilineata | Westliche Smaragdeidechse | + | + |  |
 | Lacerta clarkorum | Clarks Felseneidechse | + |  |  |
 | Lacerta parva | Zwergeidechse | + |  |  |
 | Lacerta princeps | Zagros-Eidechse | + |  |  |
 | Natrix megalocephala | Großkopf-Ringelnatter | + |  |  |
-| Natrix natrix 3) | Ringelnatter | + |  |  |
+| Natrix natrix ³) | Ringelnatter | + |  |  |
 | Rafetus euphraticus | Euphrat-Weichschildkröte | + |  |  |
 | Vipera albizona |  | + |  |  |
 | Vipera aspis | Aspisviper | + | + |  |
 | Vipera barani | Barans Viper | + |  |  |
 | Vipera lebetina | Levanteotter | + |  |  |
 | Vipera pontica | Pontische Viper | + |  |  |
-| Reptilia spp. 3) 4) | Kriechtiere | + |  |  |
+| Reptilia spp. ³) ⁴) | Kriechtiere | + |  |  |
 | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | **Amphibia** | **Lurche** |  |  |  |
 | Bombina orientalis | Chinesische Rotbauchunke | + |  |  |
@@ -476,18 +476,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Neurergus strauchi | Türkischer Bergbachmolch | + |  |  |
 | Pelodytes caucasicus | Kaukasischer Schlammtaucher | + |  |  |
 | Rana holtzi |  | + |  |  |
-| Amphibia spp. 3) 4) | Lurche | + |  |  |
+| Amphibia spp. ³) ⁴) | Lurche | + |  |  |
 | - | alle europäischen Arten |  |  |  |
 | **Pisces et Cyclostomata** | **Fische und Rundmäuler** |  |  |  |
-| Aphanius fasciatus 6) | Zebrakärpfling | + |  |  |
-| Aphanius iberus 6) | Spanienkärpfling | + |  |  |
-| Carcharodon charcharias 6) | Weißer Hai | + |  |  |
-| Lethenteron zanandrai 6) |  | + |  |  |
-| Mobula mobular 6) | Teufelsrochen | + |  |  |
+| Aphanius fasciatus ⁶) | Zebrakärpfling | + |  |  |
+| Aphanius iberus ⁶) | Spanienkärpfling | + |  |  |
+| Carcharodon charcharias ⁶) | Weißer Hai | + |  |  |
+| Lethenteron zanandrai ⁶) |  | + |  |  |
+| Mobula mobular ⁶) | Teufelsrochen | + |  |  |
 | Petromyzonidae spp. | Rundmäuler | + |  |  |
 | - | alle heimischen Arten |  |  |  |
-| Pomatoschistus canestrinii 6) |  | + |  |  |
-| Pomatoschistus tortonesei 6) |  | + |  |  |
+| Pomatoschistus canestrinii ⁶) |  | + |  |  |
+| Pomatoschistus tortonesei ⁶) |  | + |  |  |
 | Umbra krameri | Hundsfisch | + |  |  |
 | Valencia letourneuxi |  | + |  |  |
 | **Lepidoptera** | **Schmetterlinge** |  |  |  |
@@ -532,9 +532,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Chelis maculosa | Fleckenbär | + | + |  |
 | Cleoceris scoriacea | Gebänderte Graslilieneule | + | + |  |
 | Cleorodes lichenaria | Grüner Rindenflechten-Spanner | + | + |  |
-| Coenonympha spp. 3) | Wiesenvögelchen | + |  |  |
+| Coenonympha spp. ³) | Wiesenvögelchen | + |  |  |
 | - | alle heimischen Arten |  |  |  |
-| Colias spp. 3) | Gelblinge | + |  |  |
+| Colias spp. ³) | Gelblinge | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Conistra veronicae | Eintönige Wintereule | + | + |  |
 | Cucullia gnaphalii | Goldruten-Mönch | + | + |  |
@@ -545,15 +545,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Dyscia fagaria | Heidekraut-Fleckenspanner | + | + |  |
 | Epirranthis diversata | Bunter Espen-Frühlingsspanner | + | + |  |
 | Erebia epiphron epiphron | Brocken-Mohrenfalter | + | + |  |
-| Erebia spp. 3) | Mohrenfalter | + |  |  |
+| Erebia spp. ³) | Mohrenfalter | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | Eremobina pabulatricula | Helle Pfeifengras-Büscheleule | + | + |  |
 | Eriogaster rimicola | Eichen-Wollafter | + | + |  |
-| Eriogaster spp. 3) excl. Eriogaster lanestris | Wollafter | + |  |  |
+| Eriogaster spp. ³)<br>excl.<br>Eriogaster lanestris | Wollafter | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und<br>mit Ausnahme von Frühlings-Wollafter |  |  |  |
 | Eucarta amethystina | Amethysteule | + | + |  |
 | Euchalcia consona | Mönchskraut-Metalleule | + | + |  |
-| Euphydryas spp. 3) | Scheckenfalter | + |  |  |
+| Euphydryas spp. ³) | Scheckenfalter | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Euxoa lidia | Schwärzliche Erdeule | + | + |  |
 | Euxoa vitta | Steppenrasen-Erdeule | + | + |  |
@@ -562,7 +562,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Gastropacha spp. | Glucken | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | Glaucopsyche alexis | Großpunkt-Bläuling | + |  |  |
-| Gortyna borelii 3) | Haarstrangwurzeleule | + | + |  |
+| Gortyna borelii ³) | Haarstrangwurzeleule | + | + |  |
 | Hadena irregularis | Gipskraut-Kapseleule | + | + |  |
 | Hadena magnolii | Nelken-Kapseleule | + | + |  |
 | Heliothis maritima warneckei | Warneckes Heidemoor-Sonneneule | + | + |  |
@@ -572,7 +572,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Hipparchia alcyone | Kleiner Waldportier | + | + |  |
 | Hipparchia fagi | Großer Waldportier | + | + |  |
 | Hipparchia statilinus | Eisenfarbener Samtfalter | + | + |  |
-| Hyles spp. 3) | Schwärmer | + |  |  |
+| Hyles spp. ³) | Schwärmer | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | Hyles vespertilio | Fledermausschwärmer | + | + |  |
 | Hyphoraia aulica | Hofdame | + | + |  |
@@ -594,12 +594,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Lithophane lamda | Gagelstrauch-Moor-Holzeule | + | + |  |
 | Luperina dumerilii | Dumerils Graswurzeleule | + | + |  |
 | Lycaena helle | Blauschillernder Feuerfalter | + | + |  |
-| Lycaena spp. 3) | Feuerfalter | + |  |  |
+| Lycaena spp. ³) | Feuerfalter | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
-| Maculinea spp. 3) | Ameisen-Bläulinge | + |  |  |
+| Maculinea spp. ³) | Ameisen-Bläulinge | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Malacosoma franconica | Frankfurter Ringelspinner | + | + |  |
-| Malacosoma spp. excl. Malacosoma neustria | Ringelspinner | + |  |  |
+| Malacosoma spp.<br>excl.<br>Malacosoma neustria | Ringelspinner | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und<br>mit Ausnahme von Gewöhnlicher Ringelspinner |  |  |  |
 | Meganephria bimaculosa | Zweifleckige Plumpeule | + | + |  |
 | Nola cristatula | Wasserminzen-Kleinbärchen | + | + |  |
@@ -614,7 +614,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Odontognophos dumetata | Kreuzdorn-Steinspanner | + | + |  |
 | Orbona fragariae | Große Wintereule | + | + |  |
 | Orgyia antiquiodes | Heide-Bürstenspinner | + | + |  |
-| Orgyia spp. excl. Orgyia antiqua | Bürstenspinner | + |  |  |
+| Orgyia spp.<br>excl.<br>Orgyia antiqua | Bürstenspinner | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt und<br>mit Ausnahme von Schlehen-Bürstenspinner |  |  |  |
 | Paidia rica | Mauer-Flechtenbärchen | + | + |  |
 | Panchrysia deaurata | Große Wiesenrauten-Goldeule | + | + |  |
@@ -706,7 +706,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Acmaeodera degener | Achtzehnfleckiger Ohnschild-Prachtkäfer | + | + |  |
 | Acmaeoderella flavofasciata | Weißschuppiger Ohnschild-Prachtkäfer | + | + |  |
 | Aesalus scarabaeoides | Kurzschröter | + | + |  |
-| Buprestidae spp. 3) excl. Agrilus biguttatus Agrilus viridis Anthaxia quadripunctata Chrysobothris affinis Phaenops cyanea | Prachtkäfer | + |  |  |
+| Buprestidae spp. ³)<br>excl.<br>Agrilus biguttatus Agrilus viridis<br>Anthaxia quadripunctata Chrysobothris affinis Phaenops cyanea | Prachtkäfer | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt mit Ausnahme von Zweipunktiger Eichen-Prachtkäfer Buchen-Prachtkäfer (Laubholz-Prachtkäfer) Vierpunkt-Kiefern-Prachtkäfer Goldgruben-Eichen-Prachtkäfer Blauer Kiefern-Prachtkäfer |  |  |  |
 | Calosoma reticulatum | Smaragdgrüner Puppenräuber | + | + |  |
 | Calosoma spp. | Puppenräuber | + |  |  |
@@ -714,9 +714,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Carabus marginalis | Gerandeter Laufkäfer | + | + |  |
 | Carabus menetriesi | Hochmoor-Laufkäfer | + | + |  |
 | Carabus nodulosus | Schwarzer Grubenlaufkäfer | + | + |  |
-| Carabus spp. 3) | Laufkäfer | + |  |  |
+| Carabus spp. ³) | Laufkäfer | + |  |  |
 | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
-| Cerambycidae spp. 3) excl. Hylotrupes bajulus Monochamus spp. Tetropium spp. | Bockkäfer | + |  |  |
+| Cerambycidae spp. ³)<br>excl.<br>Hylotrupes bajulus<br>Monochamus spp.<br>Tetropium spp. | Bockkäfer | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt<br>mit Ausnahme von Hausbock Langhornböcke Fichten- und Lärchenböcke |  |  |  |
 | Cetonia aurata | Rosenkäfer | + |  |  |
 | Cicindela spp. | Sandläufer | + |  |  |
@@ -766,7 +766,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Trichodes ircutensis | Sibirischer Bienenkäfer | + | + |  |
 | Typhoeus typhoeus | Stierkäfer | + |  |  |
 | **Odonata** | **Libellen** |  |  |  |
-| Odonata spp. 3) | Libellen | + |  |  |
+| Odonata spp. ³) | Libellen | + |  |  |
 | - | alle heimischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
 | Aeshna caerulea | Alpen-Mosaikjungfer | + | + |  |
 | Aeshna subarctica elisabethae | Hochmoor-Mosaikjungfer | + | + |  |
@@ -811,315 +811,314 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Eresus cinnaberinus |  | + |  |  |
 | Philaeus chrysops |  | + | + |  |
 | **Crustacea** | **Krebse** |  |  |  |
-| Astacus astacus 7) | Edelkrebs | + | + |  |
-| Austropotamobius torrentium 7) | Steinkrebs | + |  |  |
+| Astacus astacus ⁷) | Edelkrebs | + | + |  |
+| Austropotamobius torrentium ⁷) | Steinkrebs | + |  |  |
 | Branchipus schaefferi |  | + | + |  |
 | Chirocephalus diaphanus |  | + | + |  |
-| Homarus gammarus 7) | Hummer | + |  |  |
+| Homarus gammarus ⁷) | Hummer | + |  |  |
 | Leptestheria dahalacensis |  | + | + |  |
 | Lynceus brachyurus |  | + | + |  |
-| Ocypode cursor 6) | Geisterkrabbe | + |  |  |
-| Pachylasma giganteum 6) |  | + |  |  |
+| Ocypode cursor ⁶) | Geisterkrabbe | + |  |  |
+| Pachylasma giganteum ⁶) |  | + |  |  |
 | Tanymastix stagnalis |  | + | + |  |
 | **Mollusca** | **Weichtiere** |  |  |  |
-| Anodonta anatina 7) | Flache Teichmuschel | + |  |  |
-| Anodonta cygnea 7) | Gemeine Teichmuschel | + |  |  |
-| Charonia rubicunda 6) |  | + |  |  |
-| Charonia tritonis 6) | Tritonshorn | + |  |  |
-| Dendropoma petraeum 6) |  | + |  |  |
-| Erosaria spurca 6) |  | + |  |  |
-| Helix aspersa 7) | Gefleckte Weinbergschnecke | + |  |  |
-| Helix pomatia 7) | Gewöhnliche Weinbergschnecke | + |  |  |
-| Luria lurida 6) |  | + |  |  |
-| Margaritifera margaritifera 7) | Flussperlmuschel | + | + |  |
-| Mitra zonata 6) |  | + |  |  |
-| Nucella lapillus 7) | Nordische Purpurschnecke | + |  |  |
-| Patella nigra 6) |  | + |  |  |
-| Pholas dactylus 6) |  | + |  |  |
-| Pinna pernula 6) |  | + |  |  |
-| Pseudanodonta complanata 7) | Abgeplattete Teichmuschel | + | + |  |
-| Pseudanodonta elongata 7) | Schlanke Teichmuschel | + |  |  |
-| Pseudanodonta middendorffi 7) | Donau-Teichmuschel | + |  |  |
-| Ranella olearia 6) |  | + |  |  |
-| Schilderia achatidea 6) |  | + |  |  |
-| Tonna galea 6) |  | + |  |  |
-| Unio pictorum 7) | Malermuschel | + |  |  |
-| Unio tumidus 7) | Große Flussmuschel | + |  |  |
-| Zonaria pyrum 6) |  | + |  |  |
+| Anodonta anatina ⁷) | Flache Teichmuschel | + |  |  |
+| Anodonta cygnea ⁷) | Gemeine Teichmuschel | + |  |  |
+| Charonia rubicunda ⁶) |  | + |  |  |
+| Charonia tritonis ⁶) | Tritonshorn | + |  |  |
+| Dendropoma petraeum ⁶) |  | + |  |  |
+| Erosaria spurca ⁶) |  | + |  |  |
+| Helix aspersa ⁷) | Gefleckte Weinbergschnecke | + |  |  |
+| Helix pomatia ⁷) | Gewöhnliche Weinbergschnecke | + |  |  |
+| Luria lurida ⁶) |  | + |  |  |
+| Margaritifera margaritifera ⁷) | Flussperlmuschel | + | + |  |
+| Mitra zonata ⁶) |  | + |  |  |
+| Nucella lapillus ⁷) | Nordische Purpurschnecke | + |  |  |
+| Patella nigra ⁶) |  | + |  |  |
+| Pholas dactylus ⁶) |  | + |  |  |
+| Pinna pernula ⁶) |  | + |  |  |
+| Pseudanodonta complanata ⁷) | Abgeplattete Teichmuschel | + | + |  |
+| Pseudanodonta elongata ⁷) | Schlanke Teichmuschel | + |  |  |
+| Pseudanodonta middendorffi ⁷) | Donau-Teichmuschel | + |  |  |
+| Ranella olearia ⁶) |  | + |  |  |
+| Schilderia achatidea ⁶) |  | + |  |  |
+| Tonna galea ⁶) |  | + |  |  |
+| Unio pictorum ⁷) | Malermuschel | + |  |  |
+| Unio tumidus ⁷) | Große Flussmuschel | + |  |  |
+| Zonaria pyrum ⁶) |  | + |  |  |
 | **Echinodermata** | **Stachelhäuter** |  |  |  |
-| Asterina panceri 6) |  | + |  |  |
-| Echinus esculentus 7) | Essbarer Seeigel | + |  |  |
-| Ophidiaster ophidianus 6) |  | + |  |  |
+| Asterina panceri ⁶) |  | + |  |  |
+| Echinus esculentus ⁷) | Essbarer Seeigel | + |  |  |
+| Ophidiaster ophidianus ⁶) |  | + |  |  |
 | Solaster papposus | Sonnenstern | + | + |  |
 | **Cnidaria** | **Nesseltiere** |  |  |  |
-| Gerardia savaglia 6) |  | + |  |  |
+| Gerardia savaglia ⁶) |  | + |  |  |
 | **Porifera** | **Schwämme** |  |  |  |
-| Aplysina cavernicola 6) |  | + |  |  |
-| Asbestopluma hypogea 6) |  | + |  |  |
-| Axinella polyploides 6) |  | + |  |  |
-| Petrobiona massiliana 6) |  | + |  |  |
+| Aplysina cavernicola ⁶) |  | + |  |  |
+| Asbestopluma hypogea ⁶) |  | + |  |  |
+| Axinella polyploides ⁶) |  | + |  |  |
+| Petrobiona massiliana ⁶) |  | + |  |  |
 | **Flora** |  |  |  |  |
 | **Pteridophyta et Spermatophyta** | **Farn- und Blütenpflanzen** |  |  |  |
-| Achillea atrata L. 1) | Schwarze Schafgarbe | + |  |  |
-| Achillea clavennae L. 8) | Bittere Schafgarbe | + |  |  |
-| Aconitum spp. 3) 8) | Eisenhut | + |  |  |
+| Achillea atrata L. ¹) | Schwarze Schafgarbe | + |  |  |
+| Achillea clavennae L. ⁸) | Bittere Schafgarbe | + |  |  |
+| Aconitum spp. ³) ⁸) | Eisenhut | + |  |  |
 | - | alle europäischen Arten |  |  |  |
 | Adonis cyllenea Boiss., Heldr. & Orph. | Kyllenisches Adonisröschen | + |  |  |
 | Alkanna pinardii Boiss. | Pinardi-Alkannawurzel | + |  |  |
-| Allium angulosum L. 8) | Kantiger Lauch | + |  |  |
+| Allium angulosum L. ⁸) | Kantiger Lauch | + |  |  |
 | Allium crameri Aschers. & Boiss. | Cramers Lauch | + | + |  |
 | Allium lineare L. | Steifer Lauch | + |  |  |
 | Allium regelianum A. Becker | Regels Lauch | + |  |  |
-| Allium senescens L. subsp. montanum (Fries) Holub 8) | Berg-Lauch | + |  |  |
+| Allium senescens L. subsp. montanum (Fries) Holub ⁸) | Berg-Lauch | + |  |  |
 | Allium vuralii Kit Tan | Vurals Lauch | + |  |  |
-| Althaea officinalis L. 8) | Echter Eibisch | + |  |  |
-| Alyssum montanum L. 8) | Berg-Steinkraut | + |  |  |
-| Alyssum saxatile L. 8) | Felsen-Steinkraut | + |  |  |
+| Althaea officinalis L. ⁸) | Echter Eibisch | + |  |  |
+| Alyssum montanum L. ⁸) | Berg-Steinkraut | + |  |  |
+| Alyssum saxatile L. ⁸) | Felsen-Steinkraut | + |  |  |
 | Anagallis tenella (L.) L. | Zarter Gauchheil | + | + |  |
-| Androsace spp. 3) 8)<br>excl. Androsace elongata L. Androsace maxima L. Androsace septentrionalis L. | Mannsschilde | + |  |  |
+| Androsace spp. ³) ⁸)<br>excl. Androsace elongata L.<br>Androsace maxima L.<br>Androsace septentrionalis L. | Mannsschilde | + |  |  |
 | - | alle heimischen Arten, mit Ausnahme von Langstieliger Mannsschild Großer Mannsschild Nordischer Mannsschild |  |  |  |
-| Anemone narcissiflora L. 8) | Narzissen-Windröschen | + |  |  |
-| Anemone sylvestris L. 8) | Großes Windröschen | + |  |  |
+| Anemone narcissiflora L. ⁸) | Narzissen-Windröschen | + |  |  |
+| Anemone sylvestris L. ⁸) | Großes Windröschen | + |  |  |
 | Anemone uralensis Nevski | Ural-Windröschen | + |  |  |
-| Antennaria dioica (L.) Gaertner 8) | Gewöhnliches Katzenpfötchen | + |  |  |
-| Anthericum liliago L. 8) | Astlose Graslilie | + |  |  |
-| Anthericum racemosum L. 8) | Ästige Graslilie | + |  |  |
+| Antennaria dioica (L.) Gaertner ⁸) | Gewöhnliches Katzenpfötchen | + |  |  |
+| Anthericum liliago L. ⁸) | Astlose Graslilie | + |  |  |
+| Anthericum racemosum L. ⁸) | Ästige Graslilie | + |  |  |
 | Apium inundatum (L.) Reichenb. f. | Flutender Sellerie | + |  |  |
-| Aquilegia ottonis Orph. ex Boiss. ssp. taygetea (Orph.) Strid 8) | Taygetos-Akelei | + | + |  |
-| Aquilegia spp. 3) 8) | Akeleien | + |  |  |
+| Aquilegia ottonis Orph. ex Boiss. ssp. taygetea (Orph.) Strid ⁸) | Taygetos-Akelei | + | + |  |
+| Aquilegia spp. ³) ⁸) | Akeleien | + |  |  |
 | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
-| Arctostaphylos uva-ursi (L.) Spreng. 8) | Echte Bärentraube | + |  |  |
-| Armeria maritima (Miller) Willd. ssp. purpurea (Koch) A. & D. Löve 8) | Ried-Grasnelke | + | + |  |
-| Armeria spp. 3) 8) | Grasnelken | + |  |  |
+| Arctostaphylos uva-ursi (L.) Spreng. ⁸) | Echte Bärentraube | + |  |  |
+| Armeria maritima (Miller) Willd. ssp. purpurea (Koch) A. & D. Löve ⁸) | Ried-Grasnelke | + | + |  |
+| Armeria spp. ³) ⁸) | Grasnelken | + |  |  |
 | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |  |
-| Arnica montana L. 8) | Arnika, Berg-Wohlverleih | + |  |  |
-| Artemisia rupestris L. 8) | Felsen-Beifuß | + | + |  |
-| Artemisia umbelliformis Lam. 8) | Echte Edelraute | + |  |  |
+| Arnica montana L. ⁸) | Arnika, Berg-Wohlverleih | + |  |  |
+| Artemisia rupestris L. ⁸) | Felsen-Beifuß | + | + |  |
+| Artemisia umbelliformis Lam. ⁸) | Echte Edelraute | + |  |  |
 | Asplenium azoricum Lovis, Rasbach & Reichstein | Azoren-Streifenfarn | + |  |  |
-| Asplenium ceterach L. 8) | Milzfarn |  |  |  |
+| Asplenium ceterach L. ⁸) | Milzfarn | + |  |  |
 | Asplenium cuneifolium Viv. | Serpentin-Streifenfarn | + |  |  |
 | Asplenium fissum Kit. ex Willd. | Zerschlitzter Streifenfarn | + |  |  |
-| Asplenium fontanum (L.) Bernh. 8) | Jura-Streifenfarn | + |  |  |
-| Asplenium foreziense Legrand 8) | Foreser Streifenfarn | + |  |  |
+| Asplenium fontanum (L.) Bernh. ⁸) | Jura-Streifenfarn | + |  |  |
+| Asplenium foreziense Legrand ⁸) | Foreser Streifenfarn | + |  |  |
 | Asplenium obovatum Viv. ssp. lanceolatum Silva | Lanzettblättriger Streifenfarn | + |  |  |
-| Asplenium scolopendrium L. 8) | Hirschzunge | + |  |  |
-| Aster alpinus L. 8) | Alpen-Aster | + |  |  |
-| Aster amellus L. 8) | Berg-Aster | + |  |  |
-| Aster sibiricus L. 8) | Sibirische Aster | + | + |  |
+| Asplenium scolopendrium L. ⁸) | Hirschzunge | + |  |  |
+| Aster alpinus L. ⁸) | Alpen-Aster | + |  |  |
+| Aster amellus L. ⁸) | Berg-Aster | + |  |  |
+| Aster sibiricus L. ⁸) | Sibirische Aster | + | + |  |
 | Astragalus arenarius L. | Sand-Tragant | + |  |  |
-| Betula nana L. 8) | Zwerg-Birke | + |  |  |
-| Biscutella laevigata L. 8) | Gewöhnliche Brillenschote | + |  |  |
+| Betula nana L. ⁸) | Zwerg-Birke | + |  |  |
+| Biscutella laevigata L. ⁸) | Gewöhnliche Brillenschote | + |  |  |
 | Botrychium matricariifolium A. Braun ex Koch | Ästiger Rautenfarn | + | + |  |
 | Botrychium multifidum (S. G. Gmelin) Rupr. | Vielteiliger Rautenfarn | + | + |  |
-| Botrychium spp. 3) | Rautenfarne, Mondrauten | + |  |  |
+| Botrychium spp. ³) | Rautenfarne, Mondrauten | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Brimeura spp. 8) | Brimeura | + |  |  |
+| Brimeura spp. ⁸) | Brimeura | + |  |  |
 |  | - | alle Arten |  |  |
-| Buxus sempervirens L. 7) 8) | Buchsbaum | + |  |  |
-| Calla palustris L. 8) | Calla, Sumpf-Schlangenwurz | + |  |  |
+| Buxus sempervirens L. ⁷) ⁸) | Buchsbaum | + |  |  |
+| Calla palustris L. ⁸) | Calla, Sumpf-Schlangenwurz | + |  |  |
 | Calystegia soldanella (L.) R. Br. | Strand-Winde | + | + |  |
-| Campanula bononiensis L. 8) | Bologneser Glockenblume | + |  |  |
-| Campanula cervicaria L. 8) | Borstige Glockenblume | + |  |  |
-| Campanula lanata Friv. 8) | Wollige Glockenblume | + |  |  |
-| Campanula latifolia L. 8) | Breitblättrige Glockenblume | + |  |  |
-| Campanula thyrsoides L. 8) | Strauß-Glockenblume | + |  |  |
-| Carex baldensis L. 8) | Monte-Baldo-Segge | + |  |  |
-| Carlina acaulis L. 8) | Silberdistel | + |  |  |
+| Campanula bononiensis L. ⁸) | Bologneser Glockenblume | + |  |  |
+| Campanula cervicaria L. ⁸) | Borstige Glockenblume | + |  |  |
+| Campanula lanata Friv. ⁸) | Wollige Glockenblume | + |  |  |
+| Campanula latifolia L. ⁸) | Breitblättrige Glockenblume | + |  |  |
+| Campanula thyrsoides L. ⁸) | Strauß-Glockenblume | + |  |  |
+| Carex baldensis L. ⁸) | Monte-Baldo-Segge | + |  |  |
+| Carlina acaulis L. ⁸) | Silberdistel | + |  |  |
 | Carlina diae (Rech. f.) Meusel & Kästner | Dhia-Eberwurz, Kretische Eberwurz | + |  |  |
-| Centaurium spp. 8) | Tausendgüldenkräuter | + |  |  |
+| Centaurium spp. ⁸) | Tausendgüldenkräuter | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Chimaphila umbellata (L.) Barton 8) | Doldiges Winterlieb | + |  |  |
-| Chionodoxa luciliae Boiss. 8) | Lydischer Schneestolz | + |  |  |
-| Clematis alpina L. 8) | Alpen-Waldrebe | + |  |  |
-| Cochlearia spp. 8) | Löffelkraut | + |  |  |
+| Chimaphila umbellata (L.) Barton ⁸) | Doldiges Winterlieb | + |  |  |
+| Chionodoxa luciliae Boiss. ⁸) | Lydischer Schneestolz | + |  |  |
+| Clematis alpina L. ⁸) | Alpen-Waldrebe | + |  |  |
+| Cochlearia spp. ⁸) | Löffelkraut | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Cornus suecica L. 8) | Schwedischer Hartriegel | + |  |  |
-| Cortusa matthioli L. 8) | Alpen Heilglöckchen | + |  |  |
-| Cotoneaster integerrimus Medicus 8) | Gewöhnliche Zwergmispel | + |  |  |
-| Crambe maritima L. 8) | Gewöhnlicher Meerkohl | + |  |  |
-| Crocus spp. 3) 8) | Krokus | + |  |  |
+| Cornus suecica L. ⁸) | Schwedischer Hartriegel | + |  |  |
+| Cortusa matthioli L. ⁸) | Alpen Heilglöckchen | + |  |  |
+| Cotoneaster integerrimus Medicus ⁸) | Gewöhnliche Zwergmispel | + |  |  |
+| Crambe maritima L. ⁸) | Gewöhnlicher Meerkohl | + |  |  |
+| Crocus spp. ³) ⁸) | Krokus | + |  |  |
 |  | - | alle Arten |  |  |
-| Cryptogramma crispa (L.) A. Br. ex Hooker 8) | Krauser Rollfarn | + |  |  |
+| Cryptogramma crispa (L.) A. Br. ex Hooker ⁸) | Krauser Rollfarn | + |  |  |
 | Cystopteris montana (Lam.) Desv. | Berg-Blasenfarn | + |  |  |
 | Cystopteris sudetica A. Br. & Milde | Sudeten-Blasenfarn | + |  |  |
-| Daphne spp. 3) 8) | Seidelbaste | + |  |  |
+| Daphne spp. ³) ⁸) | Seidelbaste | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Delphinium elatum L. 8) | Hoher Rittersporn | + |  |  |
-| Dendranthema zawadskyi (Herb.) Tzvel. 8) | Zawadskys Wucherblume | + |  |  |
-| Dianthus spp. 3) 8) | Nelken | + |  |  |
+| Delphinium elatum L. ⁸) | Hoher Rittersporn | + |  |  |
+| Dendranthema zawadskyi (Herb.) Tzvel. ⁸) | Zawadskys Wucherblume | + |  |  |
+| Dianthus spp. ³) ⁸) | Nelken | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Dictamnus albus L. 8) | Diptam | + |  |  |
-| Digitalis grandiflora Mill. 8) | Großblütiger Fingerhut | + |  |  |
-| Digitalis lutea L. 8) | Gelber Fingerhut | + |  |  |
-| Draba spp. 3) 8) | Felsenblümchen | + |  |  |
-| excl. | - | alle europäischen Arten,<br>mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |
-| Draba muralis L. et Draba nemorosa L. |  |  |  |  |
-| Dracocephalum ruyschiana L. 8) | Nordischer Drachenkopf | + |  |  |
-| Drosera spp. 8) | Sonnentaue | + |  |  |
+| Dictamnus albus L. ⁸) | Diptam | + |  |  |
+| Digitalis grandiflora Mill. ⁸) | Großblütiger Fingerhut | + |  |  |
+| Digitalis lutea L. ⁸) | Gelber Fingerhut | + |  |  |
+| Draba spp. ³) ⁸)<br>excl.<br>Draba muralis L. et<br>Draba nemorosa L. | Felsenblümchen | + |  |  |
+| - | alle europäischen Arten,<br>mit Ausnahme von Mauer-Felsenblümchen und Hain-Felsenblümchen |  |  |  |
+| Dracocephalum ruyschiana L. ⁸) | Nordischer Drachenkopf | + |  |  |
+| Drosera spp. ⁸) | Sonnentaue | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Dryopteris cristata (L.) A. Gray 8) | Kammfarn | + |  |  |
-| Eryngium campestre L. 8) | Feld-Mannstreu | + |  |  |
-| Eryngium maritimum L. 8) | Strand-Mannstreu, Stranddistel | + |  |  |
-| Euphorbia lucida Waldstein & Kitaibel 8) | Glanz-Wolfsmilch | + |  |  |
-| Euphorbia palustris L. 8) | Sumpf-Wolfsmilch | + |  |  |
-| Fritillaria spp. 3) 8) | Schachblumen | + |  |  |
+| Dryopteris cristata (L.) A. Gray ⁸) | Kammfarn | + |  |  |
+| Eryngium campestre L. ⁸) | Feld-Mannstreu | + |  |  |
+| Eryngium maritimum L. ⁸) | Strand-Mannstreu, Stranddistel | + |  |  |
+| Euphorbia lucida Waldstein & Kitaibel ⁸) | Glanz-Wolfsmilch | + |  |  |
+| Euphorbia palustris L. ⁸) | Sumpf-Wolfsmilch | + |  |  |
+| Fritillaria spp. ³) ⁸) | Schachblumen | + |  |  |
 |  | - | alle Arten |  |  |
-| Gentiana lutea L. 8) | Gelber Enzian | + |  |  |
-| Gentiana spp. 3) 8) | Enziane | + |  |  |
+| Gentiana lutea L. ⁸) | Gelber Enzian | + |  |  |
+| Gentiana spp. ³) ⁸) | Enziane | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
 | Gentianella lutescens (Velenovsky) Holub | Gelblicher Enzian | + | + |  |
-| Gentianella spp. 3) 8) | Enziane | + |  |  |
+| Gentianella spp. ³) ⁸) | Enziane | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Gladiolus spp. 3) 8) | Siegwurze | + |  |  |
+| Gladiolus spp. ³) ⁸) | Siegwurze | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Globularia spp. 3) 8) | Kugelblumen | + |  |  |
+| Globularia spp. ³) ⁸) | Kugelblumen | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Gratiola officinalis L. 8) | Gottes-Gnadenkraut | + |  |  |
-| Gypsophila fastigiata L. 8) | Ebensträußiges Gipskraut | + |  |  |
-| Haberlea rhodopensis Friv. 8) | Rhodope-Haberlea | + |  |  |
-| Helianthemum apenninum (L.) Miller 8) | Apenninen-Sonnenröschen | + |  |  |
+| Gratiola officinalis L. ⁸) | Gottes-Gnadenkraut | + |  |  |
+| Gypsophila fastigiata L. ⁸) | Ebensträußiges Gipskraut | + |  |  |
+| Haberlea rhodopensis Friv. ⁸) | Rhodope-Haberlea | + |  |  |
+| Helianthemum apenninum (L.) Miller ⁸) | Apenninen-Sonnenröschen | + |  |  |
 | Helianthemum arcticum (Grosser) Janchen | Arktisches Sonnenröschen | + |  |  |
-| Helianthemum canum (L.) Baumg. 8) | Graufilziges Sonnenröschen | + |  |  |
-| Helichrysum arenarium (L.) Moench 8) | Sand-Strohblume | + |  |  |
-| Helleborus spp. L. 8) | Nieswurze, Christrosen | + |  |  |
+| Helianthemum canum (L.) Baumg. ⁸) | Graufilziges Sonnenröschen | + |  |  |
+| Helichrysum arenarium (L.) Moench ⁸) | Sand-Strohblume | + |  |  |
+| Helleborus spp. L. ⁸) | Nieswurze, Christrosen | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Hepatica nobilis Schreber 8) | Leberblümchen | + |  |  |
-| Horminium pyrenaicum L. 8) | Pyrenäen-Drachenmaul | + |  |  |
-| Hottonia palustris L. 8) | Wasserfeder, Wasserprimel | + |  |  |
+| Hepatica nobilis Schreber ⁸) | Leberblümchen | + |  |  |
+| Horminium pyrenaicum L. ⁸) | Pyrenäen-Drachenmaul | + |  |  |
+| Hottonia palustris L. ⁸) | Wasserfeder, Wasserprimel | + |  |  |
 | Hymenophyllum tunbrigense (L.) Smith | Hautfarn | + | + |  |
-| Hypericum elodes L. 8) | Sumpf-Johanniskraut | + |  |  |
-| Ilex aquifolium L. 8) | Stechpalme | + |  |  |
-| Inula germanica L. 8) | Deutscher Alant | + |  |  |
+| Hypericum elodes L. ⁸) | Sumpf-Johanniskraut | + |  |  |
+| Ilex aquifolium L. ⁸) | Stechpalme | + |  |  |
+| Inula germanica L. ⁸) | Deutscher Alant | + |  |  |
 | Iris lortetii Barbey | Lortets Schwertlilie | + | + |  |
-| Iris spp. 3) 8) | Schwertlilien | + |  |  |
+| Iris spp. ³) ⁸) | Schwertlilien | + |  |  |
 |  | - | alle Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Iris spuria L. 8) | Wiesen-Schwertlilie | + | + |  |
-| Iris variegata L. 8) | Bunte Schwertlilie | + | + |  |
+| Iris spuria L. ⁸) | Wiesen-Schwertlilie | + | + |  |
+| Iris variegata L. ⁸) | Bunte Schwertlilie | + | + |  |
 | Isoetes lacustris L. | See-Brachsenkraut | + |  |  |
-| Jovibarba spp. 8) | Fransenhauswurze | + |  |  |
+| Jovibarba spp. ⁸) | Fransenhauswurze | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Juncus stygius L. 8) | Moor-Binse | + | + |  |
-| Juniperus cedrus Webb & Berthel. 8) | Zedern-Wacholder | + | + |  |
-| Laser trilobum (L.) Borkh. 8) | Rosskümmel | + |  |  |
+| Juncus stygius L. ⁸) | Moor-Binse | + | + |  |
+| Juniperus cedrus Webb & Berthel. ⁸) | Zedern-Wacholder | + | + |  |
+| Laser trilobum (L.) Borkh. ⁸) | Rosskümmel | + |  |  |
 | Lathyrus bauhinii Genty | Schwert-Platterbse | + |  |  |
-| Lathyrus maritimus Bigelow 8) | Strand-Platterbse | + |  |  |
-| Lathyrus palustris L. 8) | Sumpf-Platterbse | + |  |  |
-| Lathyrus pannonicus (Jacq.) Garcke 8) | Ungarische Platterbse | + |  |  |
-| Ledum palustre L. 8) | Sumpf-Porst | + |  |  |
-| Leontopodium alpinum Cass. 8) | Alpen-Edelweiß | + |  |  |
-| Leucojum spp. 3) 8) | Knotenblumen, Märzenbecher | + |  |  |
+| Lathyrus maritimus Bigelow ⁸) | Strand-Platterbse | + |  |  |
+| Lathyrus palustris L. ⁸) | Sumpf-Platterbse | + |  |  |
+| Lathyrus pannonicus (Jacq.) Garcke ⁸) | Ungarische Platterbse | + |  |  |
+| Ledum palustre L. ⁸) | Sumpf-Porst | + |  |  |
+| Leontopodium alpinum Cass. ⁸) | Alpen-Edelweiß | + |  |  |
+| Leucojum spp. ³) ⁸) | Knotenblumen, Märzenbecher | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Lilium spp. 8) | Lilien | + |  |  |
+| Lilium spp. ⁸) | Lilien | + |  |  |
 |  | - | alle Arten |  |  |
 | Limonium anatolicum Hedge | Anatolischer Strandflieder | + | + |  |
 | Limonium preauxii (Webb & Berthel.) O. Kuntze | Preaux Strandflieder | + | + |  |
-| Limonium spp. 3) 8) | Strandflieder | + |  |  |
+| Limonium spp. ³) ⁸) | Strandflieder | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Linnaea borealis L. 8) | Moosglöckchen | + |  |  |
-| Linum flavum L. 8) | Gelber Lein | + | + |  |
-| Linum perenne L. 8) | Ausdauernder Lein | + | + |  |
-| Linum spp. 3) 8) | Lein | + |  |  |
-| excl. Linum catharticum L. | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt<br>mit Ausnahme von Purgier-Lein |  |  |
+| Linnaea borealis L. ⁸) | Moosglöckchen | + |  |  |
+| Linum flavum L. ⁸) | Gelber Lein | + | + |  |
+| Linum perenne L. ⁸) | Ausdauernder Lein | + | + |  |
+| Linum spp. ³) ⁸)<br>excl.<br>Linum catharticum L. | Lein | + |  |  |
+| - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt<br>mit Ausnahme von Purgier-Lein |  |  |  |
 | Lloydia serotina (L.) Reichenb. | Spätblühende Faltenlilie | + |  |  |
-| Lobelia dortmanna L. 8) | Wasser-Lobelie | + | + |  |
+| Lobelia dortmanna L. ⁸) | Wasser-Lobelie | + | + |  |
 | Lomatogonium carinthiacum (Wulf.) Reichenb. | Kärntner Tauernblümchen | + |  |  |
-| Lunaria rediviva L. 8) | Ausdauerndes Silberblatt | + |  |  |
+| Lunaria rediviva L. ⁸) | Ausdauerndes Silberblatt | + |  |  |
 | Lycopodiales spp. | Bärlappgewächse | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Matteuccia struthiopteris (L.) Todaro 8) | Straußenfarn | + |  |  |
-| Melittis melissophyllum L. 8) | Immenblatt | + |  |  |
-| Menyanthes trifoliata L. 8) | Fieberklee | + |  |  |
-| Muscari spp. 3) 8) | Traubenhyazinthen | + |  |  |
+| Matteuccia struthiopteris (L.) Todaro ⁸) | Straußenfarn | + |  |  |
+| Melittis melissophyllum L. ⁸) | Immenblatt | + |  |  |
+| Menyanthes trifoliata L. ⁸) | Fieberklee | + |  |  |
+| Muscari spp. ³) ⁸) | Traubenhyazinthen | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Narcissus spp. 3) 8) | Narzissen | + |  |  |
+| Narcissus spp. ³) ⁸) | Narzissen | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Narthecium ossifragum (L.) Huds. 8) | Beinbrech, Ährenlilie | + |  |  |
-| Nuphar lutea (L.) Sm. 8) | Gelbe Teichrose | + |  |  |
-| Nuphar pumila (Timm) DC. 8) | Kleine Teichrose | + | + |  |
-| Nymphaea alba L. 8) | Weiße Seerose | + |  |  |
-| Nymphaea candida K. Presl 8) | Kleine Seerose | + |  |  |
-| Nymphoides peltata (S. G. Gmel.) O. Kuntze 8) | Seekanne | + |  |  |
+| Narthecium ossifragum (L.) Huds. ⁸) | Beinbrech, Ährenlilie | + |  |  |
+| Nuphar lutea (L.) Sm. ⁸) | Gelbe Teichrose | + |  |  |
+| Nuphar pumila (Timm) DC. ⁸) | Kleine Teichrose | + | + |  |
+| Nymphaea alba L. ⁸) | Weiße Seerose | + |  |  |
+| Nymphaea candida K. Presl ⁸) | Kleine Seerose | + |  |  |
+| Nymphoides peltata (S. G. Gmel.) O. Kuntze ⁸) | Seekanne | + |  |  |
 | Oenothera coronifera Renner | Kronen-Nachtkerze | + |  |  |
-| Onosma arenaria Waldstein & Kitaibel 8) | Sand-Lotwurz | + | + |  |
+| Onosma arenaria Waldstein & Kitaibel ⁸) | Sand-Lotwurz | + | + |  |
 | Onosma elegantissima Rech. fil. & Goulimy | Zierliche Lotwurz | + | + |  |
-| Onosma spp. 3) 8) | Lotwurze | + |  |  |
+| Onosma spp. ³) ⁸) | Lotwurze | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Osmunda regalis L. 8) | Königsfarn | + |  |  |
+| Osmunda regalis L. ⁸) | Königsfarn | + |  |  |
 | Oxytropis pilosa (L.) DC. | Zottige Fahnenwicke | + |  |  |
-| Papaver alpinum L. 8) | Alpen-Mohn | + |  |  |
-| Papaver lapponicum (Tolm.) Nordh. 8) | Lappland-Mohn | + |  |  |
-| Parnassia palustris L. 8) | Sumpf-Herzblatt | + |  |  |
+| Papaver alpinum L. ⁸) | Alpen-Mohn | + |  |  |
+| Papaver lapponicum (Tolm.) Nordh. ⁸) | Lappland-Mohn | + |  |  |
+| Parnassia palustris L. ⁸) | Sumpf-Herzblatt | + |  |  |
 | Pedicularis sceptrumcarolinum L. | Karlszepter | + | + |  |
-| Pedicularis spp. 3) 8) | Läusekräuter | + |  |  |
+| Pedicularis spp. ³) ⁸) | Läusekräuter | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Petrocallis pyrenaica (L.) R. Br. 8) | Pyrenäen-Steinschmückel | + |  |  |
-| Pinguicula alpina L. 8) | Alpen-Fettkraut | + |  |  |
-| Pinguicula vulgaris L. 8) | Gewöhnliches Fettkraut | + |  |  |
-| Polemonium caeruleum L. 8) | Blaue Himmelsleiter | + |  |  |
-| Polystichum spp. 8) | Schildfarne | + |  |  |
+| Petrocallis pyrenaica (L.) R. Br. ⁸) | Pyrenäen-Steinschmückel | + |  |  |
+| Pinguicula alpina L. ⁸) | Alpen-Fettkraut | + |  |  |
+| Pinguicula vulgaris L. ⁸) | Gewöhnliches Fettkraut | + |  |  |
+| Polemonium caeruleum L. ⁸) | Blaue Himmelsleiter | + |  |  |
+| Polystichum spp. ⁸) | Schildfarne | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Primula spp. 3) 8) | Primeln, Schlüsselblumen | + |  |  |
+| Primula spp. ³) ⁸) | Primeln, Schlüsselblumen | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Pulmonaria angustifolia L. 8) | Schmalblättriges Lungenkraut | + |  |  |
-| Pulmonaria mollis Wulfen ex Hornem. 8) | Weiches Lungenkraut | + |  |  |
-| Pulmonaria montana Lejeune 8) | Berg-Lungenkraut | + |  |  |
-| Pulsatilla alba Reichenb. 8) | Kleinblütige Küchenschelle | + | + |  |
-| Pulsatilla spp. 3) 8) | Küchenschellen | + |  |  |
+| Pulmonaria angustifolia L. ⁸) | Schmalblättriges Lungenkraut | + |  |  |
+| Pulmonaria mollis Wulfen ex Hornem. ⁸) | Weiches Lungenkraut | + |  |  |
+| Pulmonaria montana Lejeune ⁸) | Berg-Lungenkraut | + |  |  |
+| Pulsatilla alba Reichenb. ⁸) | Kleinblütige Küchenschelle | + | + |  |
+| Pulsatilla spp. ³) ⁸) | Küchenschellen | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Pulsatilla vernalis (L.) Miller 8) | Frühlings-Küchenschelle | + | + |  |
-| Ranunculus lingua L. 8) | Zungen-Hahnenfuß | + |  |  |
-| Rhazya orientalis (Decne) A. DC. 8) | Orientalische Rhazye | + |  |  |
-| Rheum rhaponticum L. 8) | Pontischer Rhabarber | + |  |  |
-| Rubus chamaemorus L. 7) 8) | Moltebeere | + | + |  |
-| Salvinia natans (L.) All. 8) | Schwimmfarn | + |  |  |
-| Saxifraga spp. 3) 8) | Steinbrech | + |  |  |
-| excl. Saxifraga tridactylites L. | - | alle europäischen Arten,<br>mit Ausnahme von Finger-Steinbrech | + |  |
+| Pulsatilla vernalis (L.) Miller ⁸) | Frühlings-Küchenschelle | + | + |  |
+| Ranunculus lingua L. ⁸) | Zungen-Hahnenfuß | + |  |  |
+| Rhazya orientalis (Decne) A. DC. ⁸) | Orientalische Rhazye | + |  |  |
+| Rheum rhaponticum L. ⁸) | Pontischer Rhabarber | + |  |  |
+| Rubus chamaemorus L. ⁷) ⁸) | Moltebeere | + | + |  |
+| Salvinia natans (L.) All. ⁸) | Schwimmfarn | + |  |  |
+| Saxifraga spp. ³) ⁸)<br>excl.<br>Saxifraga tridactylites L. | Steinbrech | + |  |  |
+| - | alle europäischen Arten,<br>mit Ausnahme von Finger-Steinbrech | + |  |  |
 | Scheuchzeria palustris L. | Blasenbinse | + |  |  |
-| Scilla spp. 3) 8) (incl. Hyacinthoides spp.) | Blausterne (einschl. Hasenglöckchen) | + |  |  |
+| Scilla spp. ³) ⁸) (incl. Hyacinthoides spp.) | Blausterne (einschl. Hasenglöckchen) | + |  |  |
 | - | alle Arten |  |  |  |
-| Scorzonera austriaca Willd. 8) | Österreichische Schwarzwurzel | + | + |  |
-| Scorzonera hispanica L. 8) | Spanische Schwarzwurzel | + |  |  |
-| Scorzonera humilis L. 8) | Niedrige Schwarzwurzel | + |  |  |
-| Scorzonera purpurea L. 8) | Violette Schwarzwurzel | + | + |  |
-| Sempervivum spp. 8) | Hauswurze | + |  |  |
+| Scorzonera austriaca Willd. ⁸) | Österreichische Schwarzwurzel | + | + |  |
+| Scorzonera hispanica L. ⁸) | Spanische Schwarzwurzel | + |  |  |
+| Scorzonera humilis L. ⁸) | Niedrige Schwarzwurzel | + |  |  |
+| Scorzonera purpurea L. ⁸) | Violette Schwarzwurzel | + | + |  |
+| Sempervivum spp. ⁸) | Hauswurze | + |  |  |
 |  | - | alle europäischen Arten |  |  |
-| Senecio incanus ssp. carniolicus Willd. 8) | Krainers Greiskraut | + |  |  |
-| Soldanella spp. 8) | Alpenglöckchen, Troddelblumen | + |  |  |
+| Senecio incanus ssp. carniolicus Willd. ⁸) | Krainers Greiskraut | + |  |  |
+| Soldanella spp. ⁸) | Alpenglöckchen, Troddelblumen | + |  |  |
 |  | - | alle heimischen Arten |  |  |
 | Stipa dasyphylla (Lindem.) Trautv. | Weichhaariges Federgras | + | + |  |
-| Stipa spp. 3) 8) | Federgräser, Pfriemengras | + |  |  |
+| Stipa spp. ³) ⁸) | Federgräser, Pfriemengras | + |  |  |
 |  | - | alle europäischen Arten, soweit nicht im Einzelnen aufgeführt |  |  |
-| Stratiotes aloides L. 8) | Krebsschere | + |  |  |
-| Swertia perennis L. 8) | Blauer Sumpfstern | + |  |  |
-| Taxus baccata L. 8) | Eibe | + |  |  |
-| Trapa natans L. 8) | Wassernuss | + |  |  |
-| Trollius europaeus L. 8) | Trollblume | + |  |  |
-| Tulipa spp. 3) 8) | Tulpen | + |  |  |
+| Stratiotes aloides L. ⁸) | Krebsschere | + |  |  |
+| Swertia perennis L. ⁸) | Blauer Sumpfstern | + |  |  |
+| Taxus baccata L. ⁸) | Eibe | + |  |  |
+| Trapa natans L. ⁸) | Wassernuss | + |  |  |
+| Trollius europaeus L. ⁸) | Trollblume | + |  |  |
+| Tulipa spp. ³) ⁸) | Tulpen | + |  |  |
 |  | - | alle Arten |  |  |
 | Utricularia bremii Heer | Bremis Wasserschlauch | + | + |  |
-| Utricularia ochroleuca Hartm. 8) | Ockergelber Wasserschlauch | + |  |  |
-| Veronica longifolia L. 8) | Langblättriger Ehrenpreis | + |  |  |
-| Veronica spicata L. 8) | Ähriger Ehrenpreis | + |  |  |
-| Viola calcarata L. 8) | Gesporntes Veilchen | + |  |  |
+| Utricularia ochroleuca Hartm. ⁸) | Ockergelber Wasserschlauch | + |  |  |
+| Veronica longifolia L. ⁸) | Langblättriger Ehrenpreis | + |  |  |
+| Veronica spicata L. ⁸) | Ähriger Ehrenpreis | + |  |  |
+| Viola calcarata L. ⁸) | Gesporntes Veilchen | + |  |  |
 | Viola guestphalica Nauenburg | Violettes Galmei-Veilchen | + |  |  |
 | Viola lutea Huds. ssp. calaminaria (Ging. in DC.) Rothm. | Gelbes Galmei-Veilchen | + |  |  |
-| Vitis vinifera L. ssp. sylvestris (C. C. Gmelin) Hegi 8) | Wilde Weinrebe | + | + |  |
-| Wahlenbergia hederacea (L.) Rchb. 8) | Efeu-Moorglöckchen | + |  |  |
-| Woodsia spp. 8) | Wimperfarne | + |  |  |
+| Vitis vinifera L. ssp. sylvestris (C. C. Gmelin) Hegi ⁸) | Wilde Weinrebe | + | + |  |
+| Wahlenbergia hederacea (L.) Rchb. ⁸) | Efeu-Moorglöckchen | + |  |  |
+| Woodsia spp. ⁸) | Wimperfarne | + |  |  |
 |  | - | alle heimischen Arten |  |  |
 | **Bryophyta** | **Moose** |  |  |  |
-| Hylocomium spp. 8) | Hainmoose | + |  |  |
+| Hylocomium spp. ⁸) | Hainmoose | + |  |  |
 | - | alle heimischen Arten |  |  |  |
-| Leucobryum spp. 8) | Weißmoose | + |  |  |
+| Leucobryum spp. ⁸) | Weißmoose | + |  |  |
 | - | alle heimischen Arten |  |  |  |
-| Sphagnum spp. 8) | Torfmoose | + |  |  |
+| Sphagnum spp. ⁸) | Torfmoose | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | **Lichenes** | **Flechten** |  |  |  |
 | Anaptychia spp. | Wimperflechten | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Cetraria spp. | Moosflechten | + |  |  |
 | - | alle heimischen Arten |  |  |  |
-| Cladina spp. (Cladonia sect. Cladina) 8) | Rentierflechten | + |  |  |
+| Cladina spp. (Cladonia sect. Cladina) ⁸) | Rentierflechten | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | Lobaria pulmonaria (L.) Hoffm. | Echte Lungenflechte | + | + |  |
 | Lobaria spp. | Lungenflechten | + |  |  |
@@ -1129,39 +1128,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 | Usneaceae spp. (incl. Ramalinaceae spp.) | Bartflechten | + |  |  |
 | - | alle heimischen Arten |  |  |  |
 | **Fungi** | **Pilze** |  |  |  |
-| Albatrellus spp. 7) 8) | Schaf-Porling, Semmel-Porlinge | + |  |  |
+| Albatrellus spp. ⁷) ⁸) | Schaf-Porling, Semmel-Porlinge | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Amanita caesarea (Scop. ex Fr.) Pers. ex Schw. 7) 8) | Kaiserling | + |  |  |
-| Boletus aereus Bull. ex Fr. 7) 8) | Weißer Bronze-Röhrling | + |  |  |
-| Boletus appendiculatus Schff. ex Fr. 7) 8) | Gelber Bronze-Röhrling | + |  |  |
-| Boletus edulis Bull. ex Fr. 7) 8) | Steinpilz | + |  |  |
-| Boletus fechtneri Vel. 7) 8) | Sommer-Röhrling | + |  |  |
-| Boletus regius Krbh. 7) 8) | Echter Königs-Röhrling | + |  |  |
-| Boletus speciosus Frost 7) 8) | Blauender Königs-Röhrling | + |  |  |
-| Cantharellus spp. 7) 8) | Pfifferlinge | + |  |  |
+| Amanita caesarea (Scop. ex Fr.) Pers. ex Schw. ⁷) ⁸) | Kaiserling | + |  |  |
+| Boletus aereus Bull. ex Fr. ⁷) ⁸) | Weißer Bronze-Röhrling | + |  |  |
+| Boletus appendiculatus Schff. ex Fr. ⁷) ⁸) | Gelber Bronze-Röhrling | + |  |  |
+| Boletus edulis Bull. ex Fr. ⁷) ⁸) | Steinpilz | + |  |  |
+| Boletus fechtneri Vel. ⁷) ⁸) | Sommer-Röhrling | + |  |  |
+| Boletus regius Krbh. ⁷) ⁸) | Echter Königs-Röhrling | + |  |  |
+| Boletus speciosus Frost ⁷) ⁸) | Blauender Königs-Röhrling | + |  |  |
+| Cantharellus spp. ⁷) ⁸) | Pfifferlinge | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Gomphus clavatus (Pers. ex Fr.) S. F. Gray 7) 8) | Schweinsohr | + |  |  |
-| Gyrodon lividus (Bull. ex Fr.) Sacc. 7) 8) | Erlen-Grübling | + |  |  |
-| Hygrocybe spp. 7) 8) | Saftlinge | + |  |  |
+| Gomphus clavatus (Pers. ex Fr.) S. F. Gray ⁷) ⁸) | Schweinsohr | + |  |  |
+| Gyrodon lividus (Bull. ex Fr.) Sacc. ⁷) ⁸) | Erlen-Grübling | + |  |  |
+| Hygrocybe spp. ⁷) ⁸) | Saftlinge | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Hygrophorus marzuolus (Fr.) Bres. 7) 8) | März-Schneckling | + |  |  |
-| Lactarius volemus Fr. 7) 8) | Brätling | + |  |  |
-| Leccinum spp. 7) 8) | Birkenpilze und Rotkappen | + |  |  |
+| Hygrophorus marzuolus (Fr.) Bres. ⁷) ⁸) | März-Schneckling | + |  |  |
+| Lactarius volemus Fr. ⁷) ⁸) | Brätling | + |  |  |
+| Leccinum spp. ⁷) ⁸) | Birkenpilze und Rotkappen | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Morchella spp. 7) 8) | Morcheln | + |  |  |
+| Morchella spp. ⁷) ⁸) | Morcheln | + |  |  |
 |  | - | alle heimischen Arten |  |  |
-| Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. 7) 8) | Grünling | + |  |  |
-| Tuber spp. 7) 8) | Trüffel | + |  |  |
+| Tricholoma flavovirens (Pers. ex Fr.) Lund & Nannf. ⁷) ⁸) | Grünling | + |  |  |
+| Tuber spp. ⁷) ⁸) | Trüffel | + |  |  |
 |  | - | alle heimischen Arten |  |  |
 
-- 1) Nur europäische wild lebende Populationen.
-- 2) Ausgenommen die nach § 2 Abs. 1 des Bundesjagdgesetzes dem Jagdrecht unterliegenden Arten, soweit nicht im Einzelnen aufgeführt.
-- 3) Ausgenommen die nach § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe aa des Bundesnaturschutzgesetzes geschützten Arten und Unterarten.
-- 4) Ausgenommen die nach § 7 Absatz 2 Nummer 13 Buchstabe a des Bundesnaturschutzgesetzes geschützten Arten.
-- 5) Besonders geschützte Art auf Grund § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe bb des Bundesnaturschutzgesetzes.
-- 6) Nur Population des Mittelmeeres.
-- 7) Nur heimische Populationen.
-- 8) Nur wild lebende Populationen.
+______________
+
+- ¹) Nur europäische wild lebende Populationen.
+- ²) Ausgenommen die nach § 2 Abs. 1 des Bundesjagdgesetzes dem Jagdrecht unterliegenden Arten, soweit nicht im Einzelnen aufgeführt.
+- ³) Ausgenommen die nach § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe aa des Bundesnaturschutzgesetzes geschützten Arten und Unterarten.
+- ⁴) Ausgenommen die nach § 7 Absatz 2 Nummer 13 Buchstabe a des Bundesnaturschutzgesetzes geschützten Arten.
+- ⁵) Besonders geschützte Art auf Grund § 7 Absatz 2 Nummer 13 Buchstabe b Doppelbuchstabe bb des Bundesnaturschutzgesetzes.
+- ⁶) Nur Population des Mittelmeeres.
+- ⁷) Nur heimische Populationen.
+- ⁸) Nur wild lebende Populationen.
 
 <!-- norm id="BJNE001901377" -->
 ### Anlage 2 (zu § 2 Abs. 3 Nr. 2)Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind

@@ -1,14 +1,14 @@
 ---
 abkuerzung: BMWSBBBRBeamtZustAnO
 jurabk: BMWSBBBRBeamtZustAnO
-titel: Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesinisteriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
+titel: Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung
 ausfertigung: '2026-09-08'
 quelle: https://www.gesetze-im-internet.de/bmwsbbbrbeamtzustano/
 doknr: BJNR1040A0026
-builddate: '20261102215506'
+builddate: '20261105215506'
 ---
 
-# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesinisteriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung (BMWSBBBRBeamtZustAnO)
+# Anordnung zur Übertragung beamtenrechtlicher Befugnisse des Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen auf das Bundesamt für Bauwesen und Raumordnung (BMWSBBBRBeamtZustAnO)
 
 Quelle: <https://www.gesetze-im-internet.de/bmwsbbbrbeamtzustano/>
 
