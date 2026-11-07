@@ -2,16 +2,16 @@
 abkuerzung: KflDiAusbV
 jurabk: KflDiAusbV
 titel: Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft
-stand: Zuletzt geändert durch Art. 6 G v. 24.5.2016 I 1190
+stand: Zuletzt geändert durch Art. 2 V v. 2.11.2026 I Nr. 328
 ausfertigung: '2001-06-25'
 quelle: https://www.gesetze-im-internet.de/kfldiausbv/
 doknr: BJNR126200001
-builddate: '20260506175415'
+builddate: '20261106215507'
 ---
 
 # Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft (KflDiAusbV)
 
-Stand: Zuletzt geändert durch Art. 6 G v. 24.5.2016 I 1190
+Stand: Zuletzt geändert durch Art. 2 V v. 2.11.2026 I Nr. 328
 
 Quelle: <https://www.gesetze-im-internet.de/kfldiausbv/>
 

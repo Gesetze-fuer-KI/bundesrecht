@@ -2,16 +2,16 @@
 abkuerzung: EBO
 jurabk: EBO
 titel: Eisenbahn-Bau- und Betriebsordnung
-stand: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
+stand: Zuletzt geändert durch Art. 1 V v. 2.11.2026 I Nr. 330
 ausfertigung: '1967-05-08'
 quelle: https://www.gesetze-im-internet.de/ebo/
 doknr: BJNR215630967
-builddate: '20261104215503'
+builddate: '20261106215507'
 ---
 
 # Eisenbahn-Bau- und Betriebsordnung (EBO)
 
-Stand: Zuletzt geändert durch Art. 12 Abs. 11 G v. 22.10.2026 I Nr. 318
+Stand: Zuletzt geändert durch Art. 1 V v. 2.11.2026 I Nr. 330
 
 Quelle: <https://www.gesetze-im-internet.de/ebo/>
 
@@ -640,12 +640,12 @@ zulässig. Höhere Radsatzlasten und Fahrzeuggewichte je Längeneinheit sind zul
 <!-- norm id="BJNE003801308" -->
 ### (XXXX) §§ 29 bis 31 (weggefallen)
 
-<!-- norm id="BJNE004104119" -->
+<!-- norm id="BJNE004105119" -->
 ### § 32 Abnahme und Untersuchung der Fahrzeuge
 
-(1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie abgenommen worden sind (§ 3 Abs. 2).
+(1) Neue Fahrzeuge dürfen erst in Betrieb genommen werden, wenn sie abgenommen worden sind (§ 3 Absatz 2). Bei vollautomatisierten Fahrfunktionen gemäß § 46 ist im Rahmen der Abnahme nachzuweisen, dass mindestens die gleiche Sicherheit gemäß § 2 Absatz 2 gewährleistet ist.
 
-(2) Bei vollautomatisierten Fahrfunktionen gemäß § 46 ist im Rahmen der Abnahme nachzuweisen, dass mindestens eine gleiche Sicherheit gemäß § 2 Absatz 2 gewährleistet ist.
+(2) Die Fahrzeuge sind planmäßig wiederkehrend zu untersuchen.
 
 (3) Art, Umfang und Häufigkeit der Untersuchung nach Absatz 2 haben sich nach Zustand und Umfang der Nutzung der Eisenbahnfahrzeuge zu richten. Soweit für die Instandhaltung von Eisenbahnfahrzeugen keine Instandhaltungsstellen-Bescheinigung erforderlich ist oder die für die Instandhaltung zuständige Stelle keine anderweitigen Vorgaben für die Instandhaltung getroffen hat, soll eine Untersuchung mindestens alle sechs Jahre durchgeführt werden. Die Frist zwischen zwei aufeinanderfolgenden Untersuchungen darf in diesen Fällen mehrmals bis zu einem Jahr auf höchstens acht Jahre verlängert werden, wenn festgestellt ist, dass der Zustand des Fahrzeugs dies zulässt.
 
@@ -899,8 +899,8 @@ Der Überhöhungsfehlbetrag ist in Abhängigkeit von der Beschaffenheit des Ober
 
 (7) Reisezüge sind mit mindestens einem Zugbegleiter zu besetzen, sofern dessen betriebliche Aufgaben nicht von einem anderen Betriebsbeamten oder von technischen Einrichtungen übernommen werden. Sie dürfen ohne Zugbegleiter verkehren, wenn das Schließen der Wagentüren auf den Fahrgastwechsel abgestimmt und das Geschlossensein der Wagentüren vor Abfahrt dem Triebfahrzeugführer angezeigt oder bei einfachen Verhältnissen von ihm festgestellt wird.
 
-<!-- norm id="BJNE005502119" -->
-### § 46
+<!-- norm id="BJNE005503119" -->
+### § 46 Einsatz vollautomatisierter Fahrfunktionen
 
 (1) Der Betrieb eines Triebfahrzeugs gemäß § 18 Absatz 4 mittels vollautomatisierter Fahrfunktion auf einer hierfür ausgerüsteten Strecke ist zulässig, wenn die Funktion bestimmungsgemäß verwendet wird und ein Betrieb mit mindestens gleicher Sicherheit gemäß § 2 Absatz 2 gewährleistet ist.
 

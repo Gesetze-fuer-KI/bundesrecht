@@ -2,13 +2,16 @@
 abkuerzung: SeeArbG§119Abs4V
 jurabk: SeeArbG§119Abs4V
 titel: Verordnung nach § 119 Absatz 4 des Seearbeitsgesetzes
+stand: Geändert durch Art. 1 V v. 3.11.2026 I Nr. 329
 ausfertigung: '2019-01-08'
 quelle: https://www.gesetze-im-internet.de/seearbg_119abs4v/
 doknr: BJNR000900019
-builddate: '20190305212002'
+builddate: '20261106215501'
 ---
 
 # Verordnung nach § 119 Absatz 4 des Seearbeitsgesetzes (SeeArbG§119Abs4V)
+
+Stand: Geändert durch Art. 1 V v. 3.11.2026 I Nr. 329
 
 Quelle: <https://www.gesetze-im-internet.de/seearbg_119abs4v/>
 
