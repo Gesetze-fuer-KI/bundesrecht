@@ -2,16 +2,16 @@
 abkuerzung: VwGO
 jurabk: VwGO
 titel: Verwaltungsgerichtsordnung
-stand: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
+stand: zuletzt geändert durch Art. 13 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1960-01-21'
 quelle: https://www.gesetze-im-internet.de/vwgo/
 doknr: BJNR000170960
-builddate: '20261029220002'
+builddate: '20261109215502'
 ---
 
 # Verwaltungsgerichtsordnung (VwGO)
 
-Stand: zuletzt geändert durch Art. 9 G v. 20.5.2026 I Nr. 152
+Stand: zuletzt geändert durch Art. 13 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/vwgo/>
 

@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 19 G v. 22.6.2026 I Nr. 192
 ausfertigung: '1934-10-16'
 quelle: https://www.gesetze-im-internet.de/bewg/
 doknr: BJNR010350934
-builddate: '20260930215524'
+builddate: '20261109215508'
 ---
 
 # Bewertungsgesetz (BewG)

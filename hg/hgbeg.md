@@ -2,16 +2,16 @@
 abkuerzung: HGBEG
 jurabk: HGBEG
 titel: Einführungsgesetz zum Handelsgesetzbuch
-stand: Zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 323
+stand: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1897-05-10'
 quelle: https://www.gesetze-im-internet.de/hgbeg/
 doknr: BJNR004370897
-builddate: '20261027220005'
+builddate: '20261109215504'
 ---
 
 # Einführungsgesetz zum Handelsgesetzbuch (HGBEG)
 
-Stand: Zuletzt geändert durch Art. 2 G v. 23.10.2024 I Nr. 323
+Stand: Zuletzt geändert durch Art. 8 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/hgbeg/>
 
@@ -872,10 +872,10 @@ Die §§ 289f, 334 Absatz 1, § 340n Absatz 1 und § 341n Absatz 1 des Handelsge
 <!-- gliederung id="BJNG005500360" ebene="1" -->
 ## Fünfundfünfzigster Abschnitt Übergangsvorschrift zum Gesetz zur Einführung der elektronischen Akte in der Justiz und zur weiteren Förderung des elektronischen Rechtsverkehrs
 
-<!-- norm id="BJNE008700360" -->
+<!-- norm id="BJNE008702129" -->
 ### Art 94
 
-Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt werden. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
+Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt werden. Akten, in denen Dokumente und Aktenteile enthalten sind, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache höher als VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis einschließlich 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform erstellt, geführt und übermittelt werden, wenn eine teilweise elektronische Aktenführung nur mit unverhältnismäßigem Aufwand möglich wäre. Dokumente und Aktenteile, die nach den Verschlusssachenanweisungen des Bundes oder der Länder als Verschlusssache VS-NUR FÜR DEN DIENSTGEBRAUCH eingestuft sind, dürfen bis zum 31. Dezember 2035 abweichend von § 335 Absatz 2a und § 335a Absatz 4 des Handelsgesetzbuchs in Papierform übermittelt werden. Die für die Handhabung von Verschlusssachen geltenden Geheimschutzvorschriften bleiben unberührt.
 
 <!-- gliederung id="BJNG005600125" ebene="1" -->
 ## Sechsundfünfzigster Abschnitt Übergangsvorschrift zum Vierten Bürokratieentlastungsgesetz

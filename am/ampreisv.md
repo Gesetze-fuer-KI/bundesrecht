@@ -2,16 +2,16 @@
 abkuerzung: AMPreisV
 jurabk: AMPreisV
 titel: Arzneimittelpreisverordnung
-stand: Zuletzt geändert durch Art. 2 V v. 9.6.2026 I Nr. 173
+stand: Zuletzt geändert durch Art. 2 V v. 16.9.2026 I Nr. 266
 ausfertigung: '1980-11-14'
 quelle: https://www.gesetze-im-internet.de/ampreisv/
 doknr: BJNR021470980
-builddate: '20260930215530'
+builddate: '20261109215514'
 ---
 
 # Arzneimittelpreisverordnung (AMPreisV)
 
-Stand: Zuletzt geändert durch Art. 2 V v. 9.6.2026 I Nr. 173
+Stand: Zuletzt geändert durch Art. 2 V v. 16.9.2026 I Nr. 266
 
 Quelle: <https://www.gesetze-im-internet.de/ampreisv/>
 

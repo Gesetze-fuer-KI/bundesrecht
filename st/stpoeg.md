@@ -2,16 +2,16 @@
 abkuerzung: StPOEG
 jurabk: StPOEG
 titel: Einführungsgesetz zur Strafprozeßordnung
-stand: Zuletzt geändert durch Art. 4 G v. 8.12.2025 I Nr. 319
+stand: Zuletzt geändert durch Art. 5 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1877-02-01'
 quelle: https://www.gesetze-im-internet.de/stpoeg/
 doknr: BJNR003460877
-builddate: '20261029220003'
+builddate: '20261109215504'
 ---
 
 # Einführungsgesetz zur Strafprozeßordnung (StPOEG)
 
-Stand: Zuletzt geändert durch Art. 4 G v. 8.12.2025 I Nr. 319
+Stand: Zuletzt geändert durch Art. 5 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/stpoeg/>
 

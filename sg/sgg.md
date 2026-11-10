@@ -2,16 +2,16 @@
 abkuerzung: SGG
 jurabk: SGG
 titel: Sozialgerichtsgesetz
-stand: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
+stand: zuletzt geändert durch Art. 12 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/sgg/
 doknr: BJNR012390953
-builddate: '20261029220009'
+builddate: '20261109215511'
 ---
 
 # Sozialgerichtsgesetz (SGG)
 
-Stand: zuletzt geändert durch Art. 8 G v. 20.5.2026 I Nr. 152
+Stand: zuletzt geändert durch Art. 12 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/sgg/>
 

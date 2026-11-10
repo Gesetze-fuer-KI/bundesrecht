@@ -2,16 +2,16 @@
 abkuerzung: ArbGG
 jurabk: ArbGG
 titel: Arbeitsgerichtsgesetz
-stand: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
+stand: zuletzt geändert durch Art. 11 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1953-09-03'
 quelle: https://www.gesetze-im-internet.de/arbgg/
 doknr: BJNR012670953
-builddate: '20261029220010'
+builddate: '20261109215512'
 ---
 
 # Arbeitsgerichtsgesetz (ArbGG)
 
-Stand: zuletzt geändert durch Art. 7 G v. 20.5.2026 I Nr. 152
+Stand: zuletzt geändert durch Art. 11 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/arbgg/>
 

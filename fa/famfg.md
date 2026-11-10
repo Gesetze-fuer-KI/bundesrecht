@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 4 G v. 22.6.2026 I Nr. 192
 ausfertigung: '2008-12-17'
 quelle: https://www.gesetze-im-internet.de/famfg/
 doknr: BJNR258700008
-builddate: '20261029220017'
+builddate: '20261109215519'
 ---
 
 # Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG)

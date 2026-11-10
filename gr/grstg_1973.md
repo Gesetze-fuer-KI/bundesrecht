@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 32 G v. 2.12.2024 I Nr. 387
 ausfertigung: '1973-08-07'
 quelle: https://www.gesetze-im-internet.de/grstg_1973/
 doknr: BJNR109650973
-builddate: '20260114215511'
+builddate: '20261109215517'
 ---
 
 # Grundsteuergesetz (GrStG)

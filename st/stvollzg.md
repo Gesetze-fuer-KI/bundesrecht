@@ -3,16 +3,16 @@ abkuerzung: StVollzG
 jurabk: StVollzG
 titel: Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung
 kurztitel: Strafvollzugsgesetz
-stand: Zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 349
+stand: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1976-03-16'
 quelle: https://www.gesetze-im-internet.de/stvollzg/
 doknr: BJNR005810976
-builddate: '20261029220005'
+builddate: '20261109215505'
 ---
 
 # Gesetz über den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Maßregeln der Besserung und Sicherung (StVollzG)
 
-Stand: Zuletzt geändert durch Art. 8 G v. 22.12.2025 I Nr. 349
+Stand: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/stvollzg/>
 

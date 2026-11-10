@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 103 G v. 29.3.2017 I 626
 ausfertigung: '1972-10-04'
 quelle: https://www.gesetze-im-internet.de/drucklv/
 doknr: BJNR019090972
-builddate: '20260506175007'
+builddate: '20261109215513'
 ---
 
 # Verordnung über Arbeiten in Druckluft (DruckLV)
@@ -455,31 +455,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 | - nach Ausschleusungen mit mehreren Druckstufen | 60 Minuten, |
 | - vor Entfernung von der Arbeitsstelle länger als 12 Stunden | 90 Minuten. |
 
-(6) Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem ermächtigten Arzt über den Antritt von Flugreisen beraten werden.  
-Tabelle 1: Ausschleusung mit Sauerstoff im Normalbetrieb  
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.  
-*)
-
--  Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck
-
-Notfalltabelle 1: Ausschleusung mit Druckluft bei technischem Versagen der Sauerstoffanlage  
-- nur in Abstimmung mit dem Arzt anzuwenden! -  
-*)
-
--  Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
-
-Notfalltabelle 2: Ausschleusung mit Sauerstoff in Notfällen bei Überschreitung zulässiger Aufenthaltszeit  
-- nur in Abstimmung mit dem Arzt anzuwenden! -  
-Achtung: Mit der Sauerstoffatmung darf erst begonnen werden, wenn der Druck in der Schleuse auf 1,0 bar abgesenkt ist.  
-*)
-
--  Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
-
-Notfalltabelle 3: Ausschleusung mit Druckluft bei technischem Versagen der Sauerstoffanlage und Überschreitung zulässiger Aufenthaltszeit  
-- nur in Abstimmung mit dem Arzt anzuwenden! -  
-*)
-
--  Achtung: Der Arbeitsdruck entspricht dem über den atmosphärischen Druck hinausgehenden Überdruck!
+(6) Der Arbeitgeber hat sicherzustellen, daß die Arbeitnehmer von dem ermächtigten Arzt über den Antritt von Flugreisen beraten werden.
 
 <!-- norm id="BJNE003301308" -->
 ## Anhang 3 (Nach § 18 Abs. 1 Nr. 4 der Verordnung über Arbeiten in Druckluft)

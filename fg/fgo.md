@@ -2,16 +2,16 @@
 abkuerzung: FGO
 jurabk: FGO
 titel: Finanzgerichtsordnung
-stand: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
+stand: zuletzt geändert durch Art. 14 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1965-10-06'
 quelle: https://www.gesetze-im-internet.de/fgo/
 doknr: BJNR014770965
-builddate: '20261029220011'
+builddate: '20261109215513'
 ---
 
 # Finanzgerichtsordnung (FGO)
 
-Stand: zuletzt geändert durch Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197
+Stand: zuletzt geändert durch Art. 14 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/fgo/>
 

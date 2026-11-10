@@ -2,16 +2,16 @@
 abkuerzung: FinDPrV
 jurabk: FinDPrV
 titel: Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft
-stand: Zuletzt geändert durch Art. 58 V v. 9.12.2019 I 2153
+stand: Zuletzt geändert durch Art. 3 V v. 4.11.2026 I Nr. 333
 ausfertigung: '2012-02-09'
 quelle: https://www.gesetze-im-internet.de/findprv/
 doknr: BJNR027400012
-builddate: '20260506175050'
+builddate: '20261109215514'
 ---
 
 # Verordnung über die Prüfung zu anerkannten Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft (FinDPrV)
 
-Stand: Zuletzt geändert durch Art. 58 V v. 9.12.2019 I 2153
+Stand: Zuletzt geändert durch Art. 3 V v. 4.11.2026 I Nr. 333
 
 Quelle: <https://www.gesetze-im-internet.de/findprv/>
 
@@ -433,10 +433,10 @@ Wer die Prüfung nach § 14 bestanden hat, ist vom schriftlichen Teil der Prüfu
 >
 > (+++ Zur Anwendung vgl. §§ 1 u. 3 FortbVenÄndV6AnwV +++)
 
-<!-- norm id="BJNE001901128" -->
-### § 22 Inkrafttreten
+<!-- norm id="BJNE001902131" -->
+### § 22 Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2012 in Kraft.
+Diese Verordnung tritt mit Ablauf des 30. November 2026 außer Kraft.
 
 > **Fußnote**
 >

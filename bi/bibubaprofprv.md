@@ -3,13 +3,16 @@ abkuerzung: BibuBAProFPrV
 jurabk: BibuBAProFPrV
 titel: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter und Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung
 kurztitel: Bilanzbuchhalter-Bachelor Professional in Bilanzbuchhaltung-Fortbildungsprüfungsverordnung
+stand: Geändert durch Art. 1 V v. 4.11.2026 I Nr. 332
 ausfertigung: '2020-12-18'
 quelle: https://www.gesetze-im-internet.de/bibubaprofprv/
 doknr: BJNR307000020
-builddate: '20260506175911'
+builddate: '20261109215521'
 ---
 
 # Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Bilanzbuchhalter und Geprüfte Bilanzbuchhalterin-Bachelor Professional in Bilanzbuchhaltung (BibuBAProFPrV)
+
+Stand: Geändert durch Art. 1 V v. 4.11.2026 I Nr. 332
 
 Quelle: <https://www.gesetze-im-internet.de/bibubaprofprv/>
 
@@ -89,7 +92,7 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 - 6\. ein internes Kontrollsystem sicherstellen,
 - 7\. Kommunikation, Führung und Zusammenarbeit mit internen und externen Partnern sicherstellen.
 
-<!-- norm id="BJNE000700000" -->
+<!-- norm id="BJNE000701131" -->
 ## § 5 Schriftliche Prüfung
 
 (1) Die schriftliche Prüfung wird auf der Grundlage einer Beschreibung einer betrieblichen Situation durchgeführt.
@@ -98,7 +101,13 @@ Die Berufspraxis nach Absatz 1 Satz 1 Nummer 2 Buchstabe c und Nummer 3 muss inh
 
 (3) Die Bearbeitungszeit beträgt für jede Aufgabenstellung 240 Minuten.
 
-(4) Die drei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie der zu prüfenden Person eigenständige Lösungen ohne Antwortvorgaben ermöglichen. Die Aufgabenstellungen sind so zu gestalten, dass jeweils ein anderer Handlungsbereich nach § 4 Absatz 2 Nummer 1, 2 und 3 einen Schwerpunkt bildet und die übrigen Handlungsbereiche nach § 4 Absatz 2 insgesamt mindestens einmal in den drei Aufgabenstellungen situationsbezogen thematisiert werden.
+(4) Die drei Aufgabenstellungen müssen aus der Beschreibung der betrieblichen Situation abgeleitet und aufeinander abgestimmt sein sowie der zu prüfenden Person eigenständige Lösungen ohne Antwortvorgaben ermöglichen. In jeder Aufgabenstellung bildet ein Handlungsbereich nach § 4 Absatz 2 den Schwerpunkt, und zwar:
+
+- 1\. in der ersten Aufgabenstellung der Handlungsbereich nach § 4 Absatz 2 Nummer 1 „Geschäftsvorfälle erfassen und nach Rechnungslegungsvorschriften zu Abschlüssen führen”,
+- 2\. in der zweiten Aufgabenstellung der Handlungsbereich nach § 4 Absatz 2 Nummer 2 „Jahresabschlüsse aufbereiten und auswerten” und
+- 3\. in der dritten Aufgabenstellung der Handlungsbereich nach § 4 Absatz 2 Nummer 3 „betriebliche Sachverhalte steuerlich darstellen”.
+
+Jeder der übrigen Handlungsbereiche nach § 4 Absatz 2 Nummer 4 bis 7 muss mindestens einmal in die drei Aufgabenstellungen eingebunden werden.
 
 <!-- norm id="BJNE000800000" -->
 ## § 6 Mündliche Prüfung
@@ -230,20 +239,18 @@ Aus den beiden Bewertungen wird als Bewertung der mündlichen Prüfung das gewic
 - 1\. über den erworbenen Abschluss oder
 - 2\. auf Antrag der geprüften Person über während oder anlässlich der Fortbildung erworbene besondere oder zusätzliche Fertigkeiten, Kenntnisse und Fähigkeiten.
 
-<!-- norm id="BJNE001400000" -->
+<!-- norm id="BJNE001401131" -->
 ## § 12 Wiederholung der Prüfung
 
 (1) Ist die schriftliche oder die mündliche Prüfung nicht bestanden, kann sie jeweils zweimal wiederholt werden.
 
 (2) Die zu prüfende Person hat die Wiederholungsprüfung bei der zuständigen Stelle zu beantragen.
 
-(3) Wer die Wiederholung der mündlichen Prüfung innerhalb von zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung an, beantragt, ist von der schriftlichen Prüfung zu befreien, wenn die in der vorangegangenen schriftlichen Prüfung erbrachte Leistung mit mindestens „ausreichend“ bewertet worden ist.
+(3) Wer die Wiederholung der schriftlichen Prüfung innerhalb von einem Jahr, gerechnet vom Tag der Bekanntgabe des Bescheids über das Nichtbestehen der schriftlichen Prüfung an, beantragt, ist von denjenigen Aufgabenstellungen nach § 5 Absatz 2 zu befreien, die in der vorangegangenen Prüfung mit mindestens „ausreichend“ bewertet worden sind. Voraussetzung ist, dass von den drei Aufgabenstellungen nach § 5 Absatz 2 zwei Aufgabenstellungen mit mindestens 50 Punkten und eine Aufgabenstellung mit mindestens 30 Punkten bewertet worden ist. Ist die Voraussetzung nach Satz 2 nicht erfüllt, so sind alle Aufgabenstellungen zu wiederholen.
 
-(4) Auf Antrag kann im Fall der Wiederholung einer nicht bestandenen Prüfung auch eine bereits bestandene Prüfung wiederholt werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
+(4) Wer die Wiederholung der mündlichen Prüfung innerhalb von zwei Jahren, gerechnet vom Tag der nicht bestandenen Prüfung an, beantragt, ist von der schriftlichen Prüfung zu befreien, wenn die in der vorangegangenen schriftlichen Prüfung erbrachte Leistung mit mindestens „ausreichend“ bewertet worden ist.
 
-> **Fußnote**
->
-> (+++ § 12 Abs. 3: Zur Nichtanwendung vgl. § 15 Abs. 1 Satz 3 +++)
+(5) Auf Antrag kann im Fall der Wiederholung einer nicht bestandenen Prüfung auch eine bereits bestandene Prüfung wiederholt werden. In diesem Fall gilt nur das Ergebnis der letzten Prüfung.
 
 <!-- norm id="BJNE001500000" -->
 ## § 13 Ausbildereignung
@@ -297,12 +304,14 @@ In diesem Rahmen können folgende Qualifikationsinhalte geprüft werden:
 
 (10) Ist die Prüfung bestanden worden, stellt die zuständige Stelle Zeugnisse in entsprechender Anwendung des § 11 in Verbindung mit der Anlage 2 aus.
 
-<!-- norm id="BJNE001700000" -->
+<!-- norm id="BJNE001701131" -->
 ## § 15 Übergangsvorschriften
 
-(1) Nach der Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen. § 12 Absatz 3 findet in diesem Fall Anwendung, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
+(1) Nach der Bilanzbuchhalterprüfungsverordnung vom 26. Oktober 2015 (BGBl. I S. 1819), die durch Artikel 76 der Verordnung vom 9. Dezember 2019 (BGBl. I S. 2153) geändert worden ist, begonnene Prüfungsverfahren sind nach den Vorschriften der vorstehend bezeichneten Verordnung zu Ende zu führen. Die zuständige Stelle hat auf Antrag der zu prüfenden Person eine erforderliche Wiederholungsprüfung nach dieser Verordnung durchzuführen. § 12 Absatz 4 findet in diesem Fall Anwendung, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
 
 (2) Bei einer Anmeldung zur Prüfung ab dem 1. Januar 2020 hat die zuständige Stelle auf Antrag der zu prüfenden Person die Prüfung nach dieser Verordnung durchzuführen. Nach der in Absatz 1 Satz 1 bezeichneten Bilanzbuchhalterprüfungsverordnung erfolgreich abgelegte Prüfungsbestandteile sind auf die nach dieser Verordnung erforderlichen Prüfungsbestandteile anzurechnen. Die schriftliche Prüfung wird dabei nur angerechnet, wenn in jeder der drei Aufgabenstellungen der schriftlichen Prüfung mindestens 50 Punkte erreicht worden sind.
+
+(3) § 12 Absatz 3 in der ab dem 10. November 2026 geltenden Fassung ist auch anzuwenden, wenn die schriftliche Prüfung vor diesem Tag nicht bestanden worden ist.
 
 <!-- norm id="BJNE001800000" -->
 ## § 16 Inkrafttreten, Außerkrafttreten

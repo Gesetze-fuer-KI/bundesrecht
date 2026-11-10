@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 4.11.2025 I Nr. 267
 ausfertigung: '2020-11-09'
 quelle: https://www.gesetze-im-internet.de/ppugv_2021/
 doknr: BJNR235700020
-builddate: '20251107215003'
+builddate: '20261109215518'
 ---
 
 # Verordnung zur Festlegung von Pflegepersonaluntergrenzen in pflegesensitiven Bereichen in Krankenhäusern für das Jahr 2021 (PpUGV)
