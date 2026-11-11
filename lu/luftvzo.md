@@ -6,7 +6,7 @@ stand: Neufassung durch Bek. v. 10.7.2008 I 1229;
 ausfertigung: '1964-06-19'
 quelle: https://www.gesetze-im-internet.de/luftvzo/
 doknr: BJNR003700964
-builddate: '20260506174743'
+builddate: '20261110215501'
 ---
 
 # Luftverkehrs-Zulassungs-Ordnung (LuftVZO)
@@ -1149,97 +1149,94 @@ für Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge, unbemann
 <!-- norm id="BJNE000502308" -->
 ### Muster 1
 
-(Inhalt: nicht darstellbares Muster eines Eintragungsscheines,  
-Fundstelle: BGBl. I 2008, 1266)
-
 <!-- norm id="BJNE000702308" -->
 ### Muster 2
-
-(Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses,  
-Fundstelle: BGBl. I 2008, 1267)
 
 <!-- norm id="BJNE000804308" -->
 ### Muster 3 (§ 9 Abs. 1 LuftVZO)
 
-(Inhalt: nicht darstellbares Muster eines Lufttüchtigkeitszeugnisses für Luftsportgeräte,  
-Fundstelle: BGBl. I 2008, 1268)
-
 <!-- norm id="BJNE001805308" -->
 ### Muster 4 (§ 14 Abs. 2 LuftVZO)
 
-(Inhalt: nicht darstellbares Muster eines Eintragungsscheins für Luftsportgeräte,  
-Fundstelle: BGBl. I 2008, 1268)
-
 <!-- norm id="BJNE000903308" -->
-### Muster 5
-
-(weggefallen)
+### Muster 5 (weggefallen)
 
 <!-- norm id="BJNE001002308" -->
 ### Muster 6
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1269)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001102308" -->
 ### Muster 6a
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1269)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001202308" -->
 ### Muster 7
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1270)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001302308" -->
 ### Muster 7a
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1270)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001402308" -->
 ### Muster 8
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1271)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001502308" -->
 ### Muster 9
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1271)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001602308" -->
 ### Muster 10
 
-(Inhalt: nicht darstellbares Muster,  
-Fundstelle: BGBl. I 2008, 1272)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE001902308" -->
 ### Muster 11a
 
-(Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs, aerodynamisch gesteuert,  
-Fundstelle: BGBl. I 2008, 1273)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE002002308" -->
 ### Muster 11b
 
-(Inhalt: nicht darstellbare Abbildung eines Ultraleichtflugzeugs, schwerkraftgesteuert,  
-Fundstelle: BGBl. I 2008, 1273)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE002102308" -->
 ### Muster 12
 
-(Inhalt: nicht darstellbare Abbildung eines Hängegleiters,  
-Fundstelle: BGBl. I 2008, 1274)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE002202308" -->
 ### Muster 13
 
-(Inhalt: nicht darstellbare Abbildung eines Gleitsegels,  
-Fundstelle: BGBl. I 2008, 1274)
+|  |  |  |
+|---|---|---|
+|  | *(Abbildung, siehe Originalfassung)* |  |
 
 <!-- norm id="BJNE017602305" -->
 ### Anlage 2 (zu § 48c)Zu berücksichtigende Informationen gemäß § 48c Abs. 1

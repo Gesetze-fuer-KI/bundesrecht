@@ -3,16 +3,16 @@ abkuerzung: ApBetrO
 jurabk: ApoBetrO 1987
 titel: Verordnung über den Betrieb von Apotheken
 kurztitel: Apothekenbetriebsordnung
-stand: zuletzt geändert durch Art. 8z4 G v. 12.12.2023 I Nr. 359
+stand: zuletzt geändert durch Art. 3 G v. 26.6.2026 I Nr. 195
 ausfertigung: '1987-02-09'
 quelle: https://www.gesetze-im-internet.de/apobetro_1987/
 doknr: BJNR005470987
-builddate: '20260925215501'
+builddate: '20261110215504'
 ---
 
 # Verordnung über den Betrieb von Apotheken (ApBetrO)
 
-Stand: zuletzt geändert durch Art. 8z4 G v. 12.12.2023 I Nr. 359
+Stand: zuletzt geändert durch Art. 3 G v. 26.6.2026 I Nr. 195
 
 Quelle: <https://www.gesetze-im-internet.de/apobetro_1987/>
 

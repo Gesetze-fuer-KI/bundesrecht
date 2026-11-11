@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
 ausfertigung: '2005-02-16'
 quelle: https://www.gesetze-im-internet.de/bartschv_2005/
 doknr: BJNR025810005
-builddate: '20261109215522'
+builddate: '20261110215508'
 ---
 
 # Verordnung zum Schutz wild lebender Tier- und Pflanzenarten (BArtSchV)

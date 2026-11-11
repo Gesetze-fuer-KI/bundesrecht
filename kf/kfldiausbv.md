@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 2 V v. 2.11.2026 I Nr. 328
 ausfertigung: '2001-06-25'
 quelle: https://www.gesetze-im-internet.de/kfldiausbv/
 doknr: BJNR126200001
-builddate: '20261106215507'
+builddate: '20261110215507'
 ---
 
 # Verordnung über die Berufsausbildung für Kaufleute in den Dienstleistungsbereichen Gesundheitswesen sowie Veranstaltungswirtschaft (KflDiAusbV)
@@ -481,11 +481,6 @@ zu vermitteln und im Zusammenhang damit die Fertigkeiten und Kenntnisse der Beru
   - 9\. Materialwirtschaft
 
 fortzuführen.
-
-<!-- norm id="BJNE002401308" -->
-### Anlage 2 (weggefallen)
-
--
 
 <!-- norm id="BJNE002501119" -->
 ### Anlage 3 (zu § 17)Ausbildungsrahmenplan für die Berufsausbildung zum Veranstaltungskaufmann/zur Veranstaltungskauffrau

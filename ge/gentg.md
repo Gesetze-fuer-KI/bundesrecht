@@ -3,16 +3,16 @@ abkuerzung: GenTG
 jurabk: GenTG
 titel: Gesetz zur Regelung der Gentechnik
 kurztitel: Gentechnikgesetz
-stand: zuletzt geändert durch Art. 8 Abs. 7 G v. 27.9.2021 I 4530
+stand: zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 321
 ausfertigung: '1990-06-20'
 quelle: https://www.gesetze-im-internet.de/gentg/
 doknr: BJNR110800990
-builddate: '20261027220035'
+builddate: '20261110215506'
 ---
 
 # Gesetz zur Regelung der Gentechnik (GenTG)
 
-Stand: zuletzt geändert durch Art. 8 Abs. 7 G v. 27.9.2021 I 4530
+Stand: zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 321
 
 Quelle: <https://www.gesetze-im-internet.de/gentg/>
 
