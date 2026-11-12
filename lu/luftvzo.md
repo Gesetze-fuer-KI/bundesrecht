@@ -6,7 +6,7 @@ stand: Neufassung durch Bek. v. 10.7.2008 I 1229;
 ausfertigung: '1964-06-19'
 quelle: https://www.gesetze-im-internet.de/luftvzo/
 doknr: BJNR003700964
-builddate: '20261110215501'
+builddate: '20261111215510'
 ---
 
 # Luftverkehrs-Zulassungs-Ordnung (LuftVZO)

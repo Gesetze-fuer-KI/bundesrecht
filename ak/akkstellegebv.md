@@ -3,16 +3,16 @@ abkuerzung: AkkStelleGebV
 jurabk: AkkStelleGebV
 titel: Gebührenverordnung der Akkreditierungsstelle
 kurztitel: Akkreditierungsstellengebührenverordnung
-stand: Zuletzt geändert durch Art. 2 V v. 19.8.2021 I 3734
+stand: Zuletzt geändert durch Art. 1 V v. 4.11.2026 I Nr. 335
 ausfertigung: '2017-12-08'
 quelle: https://www.gesetze-im-internet.de/akkstellegebv/
 doknr: BJNR387700017
-builddate: '20220331213047'
+builddate: '20261111215509'
 ---
 
 # Gebührenverordnung der Akkreditierungsstelle (AkkStelleGebV)
 
-Stand: Zuletzt geändert durch Art. 2 V v. 19.8.2021 I 3734
+Stand: Zuletzt geändert durch Art. 1 V v. 4.11.2026 I Nr. 335
 
 Quelle: <https://www.gesetze-im-internet.de/akkstellegebv/>
 
@@ -70,7 +70,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 - 6\. die Überprüfung der Einhaltung erlassener Nebenbestimmungen im Sinne des § 36 des Verwaltungsverfahrensgesetzes,
 - 7\. die Einbeziehung anderer Behörden nach § 2 Absatz 3 und § 4 des Akkreditierungsstellengesetzes.
 
-<!-- norm id="BJNE000501119" -->
+<!-- norm id="BJNE000502119" -->
 ## § 4 Auslagen
 
 (1) Auslagen sind auch zu erheben für
@@ -79,7 +79,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 - 2\. Vergütungen von Beauftragten der Akkreditierungsstelle, die dadurch entstanden sind, dass die Beauftragten der Akkreditierungsstelle eine individuell zurechenbare öffentliche Leistung aus Gründen, die der Gebührenschuldner zu vertreten hat, nicht zum festgesetzten Termin erbringen konnten oder sie aus diesen Gründen abbrechen mussten,
 - 3\. Kosten für die zugunsten einer akkreditierten Konformitätsbewertungsstelle beantragten Anerkennung der Akkreditierungsstelle durch ausländische Behörden oder private Vereinigungen sowie die Aufrechterhaltung dieser Anerkennung, durch die die Akzeptanz der von der Konformitätsbewertungsstelle ausgestellten Bestätigungen sichergestellt oder erweitert wird.
 
-(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 120 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 95 Euro pro Stunde zu vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
+(2) Die Leistungen der in Absatz 1 Nummer 1 und 2 genannten Beauftragten sind mit 150 Euro pro Stunde zu vergüten, sofern nicht in Absatz 7 Abweichendes geregelt ist. Sofern die Beauftragten keine Ausbildung für die Durchführung von Begutachtungen von einer nationalen Akkreditierungsstelle im Sinne des Artikels 2 Nummer 11 der Verordnung (EG) Nr. 765/2008 erhalten haben oder diese Ausbildung nicht durch Schulungs- und Fortbildungsmaßnahmen aufrechterhalten haben, sind die Leistungen der Beauftragten mit 120 Euro pro Stunde zu vergüten. Notwendige Reise- und Wartezeiten von Beauftragten werden entsprechend § 3 Absatz 2 Nummer 2 abgegolten. Über die regelmäßige Arbeitszeit hinausgehende notwendige Warte- und Reisezeiten werden zu einem Viertel abgegolten. Bei der Abrechnung ist für jede angefangene Viertelstunde ein Viertel des Stundensatzes anzusetzen.
 
 (3) Mit dem Honorar sind sämtliche sonstigen Kosten und Aufwendungen des Beauftragten außer den Reisekosten abgegolten.
 
@@ -96,7 +96,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 § 23 Absatz 2 bis 7 des Bundesgebührengesetzes in Verbindung mit § 7 des Akkreditierungsstellengesetzes vom 31. Juli 2009 (BGBl. I S. 2625), der zuletzt durch Artikel 1 Absatz 2 des Gesetzes vom 17. Juli 2017 (BGBl. I S. 2540) geändert worden ist, ist nicht mehr anzuwenden.
 
-<!-- norm id="BJNE000702119" -->
+<!-- norm id="BJNE000703119" -->
 ## § 6 Übergangsbestimmungen
 
 (1) Für individuell zurechenbare öffentliche Leistungen, die vor dem 1. Juli 2018 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach der Kostenverordnung der Akkreditierungsstelle vom 21. Dezember 2009 (BGBl. I S. 3964), die durch Artikel 2 Absatz 107 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, in der bis zum Ablauf des 30. Juni 2018 geltenden Fassung zu erheben.
@@ -111,6 +111,10 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (6) Abweichend von Absatz 5 werden für individuell zurechenbare öffentliche Leistungen, die vor dem 1. April 2022 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 1. April 2022 geltenden Fassung erhoben, soweit bei diesen Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten einer neuen Fassung der Akkreditierungsstellengebührenverordnung eine Gebührenfestsetzung nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
 
+(7) Für individuell zurechenbare öffentliche Leistungen, die ab dem 1. April 2022, jedoch vor dem 12. November 2026 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, sind Gebühren und Auslagen nach dieser Verordnung in der bis zum Ablauf des 11. November 2026 geltenden Fassung zu erheben.
+
+(8) Abweichend von Absatz 7 werden für individuell zurechenbare öffentliche Leistungen, die vor dem 12. November 2026 beantragt oder, sofern kein Antrag erforderlich ist, begonnen, aber noch nicht beendet worden sind, Gebühren und Auslagen nach dieser Verordnung in der am 12. November 2026 geltenden Fassung erhoben, soweit bei diesen Leistungen mit Antragstellung oder, sofern kein Antrag erforderlich ist, mit Beginn der Leistungserbringung unter Hinweis auf das Inkrafttreten einer neuen Fassung der Akkreditierungsstellengebührenverordnung eine Gebührenfestsetzung nach der geänderten Fassung ausdrücklich vorbehalten worden ist.
+
 <!-- norm id="BJNE000800000" -->
 ## § 7 Inkrafttreten, Außerkrafttreten
 
@@ -118,7 +122,7 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 
 (2) Gleichzeitig tritt die Kostenverordnung der Akkreditierungsstelle vom 21. Dezember 2009 (BGBl. I S. 3964), die durch Artikel 2 Absatz 107 des Gesetzes vom 7. August 2013 (BGBl. I S. 3154) geändert worden ist, außer Kraft.
 
-<!-- norm id="BJNE000902119" -->
+<!-- norm id="BJNE000903119" -->
 ## Anlage (zu § 1)Gebührenverzeichnis
 
 | Tarifstelle | Gebührentatbestand | Gebührensatz |
@@ -148,5 +152,5 @@ Die Akkreditierungsstelle erhebt für individuell zurechenbare öffentliche Leis
 | **5** | **Beantragtes oder vereinbartes Fachgespräch, sofern dieses nicht einer der vorstehenden Tarifstellen zugeordnet werden kann** | Nach Aufwand nach Tarifstelle 7 |
 | **6** | **Bearbeiten einer ungerechtfertigten Beschwerde im Sinne des Artikels 9 Absatz 4 der Verordnung (EG) Nr. 765/2008 gegen eine akkreditierte Konformitätsbewertungsstelle**<br>Die Akkreditierungsstelle kann aus Gründen des öffentlichen Interesses oder der Billigkeit eine niedrigere Gebühr festsetzen.<br>Anmerkung: Das Erheben einer Beschwerde ist ungerechtfertigt, wenn die Person oder Organisation, die die Beschwerde gegenüber der Akkreditierungsstelle erhebt, bei Anwendung der gebotenen Sorgfalt hätte erkennen können, dass der der Beschwerde zugrunde liegende Sachvortrag oder die Bewertung nicht zutrifft. | Nach Aufwand nach Tarifstelle 7 |
 | **7** | **Stundensatz für Bedienstete der Akkreditierungsstelle** |  |
-| 7.1 | Bedienstete mit Büro-, Assistenz- oder Sachbearbeiteraufgaben | 121,40 Euro |
-| 7.2 | Bedienstete mit Hochschulabschluss (Master, Diplom, Staatsexamen oder gleichwertiger Abschluss) und Aufgaben im Zusammenhang mit der eigenverantwortlichen Bearbeitung von Verfahren oder der Begutachtung, Prüfung von Dokumenten oder Vor-Ort-Beobachtung;<br>weitere Bedienstete mit Hochschulabschluss (Master, Diplom, Staatsexamen oder gleichwertiger Abschluss) und entsprechender Tätigkeit | 161,39 Euro |
+| 7.1 | Bedienstete mit Büro-, Assistenz- oder Sachbearbeiteraufgaben | 149,85 Euro bis Ende des Jahres 2027 und 154,18 Euro ab Beginn des Jahres 2028 |
+| 7.2 | Bedienstete mit Hochschulabschluss (Master, Diplom, Staatsexamen oder gleichwertiger Abschluss) und Aufgaben im Zusammenhang mit der eigenverantwortlichen Bearbeitung von Verfahren oder der Begutachtung, Prüfung von Dokumenten oder Vor-Ort-Beobachtung;<br>weitere Bedienstete mit Hochschulabschluss (Master, Diplom, Staatsexamen oder gleichwertiger Abschluss) und entsprechender Tätigkeit | 191,76 Euro bis Ende des Jahres 2027 und 196,09 Euro ab Beginn des Jahres 2028 |

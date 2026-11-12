@@ -1,10 +1,9 @@
-Stand 2026-11-11: 8 geändert, 0 neu, 0 entfernt
+Stand 2026-11-12: 7 geändert, 0 neu, 0 entfernt
 
-- AMG: zuletzt geändert durch Art. 3 G v. 22.10.2026 I Nr. 321
-- ApBetrO: zuletzt geändert durch Art. 3 G v. 26.6.2026 I Nr. 195
+- AkkStelleGebV: Zuletzt geändert durch Art. 1 V v. 4.11.2026 I Nr. 335
+- AWV: Zuletzt geändert durch Art. 1 V v. 14.10.2026 I Nr. 300
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
-- GenTG: zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 321
-- KflDiAusbV: Zuletzt geändert durch Art. 2 V v. 2.11.2026 I Nr. 328
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
-- OWiG: Zuletzt geändert durch Art. 21 G v. 22.12.2025 I Nr. 349
-- PpUGV: Zuletzt geändert durch Art. 1 V v. 9.11.2026 I Nr. 334
+- LwAusbStEignV: Geändert durch Art. 2 V v. 6.11.2026 I Nr. 336
+- OWiG: Zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 321
+- SGB 5: Zuletzt geändert durch Art. 2 G v. 6.10.2026 I Nr. 289

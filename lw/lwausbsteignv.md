@@ -2,16 +2,16 @@
 abkuerzung: LwAusbStEignV
 jurabk: LwAusbStEignV
 titel: Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Landwirt/zur Landwirtin
-stand: Geändert durch Art. 6 Abs. 22 G v. 23.5.2017 I 1228
+stand: Geändert durch Art. 2 V v. 6.11.2026 I Nr. 336
 ausfertigung: '1995-01-31'
 quelle: https://www.gesetze-im-internet.de/lwausbsteignv/
 doknr: BJNR017900995
-builddate: '20260506175001'
+builddate: '20261111215502'
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Landwirt/zur Landwirtin (LwAusbStEignV)
 
-Stand: Geändert durch Art. 6 Abs. 22 G v. 23.5.2017 I 1228
+Stand: Geändert durch Art. 2 V v. 6.11.2026 I Nr. 336
 
 Quelle: <https://www.gesetze-im-internet.de/lwausbsteignv/>
 
@@ -49,7 +49,7 @@ Die Ausbildungsstätte soll ein hauptberuflich bewirtschafteter Betrieb sein und
 
 Eine Ausbildungsstätte, die den Anforderungen dieser Verordnung nicht in vollem Umfang entspricht, kann für die Ausbildung anerkannt werden, wenn sichergestellt ist, daß eine erforderliche Ausbildungsmaßnahme außerhalb der Ausbildungsstätte oder in einer anderen anerkannten Ausbildungsstätte durchgeführt werden kann.
 
-<!-- norm id="BJNE000500000" -->
-## § 4 Inkrafttreten, Außerkrafttreten
+<!-- norm id="BJNE000501131" -->
+## § 4 Außerkrafttreten
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Diese Verordnung tritt mit Ablauf des 31. Juli 2027 außer Kraft.
