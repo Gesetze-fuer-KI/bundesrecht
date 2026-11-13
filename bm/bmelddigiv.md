@@ -3,16 +3,16 @@ abkuerzung: BMeldDigiV
 jurabk: BMeldDigiV
 titel: Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen
 kurztitel: Bundesmeldedatendigitalisierungsverordnung
-stand: Zuletzt geändert durch Art. 16 G v. 22.12.2025 I Nr. 370
+stand: Zuletzt geändert durch Art. 14 G v. 3.7.2026 I Nr. 199
 ausfertigung: '2022-04-20'
 quelle: https://www.gesetze-im-internet.de/bmelddigiv/
 doknr: BJNR068310022
-builddate: '20260709215536'
+builddate: '20261112215507'
 ---
 
 # Verordnung zur Bestimmung von Inhalt, Form und Verfahren von Datenübermittlungen zwischen Meldebehörden und einem Verwaltungsportal zur Erbringung von digitalen Verwaltungsleistungen (BMeldDigiV)
 
-Stand: Zuletzt geändert durch Art. 16 G v. 22.12.2025 I Nr. 370
+Stand: Zuletzt geändert durch Art. 14 G v. 3.7.2026 I Nr. 199
 
 Quelle: <https://www.gesetze-im-internet.de/bmelddigiv/>
 

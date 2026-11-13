@@ -3,16 +3,16 @@ abkuerzung: BMeldDAV
 jurabk: BMeldDAV 2022
 titel: Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder
 kurztitel: Bundesmeldedatenabrufverordnung
-stand: Zuletzt geändert durch Art. 3 V v. 22.1.2025 I Nr. 23
+stand: Zuletzt geändert durch Art. 13 G v. 3.7.2026 I Nr. 199
 ausfertigung: '2021-07-27'
 quelle: https://www.gesetze-im-internet.de/bmelddav_2022/
 doknr: BJNR320900021
-builddate: '20260709215553'
+builddate: '20261112215509'
 ---
 
 # Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Behörden oder sonstige öffentliche Stellen des Bundes und der Länder (BMeldDAV)
 
-Stand: Zuletzt geändert durch Art. 3 V v. 22.1.2025 I Nr. 23
+Stand: Zuletzt geändert durch Art. 13 G v. 3.7.2026 I Nr. 199
 
 Quelle: <https://www.gesetze-im-internet.de/bmelddav_2022/>
 

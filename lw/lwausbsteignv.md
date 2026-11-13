@@ -6,7 +6,7 @@ stand: Geändert durch Art. 2 V v. 6.11.2026 I Nr. 336
 ausfertigung: '1995-01-31'
 quelle: https://www.gesetze-im-internet.de/lwausbsteignv/
 doknr: BJNR017900995
-builddate: '20261111215502'
+builddate: '20261112215501'
 ---
 
 # Verordnung über die Eignung der Ausbildungsstätte für die Berufsausbildung zum Landwirt/zur Landwirtin (LwAusbStEignV)

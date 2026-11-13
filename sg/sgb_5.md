@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 2 G v. 6.10.2026 I Nr. 289
 ausfertigung: '1988-12-20'
 quelle: https://www.gesetze-im-internet.de/sgb_5/
 doknr: BJNR024820988
-builddate: '20261111215505'
+builddate: '20261112215505'
 ---
 
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)

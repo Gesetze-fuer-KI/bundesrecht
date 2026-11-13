@@ -3,16 +3,16 @@ abkuerzung: 1. BMeldDÜV
 jurabk: BMeldDÜV 1 2015
 titel: Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwischen Meldebehörden
 kurztitel: Erste Bundesmeldedatenübermittlungsverordnung
-stand: Zuletzt geändert durch Art. 14 G v. 22.12.2025 I Nr. 370
+stand: Zuletzt geändert durch Art. 12 G v. 3.7.2026 I Nr. 199
 ausfertigung: '2014-12-01'
 quelle: https://www.gesetze-im-internet.de/bmeldd_v_1_2015/
 doknr: BJNR194500014
-builddate: '20260709215545'
+builddate: '20261112215508'
 ---
 
 # Verordnung zur Durchführung von regelmäßigen Datenübermittlungen zwischen Meldebehörden (1. BMeldDÜV)
 
-Stand: Zuletzt geändert durch Art. 14 G v. 22.12.2025 I Nr. 370
+Stand: Zuletzt geändert durch Art. 12 G v. 3.7.2026 I Nr. 199
 
 Quelle: <https://www.gesetze-im-internet.de/bmeldd_v_1_2015/>
 

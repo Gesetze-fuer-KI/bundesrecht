@@ -1,9 +1,10 @@
-Stand 2026-11-12: 7 geändert, 0 neu, 0 entfernt
+Stand 2026-11-13: 8 geändert, 0 neu, 0 entfernt
 
-- AkkStelleGebV: Zuletzt geändert durch Art. 1 V v. 4.11.2026 I Nr. 335
-- AWV: Zuletzt geändert durch Art. 1 V v. 14.10.2026 I Nr. 300
+- 1. BMeldDÜV: Zuletzt geändert durch Art. 12 G v. 3.7.2026 I Nr. 199
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
+- BKAG: Zuletzt geändert durch Art. 6 G v. 3.7.2026 I Nr. 199
+- BMeldDAV: Zuletzt geändert durch Art. 13 G v. 3.7.2026 I Nr. 199
+- BMeldDigiV: Zuletzt geändert durch Art. 14 G v. 3.7.2026 I Nr. 199
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
 - LwAusbStEignV: Geändert durch Art. 2 V v. 6.11.2026 I Nr. 336
-- OWiG: Zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 321
 - SGB 5: Zuletzt geändert durch Art. 2 G v. 6.10.2026 I Nr. 289
