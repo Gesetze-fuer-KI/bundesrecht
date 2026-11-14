@@ -3,16 +3,16 @@ abkuerzung: KrWG
 jurabk: KrWG
 titel: Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 kurztitel: Kreislaufwirtschaftsgesetz
-stand: Zuletzt geändert durch Art. 5 G v. 2.3.2023 I Nr. 56
+stand: Zuletzt geändert durch Art. 2 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2012-02-24'
 quelle: https://www.gesetze-im-internet.de/krwg/
 doknr: BJNR021210012
-builddate: '20261020215506'
+builddate: '20261113215503'
 ---
 
 # Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen (KrWG)
 
-Stand: Zuletzt geändert durch Art. 5 G v. 2.3.2023 I Nr. 56
+Stand: Zuletzt geändert durch Art. 2 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/krwg/>
 
@@ -20,7 +20,10 @@ Quelle: <https://www.gesetze-im-internet.de/krwg/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.6.2012 +++)
+>
 > (+++ Zur Anwendung vgl. § 72 Abs. 4 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 13.7.2026 I Nr. 207 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 24.2.2012 I 212 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 6 dieses G am 1.6.2012 in Kraft. § 4 Absatz 2, § 5 Absatz 2, § 8 Absatz 2, die §§ 10 und 11 Absatz 2 und 3, § 12 Absatz 7, die §§ 16 und 23 Absatz 4, die §§ 24, 25 und 26 Absatz 1, § 36 Absatz 4 Satz 4, § 38 Absatz 1 Satz 2, § 41 Absatz 2, die §§ 43 und 48 Satz 2, die §§ 52 und 53 Absatz 6, § 54 Absatz 7, § 55 Absatz 2, die §§ 57 und 59 Absatz 1 Satz 2, § 60 Absatz 3, die §§ 61, 65 und 67 und 68 treten am Tag nach der Verkündung in Kraft.

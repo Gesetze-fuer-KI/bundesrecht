@@ -3,16 +3,16 @@ abkuerzung: ApoG
 jurabk: ApoG
 titel: Gesetz über das Apothekenwesen
 kurztitel: Apothekengesetz
-stand: zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 356
+stand: zuletzt geändert durch Art. 2a G v. 26.6.2026 I Nr. 195
 ausfertigung: '1960-08-20'
 quelle: https://www.gesetze-im-internet.de/apog/
 doknr: BJNR006970960
-builddate: '20260930215522'
+builddate: '20261113215503'
 ---
 
 # Gesetz über das Apothekenwesen (ApoG)
 
-Stand: zuletzt geändert durch Art. 3 G v. 22.12.2025 I Nr. 356
+Stand: zuletzt geändert durch Art. 2a G v. 26.6.2026 I Nr. 195
 
 Quelle: <https://www.gesetze-im-internet.de/apog/>
 

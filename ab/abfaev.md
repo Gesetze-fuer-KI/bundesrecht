@@ -3,16 +3,16 @@ abkuerzung: AbfAEV
 jurabk: AbfAEV
 titel: Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen
 kurztitel: Anzeige- und Erlaubnisverordnung
-stand: Zuletzt geändert durch Art. 2 V v. 28.4.2022 I 700
+stand: Zuletzt geändert durch Art. 3 Abs. 1 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2013-12-05'
 quelle: https://www.gesetze-im-internet.de/abfaev/
 doknr: BJNR404310013
-builddate: '20260811215508'
+builddate: '20261113215506'
 ---
 
 # Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen (AbfAEV)
 
-Stand: Zuletzt geändert durch Art. 2 V v. 28.4.2022 I 700
+Stand: Zuletzt geändert durch Art. 3 Abs. 1 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/abfaev/>
 

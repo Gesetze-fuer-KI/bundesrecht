@@ -3,16 +3,16 @@ abkuerzung: HWG
 jurabk: HeilMWerbG
 titel: Gesetz über die Werbung auf dem Gebiete des Heilwesens
 kurztitel: Heilmittelwerbegesetz
-stand: zuletzt geändert durch Art. 7 G v. 19.7.2023 I Nr. 197
+stand: zuletzt geändert durch Art. 5 G v. 26.6.2026 I Nr. 195
 ausfertigung: '1965-07-11'
 quelle: https://www.gesetze-im-internet.de/heilmwerbg/
 doknr: BJNR006049965
-builddate: '20260703215501'
+builddate: '20261113215501'
 ---
 
 # Gesetz über die Werbung auf dem Gebiete des Heilwesens (HWG)
 
-Stand: zuletzt geändert durch Art. 7 G v. 19.7.2023 I Nr. 197
+Stand: zuletzt geändert durch Art. 5 G v. 26.6.2026 I Nr. 195
 
 Quelle: <https://www.gesetze-im-internet.de/heilmwerbg/>
 

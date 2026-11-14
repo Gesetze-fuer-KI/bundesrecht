@@ -3,16 +3,16 @@ abkuerzung: PTAG
 jurabk: PTAG
 titel: Gesetz über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten
 kurztitel: PTA-Berufsgesetz
-stand: Zuletzt geändert durch Art. 10 G v. 20.7.2022 I 1174
+stand: Zuletzt geändert durch Art. 4 G v. 26.6.2026 I Nr. 195
 ausfertigung: '2020-01-13'
 quelle: https://www.gesetze-im-internet.de/ptag/
 doknr: BJNR006610020
-builddate: '20260703215502'
+builddate: '20261113215502'
 ---
 
 # Gesetz über den Beruf der pharmazeutisch-technischen Assistentin und des pharmazeutisch-technischen Assistenten (PTAG)
 
-Stand: Zuletzt geändert durch Art. 10 G v. 20.7.2022 I 1174
+Stand: Zuletzt geändert durch Art. 4 G v. 26.6.2026 I Nr. 195
 
 Quelle: <https://www.gesetze-im-internet.de/ptag/>
 

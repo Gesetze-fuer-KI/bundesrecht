@@ -3,16 +3,16 @@ abkuerzung: IfSG
 jurabk: IfSG
 titel: Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen
 kurztitel: Infektionsschutzgesetz
-stand: Zuletzt geändert durch Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
+stand: Zuletzt geändert durch Art. 7 G v. 26.6.2026 I Nr. 195
 ausfertigung: '2000-07-20'
 quelle: https://www.gesetze-im-internet.de/ifsg/
 doknr: BJNR104510000
-builddate: '20260703215504'
+builddate: '20261113215505'
 ---
 
 # Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen (IfSG)
 
-Stand: Zuletzt geändert durch Art. 3 Abs. 1 G v. 4.3.2026 I Nr. 60
+Stand: Zuletzt geändert durch Art. 7 G v. 26.6.2026 I Nr. 195
 
 Quelle: <https://www.gesetze-im-internet.de/ifsg/>
 
@@ -20,6 +20,8 @@ Quelle: <https://www.gesetze-im-internet.de/ifsg/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.1.2001 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 26.6.2026 I Nr. 195 +++)
 > ```
 >
 > Das G wurde als Artikel 1 G v. 20.7.2000 I 1045 (SeuchRNeuG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 5 Abs. 1 Satz 1 dieses G mWv 1.1.2001, §§ 37 und 38 mWv 26.7.2000 in Kraft getreten.

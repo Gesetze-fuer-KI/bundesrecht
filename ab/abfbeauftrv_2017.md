@@ -3,16 +3,16 @@ abkuerzung: AbfBeauftrV
 jurabk: AbfBeauftrV 2017
 titel: Verordnung über Betriebsbeauftragte für Abfall
 kurztitel: Abfallbeauftragtenverordnung
-stand: Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
+stand: Zuletzt geändert durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2016-12-02'
 quelle: https://www.gesetze-im-internet.de/abfbeauftrv_2017/
 doknr: BJNR278900016
-builddate: '20261028220010'
+builddate: '20261113215506'
 ---
 
 # Verordnung über Betriebsbeauftragte für Abfall (AbfBeauftrV)
 
-Stand: Zuletzt geändert durch Art. 9 Abs. 2 G v. 30.9.2025 I Nr. 233
+Stand: Zuletzt geändert durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/abfbeauftrv_2017/>
 
