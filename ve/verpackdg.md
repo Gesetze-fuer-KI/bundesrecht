@@ -3,13 +3,16 @@ abkuerzung: VerpackDG
 jurabk: VerpackDG
 titel: Gesetz zur Durchführung der Verordnung (EU) 2025/40 betreffend Verpackungen
 kurztitel: Verpackungsrecht-Durchführungsgesetz
+stand: Geändert durch Art. 4 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2026-07-13'
 quelle: https://www.gesetze-im-internet.de/verpackdg/
 doknr: BJNR0CF0B0026
-builddate: '20261023215511'
+builddate: '20261116220004'
 ---
 
 # Gesetz zur Durchführung der Verordnung (EU) 2025/40 betreffend Verpackungen (VerpackDG)
+
+Stand: Geändert durch Art. 4 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/verpackdg/>
 

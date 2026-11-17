@@ -2,16 +2,16 @@
 abkuerzung: BMG
 jurabk: BMG
 titel: Bundesmeldegesetz
-stand: Zuletzt geändert durch Art. 5 G v. 3.7.2026 I Nr. 199
+stand: Zuletzt geändert durch Art. 10 G v. 22.7.2026 I Nr. 222
 ausfertigung: '2013-05-03'
 quelle: https://www.gesetze-im-internet.de/bmg/
 doknr: BJNR108410013
-builddate: '20260825220005'
+builddate: '20261116220005'
 ---
 
 # Bundesmeldegesetz (BMG)
 
-Stand: Zuletzt geändert durch Art. 5 G v. 3.7.2026 I Nr. 199
+Stand: Zuletzt geändert durch Art. 10 G v. 22.7.2026 I Nr. 222
 
 Quelle: <https://www.gesetze-im-internet.de/bmg/>
 

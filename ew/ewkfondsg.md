@@ -3,16 +3,16 @@ abkuerzung: EWKFondsG
 jurabk: EWKFondsG
 titel: Gesetz über den Einwegkunststofffonds
 kurztitel: Einwegkunststofffondsgesetz
-stand: Geändert durch Art. 3 G v. 11.5.2023 I Nr. 124, Nr. 183
+stand: Zuletzt geändert durch Art. 5 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2023-05-11'
 quelle: https://www.gesetze-im-internet.de/ewkfondsg/
 doknr: BJNR07C0B0023
-builddate: '20260811215505'
+builddate: '20261116220003'
 ---
 
 # Gesetz über den Einwegkunststofffonds (EWKFondsG)
 
-Stand: Geändert durch Art. 3 G v. 11.5.2023 I Nr. 124, Nr. 183
+Stand: Zuletzt geändert durch Art. 5 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/ewkfondsg/>
 

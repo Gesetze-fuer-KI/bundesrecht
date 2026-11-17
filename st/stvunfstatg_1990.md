@@ -3,16 +3,16 @@ abkuerzung: StVUnfStatG
 jurabk: StVUnfStatG 1990
 titel: Gesetz über die Statistik der Straßenverkehrsunfälle
 kurztitel: Straßenverkehrsunfallstatistikgesetz
-stand: Zuletzt geändert durch Art. 497 V v. 31.8.2015 I 1474
+stand: Zuletzt geändert durch Art. 1 G v. 11.11.2026 I Nr. 338
 ausfertigung: '1990-06-15'
 quelle: https://www.gesetze-im-internet.de/stvunfstatg_1990/
 doknr: BJNR010780990
-builddate: '20151201215522'
+builddate: '20261116220003'
 ---
 
 # Gesetz über die Statistik der Straßenverkehrsunfälle (StVUnfStatG)
 
-Stand: Zuletzt geändert durch Art. 497 V v. 31.8.2015 I 1474
+Stand: Zuletzt geändert durch Art. 1 G v. 11.11.2026 I Nr. 338
 
 Quelle: <https://www.gesetze-im-internet.de/stvunfstatg_1990/>
 
@@ -32,13 +32,13 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen
 
 Über Unfälle, bei denen infolge des Fahrverkehrs auf öffentlichen Wegen und Plätzen Personen getötet oder verletzt oder Sachschäden verursacht worden sind, wird laufend eine Bundesstatistik geführt. Sie dient dazu, eine aktuelle, umfassende und zuverlässige Datenbasis über Struktur und Entwicklung der Straßenverkehrsunfälle zu erstellen.
 
-<!-- norm id="BJNE000302308" -->
+<!-- norm id="BJNE000303123" -->
 ## § 2
 
 (1) Die Statistik erfaßt bei Unfällen, bei denen wenigstens eine Person getötet oder verletzt worden ist oder bei schwerwiegenden Unfällen mit Sachschaden,
 
 - 1\. Unfallstelle, Datum, Uhrzeit, Hergang und Umstände des Unfalls sowie allgemeine Unfallursachen,
-- 2\. die beteiligten Verkehrsteilnehmer nach Geburtsmonat/-jahr, Geschlecht, Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz im In- oder Ausland, Art der Verkehrsbeteiligung, Monat und Jahr der Erteilung der Fahrerlaubnis, unerlaubtes Entfernen vom Unfallort, Unfallfolgen nach den Absätzen 3 und 4 sowie Art des Fehlverhaltens und Grad der Alkoholeinwirkung,
+- 2\. die beteiligten Verkehrsteilnehmer nach Geburtsmonat/-jahr, Geschlecht, Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz im In- oder Ausland, Art der Verkehrsbeteiligung, Monat und Jahr der Erteilung der Fahrerlaubnis, unerlaubtes Entfernen vom Unfallort, Unfallfolgen nach den Absätzen 3 und 4 sowie Art des Fehlverhaltens und Grad der Cannabis- sowie Alkoholeinwirkung,
 - 3\. die Zahl der Fahrzeugbenutzer,
 - 4\. die verunglückten Mitfahrer nach Alter in Jahren, Geschlecht und Unfallfolgen nach den Absätzen 3 und 4,
 - 5\. die beteiligten Verkehrsmittel nach Fahrzeugart, Zulassungsbezirk, Nationalitätszeichen, technischen Mängeln, Art und Höhe des Sachschadens, bei der Beförderung gefährlicher Güter die Art des Gefahrgutes sowie die Anwendung von Ausnahmebestimmungen nach der jeweils geltenden Straßen-Gefahrgutausnahmeverordnung,
@@ -64,20 +64,26 @@ Als Hilfsmerkmale der Statistik werden die übermittelnde Polizeidienststelle un
 
 (2) Abweichend von Absatz 1 ist das Kraftfahrt-Bundesamt für die fahrzeugbezogenen Merkmale nach § 2 Abs. 1 Nr. 6 auskunftspflichtig. Das Kraftfahrt-Bundesamt erteilt die Auskünfte nach § 2 Abs. 1 Nr. 6 aus dem Zentralen Fahrzeugregister. Zu diesem Zweck übermitteln die statistischen Ämter der Länder die Kraftfahrzeugkennzeichen nach § 3 und das Datum des Unfalls nach § 2 Abs. 1 Nr. 1 einer von anderen Aufgabenbereichen getrennten Organisationseinheit des Kraftfahrt-Bundesamtes gemäß § 58 Abs. 2 Satz 1 des Güterkraftverkehrsgesetzes in der Fassung der Bekanntmachung vom 3. November 1993 (BGBl. I S. 1839, 1992), das durch Artikel 40 des Gesetzes vom 29. Juli 1994 (BGBl. I S. 1890) geändert worden ist. § 58 Abs. 2 Satz 2 und 3 des Güterkraftverkehrsgesetzes gilt entsprechend. Die in Satz 3 genannten Angaben sind im Kraftfahrt-Bundesamt spätestens einen Monat nach der Übermittlung der Angaben nach § 2 Abs. 1 Nr. 6 an die statistischen Ämter der Länder zu löschen.
 
-<!-- norm id="BJNE000604305" -->
+<!-- norm id="BJNE000605123" -->
 ## § 5
 
 (1) An die fachlich zuständigen obersten Bundes- oder Landesbehörden dürfen für die Verwendung gegenüber den gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht für die Regelung von Einzelfällen, vom Statistischen Bundesamt und den statistischen Ämtern der Länder Tabellen mit statistischen Ergebnissen übermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
-(2) An die zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände dürfen von den statistischen Ämtern der Länder unter den Voraussetzungen des § 16 Abs. 5 Bundesstatistikgesetz über Unfälle, die sich in ihrem Zuständigkeitsbereich ereignet haben, folgende Einzelangaben übermittelt werden:
+(2) An die zur Durchführung statistischer Aufgaben zuständigen Stellen der Gemeinden und Gemeindeverbände dürfen die statistischen Ämter der Länder unter den Voraussetzungen des § 16 Absatz 5 des Bundesstatistikgesetzes über Unfälle, die sich in ihrem Zuständigkeitsbereich ereignet haben, die Einzelangaben nach § 2 Absatz 1 Nummer 1 bis 5 mit folgenden Maßgaben übermitteln:
 
-- 1\. die Angaben nach § 2 Abs. 1 Nr. 1, 3 und 4,
-- 2\. die Angaben nach § 2 Abs. 1 Nr. 2 mit Ausnahme folgender Merkmale: Staatsangehörigkeit, bei Ausländern auch nach Wohnsitz im In- oder Ausland, Monat und Jahr der Erteilung der Fahrerlaubnis, unerlaubtes Entfernen vom Unfallort, Grad der Alkoholeinwirkung,
-- 3\. die Angaben nach § 2 Abs. 1 Nr. 5 mit Ausnahme des Nationalitätszeichens.
+- 1\. von den Angaben nach § 2 Absatz 1 Nummer 2 nur die Angaben zu Geburtsmonat/-jahr, Geschlecht, Art der Verkehrsbeteiligung, Unfallfolgen nach § 2 Absatz 3 und 4 sowie Art des Fehlverhaltens,
+- 2\. die Angaben nach § 2 Absatz 1 Nummer 5 ohne die Angabe des Nationalitätszeichens.
 
 (3) Für Zwecke der Unfallforschung sind der Bundesanstalt für Straßenwesen von den statistischen Ämtern der Länder jährlich die Einzelangaben nach § 2 Abs. 1 und 2 zu übermitteln. Bei Bedarf können vorliegende Daten auch vor dem nächsten Jahrestermin angefordert werden. Zur Durchführung der Unfallforschung mit den nach Satz 1 übermittelten Daten wird in der Bundesanstalt für Straßenwesen eine Organisationseinheit eingerichtet, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen der Bundesanstalt zu trennen ist. Die in dieser Organisationseinheit tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Sie dürfen die aus ihrer Tätigkeit gewonnenen Erkenntnisse nur für Zwecke der Unfallforschung verwenden. Die nach Satz 1 übermittelten Einzelangaben dürfen nicht mit anderen personenbezogenen Daten zusammengeführt werden. Das Nähere zur Ausführung der Sätze 3 und 4 regelt das Bundesministerium für Verkehr und digitale Infrastruktur durch Erlaß.
 
 (4) Die Übermittlung von Einzelangaben an Hochschulen und sonstige Einrichtungen mit der Aufgabe unabhängiger wissenschaftlicher Forschung erfolgt unter den Voraussetzungen des § 16 Abs. 6 Bundesstatistikgesetz.
+
+(5) Für Zwecke der Prävention von Verkehrsunfällen, der Analyse der Unfallhäufungen und Unfallursachen auf Bundesautobahnen und der Planung von Maßnahmen zur Beseitigung unfallbegünstigender Faktoren auf Bundesautobahnen übermitteln die statistischen Ämter der Länder der aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft privaten Rechts monatlich und jährlich die Einzelangaben nach § 2 Absatz 1 mit folgenden Maßgaben:
+
+- 1\. von den Angaben nach § 2 Absatz 1 Nummer 2 nur die Angaben zu Geburtsjahr, Art der Verkehrsbeteiligung, Unfallfolgen nach § 2 Absatz 3 und 4 sowie Art des Fehlverhaltens;
+- 2\. die Angaben nach § 2 Absatz 1 Nummer 4 ohne Angabe zum Geschlecht.
+
+Für die in Satz 1 genannten Zwecke werden bei der aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes beliehenen Gesellschaft privaten Rechts Organisationseinheiten eingerichtet, die räumlich, organisatorisch und personell von anderen Aufgabenbereichen der Gesellschaft zu trennen sind. Die in diesen Organisationseinheiten tätigen Personen müssen Amtsträger oder für den öffentlichen Dienst besonders Verpflichtete sein. Nach Erhalt der Einzelangaben nach Satz 1 hat die aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes beliehene Gesellschaft unverzüglich alle Daten zu löschen, die sich auf Unfälle beziehen, welche sich nicht auf oder in räumlicher Nähe zu Bundesautobahnen ereignet haben. Die nach Satz 1 übermittelten Einzelangaben dürfen nicht mit anderen personenbezogenen Daten zusammengeführt werden. Die aus ihrer Tätigkeit gewonnen Erkenntnisse dürfen durch die aufgrund des Infrastrukturgesellschaftserrichtungsgesetzes beliehene Gesellschaft nur für die in Satz 1 genannten Zwecke verwendet werden.
 
 <!-- norm id="BJNE000704305" -->
 ## § 6

@@ -2,16 +2,16 @@
 abkuerzung: AsylbLG
 jurabk: AsylbLG
 titel: Asylbewerberleistungsgesetz
-stand: zuletzt geändert durch Art. 3 G v. 23.4.2026 I Nr. 112
+stand: zuletzt geändert durch Art. 9 G v. 22.7.2026 I Nr. 222
 ausfertigung: '1993-06-30'
 quelle: https://www.gesetze-im-internet.de/asylblg/
 doknr: BJNR107410993
-builddate: '20260728215532'
+builddate: '20261116220004'
 ---
 
 # Asylbewerberleistungsgesetz (AsylbLG)
 
-Stand: zuletzt geändert durch Art. 3 G v. 23.4.2026 I Nr. 112
+Stand: zuletzt geändert durch Art. 9 G v. 22.7.2026 I Nr. 222
 
 Quelle: <https://www.gesetze-im-internet.de/asylblg/>
 

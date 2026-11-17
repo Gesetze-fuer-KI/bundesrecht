@@ -3,16 +3,16 @@ abkuerzung: PassV
 jurabk: PassV 2007
 titel: Verordnung zur Durchführung des Passgesetzes
 kurztitel: Passverordnung
-stand: Zuletzt geändert Art. 1 V v. 30.1.2026 I Nr. 31
+stand: Zuletzt geändert Art. 3 G v. 11.11.2026 I Nr. 339
 ausfertigung: '2007-10-19'
 quelle: https://www.gesetze-im-internet.de/passv_2007/
 doknr: BJNR238610007
-builddate: '20260520215507'
+builddate: '20261116220006'
 ---
 
 # Verordnung zur Durchführung des Passgesetzes (PassV)
 
-Stand: Zuletzt geändert Art. 1 V v. 30.1.2026 I Nr. 31
+Stand: Zuletzt geändert Art. 3 G v. 11.11.2026 I Nr. 339
 
 Quelle: <https://www.gesetze-im-internet.de/passv_2007/>
 

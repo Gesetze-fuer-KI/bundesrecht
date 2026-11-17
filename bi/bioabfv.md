@@ -3,16 +3,16 @@ abkuerzung: BioAbfV
 jurabk: BioAbfV
 titel: Verordnung über die Verwertung von Bioabfällen auf Böden
 kurztitel: Bioabfallverordnung
-stand: zuletzt geändert durch Art. 1 V v. 28.4.2022 I 700; 2023 I Nr. 153
+stand: zuletzt geändert durch Art. 6 G v. 13.7.2026 I Nr. 207
 ausfertigung: '1998-09-21'
 quelle: https://www.gesetze-im-internet.de/bioabfv/
 doknr: BJNR295500998
-builddate: '20260811215507'
+builddate: '20261116220007'
 ---
 
 # Verordnung über die Verwertung von Bioabfällen auf Böden (BioAbfV)
 
-Stand: zuletzt geändert durch Art. 1 V v. 28.4.2022 I 700; 2023 I Nr. 153
+Stand: zuletzt geändert durch Art. 6 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/bioabfv/>
 
@@ -20,6 +20,7 @@ Quelle: <https://www.gesetze-im-internet.de/bioabfv/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.10.1998 +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Beachtung der
 > EGRL 34/98 (CELEX Nr: 31998L0034) vgl. Bek. v. 4.4.2013 I 658
@@ -28,6 +29,8 @@ Quelle: <https://www.gesetze-im-internet.de/bioabfv/>
 > Notifizierung der
 > EURL 2015/1535 (CELEX Nr: 32015L1535) vgl. Art. 1
 > V v. 28.4.2022 I 700 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 13.7.2026 I Nr. 207 +++)
 > ```
 >
 > Überschrift: IdF d. Art. 1 Nr. 1 G v. 28.4.2022 I 700 mWv 1.5.2023
