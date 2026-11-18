@@ -3,16 +3,16 @@ abkuerzung: EWKVerbotsV
 jurabk: EWKVerbotsV
 titel: Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff
 kurztitel: Einwegkunststoffverbotsverordnung
-stand: Geänderung durch Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
+stand: Geändert durch Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2021-01-20'
 quelle: https://www.gesetze-im-internet.de/ewkverbotsv/
 doknr: BJNR009500021
-builddate: '20261116220001'
+builddate: '20261117215502'
 ---
 
 # Verordnung über das Verbot des Inverkehrbringens von bestimmten Einwegkunststoffprodukten und von Produkten aus oxo-abbaubarem Kunststoff (EWKVerbotsV)
 
-Stand: Geänderung durch Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
+Stand: Geändert durch Art. 3 Abs. 5 G v. 13.7.2026 I Nr. 207
 
 Quelle: <https://www.gesetze-im-internet.de/ewkverbotsv/>
 

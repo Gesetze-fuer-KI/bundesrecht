@@ -3,16 +3,16 @@ abkuerzung: KrWG
 jurabk: KrWG
 titel: Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen
 kurztitel: Kreislaufwirtschaftsgesetz
-stand: Zuletzt geändert durch Art. 2 G v. 13.7.2026 I Nr. 207
+stand: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 224
 ausfertigung: '2012-02-24'
 quelle: https://www.gesetze-im-internet.de/krwg/
 doknr: BJNR021210012
-builddate: '20261113215503'
+builddate: '20261117215504'
 ---
 
 # Gesetz zur Förderung der Kreislaufwirtschaft und Sicherung der umweltverträglichen Bewirtschaftung von Abfällen (KrWG)
 
-Stand: Zuletzt geändert durch Art. 2 G v. 13.7.2026 I Nr. 207
+Stand: Zuletzt geändert durch Art. 17 G v. 22.7.2026 I Nr. 224
 
 Quelle: <https://www.gesetze-im-internet.de/krwg/>
 

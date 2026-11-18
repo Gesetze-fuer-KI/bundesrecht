@@ -2,16 +2,16 @@
 abkuerzung: UVPG
 jurabk: UVPG
 titel: Gesetz über die Umweltverträglichkeitsprüfung
-stand: zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 348
+stand: zuletzt geändert durch Art. 12 G v. 22.7.2026 I Nr. 224
 ausfertigung: '1990-02-12'
 quelle: https://www.gesetze-im-internet.de/uvpg/
 doknr: BJNR102050990
-builddate: '20261020215507'
+builddate: '20261117215505'
 ---
 
 # Gesetz über die Umweltverträglichkeitsprüfung (UVPG)
 
-Stand: zuletzt geändert durch Art. 4 G v. 22.12.2025 I Nr. 348
+Stand: zuletzt geändert durch Art. 12 G v. 22.7.2026 I Nr. 224
 
 Quelle: <https://www.gesetze-im-internet.de/uvpg/>
 
@@ -28,9 +28,9 @@ Quelle: <https://www.gesetze-im-internet.de/uvpg/>
 > F 29.11.2018 +++)
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
-> EURL 92/2011 (+++ CELEX Nr: 32011L0092 +++)
-> EGRL 42/2001 (+++ CELEX Nr: 32001L0042 +++) vgl. Bek. v.
-> 18.3.2021 I 540 +++)
+> EURL 92/2011 (CELEX Nr: 32011L0092)
+> EGRL 42/2001 (CELEX Nr: 32001L0042) vgl. Bek. v. 18.3.2021 I 540
+> EURL 92/2011 (CELEX Nr: 32011L0092) vgl. G v. 22.7.2026 I Nr. 224 +++)
 > ```
 >
 > Das G wurde als Artikel 1 d. G v. 12.2.1990 I 205 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Die Vorschriften d. G, die zum Erlass von Rechtsverordnungen und allgemeinen Verwaltungsvorschriften ermächtigen, treten gem. Art. 14 Abs. 1 Satz 1 nach Maßgabe d. Art. 14 Abs. 2 u. 3 am 21.2.1990 in Kraft; im übrigen tritt das G gem. Art. 14 Abs. 1 Satz 2 nach Maßgabe d. Art. 14 Abs. 2 u. 3 G v. 12.2.1990 I 205 am 1.8.1990 in Kraft.
@@ -287,7 +287,7 @@ Für die in Anlage 1 Nummer 18.5, 18.7 und 18.8 aufgeführten Industriezonen und
 - 2\. die Ausstattung einer bestehenden Bahnstrecke mit einer Oberleitung oder Stromschiene auf einer Länge bis 180 Kilometer einschließlich dafür notwendiger Anlagen für den elektrischen Zugbetrieb, und einschließlich räumlich begrenzter baulicher Anpassungen, insbesondere von Tunneln mit geringer Länge oder von Kreuzungsbauwerken,
 - 3\. die im Rahmen der Digitalisierung einer Bahnstrecke erforderlichen Baumaßnahmen,
 - 4\. die Herstellung von Überleitstellen für Gleiswechselbetriebe,
-- 5\. die Herstellung von Gleisanschlüssen sowie Zuführungs- und Industriestammgleisen,
+- 5\. die Herstellung von Gleisanschlüssen sowie Zuführungs- Kund Industriestammgleisen,
 - 6\. die Errichtung von Lärmschutzwänden,
 - 7\. die Errichtung von Kreuzungsgleisen, Überholgleisen und Rangiergleisen einschließlich dadurch notwendiger, räumlicher begrenzter baulicher Anpassungen,
 - 8\. der Einbau von Weichen und damit zusammenhängende räumlich begrenzte Gleislageänderungen,
@@ -464,7 +464,9 @@ Die Frist zur Abgabe von Äußerungen ist zugleich die Einwendungsfrist im Sinne
 
 > **Fußnote**
 >
-> (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 17b Abs. 1 Nr. 1 Satz 3 FStrG F 29.11.2018 +++) (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 18b Satz 3 AEG 1994 F 29.11.2018 +++) (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 14b Abs. 2 Satz 3 WaStRG F 29.11.2018 +++)
+> (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 17b Abs. 1 Nr. 1 Satz 3 FStrG F 29.11.2018 +++)  
+> (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 18b Satz 3 AEG 1994 F 29.11.2018 +++)  
+> (+++ § 21 Abs. 3: Zur Nichtanwendung vgl. § 14b Abs. 2 Satz 3 WaStRG F 29.11.2018 +++)
 
 <!-- norm id="BJNE006603129" -->
 #### § 22 Erneute Beteiligung der Öffentlichkeit bei Änderungen im Laufe des Verfahrens
