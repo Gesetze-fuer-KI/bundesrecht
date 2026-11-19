@@ -6,7 +6,7 @@ kurztitel: Seelotseignungsverordnung
 ausfertigung: '2022-05-12'
 quelle: https://www.gesetze-im-internet.de/seelotseigv/
 doknr: BJNR077710022
-builddate: '20260506175225'
+builddate: '20261118220004'
 ---
 
 # Verordnung über die Feststellung der gesundheitlichen Eignung von Seelotsinnen und Seelotsen (SeeLotsEigV)
@@ -18,19 +18,17 @@ Quelle: <https://www.gesetze-im-internet.de/seelotseigv/>
 > ```text
 > (+++ Textnachweis ab: 28.5.2022 +++)
 >
->
->
 > (+++ Zur Anwendung d. § 3 vgl. § 11 Abs. 1 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 12.5.2022 I 777 vom Bundesministerium für Digitales und Verkehr im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem Bundesministerium für Ernährung und Landwirtschaft beschlossen. Sie ist gem. Art. 4 Satz 1 dieser V am 28.5.2022 in Kraft getreten.
 
-<!-- norm id="BJNE000100000" -->
+<!-- norm id="BJNE000101119" -->
 ## § 1 Anwendungsbereich, Begriffsbestimmungen
 
 (1) Diese Verordnung regelt
 
-- 1\. die Feststellung der Seelotseignung der
+- 1\. die Feststellung der Seelotseignung und der psychologischen Eignung der
   - a) Seelotsinnen und Seelotsen auf Seelotsrevieren,
   - b) Seelotsenanwärterinnen und Seelotsenanwärter,
   - c) Bewerberinnen und Bewerber um eine Zulassung als Seelotsenanwärterin oder Seelotsenanwärter (Seelotsenbewerberinnen und Seelotsenbewerber),
@@ -44,61 +42,63 @@ Quelle: <https://www.gesetze-im-internet.de/seelotseigv/>
 - 1\. die Berufsgenossenschaft: die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation,
 - 2\. der Seeärztliche Dienst: eine mit Ärztinnen und Ärzten und Psychologinnen und Psychologen ausgestattete unselbständige Arbeitseinheit der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation, die schifffahrtsmedizinische Aufgaben wahrnimmt.
 
-<!-- norm id="BJNE000200000" -->
+<!-- norm id="BJNE000201119" -->
 ## § 2 Anforderungen an die Eignung der Seelotsinnen und Seelotsen
 
-(1) Als Seelotsin oder Seelotse auf Seelotsrevieren oder auf Seeschifffahrtsstraßen außerhalb der Seelotsreviere oder als Seelotsenanwärterin oder Seelotsenanwärter ist für den Seelotsberuf gesundheitlich geeignet (Seelotseignung), wer
+(1) Als Seelotsin oder Seelotse auf Seelotsrevieren oder auf Seeschifffahrtsstraßen außerhalb der Seelotsreviere oder als Seelotsenanwärterin oder Seelotsenanwärter ist für den Seelotsberuf körperlich und geistig geeignet (Seelotseignung), wer
 
 - 1\. die Anforderungen an die Seediensttauglichkeit eines Besatzungsmitgliedes des Decksdienstes nach Anlage 1 der Maritime-Medizin-Verordnung erfüllt,
 - 2\. nach dem Ergebnis der zusätzlichen seelotsbezogenen Untersuchung nach der Anlage 1 Abschnitt II nicht wesentlich gesundheitlich beeinträchtigt ist und über ein ausreichendes Dämmerungskontrast-Sehvermögen verfügt,
 - 3\. keine Sprach- oder Sprechstörungen hat, insbesondere nicht in der Fähigkeit beeinträchtigt ist, klare und verständliche Anweisungen an Bord zu geben,
 - 4\. nach dem Ergebnis einer elektrokardiographischen Untersuchung mit Belastung über eine ausreichende Leistungsfähigkeit des Herz-Kreislauf-Systems nach den Anforderungen des Standes der arbeitsmedizinischen Wissenschaft verfügt,
-- 5\. bei gesundheitlichen Einschränkungen mindestens die Anforderungen aus Spalte 4 der Tabelle 6.2 der Anlage 1 der Maritime-Medizin-Verordnung erfüllt.
+- 5\. bei Gesundheitsstörungen im Sinne der Anlage 1 Tabelle 6.2 der Maritime-Medizin-Verordnung mindestens die Anforderungen aus Spalte 4 der Tabelle erfüllt.
 
 (2) Im Fall des Absatzes 1 Nummer 2 muss die mesopische Sehschärfe mindestens die Kontrasteinstellung 1:5 ohne und mit Blendung erfüllen. Das Einhalten dieser Anforderung ist zum Zweck der Erteilung des Seelotseignungszeugnisses der das Seelotseignungszeugnis erteilenden Person nachzuweisen durch Vorlage einer Bescheinigung:
 
 - 1\. einer Augenärztin oder eines Augenarztes oder
 - 2\. einer im Sinne des § 7 zugelassenen Ärztin oder eines im Sinne des § 7 zugelassenen Arztes (zugelassene Ärztin oder zugelassener Arzt), die oder der eine Untersuchung der Dämmerungssehschärfe zur Überprüfung des Ausschlusses einer Nachtblindheit durchführen kann.
 
-(3) Als Seelotsin über See oder Seelotse über See (Überseelotsin oder Überseelotse) ist gesundheitlich geeignet, wer
+(3) Als Seelotsin oder Seelotse auf Seelotsrevieren oder auf Seeschifffahrtsstraßen außerhalb der Seelotsreviere oder als Seelotsenanwärterin oder Seelotsenanwärter ist für den Seelotsberuf psychologisch geeignet, wer den Zielerreichungsgrad im Sinne des § 3 Absatz 6 erfüllt.
 
-- 1\. die Anforderungen nach Absatz 1 Nummer 1 bis 4 und
-- 2\. bei gesundheitlichen Einschränkungen die Anforderungen aus Spalte 5 der Tabelle 6.2 der Anlage 1 der Maritime-Medizin-Verordnung
+(4) Als Seelotsin über See oder Seelotse über See (Überseelotsin oder Überseelotse) ist körperlich und geistig sowie psychologisch geeignet, wer die Anforderung aus § 3 Absatz 6 und
 
-erfüllt.
+- 1\. die Anforderungen nach Absatz 1 Nummer 1 bis 4,
+- 2\. bei Gesundheitsstörungen im Sinne der Tabelle 6.2 der Anlage 1 der Maritime-Medizin-Verordnung die Anforderungen aus Spalte 5 der Tabelle erfüllt.
 
-<!-- norm id="BJNE000300000" -->
+<!-- norm id="BJNE000301119" -->
 ## § 3 Anforderungen an die Eignung der Seelotsenbewerberinnen und Seelotsenbewerber
 
-(1) Eine Seelotsenbewerberin oder ein Seelotsenbewerber ist für die Zulassung als Seelotsenanwärterin oder Seelotsenanwärter gesundheitlich geeignet, sofern sie oder er
+(1) Eine Seelotsenbewerberin oder ein Seelotsenbewerber ist für die Zulassung als Seelotsenanwärterin oder Seelotsenanwärter
 
-- 1\. ein gültiges Seelotseignungszeugnis und
-- 2\. nach Feststellung der Seelotseignung durch eine Seelotseignungsuntersuchung die psychologische Eignung für den Seelotsdienst in einem psychologischen Eignungstest
+- 1\. körperlich und geistig geeignet, wenn sie oder er ein gültiges Seelotseignungszeugnis nachweist und
+- 2\. darüber hinaus psychologisch geeignet, wenn sie oder er die Eignung in einem psychologischen Eignungstest nachweist.
 
-nachweist. Satz 1 Nummer 2 gilt nicht für eine Bewerberin oder einen Bewerber für eine Erlaubnis nach § 42 des Seelotsgesetzes.
+Satz 1 Nummer 2 gilt nicht für eine Bewerberin oder einen Bewerber für eine Erlaubnis zur Ausübung der Tätigkeit einer Seelotsin oder eines Seelotsen außerhalb eines Seelotsreviers nach § 42 des Seelotsgesetzes.
 
 (2) Der durch den Seeärztlichen Dienst nach näherer Bestimmung der Anlage 2 durchgeführte psychologische Eignungstest ist ein anforderungsbezogenes, nach dem Stand der Wissenschaft psychometrisch überprüftes Verfahren. Das Mindestalter für die Teilnahme am Eignungstest beträgt 17 Jahre.
 
-(3) Die abschließende Beurteilung des psychologischen Eignungstests ist von einer Eignungskommission durchzuführen, die aus
+(3) Die abschließende Beurteilung des psychologischen Eignungstests ist von einer Eignungskommission durchzuführen, bestehend aus
 
 - 1\. einer Psychologin oder einem Psychologen des Seeärztlichen Dienstes und
-- 2\. einem von der Bundeslotsenkammer berufenen Mitglied aus dem Kreis der aktiven Seelotsinnen oder Seelotsen
+- 2\. einem von der Bundeslotsenkammer berufenen Mitglied aus dem Kreis der aktiven Seelotsinnen oder Seelotsen.
 
-besteht. Die Bundeslotsenkammer hat so viele Personen als Mitglieder nach Satz 1 Nummer 2 zu berufen, dass die Eignungskommission für alle vom Seeärztlichen Dienst für ein Kalenderjahr vorgesehenen Sitzungen ordnungsgemäß besetzt ist. Die Berufung erfolgt für die Dauer von drei Jahren; eine Wiederberufung ist zulässig. Die Bundeslotsenkammer benennt dem Seeärztlichen Dienst für jede Sitzung der Eignungskommission das jeweilige Mitglied nach Satz 1 Nummer 2; die Reihenfolge der zu benennenden Personen ist für jedes Kalenderjahr einer Berufungsperiode im Voraus festzulegen; dabei ist auch festzulegen, wer eine benannte Person im Falle deren Verhinderung vertritt. Der Seeärztliche Dienst hat der Bundeslotsenkammer
+(4) Die Bundeslotsenkammer hat so viele Personen als Mitglieder nach Absatz 3 Nummer 2 zu berufen, dass die Eignungskommission für alle vom Seeärztlichen Dienst für ein Kalenderjahr vorgesehenen Sitzungen ordnungsgemäß besetzt ist. Die Berufung erfolgt für die Dauer von drei Jahren. Eine Wiederberufung ist zulässig. Die Bundeslotsenkammer hat dem Seeärztlichen Dienst für jede Sitzung der Eignungskommission das jeweilige Mitglied nach Absatz 3 Nummer 2 zu benennen. Die Reihenfolge der zu benennenden Personen ist für jedes Kalenderjahr einer Berufungsperiode im Voraus festzulegen. Bei der Festlegung der Reihenfolge nach Satz 4 ist auch festzulegen, wer eine benannte Person im Falle deren Verhinderung vertritt.
 
-- 1\. zum Zweck des Satzes 2 bis zum 30. September des Kalenderjahres, das dem Kalenderjahr des Beginns einer Berufungsperiode vorausgeht, die Zahl der Sitzungen der Eignungskommission für jedes Kalenderjahr der Berufungsperiode und
-- 2\. zum Zwecke des Satzes 4 bis zum Ablauf des 30. Novembers eines Kalenderjahres die Termine der Sitzungen der Eignungskommission des folgenden Kalenderjahres
+(5) Der Seeärztliche Dienst hat der Bundeslotsenkammer folgendes mitzuteilen:
 
-mitzuteilen. Für den Fall, dass in einem Kalenderjahr zusätzliche Sitzungen erforderlich werden, hat die Bundeslotsenkammer auf Anforderung des Seeärztlichen Dienstes jeweils ein Mitglied nach Satz 1 Nummer 2 aus dem Kreis der berufenen Personen zu benennen; die Reihenfolge der Benennung bestimmt sich nach der alphabetischen Reihenfolge der berufenen Personen.
+- 1\. zum Zweck des Absatzes 4 Satz 1 bis zum 30. September des Kalenderjahres, das dem Kalenderjahr des Beginns einer Berufungsperiode vorausgeht, die Zahl der Sitzungen der Eignungskommission für jedes Kalenderjahr der Berufungsperiode und
+- 2\. zum Zweck des Absatzes 4 Satz 4 bis zum Ablauf des 30. Novembers eines Kalenderjahres die Termine der Sitzungen der Eignungskommission des folgenden Kalenderjahres.
 
-(4) Eine Seelotsenbewerberin oder ein Seelotsenbewerber ist für den Seelotsdienst psychologisch geeignet, wenn sie oder er im psychologischen Eignungstest nach Maßgabe der Anlage 2 als Zielerreichungsgrad einen Zahlenwert von mindestens 55 erreicht und damit in jeder der drei Testphasen des Eignungstests
+Für den Fall, dass in einem Kalenderjahr zusätzliche Sitzungen erforderlich werden, hat die Bundeslotsenkammer auf Anforderung des Seeärztlichen Dienstes jeweils ein Mitglied nach Absatz 3 Nummer 2 aus dem Kreis der berufenen Personen zu benennen. Die Reihenfolge der Benennung bestimmt sich nach der alphabetischen Reihenfolge der berufenen Personen. Die Aufsichtsbehörde kann im Benehmen mit dem Seeärztlichen Dienst der Berufsgenossenschaft eine zusätzliche Person benennen, die an den Sitzungen der Eignungskommission ohne Stimmrecht teilnehmen darf. Die zusätzliche Person ist von der Eignungskommission vor Beginn der Sitzung zur Verschwiegenheit zu verpflichten.
+
+(6) Eine Seelotsenbewerberin oder ein Seelotsenbewerber ist für den Seelotsdienst psychologisch geeignet, wenn sie oder er im psychologischen Eignungstest nach Maßgabe der Anlage 2 als Zielerreichungsgrad einen Zahlenwert von mindestens 55 erreicht und damit in jeder der drei Testphasen des Eignungstests
 
 - 1\. mindestens durchschnittliche Leistungen in den Leistungsmerkmalen im Vergleich zur Referenzgruppe zeigt und
 - 2\. keine vom Anforderungsprofil deutlich abweichenden Verhaltensausprägungen bei den Verhaltensmerkmalen im Vergleich zur Referenzgruppe zeigt.
 
 Bei Nichtbestehen darf der Eignungstest einmal nach einer Mindestwartezeit von einem Jahr wiederholt werden.
 
-(5) Der Seeärztliche Dienst hat den Zielerreichungsgrad als Ergebnis des psychologischen Eignungstests der Seelotsenbewerberin oder des Seelotsenbewerbers im Seelotseignungsverzeichnis zu dem in § 49 Absatz 2 Nummer 4 des Seelotsgesetzes genannten Zweck zu speichern und der Seelotsenbewerberin oder dem Seelotsenbewerber diesen schriftlich oder elektronisch mitzuteilen.
+(7) Der Seeärztliche Dienst hat den Zielerreichungsgrad als Ergebnis des psychologischen Eignungstests der Seelotsenbewerberin oder des Seelotsenbewerbers im Seelotseignungsverzeichnis zu dem in § 49 Absatz 2 Nummer 4 des Seelotsgesetzes genannten Zweck zu speichern und der Seelotsenbewerberin oder dem Seelotsenbewerber diesen schriftlich oder elektronisch mitzuteilen.
 
 > **Fußnote**
 >
@@ -139,6 +139,11 @@ in das Seelotseignungszeugnis einzutragen. Die Auflagen für die Seelotstätigke
 > **Fußnote**
 >
 > (+++ § 5 Abs. 3 Satz 1: Zur Geltung vgl. § 6 Abs. 1 Satz 1 +++)
+
+<!-- norm id="BJNE001500119" -->
+## § 5a Bescheinigung über die psychologische Eignung
+
+Über das Ergebnis des psychologischen Eignungstests nach § 3 stellt der Seeärztliche Dienst der Bewerberin oder dem Bewerber eine Bescheinigung aus, aus der sich neben dem Gesamturteil der Zielerreichungsgrad ergeben muss.
 
 <!-- norm id="BJNE000600000" -->
 ## § 6 Ablehnung der Seelotseignung, Widerspruch
@@ -181,18 +186,14 @@ Die Kosten der Durchführung der Seelotseignungsuntersuchung durch eine zugelass
 
 Die Berufsgenossenschaft kann Muster für die nach dieser Verordnung vorgesehenen Zeugnisse, Bescheinigungen und Vordrucke im Verkehrsblatt bekannt machen.
 
-<!-- norm id="BJNE001100000" -->
+<!-- norm id="BJNE001101119" -->
 ## § 11 Anwendungs- und Übergangsbestimmungen
 
 (1) § 3 ist ab dem ersten Tag des Monats anzuwenden, der auf den Monat folgt, in dem alle sachlichen, insbesondere räumlichen, Voraussetzungen für die Durchführung des psychologischen Eignungstests vollständig vorliegen. Bis zu dem sich aus Satz 1 ergebenden Zeitpunkt ist § 3 Absatz 2 Satz 1 bis 4 und 6 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, weiter anzuwenden. Das Bundesministerium für Digitales und Verkehr gibt den Tag nach Satz 1 im Bundesgesetzblatt bekannt.
 
-(2) Für das Kalenderjahr, in dem der § 3 erstmals anzuwenden ist, gilt § 3 Absatz 3 Satz 5 mit der Maßgabe, dass an die Stelle der jeweiligen Zeitpunkte des § 3 Absatz 3 Satz 5 jeweils der letzte Tag des Monats tritt, ab dem der § 3 anzuwenden ist.
+(2) Vor dem 28. Mai 2022 erteilte Zeugnisse über die körperliche und geistige Eignung für den Seelotsenberuf nach § 1 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit bis zum Ablauf des in § 2 Absatz 1 Satz 1 Nummer 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung vorgesehenen Untersuchungsintervalls.
 
-(3) Bis zum Ablauf des 30. Novembers 2022 darf eine zugelassene Ärztin oder ein zugelassener Arzt kein Seelotseignungszeugnis für Seelotsenbewerberinnen oder Seelotsenbewerber erteilen, sondern hat das Ergebnis ihrer oder seiner Untersuchung nach Maßgabe des § 5 Absatz 3 im Seelotseignungsverzeichnis zu speichern. Das Seelotseignungszeugnis ist abweichend von § 5 Absatz 1 ausschließlich von einer Ärztin oder einem Arzt des Seeärztlichen Dienstes auf der Grundlage der nach Satz 1 und § 3 Absatz 3 Satz 1 gespeicherten Feststellungen zu erteilen.
-
-(4) Vor dem 28. Mai 2022 erteilte Zeugnisse über die körperliche und geistige Eignung für den Seelotsenberuf nach § 1 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit bis zum Ablauf des in § 2 Absatz 1 Satz 1 Nummer 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung vorgesehenen Untersuchungsintervalls.
-
-(5) Vor dem Tag der erstmaligen Anwendung des § 3 ausgestellte Bescheinigungen über psychologische Untersuchungen von Seelotsenbewerberinnen oder Seelotsenbewerbern nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit. Für die Zulassung zur Seelotsenanwärterin oder zum Seelotsenanwärter nach § 9 des Seelotsgesetzes hat die Aufsichtsbehörde für das Seelotswesen die in der Anlage 3 aufgeführten Maßstäbe zur Vergleichbarkeit der Ergebnisse der psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
+(3) Vor dem Tag der erstmaligen Anwendung des § 3 ausgestellte Bescheinigungen über psychologische Untersuchungen von Seelotsenbewerberinnen oder Seelotsenbewerbern nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung in der in Absatz 1 bezeichneten Fassung behalten ihre Gültigkeit. Für die Zulassung zur Seelotsenanwärterin oder zum Seelotsenanwärter nach § 9 des Seelotsgesetzes hat die Aufsichtsbehörde für das Seelotswesen die in der Anlage 3 aufgeführten Maßstäbe zur Vergleichbarkeit der Ergebnisse der psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
 
 > **Fußnote**
 >
@@ -227,7 +228,7 @@ Der Umfang der Seelotseignungsuntersuchung ergibt sich aus der nachfolgenden Tab
 | Kreatinin | 3585.H1 | 1,15 |  |
 | Laboruntersuchungen | Zusätzliche Blutlaboruntersuchungen auf Anordnung des Seeärztlichen Dienstes | Gemäß GOÄ-Ziffern Abschnitt Laboratoriums-untersuchungen | 1,15 |
 
-<!-- norm id="BJNE001300000" -->
+<!-- norm id="BJNE001301119" -->
 ## Anlage 2 (zu § 3 Absatz 2)Psychologischer Eignungstest für Seelotsenbewerberinnen und Seelotsenbewerber
 
 **1. Allgemeines**
@@ -261,7 +262,7 @@ Der Umfang der Seelotseignungsuntersuchung ergibt sich aus der nachfolgenden Tab
 **3. Testmethoden und -ablauf**
 
 - 3\.1 Der psychologische Eignungstest ist in drei Testphasen unterteilt. In der Testphase 1 kommen computerisierte Testverfahren und arbeitsprobenähnliche Verfahren zur Überprüfung von Leistungs- und Verhaltensmerkmalen zum Einsatz. In den Testphasen 2 und 3 werden Verhaltensmerkmale in Verhaltensproben und einem Interview überprüft.
-- 3\.2 Alle Mitglieder der Eignungskommission nach § 3 Absatz 2 müssen persönliche und vollständige Kenntnis der Beurteilungsmaßstäbe und der Teilergebnisse der standardisierten Testphase 1 (computerisierte Testverfahren und arbeitsprobenähnliche Verfahren) erhalten. An den Testphasen 2 und 3 (Verhaltensproben und Interview) müssen sie unmittelbar teilnehmen.
+- 3\.2 Alle Mitglieder der Eignungskommission nach § 3 Absatz 3 müssen persönliche und vollständige Kenntnis der Beurteilungsmaßstäbe und der Teilergebnisse der standardisierten Testphase 1 (computerisierte Testverfahren und arbeitsprobenähnliche Verfahren) erhalten. An den Testphasen 2 und 3 (Verhaltensproben und Interview) müssen sie unmittelbar teilnehmen.
 - 3\.3 Der Eignungstest ist je nach Anzahl der untersuchungswilligen Seelotsenbewerberinnen und Seelotsenbewerber entweder an mehreren Tagen hintereinander in einem Block (Komplettuntersuchung) oder in mehreren, zeitlich voneinander getrennten Testphasen an mehreren Tagen durchzuführen.
 - 3\.4 Der Eignungstest ist nicht öffentlich in Räumlichkeiten des Seeärztlichen Dienstes in Hamburg durchzuführen.
 
@@ -271,21 +272,21 @@ Der Umfang der Seelotseignungsuntersuchung ergibt sich aus der nachfolgenden Tab
 - 4\.2 Der Zielerreichungsgrad fasst alle bei einer Seelotsenbewerberin oder einem Seelotsenbewerber getesteten Leistungs- und Verhaltensmerkmale in einem Zahlenwert von 1 bis 100 zusammen. Der Zahlenwert wird ermittelt aus dem Vergleich der im Eignungstest erfassten individuellen Leistungs- und Verhaltensmerkmale (Punkte 2.1 und 2.2) der jeweiligen Seelotsenbewerberin oder des jeweiligen Seelotsenbewerbers mit der Referenzgruppe (Punkt 2.3). Je größer der Zahlenwert ist, desto größer ist die psychologische Eignung der jeweiligen Seelotsenbewerberin oder des jeweiligen Seelotsenbewerbers. Eine Seelotsenbewerberin oder ein Seelotsenbewerber erzielt in der Summe einen umso größeren Zielerreichungsgrad,
   - 1\. je höher die erzielten Leistungen in den Leistungsmerkmalen im Vergleich zur Referenzgruppe liegen,
   - 2\. je geringer die Verhaltensausprägungen in den Verhaltensmerkmalen von der Referenzgruppe abweichen.
-- 4\.3 Der Seeärztliche Dienst erstellt eine interne Dokumentation über jeden durchgeführten Eignungstest. Die Dokumentation enthält für jede getestete Seelotsenbewerberin oder jeden getesteten Seelotsenbewerber ihre oder seine Testwerte der verschiedenen Testphasen und die abschließende Bewertung des Gesamtergebnisses des Eignungstests.
+- 4\.3 Der Seeärztliche Dienst erstellt eine interne Dokumentation über jeden durchgeführten Eignungstest. Die Dokumentation enthält für jede getestete Seelotsenbewerberin oder jeden getesteten Seelotsenbewerber ihre oder seine Testwerte der verschiedenen Testphasen und die abschließende Bewertung des Gesamtergebnisses des Eignungstests. Beschränkungen des Rechts auf Akteneinsicht nach § 29 Absatz 2 des Verwaltungsverfahrensgesetzes bleiben unberührt.
 - 4\.4 Die Beratungen und Feststellungen der Eignungskommission sind vertraulich zu behandeln. Die Kostenerstattung für die Lotsen der Eignungskommission bestimmen sich nach anderen Vorschriften.
 
-<!-- norm id="BJNE001400000" -->
+<!-- norm id="BJNE001401119" -->
 ## Anlage 3 (zu § 11 Absatz 5)Vergleichbarkeit der Ergebnisse der psychologischen Eignungstests nach bisherigem und neuem Recht
 
-Die Aufsichtsbehörde für das Seelotswesen hat bei der Zulassung der Seelotsenanwärterinnen und oder Seelotsenanwärter nach § 9 des Seelotsgesetzes die untenstehenden Maßstäbe zur Vergleichbarkeit der Ergebnisse der bisherigen psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
+Die Aufsichtsbehörde für das Seelotswesen hat bei der Zulassung der Seelotsenanwärterinnen und oder Seelotsenanwärter nach § 8 des Seelotsgesetzes die untenstehenden Maßstäbe zur Vergleichbarkeit der Ergebnisse der bisherigen psychologischen Untersuchungen nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, mit den psychologischen Eignungstests nach § 3 dieser Verordnung zugrunde zu legen.
 
-Nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung (bisheriges Recht) fließt das Ergebnis der psychologischen Untersuchung in die Gesamtbewertung des Seeärztlichen Dienstes durch eine gesonderte Bescheinigung ein. Diese Bescheinigung enthält die Bewertung der psychologischen Untersuchung nach den Bewertungsstufen „gut geeignet“, „befriedigend geeignet“, „geeignet“ oder „nicht geeignet“.
+Nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, fließt das Ergebnis der psychologischen Untersuchung in die Gesamtbewertung des Seeärztlichen Dienstes durch eine gesonderte Bescheinigung ein. Diese Bescheinigung enthält die Bewertung der psychologischen Untersuchung nach den Bewertungsstufen „gut geeignet“, „befriedigend geeignet“, „geeignet“ oder „nicht geeignet“.
 
-Nach § 3 Absatz 3 in Verbindung mit Anlage 2 der Seelotseignungsverordnung (neues Recht) fasst der Zielerreichungsgrad des psychologischen Eignungstests alle bei einer Seelotsenbewerberin oder einem Seelotsenbewerber getesteten Leistungs- und Verhaltensmerkmale in einem Zahlenwert von 1 bis 100 zusammen.
+Nach § 3 Absatz 6 in Verbindung mit Anlage 2 fasst der Zielerreichungsgrad des psychologischen Eignungstests alle bei einer Seelotsenbewerberin oder einem Seelotsenbewerber getesteten Leistungs- und Verhaltensmerkmale in einem Zahlenwert von 1 bis 100 zusammen.
 
-Die Ergebnisse einer psychologischen Untersuchung nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung entsprechen den folgenden Zielerreichungsgraden nach § 3 Absatz 3 in Verbindung mit Anlage 2 der Seelotseignungsverordnung:
+Die Ergebnisse einer psychologischen Untersuchung nach § 3 Absatz 2 der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist, entsprechen den folgenden Zielerreichungsgraden nach § 3 Absatz 6 in Verbindung mit Anlage 2:
 
-| Bewertungsstufen nach § 3 Absatz 2<br>der Seelotsenuntersuchungsverordnung (bisheriges Recht) | Zielerreichungsgrad nach § 3 Absatz 3<br>in Verbindung mit Anlage 2 der Seelotseignungsverordnung (neues Recht) |
+| Bewertungsstufen nach § 3 Absatz 2<br>der Seelotsenuntersuchungsverordnung vom 12. März 1998 (BGBl. I S. 511), die durch Artikel 1 der Verordnung vom 20. Oktober 2004 (BGBl. I S. 2652) geändert worden ist | Zielerreichungsgrad nach § 3 Absatz 6<br>in Verbindung mit Anlage 2 |
 |---|---|
 | nicht geeignet | 0 bis 54 |
 | geeignet | 55 bis 77 |

@@ -3,16 +3,16 @@ abkuerzung: UmwRG
 jurabk: UmwRG
 titel: Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG
 kurztitel: Umwelt-Rechtsbehelfsgesetz
-stand: zuletzt geändert durch Art. 14b G v. 22.12.2023 I Nr. 405
+stand: zuletzt geändert durch Art. 1 G v. 30.9.2026 I Nr. 286
 ausfertigung: '2006-12-07'
 quelle: https://www.gesetze-im-internet.de/umwrg/
 doknr: BJNR281600006
-builddate: '20261005220006'
+builddate: '20261118220006'
 ---
 
 # Gesetz über ergänzende Vorschriften zu Rechtsbehelfen in Umweltangelegenheiten nach der EG-Richtlinie 2003/35/EG (UmwRG)
 
-Stand: zuletzt geändert durch Art. 14b G v. 22.12.2023 I Nr. 405
+Stand: zuletzt geändert durch Art. 1 G v. 30.9.2026 I Nr. 286
 
 Quelle: <https://www.gesetze-im-internet.de/umwrg/>
 
@@ -21,19 +21,22 @@ Quelle: <https://www.gesetze-im-internet.de/umwrg/>
 > ```text
 > (+++ Textnachweis ab: 15.12.2006 +++)
 >
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2026 I Nr. 286 +++)
->
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EURL 92/2011 (CELEX Nr: 32011L0092)
 > EGRL 35/2003 (CELEX Nr: 32003L0035)
 > EURL 75/2010 (CELEX Nr: 32010L0075)
 > EURL 18/2012 (CELEX Nr: 32012L0018)
-> EGRL 35/2004 (CELEX Nr: 32004L0035 )
+> EGRL 35/2004 (CELEX Nr: 32004L0035)
 > Umsetzung der
 > EURL 92/2011 (CELEX Nr: 32011L0092)
 > EGRL 42/2001 (CELEX Nr: 32001L0042)
-> EURL 75/2010 (CELEX Nr: 32010L0075) vgl. Art. 1 G v. 21.1.2013 I 95 +++)
+> EURL 75/2010 (CELEX Nr: 32010L0075) vgl. Art. 1 G v. 21.1.2013 I 95
+> EGRL 35/2003 (CELEX Nr: 32003L0035) vgl. Art. 1 G v. 30.9.2026 I Nr. 286
+> EGRL 35/2004 (CELEX Nr: 32004L0035) vgl. Art. 1 G v. 30.9.2026 I Nr. 286 EURL 75/2010 (CELEX Nr: 32010L0075) vgl. Art. 1 G v. 30.9.2026 I Nr. 286 EURL 92/2011 (CELEX Nr: 32011L0092) vgl. Art. 1 G v. 30.9.2026 I Nr. 286
+> EURL 18/2012 (CELEX Nr: 32012L0018) vgl. Art. 1 G v. 30.9.2026 I Nr. 286 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 30.9.2026 I Nr. 286 +++)
 > ```
 >
 > Überschrift: IdF d. Art. 11a G v. 11.8.2010 I 1163 mWv 18.8.2010; amtl. Buchstabk. eingef. durch Art. 11a G v. 11.8.2010 I 1163 mWv 18.8.2010
@@ -204,7 +207,7 @@ Einwendungen, die eine Person oder eine Vereinigung im Sinne des § 1 Absatz 3 e
 
 > **Fußnote**
 >
-> (+++ § 6: Zur Nichtanwendung vgl. § 17e Abs. 5 Satz 6 FStrG F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 18e Abs. 5 Satz 6 AEG 1994 F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 14e Abs. 5 Satz 6 WaStRG F 29.11.2018 +++)
+> (+++ § 6: Zur Nichtanwendung vgl. § 17e Abs. 5 Satz 6 FStrG F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 18e Abs. 5 Satz 6 AEG 1994 F 29.11.2018 +++) (+++ § 6: Zur Nichtanwendung vgl. § 14e Abs. 5 Satz 6 WaStRG F 29.11.2018 +++) §§ 5 u. 6: IdF d. Art. 1 Nr. 5 G v. 30.9.2026 I Nr. 286 mWv 6.10.2026
 
 <!-- norm id="BJNE000802130" -->
 ## § 7 Besondere Bestimmungen für Rechtsbehelfe gegen bestimmte Entscheidungen

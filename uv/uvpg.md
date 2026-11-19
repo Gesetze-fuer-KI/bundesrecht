@@ -2,16 +2,16 @@
 abkuerzung: UVPG
 jurabk: UVPG
 titel: Gesetz über die Umweltverträglichkeitsprüfung
-stand: zuletzt geändert durch Art. 12 G v. 22.7.2026 I Nr. 224
+stand: zuletzt geändert durch Art. 3 G v. 30.9.2026 I Nr. 286
 ausfertigung: '1990-02-12'
 quelle: https://www.gesetze-im-internet.de/uvpg/
 doknr: BJNR102050990
-builddate: '20261117215505'
+builddate: '20261118220005'
 ---
 
 # Gesetz über die Umweltverträglichkeitsprüfung (UVPG)
 
-Stand: zuletzt geändert durch Art. 12 G v. 22.7.2026 I Nr. 224
+Stand: zuletzt geändert durch Art. 3 G v. 30.9.2026 I Nr. 286
 
 Quelle: <https://www.gesetze-im-internet.de/uvpg/>
 
