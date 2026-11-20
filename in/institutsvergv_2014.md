@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 10 G v. 12.5.2026 I Nr. 139
 ausfertigung: '2013-12-16'
 quelle: https://www.gesetze-im-internet.de/institutsvergv_2014/
 doknr: BJNR427000013
-builddate: '20260608215517'
+builddate: '20261119215532'
 ---
 
 # Verordnung über die aufsichtsrechtlichen Anforderungen an Vergütungssysteme von Instituten (InstitutsVergV)
@@ -132,7 +132,7 @@ Als Mitarbeiter und Mitarbeiterinnen im Sinne dieser Verordnung gelten auch Gesc
 
 Die Vergütungsstrategie und die Vergütungssysteme müssen auf die Erreichung der Ziele ausgerichtet sein, die in den Geschäfts- und Risikostrategien des jeweiligen Instituts niedergelegt sind. Dabei ist auch die Unternehmenskultur zu berücksichtigen. Die Vergütungsparameter sind zu Beginn des Bemessungszeitraums festzulegen und müssen sich an den Strategien ausrichten sowie das Erreichen der strategischen Ziele unterstützen. Dabei sind auch die ESG-Risiken zu berücksichtigen.
 
-<!-- norm id="BJNE000706128" -->
+<!-- norm id="BJNE000707128" -->
 ### § 5 Angemessenheit der Vergütung und der Vergütungssysteme
 
 (1) Die Vergütungssysteme sind angemessen ausgestaltet, wenn
@@ -141,8 +141,9 @@ Die Vergütungsstrategie und die Vergütungssysteme müssen auf die Erreichung d
 - 1a\. im Falle einer leistungsabhängigen Vergütung finanzielle und nichtfinanzielle Kriterien berücksichtigt werden, einschließlich solcher nach § 4 Satz 4;
 - 2\. die Vergütungssysteme nicht der Überwachungsfunktion der Kontrolleinheiten und des für die Risikosteuerung zuständigen Mitglieds der Geschäftsleitung zuwiderlaufen;
 - 3\. sie die Verbraucherrechte und -interessen berücksichtigen; insbesondere dürfen nicht ausschließlich quantitative Vergütungsparameter verwendet werden, sofern unmittelbar Verbraucherinteressen betroffen sind;
-- 4\. sie nicht der Einhaltung der Verpflichtung zuwiderlaufen, bei der Erbringung von Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs im besten Interesse des Darlehensnehmers zu handeln; insbesondere darf die Vergütung nicht an Absatzziele in Bezug auf Immobiliar-Verbraucherdarlehensverträge gemäß § 491 Absatz 3 des Bürgerlichen Gesetzbuchs gekoppelt sein;
-- 5\. die Vergütung der für die Prüfung der Kreditwürdigkeit zuständigen Mitarbeiter und Mitarbeiterinnen nicht von der Zahl oder dem Anteil der genehmigten Anträge auf Abschluss eines Immobiliar-Verbraucherdarlehensvertrags gemäß § 491 Absatz 3 des Bürgerlichen Gesetzbuchs abhängt; und
+- 4\. sie nicht der Einhaltung der Verpflichtung zuwiderlaufen, bei der Erbringung von Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs im besten Interesse des Darlehensnehmers zu handeln; insbesondere darf die Vergütung nicht an Absatzziele in Bezug auf Verbraucherdarlehensverträge gemäß § 491 Absatz 1 des Bürgerlichen Gesetzbuchs gekoppelt sein;
+- 5\. die Vergütung der für die Prüfung der Kreditwürdigkeit zuständigen Mitarbeiter und Mitarbeiterinnen nicht von der Zahl oder dem Anteil der genehmigten Anträge auf Abschluss eines Verbraucherdarlehensvertrags gemäß § 491 Absatz 1 des Bürgerlichen Gesetzbuchs abhängt und die Vergütungspolitik an der Geschäftsstrategie, den Zielen, Werten und langfristigen Interessen des Instituts ausgerichtet ist und Maßnahmen zur Vermeidung von Interessenskonflikten beinhaltet;
+- 5a\. die Vergütungspolitik der für die Prüfung der Kreditwürdigkeit zuständigen Mitarbeiter und Mitarbeiterinnen mit einem soliden und wirksamen Risikomanagement vereinbar und diesem förderlich ist und
 - 6\. sie geschlechtsneutral sind, so dass eine Entgeltbenachteiligung wegen des Geschlechts bei gleicher oder gleichwertiger Arbeit ausgeschlossen ist.
 
 (2) In der Regel sind Vergütungssysteme nicht angemessen ausgestaltet, wenn trotz negativer Erfolgsbeiträge ein der Höhe nach unveränderter Anspruch auf die variable Vergütung besteht.

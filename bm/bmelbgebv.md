@@ -3,16 +3,16 @@ abkuerzung: BMLEHBGebV
 jurabk: BMELBGebV
 titel: Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
 kurztitel: Besondere Gebührenverordnung BMLEH
-stand: Zuletzt geändert durch Art. 9 V v. 24.6.2024 I Nr. 215, Nr. 350
+stand: Zuletzt geändert durch Art. 1 V v. 9.6.2026 I Nr. 169
 ausfertigung: '2021-07-13'
 quelle: https://www.gesetze-im-internet.de/bmelbgebv/
 doknr: BJNR287400021
-builddate: '20260630215607'
+builddate: '20261119215529'
 ---
 
 # Besondere Gebührenverordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich (BMLEHBGebV)
 
-Stand: Zuletzt geändert durch Art. 9 V v. 24.6.2024 I Nr. 215, Nr. 350
+Stand: Zuletzt geändert durch Art. 1 V v. 9.6.2026 I Nr. 169
 
 Quelle: <https://www.gesetze-im-internet.de/bmelbgebv/>
 

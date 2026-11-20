@@ -7,7 +7,7 @@ stand: Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
 ausfertigung: '2002-04-22'
 quelle: https://www.gesetze-im-internet.de/findag/
 doknr: BJNR131010002
-builddate: '20261029220014'
+builddate: '20261119215523'
 ---
 
 # Gesetz über die Bundesanstalt für Finanzdienstleistungsaufsicht (FinDAG)
@@ -63,12 +63,12 @@ Die Bundesanstalt untersteht der Rechts- und Fachaufsicht des Bundesministeriums
 
 —
 
-<!-- norm id="BJNE000411128" -->
+<!-- norm id="BJNE000412128" -->
 ### § 4 Aufgaben und Zusammenarbeit
 
 (1) Die Bundesanstalt übernimmt die dem Bundesaufsichtsamt für das Kreditwesen, dem Bundesaufsichtsamt für das Versicherungswesen und dem Bundesaufsichtsamt für den Wertpapierhandel übertragenen Aufgaben. Sie nimmt darüber hinaus die ihr nach anderen Bestimmungen übertragenen Aufgaben einschließlich der Beratungstätigkeit im Zusammenhang mit dem Aufbau und der Unterstützung ausländischer Aufsichtssysteme wahr. Die Bundesanstalt wird im Wege der Organleihe für das Bundesministerium der Finanzen im Rahmen der ihm nach den Vorschriften der Anstaltssatzung obliegenden Aufsicht über die Versorgungsanstalt des Bundes und der Länder tätig. Das Nähere einschließlich des Beginns der Organleihe wird im Einvernehmen mit dem Bundesministerium des Innern in einer Verwaltungsvereinbarung zwischen dem Bundesministerium der Finanzen und der Bundesanstalt geregelt. Die Bundesanstalt nimmt außerdem die Aufgaben der Abwicklungsbehörde nach § 3 Absatz 1 des Sanierungs- und Abwicklungsgesetzes sowie die ihr auf Grundlage des Restrukturierungsfondsgesetzes übertragenen Aufgaben wahr.
 
-(1a) Die Bundesanstalt ist innerhalb ihres gesetzlichen Auftrags auch dem Schutz der kollektiven Verbraucherinteressen verpflichtet. Unbeschadet weiterer Befugnisse nach anderen Gesetzen kann die Bundesanstalt gegenüber den Instituten und anderen Unternehmen, die nach dem Kreditwesengesetz, dem Zahlungsdiensteaufsichtsgesetz, dem Versicherungsaufsichtsgesetz, dem Wertpapierhandelsgesetz, dem Kapitalanlagegesetzbuch sowie nach anderen Gesetzen beaufsichtigt werden, alle Anordnungen treffen, die geeignet und erforderlich sind, um verbraucherschutzrelevante Missstände zu verhindern oder zu beseitigen, wenn eine generelle Klärung im Interesse des Verbraucherschutzes geboten erscheint. Ein Missstand im Sinne des Satzes 2 ist ein erheblicher, dauerhafter oder wiederholter Verstoß gegen ein Verbraucherschutzgesetz, der nach seiner Art oder seinem Umfang die Interessen nicht nur einzelner Verbraucherinnen oder Verbraucher gefährden kann oder beeinträchtigt. Zur Erfüllung ihrer Aufgaben und nach Maßgabe des Satzes 2 kann die Bundesanstalt auch im Wege verdeckter Testkäufe Finanzprodukte erwerben und Finanzdienstleistungen in Anspruch nehmen.
+(1a) Die Bundesanstalt ist innerhalb ihres gesetzlichen Auftrags auch dem Schutz der kollektiven Verbraucherinteressen verpflichtet. Unbeschadet weiterer Befugnisse nach anderen Gesetzen kann die Bundesanstalt gegenüber den Instituten und anderen Unternehmen, die nach dem Kreditwesengesetz, dem Zahlungsdiensteaufsichtsgesetz, dem Versicherungsaufsichtsgesetz, dem Wertpapierhandelsgesetz, dem Kapitalanlagegesetzbuch, dem Absatzfinanzierungsaufsichtsgesetz sowie nach anderen Gesetzen beaufsichtigt werden, alle Anordnungen treffen, die geeignet und erforderlich sind, um verbraucherschutzrelevante Missstände zu verhindern oder zu beseitigen, wenn eine generelle Klärung im Interesse des Verbraucherschutzes geboten erscheint. Ein Missstand im Sinne des Satzes 2 ist ein erheblicher, dauerhafter oder wiederholter Verstoß gegen ein Verbraucherschutzgesetz, der nach seiner Art oder seinem Umfang die Interessen nicht nur einzelner Verbraucherinnen oder Verbraucher gefährden kann oder beeinträchtigt. Zur Erfüllung ihrer Aufgaben und nach Maßgabe des Satzes 2 kann die Bundesanstalt auch im Wege verdeckter Testkäufe Finanzprodukte erwerben und Finanzdienstleistungen in Anspruch nehmen.
 
 (1b) Die Bundesanstalt veröffentlicht ihre mittelfristigen strategischen Ziele. Die Übersicht enthält insbesondere
 
@@ -421,7 +421,7 @@ In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der 
 <!-- norm id="BJNE001406301" -->
 ### § 14 (weggefallen)
 
-<!-- norm id="BJNE006606119" -->
+<!-- norm id="BJNE006610119" -->
 ### § 15 Gesonderte Erstattung; Verordnungsermächtigung
 
 (1) Die Kosten, die der Bundesanstalt entstehen
@@ -471,8 +471,11 @@ In der Rechtsverordnung kann vorgesehen werden, dass der Bundesanstalt oder der 
 - 14\. durch
   - a) eine vor Ort oder aus der Ferne nach § 11 des Gesetzes zur Marktüberwachung und Innovationsförderung von künstlicher Intelligenz in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe d der Verordnung (EU) 2019/1020 vorgenommene Prüfungshandlung auch in Verbindung mit Maßnahmen nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe e der Verordnung (EU) 2019/1020,
   - b) eine Maßnahme nach § 11 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes in Verbindung mit Artikel 14 Absatz 1 und 4 Buchstabe h der Verordnung (EU) 2019/1020,
+- 15\. durch
+  - a) eine aufgrund des § 3 Absatz 3 des Absatzfinanzierungsaufsichtsgesetzes vorgenommene Prüfung,
+  - b) eine Bekanntmachung nach § 9 des Absatzfinanzierungsaufsichtsgesetzes,
 
-sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 und 14 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, oder die der Bundesanstalt durch die Heranziehung dritter Personen als Verwaltungshelfer nach § 11 Absatz 2 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes entstehen, sowie die Kosten für den Einsatz eigener Mitarbeiter.
+sind in den Fällen der Nummern 1, 1b, 2, 4, 7 und 9 bis 11 sowie 13 bis 15 von dem Betroffenen, im Fall der Nummer 1a von der Kreditanstalt für Wiederaufbau, in den Fällen der Nummer 3 von dem zur Zusammenfassung verpflichteten Unternehmen, in den Fällen der Nummer 5 von dem registerführenden Unternehmen, in den Fällen der Nummer 6 von den in § 22n Absatz 5 Satz 2 und 3 des Kreditwesengesetzes genannten Unternehmen, in den Fällen der Nummer 8 von den betroffenen Einrichtungen und in den Fällen der Nummer 12 durch die Unternehmen im Sinne des § 106 des Wertpapierhandelsgesetzes der Bundesanstalt gesondert zu erstatten. Zu den Kosten nach Satz 1 gehören auch die Kosten, mit denen die Bundesanstalt von der Deutschen Bundesbank und anderen Behörden, die im Rahmen solcher Maßnahmen für die Bundesanstalt oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, belastet wird, oder die der Bundesanstalt durch die Heranziehung dritter Personen als Verwaltungshelfer nach § 11 Absatz 2 des KI-Marktüberwachungs-und-Innovationsförderungs-Gesetzes entstehen, sowie die Kosten für den Einsatz eigener Mitarbeiter.
 
 (2) Die Bundesanstalt hat der Deutschen Bundesbank und den anderen Behörden, die im Rahmen des Absatzes 1 für sie oder im Rahmen des einheitlichen Aufsichtsmechanismus im Sinne des Artikels 2 Nummer 9 der Verordnung (EU) Nr. 1024/2013 im Auftrag der Europäischen Zentralbank tätig werden, den Personal- und Sachaufwand zu ersetzen. Die Höhe des Erstattungsbetrags, insbesondere die Stundensätze für den Einsatz von Mitarbeitern dieser Behörden, bestimmen sich nach Erstattungsrichtlinien, die das Bundesministerium erlässt.
 

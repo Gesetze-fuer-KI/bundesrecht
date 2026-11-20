@@ -2,16 +2,16 @@
 abkuerzung: NpSG
 jurabk: NpSG
 titel: Neue-psychoaktive-Stoffe-Gesetz
-stand: Zuletzt geändert durch Art. 1 G v. 7.1.2026 I Nr. 2
+stand: Zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2016-11-21'
 quelle: https://www.gesetze-im-internet.de/npsg/
 doknr: BJNR261510016
-builddate: '20261027220051'
+builddate: '20261119215528'
 ---
 
 # Neue-psychoaktive-Stoffe-Gesetz (NpSG)
 
-Stand: Zuletzt geändert durch Art. 1 G v. 7.1.2026 I Nr. 2
+Stand: Zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/npsg/>
 

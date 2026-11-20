@@ -6,7 +6,7 @@ kurztitel: Bundespolizeigesetz
 ausfertigung: '2026-10-22'
 quelle: https://www.gesetze-im-internet.de/bpolg/
 doknr: BJNR13E0B0026
-builddate: '20261027220058'
+builddate: '20261119215525'
 ---
 
 # Gesetz über die Bundespolizei (BPolG)
@@ -16,7 +16,7 @@ Quelle: <https://www.gesetze-im-internet.de/bpolg/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text noch nicht dokumentarisch bearbeitet +++)
+> (+++ Textnachweis ab: 28.10.2026 +++)
 >
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.10.2026 I Nr. 318 +++)
 > ```

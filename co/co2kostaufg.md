@@ -2,13 +2,16 @@
 abkuerzung: CO2KostAufG
 jurabk: CO2KostAufG
 titel: Gesetz zur Aufteilung der Kohlendioxidkosten und zur Aufteilung der Betriebskosten bei Einbau einer mit Gas, Heizöl oder Flüssiggas beschickten Heizungsanlage
+stand: Geändert durch Art. 5 G v. 23.7.2026 I Nr. 226
 ausfertigung: '2022-12-05'
 quelle: https://www.gesetze-im-internet.de/co2kostaufg/
 doknr: BJNR215400022
-builddate: '20260729215524'
+builddate: '20261119215527'
 ---
 
 # Gesetz zur Aufteilung der Kohlendioxidkosten und zur Aufteilung der Betriebskosten bei Einbau einer mit Gas, Heizöl oder Flüssiggas beschickten Heizungsanlage (CO2KostAufG)
+
+Stand: Geändert durch Art. 5 G v. 23.7.2026 I Nr. 226
 
 Quelle: <https://www.gesetze-im-internet.de/co2kostaufg/>
 

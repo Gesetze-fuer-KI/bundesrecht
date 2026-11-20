@@ -3,16 +3,16 @@ abkuerzung: GenDG
 jurabk: GenDG
 titel: Gesetz über genetische Untersuchungen bei Menschen
 kurztitel: Gendiagnostikgesetz
-stand: Zuletzt geändert durch Art. 15 Abs. 4 G v. 4.5.2021 I 882
+stand: Zuletzt geändert durch Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2009-07-31'
 quelle: https://www.gesetze-im-internet.de/gendg/
 doknr: BJNR252900009
-builddate: '20261027220049'
+builddate: '20261119215527'
 ---
 
 # Gesetz über genetische Untersuchungen bei Menschen (GenDG)
 
-Stand: Zuletzt geändert durch Art. 15 Abs. 4 G v. 4.5.2021 I 882
+Stand: Zuletzt geändert durch Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/gendg/>
 

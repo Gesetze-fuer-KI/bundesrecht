@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 5 G v. 12.5.2026 I Nr. 139
 ausfertigung: '2006-12-21'
 quelle: https://www.gesetze-im-internet.de/vschdg/
 doknr: BJNR336710006
-builddate: '20260625215510'
+builddate: '20261119215531'
 ---
 
 # Gesetz zur Durchführung der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (EU-VSchDG)
@@ -46,7 +46,7 @@ Quelle: <https://www.gesetze-im-internet.de/vschdg/>
 
 (3) Die Befugnisse nach diesem Gesetz gelten nicht, soweit in anderen Rechtsvorschriften entsprechende oder weitergehende Regelungen vorgesehen sind.
 
-<!-- norm id="BJNE260313129" -->
+<!-- norm id="BJNE260314360" -->
 ### § 2 Zuständige Behörde
 
 Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerhalb der Union, weitverbreiteten Verstößen und weitverbreiteten Verstößen mit Unions-Dimension zuständig
@@ -63,6 +63,9 @@ Für die Durchführung der Verordnung (EU) 2017/2394 sind bei Verstößen innerh
     - bb) nach § 53b Absatz 1 oder Absatz 7 des Kreditwesengesetzes im Inland eine Zweigniederlassung betreibt oder im Wege des grenzüberschreitenden Dienstleistungsverkehrs Bankgeschäfte betreibt oder Finanzdienstleistungen erbringt,
     - cc) Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt, die einer Erlaubnis nach § 15 Absatz 1, 3, 4 oder 6 des Wertpapierinstitutsgesetzes bedürfen, oder
     - dd) nach § 73 Absatz 1 des Wertpapierinstitutsgesetzes im Inland eine Zweigniederlassung betreibt oder nach § 74 Absatz 1 des Wertpapierinstitutsgesetzes im Wege des grenzüberschreitenden Dienstleistungsverkehrs Wertpapierdienstleistungen oder Wertpapiernebendienstleistungen erbringt,
+  - c) eines Unternehmens handelt, das
+    - aa) als Kreditgeber im Sinne des § 1 Absatz 1 des Absatzfinanzierungsaufsichtsgesetzes tätig wird oder
+    - bb) Institut im Sinne des § 1 Absatz 2 des Absatzfinanzierungsaufsichtsgesetzes ist und nach § 2 Absatz 2 des Absatzfinanzierungsaufsichtsgesetzes tätig wird,
   und der Verdacht des Verstoßes sich auf die jeweilige Tätigkeit bezieht,
 - 2a\. die Bundesanstalt für Finanzdienstleistungsaufsicht im Falle eines Verdachtes eines Verstoßes gegen die zur Umsetzung der in Nummer 24 des Anhangs der Verordnung (EU) 2017/2394 erlassenen Rechtsvorschriften,
 - 3\. das Luftfahrt-Bundesamt im Falle eines Verdachtes eines Verstoßes gegen die in den Nummern 8 und 10 des Anhangs der Verordnung (EU) 2017/2394 genannten Rechtsakte und die zu ihrer Durchführung erlassenen Rechtsvorschriften,

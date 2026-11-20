@@ -2,16 +2,16 @@
 abkuerzung: ZHG
 jurabk: ZHG
 titel: Gesetz über die Ausübung der Zahnheilkunde
-stand: zuletzt geändert durch Art. 13 G v. 19.5.2020 I 1018
+stand: zuletzt geändert durch Art. 4 G v. 22.7.2026 I Nr. 225
 ausfertigung: '1952-03-31'
 quelle: https://www.gesetze-im-internet.de/zhg/
 doknr: BJNR002210952
-builddate: '20261031220001'
+builddate: '20261119215512'
 ---
 
 # Gesetz über die Ausübung der Zahnheilkunde (ZHG)
 
-Stand: zuletzt geändert durch Art. 13 G v. 19.5.2020 I 1018
+Stand: zuletzt geändert durch Art. 4 G v. 22.7.2026 I Nr. 225
 
 Quelle: <https://www.gesetze-im-internet.de/zhg/>
 

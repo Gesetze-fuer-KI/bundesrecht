@@ -3,16 +3,16 @@ abkuerzung: KCanG
 jurabk: KCanG
 titel: Gesetz zum Umgang mit Konsumcannabis
 kurztitel: Konsumcannabisgesetz
-stand: Geändert durch Art. 1 G v. 20.6.2024 I Nr. 207
+stand: Zuletzt geändert durch Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2024-03-27'
 quelle: https://www.gesetze-im-internet.de/kcang/
 doknr: BJNR06D0B0024
-builddate: '20261027220032'
+builddate: '20261119215522'
 ---
 
 # Gesetz zum Umgang mit Konsumcannabis (KCanG)
 
-Stand: Geändert durch Art. 1 G v. 20.6.2024 I Nr. 207
+Stand: Zuletzt geändert durch Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318
 
 Quelle: <https://www.gesetze-im-internet.de/kcang/>
 

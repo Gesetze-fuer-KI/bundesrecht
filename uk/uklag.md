@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 5 G v. 22.6.2026 I Nr. 191
 ausfertigung: '2001-11-26'
 quelle: https://www.gesetze-im-internet.de/uklag/
 doknr: BJNR317300001
-builddate: '20261031220015'
+builddate: '20261119215530'
 ---
 
 # Gesetz über Unterlassungsklagen bei Verbraucherrechts- und anderen Verstößen (UKlaG)
@@ -47,7 +47,7 @@ Wer in Allgemeinen Geschäftsbedingungen Bestimmungen, die nach den §§ 307 bis
 
 Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen den Vorschriften des § 271a Absatz 1 bis 3, des § 286 Absatz 5 oder des § 288 Absatz 6 des Bürgerlichen Gesetzbuchs zuwiderhandelt, kann auf Unterlassung in Anspruch genommen werden.
 
-<!-- norm id="BJNE002511360" -->
+<!-- norm id="BJNE002512360" -->
 ### § 2 Ansprüche bei verbraucherschutzgesetzwidrigen Praktiken
 
 (1) Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Geschäftsbedingungen Vorschriften zuwiderhandelt, die dem Schutz der Verbraucher dienen (Verbraucherschutzgesetze), kann im Interesse des Verbraucherschutzes auf Unterlassung und Beseitigung in Anspruch genommen werden. Werden die Zuwiderhandlungen in einem Unternehmen von einem Mitarbeiter oder Beauftragten begangen, so ist der Unterlassungsanspruch oder der Beseitigungsanspruch auch gegen den Inhaber des Unternehmens begründet. Bei Zuwiderhandlungen gegen die in Absatz 2 Nummer 13 genannten Vorschriften richtet sich der Beseitigungsanspruch nach den entsprechenden datenschutzrechtlichen Vorschriften.
@@ -78,7 +78,7 @@ Wer in anderer Weise als durch Verwendung oder Empfehlung von Allgemeinen Gesch�
 - 11\. die Vorschriften des Wohn- und Betreuungsvertragsgesetzes,
 - 12\. § 2 Absatz 2 sowie die §§ 36 und 37 des Verbraucherstreitbeilegungsgesetzes,
 - 13\. die Vorschriften der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 074 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung, die für die Verarbeitung von Daten von Verbrauchern durch Unternehmer gelten,
-- 14\. § 31 des Bundesdatenschutzgesetzes,
+- 14\. die §§ 30 und 37a des Bundesdatenschutzgesetzes,
 - 15\. diejenigen Vorschriften des Zahlungskontengesetzes, die das Verhältnis zwischen Zahlungsdienstleistern und Verbrauchern regeln,
 - 16\. diejenigen Vorschriften des Telekommunikationsgesetzes, die das Verhältnis zwischen Anbietern von öffentlich zugänglichen Telekommunikationsleistungen und Verbrauchern regeln,
 - 17\. die Vorschriften des Produkthaftungsgesetzes,
@@ -437,18 +437,18 @@ Wer von einem anderen Unterlassung der Lieferung unbestellter Sachen, der Erbrin
 <!-- gliederung id="BJNG000604360" ebene="1" -->
 ## Abschnitt 5 Außergerichtliche Schlichtung
 
-<!-- norm id="BJNE001417129" -->
+<!-- norm id="BJNE001418360" -->
 ### § 14 Schlichtungsverfahren und Verordnungsermächtigung
 
 (1) Bei Streitigkeiten aus der Anwendung
 
 - 1\. der Vorschriften des Bürgerlichen Gesetzbuchs betreffend Fernabsatzverträge über Finanzdienstleistungen,
-- 2\. der §§ 491 bis 508, 511 und 655a bis 655d des Bürgerlichen Gesetzbuchs sowie Artikel 247a § 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche,
+- 2\. der §§ 491 bis 508, 511 und 655a bis 655d des Bürgerlichen Gesetzbuchs sowie Artikel 247a § 1 bis 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche,
 - 3\. der Vorschriften betreffend Zahlungsdiensteverträge in
   - a) den §§ 675c bis 676c des Bürgerlichen Gesetzbuchs,
-  - b) die Verordnung (EU) 2021/1230 des Europäischen Parlaments und des Rates vom 14. Juli 2021 über grenzüberschreitende Zahlungen in der Union (kodifizierter Text) (ABl. L 274 vom 30.7.2021, S. 20)
-  - c) der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften und der Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom 30.3.2012, S. 22), die zuletzt durch die Verordnung (EU) Nr. 2024/886 (ABl. L, 2024/886, 19.3.2024) geändert worden ist,
-  - d) der Verordnung (EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
+  - b) der Verordnung (EU) 2021/1230,
+  - c) der Verordnung (EU) Nr. 260/2012,
+  - d) der Verordnung (EU) 2015/751,
 - 4\. der Vorschriften des Zahlungsdiensteaufsichtsgesetzes, soweit sie Pflichten von E-Geld-Emittenten oder Zahlungsdienstleistern gegenüber ihren Kunden begründen,
 - 5\. der Vorschriften des Zahlungskontengesetzes, die das Verhältnis zwischen einem Zahlungsdienstleister und einem Verbraucher regeln,
 - 6\. der Vorschriften des Kapitalanlagegesetzbuchs, wenn an der Streitigkeit Verbraucher beteiligt sind, oder
