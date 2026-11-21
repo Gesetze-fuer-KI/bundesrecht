@@ -1,30 +1,9 @@
-Stand 2026-11-20: 27 geändert, 1 neu, 0 entfernt
+Stand 2026-11-21: 7 geändert, 0 neu, 0 entfernt
 
-- AZRG-DV: Zuletzt geändert durch Art. 12 Abs. 8 G v. 22.10.2026 I Nr. 318
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
-- BDSG: Zuletzt geändert durch Art. 3 G v. 12.5.2026 I Nr. 139
 - BGB: zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226
-- BGBEG: zuletzt geändert durch Art. 16 G v. 22.10.2026 I Nr. 321
-- BKAG: Zuletzt geändert durch Art. 4 G v. 22.10.2026 I Nr. 318
-- BMLEHBGebV: Zuletzt geändert durch Art. 1 V v. 9.6.2026 I Nr. 169
-- BPolG: geändert
-- CO2KostAufG: Geändert durch Art. 5 G v. 23.7.2026 I Nr. 226
-- EU-VSchDG: Zuletzt geändert durch Art. 5 G v. 12.5.2026 I Nr. 139
-- FinDAG: Zuletzt geändert Art. 9 G v. 22.10.2026 I Nr. 320
-- FinDAGebV: Zuletzt geändert durch Art. 4 G v. 25.9.2026 I Nr. 275
-- GenDG: Zuletzt geändert durch Art. 12 Abs. 14 G v. 22.10.2026 I Nr. 318
-- GewO: Zuletzt geändert durch Art. 1 G v. 20.7.2026 I Nr. 215
-- GÜG: Zuletzt geändert durch Art. 12 Abs. 3 G v. 22.10.2026 I Nr. 318
-- InstitutsVergV: Zuletzt geändert durch Art. 10 G v. 12.5.2026 I Nr. 139
-- KCanG: Zuletzt geändert durch Art. 12 Abs. 2 G v. 22.10.2026 I Nr. 318
-- KWG: Zuletzt geändert durch Art. 9 G v. 12.5.2026 I Nr. 139
+- BImSchG: zuletzt geändert durch Art. 3 G v. 18.6.2026 I Nr. 183
+- FAG: Zuletzt geändert durch Art. 2 G v. 27.10.2025 I Nr. 255
+- LKWÜberlStVAusnV: Zuletzt geändert durch Art. 1 V v. 18.11.2026 I Nr. 345
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
-- NpSG: Zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 318
-- PAngV: Zuletzt geändert durch Art. 3 G v. 19.10.2026 I Nr. 314
-- PassG: zuletzt geändert durch Art. 12 Abs. 13 G v. 22.10.2026 I Nr. 318
-- SchuBerDG: geändert
-- UKlaG: zuletzt geändert durch Art. 5 G v. 22.6.2026 I Nr. 191
-- UWG: Zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 322
-- VVG: Zuletzt geändert durch Art. 12 G v. 26.5.2026 I Nr. 156
-- ZHG: zuletzt geändert durch Art. 4 G v. 22.7.2026 I Nr. 225
-- neu: AbsFinAG (Gesetz zur Aufsicht über Verbraucherkredite im Rahmen der Absatzfinanzierung)
+- TierGesIVDV: geändert

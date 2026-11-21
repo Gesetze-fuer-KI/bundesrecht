@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226
 ausfertigung: '1896-08-18'
 quelle: https://www.gesetze-im-internet.de/bgb/
 doknr: BJNR001950896
-builddate: '20261119215507'
+builddate: '20261120220010'
 ---
 
 # Bürgerliches Gesetzbuch (BGB)

@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 G v. 27.10.2025 I Nr. 255
 ausfertigung: '2001-12-20'
 quelle: https://www.gesetze-im-internet.de/finausglg_2005/
 doknr: BJNR395600001
-builddate: '20260729215530'
+builddate: '20261120220003'
 ---
 
 # Gesetz über den Finanzausgleich zwischen Bund und Ländern (FAG)
@@ -236,6 +236,11 @@ Bund und Länder überprüfen gemeinsam die Voraussetzungen der Vergabe in einem
 ### § 12 Feststellung der Umsatzsteueranteile
 
 Das Bundesministerium der Finanzen stellt nach Ablauf des Ausgleichsjahres die endgültige Höhe der Länderanteile an der Umsatzsteuer durch Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
+
+<!-- norm id="BJNE002301123" -->
+### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2022 und 2023
+
+Für die Ausgleichsjahre 2022 und 2023 sind in der Rechtsverordnung nach § 12 die Unterschiede zwischen den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2022 einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 andererseits wie folgt zu berücksichtigen: Die Einwohnerzahlen der Länder nach den §§ 2, 7 Absatz 3 und § 9 Absatz 1 werden ermittelt, indem den Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011 für das Ausgleichsjahr 2022 ein Drittel und für das Ausgleichsjahr 2023 zwei Drittel der Unterschiede nach Satz 1 hinzugerechnet werden. Für die in Satz 1 genannten Jahre wird jeweils eine weitere Zwischenabrechnung im Sinne von § 14 Absatz 3 sowie jeweils eine weitere Verrechnung im Sinne von § 16 erstellt. Die sich hieraus ergebenden Zahlungen werden für das Ausgleichsjahr 2022 zusammen mit den Zahlungen gemäß § 14 Absatz 3 und § 16 für das zweite Quartal 2025 und für das Ausgleichsjahr 2023 zusammen mit den Zahlungen gemäß § 14 Absatz 3 und § 16 für das erste Quartal 2026 entrichtet.
 
 <!-- norm id="BJNE001302123" -->
 ### § 13 Verteilung der Umsatzsteuer und Vollzug des Finanzkraftausgleichs während des Ausgleichsjahres

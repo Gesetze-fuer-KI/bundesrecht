@@ -3,16 +3,16 @@ abkuerzung: BImSchG
 jurabk: BImSchG
 titel: Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge
 kurztitel: Bundes-Immissionsschutzgesetz
-stand: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
+stand: zuletzt geändert durch Art. 3 G v. 18.6.2026 I Nr. 183
 ausfertigung: '1974-03-15'
 quelle: https://www.gesetze-im-internet.de/bimschg/
 doknr: BJNR007210974
-builddate: '20261026220004'
+builddate: '20261120220001'
 ---
 
 # Gesetz zum Schutz vor schädlichen Umwelteinwirkungen durch Luftverunreinigungen, Geräusche, Erschütterungen und ähnliche Vorgänge (BImSchG)
 
-Stand: zuletzt geändert durch Art. 2 G v. 29.3.2026 I Nr. 84
+Stand: zuletzt geändert durch Art. 3 G v. 18.6.2026 I Nr. 183
 
 Quelle: <https://www.gesetze-im-internet.de/bimschg/>
 
@@ -20,15 +20,21 @@ Quelle: <https://www.gesetze-im-internet.de/bimschg/>
 >
 > ```text
 > (+++ Textnachweis Geltung ab: 1.4.1982 +++)
+>
 > (+++ Änderungen aufgrund EinigVtr vgl. §§ 10, 10a, 67a u. 74 +++)
+>
 > (+++ Zur Anwendung vgl. § 10a +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EWGRL 50/2008 (CELEX Nr: 32008L0050) vgl. G v. 31.7.2010 I 1059
 > EURL 2018/2001 (CELEX Nr: 32018L2001) vgl. G v. 24.9.2021 I 4458
 > Notifizierung der
 > EURL 2015/1535 (CELEX Nr: 32015L1535) vgl. G v. 24.9.2021 I 4458 +++)
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.8.2025 I Nr. 189,
+> G v. 1.6.2026 I Nr. 163
+> u. G v. 18.6.2026 I Nr. 183 +++)
 > ```
 
 <!-- gliederung id="BJNG000103360" ebene="1" -->

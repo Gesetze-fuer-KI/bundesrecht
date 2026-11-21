@@ -3,16 +3,13 @@ abkuerzung: TierGesIVDV
 jurabk: TierImpfStV 2006
 titel: Verordnung über In-vitro-Diagnostika nach dem Tiergesundheitsgesetz
 kurztitel: Tiergesundheitliche-In-vitro-Diagnostika-Verordnung
-stand: Zuletzt geändert durch Art. 3 Abs. 2 G v. 4.3.2026 I Nr. 60
 ausfertigung: '2006-10-24'
 quelle: https://www.gesetze-im-internet.de/tierimpfstv_2006/
 doknr: BJNR235500006
-builddate: '20261015215508'
+builddate: '20261120220002'
 ---
 
 # Verordnung über In-vitro-Diagnostika nach dem Tiergesundheitsgesetz (TierGesIVDV)
-
-Stand: Zuletzt geändert durch Art. 3 Abs. 2 G v. 4.3.2026 I Nr. 60
 
 Quelle: <https://www.gesetze-im-internet.de/tierimpfstv_2006/>
 
@@ -28,15 +25,10 @@ Quelle: <https://www.gesetze-im-internet.de/tierimpfstv_2006/>
 >
 > Überschrift: IdF d. Art. 3 Abs. 2 Nr. 1 G v. 4.3.2026 I Nr. 60 mWv 10.3.2026
 
-<!-- norm id="BJNE000100000" -->
-## Eingangsformel
-
-Auf Grund des § 7 Abs. 1 und 1a Nr. 2, des § 17c Abs. 2, des § 17d Abs. 6, 6a Nr. 2 und Abs. 7 Nr. 1, des § 73a Satz 1, auch in Verbindung mit Satz 2 Nr. 4, des § 79 Abs. 1 Nr. 1 in Verbindung mit § 17 Abs. 1 Nr. 11, 14 und 20 und des § 79 Abs. 1 Nr. 2 in Verbindung mit den §§ 18 und 24 Abs. 1 bis 3 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588) verordnet das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz:
-
-<!-- gliederung id="BJNG000100000" ebene="1" -->
+<!-- gliederung id="BJNG000101129" ebene="1" -->
 ## Abschnitt 1 Allgemeines
 
-<!-- norm id="BJNE000302119" -->
+<!-- norm id="BJNE000303129" -->
 ### § 1 Begriffsbestimmungen
 
 Im Sinne dieser Verordnung ist oder sind
@@ -51,17 +43,17 @@ Im Sinne dieser Verordnung ist oder sind
 - 8\. exotische Seuchenerreger: Erreger der Seuchen gemäß Artikel 9 Absatz 1 Buchstabe a der Verordnung (EU) 2016/429 in der Fassung vom 25. Juli 2018 in Verbindung mit Artikel 1 Nummer 1 und dem Anhang der Durchführungsverordnung (EU) 2018/1882 in der Fassung vom 11. Januar 2024;
 - 9\. Großhändler: wer gewerbsmäßig oder berufsmäßig In-vitro-Diagnostika an andere Händler oder Tierärzte abgibt und hierzu In-vitro-Diagnostika erwirbt oder lagert.
 
-<!-- norm id="BJNE000404119" -->
+<!-- norm id="BJNE000405129" -->
 ### § 2 Zuständige Behörden
 
 (1) Zuständig für die Durchführung dieser Verordnung sind vorbehaltlich des Absatzes 2 die nach Landesrecht zuständigen Behörden.
 
 (2) Das Friedrich-Loeffler-Institut ist für die Zulassung und die staatliche Chargenprüfung von In-vitro-Diagnostika zuständig.
 
-<!-- gliederung id="BJNG000201119" ebene="1" -->
+<!-- gliederung id="BJNG000202129" ebene="1" -->
 ## Abschnitt 2 Herstellung von In-vitro-Diagnostika
 
-<!-- norm id="BJNE000502119" -->
+<!-- norm id="BJNE000503129" -->
 ### § 3 Herstellungserlaubnis
 
 (1) Der Antrag auf Erlaubnis nach § 12 Absatz 1 des Tiergesundheitsgesetzes (Herstellungserlaubnis) muss folgende Angaben und Unterlagen enthalten:
@@ -76,7 +68,7 @@ Im Sinne dieser Verordnung ist oder sind
 - 4\. eine allgemein verständliche Beschreibung des In-vitro-Diagnostikums, für das die Herstellungserlaubnis beantragt wird, und
 - 5\. die Benennung einer Person, die für den Vertrieb verantwortlich ist (Vertriebsleiter).
 
-Aus der Beschreibung nach Satz 1 Nr. 3 muss insbesondere die Abgrenzung der Aufgaben und Verantwortungsbereiche des Herstellungsleiters und des Kontrollleiters hervorgehen.
+Aus der Beschreibung nach Satz 1 Nummer 3 muss insbesondere die Abgrenzung der Aufgaben und Verantwortungsbereiche des Herstellungsleiters und des Kontrollleiters hervorgehen.
 
 (2) Die zuständige Behörde entscheidet über den Antrag auf Erteilung der Herstellungserlaubnis innerhalb von 90 Tagen nach Zugang des Antrages. Vor der Entscheidung nach Satz 1 hat die zuständige Behörde den Betrieb, in dem die In-vitro-Diagnostika hergestellt werden sollen, zu besichtigen. Stellt die zuständige Behörde vor Ablauf der Frist Mängel der vorgelegten Unterlagen oder des besichtigten Betriebs fest, hat sie dem Antragsteller Gelegenheit zur Beseitigung zu geben.
 
@@ -89,7 +81,7 @@ Aus der Beschreibung nach Satz 1 Nr. 3 muss insbesondere die Abgrenzung der Aufg
 
 abzuhelfen, so ist die Frist nach Absatz 2 Satz 1 oder Absatz 3 bis zur Behebung der Mängel, im Falle der Nummer 2 bis zum Nachweis ihrer Behebung, oder bis zum Ablauf der zu ihrer Behebung von der zuständigen Behörde gesetzten Frist gehemmt.
 
-<!-- norm id="BJNE000602119" -->
+<!-- norm id="BJNE000603129" -->
 ### § 4 Inhalt der Herstellungserlaubnis
 
 (1) Die Herstellungserlaubnis beinhaltet mindestens:
@@ -108,7 +100,7 @@ abzuhelfen, so ist die Frist nach Absatz 2 Satz 1 oder Absatz 3 bis zur Behebung
 
 (3) Eine von der zuständigen Behörde vor dem 30. Oktober 2006 erteilte Herstellungserlaubnis gilt als Herstellungserlaubnis nach dieser Verordnung fort.
 
-<!-- norm id="BJNE000702119" -->
+<!-- norm id="BJNE000703129" -->
 ### § 5 Sachkundige Personen
 
 (1) Der Herstellungsleiter, der Kontrollleiter und die sachkundige Person haben die erforderliche Sachkunde nur, wenn er oder sie
@@ -126,7 +118,7 @@ hat. Eine Person mit einem abgeschlossenen Hochschulstudium der Biologie, der Ch
 
 (4) Eine Person, die vor dem 30. Oktober 2006 als Herstellungsleiter, Kontrollleiter oder verantwortliche Person nach Absatz 1 oder 2 tätig war, darf die jeweilige Tätigkeit nach Maßgabe dieser Verordnung weiter ausüben.
 
-<!-- norm id="BJNE000800000" -->
+<!-- norm id="BJNE000801129" -->
 ### § 6 Anzeigepflichten
 
 (1) Der Inhaber der Herstellungserlaubnis hat der zuständigen Behörde 14 Tage vor der Aufnahme der jeweiligen Tätigkeit anzuzeigen
@@ -135,16 +127,16 @@ hat. Eine Person mit einem abgeschlossenen Hochschulstudium der Biologie, der Ch
 - 2\. jeden Wechsel in der Person des Vertriebsleiters und
 - 3\. jede wesentliche Änderung der Räume oder Einrichtungen des Betriebs.
 
-§ 5 Abs. 1 Satz 3 gilt entsprechend.
+§ 5 Absatz 1 Satz 3 gilt entsprechend.
 
 (2) Bei einem unvorhergesehenen Wechsel in der Person des Herstellungsleiters, des Kontrollleiters, der sachkundigen Person oder des Vertriebsleiters hat die Anzeige unverzüglich zu erfolgen.
 
-<!-- norm id="BJNE000902119" -->
+<!-- norm id="BJNE000903129" -->
 ### § 7 Ruhen der Erlaubnis
 
 Anstelle der Rücknahme oder des Widerrufs nach § 12 Absatz 5 Satz 1 des Tiergesundheitsgesetzes kann die zuständige Behörde bis zur Beseitigung der Rücknahme- oder Widerrufsgründe das Ruhen der Herstellungserlaubnis anordnen. Die zuständige Behörde unterrichtet die zuständige Zulassungsstelle unverzüglich über die Anordnung und das Ende des Ruhens der Herstellungserlaubnis.
 
-<!-- norm id="BJNE001001119" -->
+<!-- norm id="BJNE001002129" -->
 ### § 8 Anforderungen an die Herstellung oder das Lagern von In-vitro-Diagnostika
 
 (1) Der Inhaber einer Herstellungserlaubnis hat sicherzustellen, dass die In-vitro-Diagnostika so hergestellt, geprüft und gelagert werden, dass eine Kreuzkontamination, eine Gesundheitsgefahr oder eine Gefahr für die Durchführung tierseuchenrechtlicher Maßnahmen nach dem Stand der wissenschaftlichen Erkenntnis ausgeschlossen ist.
@@ -162,7 +154,7 @@ Der Inhaber einer Herstellungserlaubnis hat die Aufzeichnungen nach Satz 1 (Char
 
 (4) Die sachkundige Person hat die Einhaltung der für die Herstellung, Prüfung und Lagerung des In-vitro-Diagnostikums maßgeblichen Vorschriften für jede Charge in einem Register oder einem vergleichbaren Dokument zu bescheinigen und die Chargenprotokolle zu unterzeichnen, bevor ein In-vitro-Diagnostikum abgegeben wird.
 
-<!-- norm id="BJNE001101119" -->
+<!-- norm id="BJNE001102129" -->
 ### § 9 Besondere Anforderungen an Betriebe, die In-vitro-Diagnostika unter Verwendung exotischer Seuchenerreger herstellen
 
 (1) Ein Betrieb, in dem In-vitro-Diagnostika unter Verwendung exotischer Seuchenerreger oder nach dem jeweiligen Stand der wissenschaftlichen Erkenntnisse in gleicher Weise gefährliche Seuchenerreger hergestellt oder geprüft werden, muss
@@ -196,7 +188,7 @@ gehalten werden. Nach der Herstellung und Prüfung oder nach Abschluss der wisse
 
 (7) Dung und flüssige Abgänge dürfen nur aus dem isolierten Teil verbracht werden, soweit sie zuvor im isolierten Teil gesammelt und so behandelt worden sind, dass Erreger übertragbarer Krankheiten sicher abgetötet worden sind. Milch ist unschädlich zu beseitigen oder vor Verfütterung an andere Tiere im isolierten Teil des Betriebs aufzukochen.
 
-<!-- norm id="BJNE001201119" -->
+<!-- norm id="BJNE001202129" -->
 ### § 10 Besondere Vorschriften für die Tierhaltung
 
 (1) Der Inhaber der Herstellungserlaubnis hat sicherzustellen, dass
@@ -219,7 +211,7 @@ gehalten werden. Nach der Herstellung und Prüfung oder nach Abschluss der wisse
 
 Änderungen der Aufzeichnungen sind kenntlich zu machen. Die verantwortliche Person hat die Aufzeichnungen mindestens ein Jahr vom Tod oder von der Abgabe des jeweiligen Tieres an aufzubewahren.
 
-<!-- norm id="BJNE001301119" -->
+<!-- norm id="BJNE001302129" -->
 ### § 11 Verwendung von Tieren zur Herstellung oder Prüfung von In-vitro-Diagnostika
 
 (1) Zur Herstellung oder Prüfung von In-vitro-Diagnostika dürfen nur Tiere verwendet werden, die frei von übertragbaren Krankheiten sind und nicht an Krankheiten leiden, die die Beschaffenheit der Mittel so beeinflussen können, dass bei deren Anwendung gesundheitliche Gefahren zu befürchten sind.
@@ -232,13 +224,13 @@ gehalten werden. Nach der Herstellung und Prüfung oder nach Abschluss der wisse
 
 (5) Muss bei der Herstellung oder Prüfung eines In-vitro-Diagnostikums ein Tier getötet werden oder verendet ein Tier während des Herstellungsvorganges oder der Prüfung, so ist das Tier im Beisein des mit der Überwachung beauftragten Tierarztes zur Erhebung eines Befundes insbesondere pathologisch zu untersuchen. Der Tierarzt hat hierüber eine Niederschrift anzufertigen.
 
-<!-- norm id="BJNE001402119" -->
+<!-- norm id="BJNE001403129" -->
 ### § 12 (weggefallen)
 
-<!-- norm id="BJNE001502119" -->
+<!-- norm id="BJNE001503129" -->
 ### § 13 (weggefallen)
 
-<!-- norm id="BJNE001601119" -->
+<!-- norm id="BJNE001602129" -->
 ### § 14 Abfüllen der Charge
 
 Für das Abfüllen einer Charge gelten die Anforderungen an die Herstellung nach § 8 Absatz 1, 2 Satz 1 Nummer 1, 2 und 4, Satz 2 sowie Absatz 3 und 4 entsprechend. Der Inhaber einer Herstellungserlaubnis muss zusätzlich sicherstellen, dass beim Abfüllen einer Charge
@@ -246,19 +238,19 @@ Für das Abfüllen einer Charge gelten die Anforderungen an die Herstellung nach
 - 1\. keine Veränderungen oder Verunreinigungen des In-vitro-Diagnostikums eintreten und
 - 2\. repräsentative Proben für die Sterilitätsprüfung und die Identitätsprüfung entnommen werden.
 
-<!-- norm id="BJNE001701119" -->
+<!-- norm id="BJNE001702129" -->
 ### § 15 Aufbewahrung von Proben abgefüllter Chargen
 
 (1) Der Inhaber der Herstellungserlaubnis für ein In-vitro-Diagnostikum hat von jeder Charge, die abgefüllt wird, Proben in einer für eine Prüfung ausreichenden Menge gemäß Satz 2 aufzubewahren. Die Proben sind für die Dauer von mindestens zwölf Monaten vom Datum des Verfalls der betroffenen Charge an und so aufzubewahren, wie es nach der Zulassung im Hinblick auf die Kennzeichnung der Behältnisse oder äußeren Umhüllung des In-vitro-Diagnostikums vorgesehen ist. Der Inhaber der Herstellungserlaubnis für das In-vitro-Diagnostikum hat sicherzustellen, dass die Identität der Proben mit der Charge gewahrt ist. Für die Aufbewahrung der Proben gelten die Anforderungen an die Lagerung nach § 8 Absatz 1 und 2 Satz 1 Nummer 4 sowie Absatz 4 entsprechend.
 
 (2) Der Inhaber der Herstellungserlaubnis hat der zuständigen Behörde auf Verlangen die Proben nach Absatz 1 unverzüglich zur Verfügung zu stellen.
 
-<!-- norm id="BJNE001801119" -->
+<!-- norm id="BJNE001802129" -->
 ### § 16 Verfahren zur Herstellung oder Prüfung von In-vitro-Diagnostika
 
 Verfahren, die zur Herstellung oder Prüfung von In-vitro-Diagnostika angewandt werden, müssen dem jeweiligen Stand von Wissenschaft und Technik entsprechen.
 
-<!-- norm id="BJNE001901119" -->
+<!-- norm id="BJNE001902129" -->
 ### § 17 Reinigung und Desinfektion, Beseitigung von Abfällen
 
 (1) Schutzkleidung ist regelmäßig in kurzen Abständen, mindestens jedoch wöchentlich, zu reinigen und zu desinfizieren. Einrichtungen, Geräte und sonstige Gegenstände, die bei der Herstellung von In-vitro-Diagnostika benutzt werden, sind nach Bedarf zu reinigen und zu desinfizieren.
@@ -274,19 +266,19 @@ unverzüglich zu reinigen und zu desinfizieren.
 
 (4) Die bei der Herstellung oder Prüfung eines In-vitro-Diagnostikums anfallenden Abfälle sind unschädlich zu beseitigen oder vor der Entfernung aus dem Betrieb so zu behandeln, dass sie keine gesundheitlichen Gefahren hervorrufen können.
 
-<!-- norm id="BJNE002002119" -->
+<!-- norm id="BJNE002003129" -->
 ### § 18 (weggefallen)
 
-<!-- norm id="BJNE002101119" -->
+<!-- norm id="BJNE002102129" -->
 ### § 19 (weggefallen)
 
-<!-- gliederung id="BJNG000301119" ebene="1" -->
+<!-- gliederung id="BJNG000302129" ebene="1" -->
 ## Abschnitt 3 Zulassung von In-vitro-Diagnostika
 
-<!-- norm id="BJNE002204119" -->
+<!-- norm id="BJNE002205129" -->
 ### § 20 Zulassungsantrag
 
-(1) Die Zulassung von In-vitro-Diagnostika nach § 11 Absatz 2 Satz 1 des Tiergesundheitsgesetzes ist vom pharmazeutischen Unternehmer schriftlich oder elektronisch und in deutscher Sprache nach einem von der zuständigen Zulassungsstelle im Bundesanzeiger bekannt gemachten Muster zu beantragen.Abweichend von Satz 1 kann die zuständige Zulassungsstelle in begründeten Ausnahmefällen die Verwendung einer anderen als der deutschen Sprache, insbesondere hinsichtlich der dem Antrag beizufügenden Unterlagen, zulassen.
+(1) Die Zulassung von In-vitro-Diagnostika nach § 11 Absatz 2 Satz 1 des Tiergesundheitsgesetzes ist vom pharmazeutischen Unternehmer schriftlich oder elektronisch und in deutscher Sprache nach einem von der zuständigen Zulassungsstelle im Bundesanzeiger bekannt gemachten Muster zu beantragen. Abweichend von Satz 1 kann die zuständige Zulassungsstelle in begründeten Ausnahmefällen die Verwendung einer anderen als der deutschen Sprache, insbesondere hinsichtlich der dem Antrag beizufügenden Unterlagen, zulassen.
 
 (2) Die Zulassung kann beantragen, wer seinen Sitz in einem Mitgliedstaat oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum hat.
 
@@ -303,12 +295,12 @@ unverzüglich zu reinigen und zu desinfizieren.
 
 Die Übersendung der Materialien und Geräte nach Satz 1 Nummer 2 darf nur verlangt werden, soweit die Prüfung nur mit vom Hersteller zur Verfügung gestellten Materialien und Geräten erfolgen kann.
 
-<!-- norm id="BJNE002301119" -->
+<!-- norm id="BJNE002302129" -->
 ### § 21 Zusammenfassung der Merkmale des In-vitro-Diagnostikums
 
 Dem Antrag auf Zulassung eines In-vitro-Diagnostikums ist eine Zusammenfassung der Merkmale des In-vitro-Diagnostikums nach Anlage 2 beizufügen.
 
-<!-- norm id="BJNE002401119" -->
+<!-- norm id="BJNE002402129" -->
 ### § 22 Zulassungsverfahren
 
 (1) Die zuständige Zulassungsstelle entscheidet innerhalb von 210 Tagen über die Zulassung nach § 23 auf Grundlage
@@ -321,7 +313,7 @@ Die zuständige Zulassungsstelle kann zur Beurteilung der Wirksamkeit, der Quali
 
 (2) Ist die zuständige Zulassungsstelle der Auffassung, dass eine Zulassung aufgrund der eingereichten Angaben und Unterlagen nach Absatz 1 Satz 1 Nummer 1 nicht erteilt werden kann, teilt sie dies dem Antragsteller unter Angabe der Gründe mit. Dem Antragsteller ist Gelegenheit zu geben, Mängel innerhalb einer angemessenen Frist, längstens jedoch innerhalb von sechs Monaten, zu beheben. Der Lauf der Frist nach Absatz 1 Satz 1 ist gehemmt, solange der Antragsteller die von der zuständigen Zulassungsbehörde geltend gemachten Mängel der Angaben und Unterlagen nicht behoben hat.
 
-<!-- norm id="BJNE002502119" -->
+<!-- norm id="BJNE002503129" -->
 ### § 23 Zulassung
 
 (1) Die zuständige Zulassungsstelle darf die Zulassung vorbehaltlich des Satzes 2 nur versagen, wenn die Prüfung des In-vitro-Diagnostikums ergeben hat, dass
@@ -355,10 +347,10 @@ Auflagen können nachträglich aufgenommen, geändert oder ergänzt werden.
 
 (6) Die Zulassung eines In-vitro-Diagnostikums nach § 16 der Tierimpfstoff-Verordnung in der Fassung der Bekanntmachung vom 12. November 1993 (BGBl. I S. 1885), die zuletzt durch § 49 Satz 2 der Verordnung vom 24. Oktober 2006 (BGBl. I S. 2355) geändert worden ist, gilt als Zulassung nach dieser Verordnung fort.
 
-<!-- norm id="BJNE002603119" -->
+<!-- norm id="BJNE002604129" -->
 ### § 24 (weggefallen)
 
-<!-- norm id="BJNE002702119" -->
+<!-- norm id="BJNE002703129" -->
 ### § 25 Erlöschen der Zulassung
 
 (1) Die Zulassung nach § 23 erlischt,
@@ -377,7 +369,7 @@ Satz 1 Nummer 2 gilt nicht für eine Zulassung, die nach § 26 Absatz 1 verläng
 
 (3) Erlischt die Zulassung nach § 23 Absatz 1 Satz 1, so darf das In-vitro-Diagnostikum noch zwei Jahre, beginnend mit dem auf die Bekanntmachung des Erlöschens nach § 31 Absatz 1 Nummer 4 folgenden 1. Januar oder 1. Juli, abgegeben und angewendet werden. Dies gilt nicht, wenn die zuständige Zulassungsstelle feststellt, dass eine der Voraussetzungen für die Rücknahme oder den Widerruf der Zulassung nach § 27 vorgelegen hat.
 
-<!-- norm id="BJNE002801119" -->
+<!-- norm id="BJNE002802129" -->
 ### § 26 Verlängerung der Zulassung
 
 (1) Die Zulassung nach § 23 wird auf Antrag des Inhabers der Zulassung verlängert, wenn sie nicht zurückzunehmen oder zu widerrufen ist oder wenn von der Möglichkeit der Rücknahme oder des Widerrufs kein Gebrauch gemacht werden soll. Der Antrag auf Verlängerung der Zulassung ist bei der zuständigen Zulassungsstelle spätestens sechs Monate vor dem Datum des Erlöschens der Zulassung zu stellen.
@@ -386,7 +378,7 @@ Satz 1 Nummer 2 gilt nicht für eine Zulassung, die nach § 26 Absatz 1 verläng
 
 (3) Eine durch die zuständige Zulassungsstelle erteilte Verlängerung der Zulassung gilt unbefristet, es sei denn, die zuständige Zulassungsstelle ordnet eine Befristung um weitere fünf Jahre an. Die Befristung kann insbesondere angeordnet werden, soweit Risiken für die Gesundheit von Mensch oder Tier bei der Anwendung des In-vitro-Diagnostikums nicht auszuschließen sind.
 
-<!-- norm id="BJNE002901119" -->
+<!-- norm id="BJNE002902129" -->
 ### § 27 Rücknahme, Widerruf und Ruhen der Zulassung
 
 (1) Die zuständige Zulassungsstelle hat die Zulassung nach § 23 zurückzunehmen, wenn nachträglich bekannt wird, dass einer der Versagungsgründe des § 23 Absatz 1 Satz 1 Nummer 2, 3 oder 4 oder Satz 2 vorgelegen hat. Sie hat die Zulassung nach § 23 zu widerrufen, wenn einer der Versagungsgründe nach § 23 Absatz 1 Satz 1 nachträglich eingetreten ist.
@@ -404,7 +396,7 @@ Satz 1 Nummer 2 gilt nicht für eine Zulassung, die nach § 26 Absatz 1 verläng
 
 (4) In den Fällen des Absatzes 2 Nummer 2 Buchstabe b ist § 49 Absatz 6 des Verwaltungsverfahrensgesetzes nicht anzuwenden. Im Übrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften über die Aufhebung von Verwaltungsakten unberührt.
 
-<!-- norm id="BJNE003001119" -->
+<!-- norm id="BJNE003002129" -->
 ### § 28 Pflichten des Zulassungsinhabers
 
 (1) Der Antragsteller hat der zuständigen Zulassungsstelle unverzüglich neue Tatsachen mitzuteilen, wenn diese die Angaben und Unterlagen nach § 20 Absatz 3 oder die Zusammenfassung der Merkmale nach § 21 betreffen. Der Mitteilung sind Angaben und Unterlagen beizufügen, die die neuen Tatsachen belegen. Nach Erteilung der Zulassung nach § 23 trifft die Pflicht nach den Sätzen 1 und 2 den Zulassungsinhaber.
@@ -419,10 +411,10 @@ In den Fällen des Satzes 1 Nummer 3 darf die zuständige Zulassungsstelle Angab
 
 (3) Der Zulassungsinhaber hat bei der Herstellung und Prüfung des In-vitro-Diagnostikums den jeweiligen Stand von Wissenschaft und Technik zu beachten und die sich daraus ergebenden notwendigen Änderungen vorzunehmen. Er hat die Änderungen der zuständigen Zulassungsstelle unter Beifügung entsprechender Angaben und Unterlagen unverzüglich anzuzeigen.
 
-<!-- norm id="BJNE003102119" -->
+<!-- norm id="BJNE003103129" -->
 ### § 29 (weggefallen)
 
-<!-- norm id="BJNE005501119" -->
+<!-- norm id="BJNE005502129" -->
 ### § 29a Änderung der Zulassung eines In-vitro-Diagnostikums
 
 (1) Soweit sich Änderungen gegenüber den Angaben und Unterlagen nach § 20 Absatz 3 oder der Zusammenfassung nach § 21 ergeben, hat der Zulassungsinhaber dies der zuständigen Zulassungsstelle unverzüglich anzuzeigen. Der Anzeige sind die Angaben und Unterlagen beizufügen, die die Änderungen belegen.
@@ -439,10 +431,10 @@ In den Fällen des Satzes 1 Nummer 3 darf die zuständige Zulassungsstelle Angab
 
 (4) Im Fall einer Änderung der wirksamen Bestandteile des In-vitro-Diagnostikums im Sinne der Nummer 4 der Anlage 1 ist eine neue Zulassung zu beantragen.
 
-<!-- norm id="BJNE003202119" -->
+<!-- norm id="BJNE003203129" -->
 ### § 30 (weggefallen)
 
-<!-- norm id="BJNE003301119" -->
+<!-- norm id="BJNE003302129" -->
 ### § 31 Bekanntmachung, Veröffentlichung
 
 (1) Die zuständige Zulassungsstelle hat im Bundesanzeiger bekanntzumachen:
@@ -462,10 +454,10 @@ In den Fällen des Satzes 1 Nummer 3 darf die zuständige Zulassungsstelle Angab
 - 1\. die Zulassung und die Zusammenfassung der Merkmale des In-vitro-Diagnostikums,
 - 2\. den Widerruf, die Rücknahme oder das Ruhen der Zulassung.
 
-<!-- gliederung id="BJNG000400000" ebene="1" -->
+<!-- gliederung id="BJNG000401129" ebene="1" -->
 ## Abschnitt 4 Staatliche Chargenprüfung
 
-<!-- norm id="BJNE003402119" -->
+<!-- norm id="BJNE003403129" -->
 ### § 32 Durchführung der staatlichen Chargenprüfung
 
 (1) Eine Charge darf nur abgegeben oder angewendet werden, wenn sie freigegeben worden ist.
@@ -495,7 +487,7 @@ Die Charge ist ferner freizugeben, wenn die zuständige Behörde eines anderen M
 
 Auf Anforderung einer für die Chargenprüfung zuständigen Stelle eines anderen Mitgliedstaates, in dem das In-vitro-Diagnostikum zugelassen ist, hat die zuständige Zulassungsstelle dieser die Ergebnisse der Chargenprüfung mitzuteilen.
 
-<!-- norm id="BJNE003503119" -->
+<!-- norm id="BJNE003504129" -->
 ### § 33 Umfang der staatlichen Chargenprüfung
 
 (1) Die zuständige Zulassungsstelle trifft die Entscheidung darüber, ob die Charge eines In-vitro-Diagnostikums auf der Grundlage der eingereichten Unterlagen oder eigener Untersuchungen geprüft wird, aufgrund einer Risikoabschätzung im Hinblick auf das In-vitro-Diagnostikum, für das die Freigabe einer Charge beantragt worden ist. Dabei berücksichtigt sie
@@ -505,7 +497,7 @@ Auf Anforderung einer für die Chargenprüfung zuständigen Stelle eines anderen
 
 (2) Auf Antrag kann die zuständige Zulassungsstelle In-vitro-Diagnostika abweichend von § 32 Absatz 1 aufgrund einer Risikoabschätzung im Hinblick auf das In-vitro-Diagnostikum von der staatlichen Chargenprüfung freistellen. Die zuständige Zulassungsstelle hat dem Antragsteller die Freistellung schriftlich oder elektronisch mitzuteilen. Liegen der zuständigen Zulassungsstelle Anhaltspunkte dafür vor, dass bei einem von der staatlichen Chargenprüfung freigestellten In-vitro-Diagnostikum Mängel hinsichtlich der Qualität, der Sicherheit oder der Unbedenklichkeit vorliegen, kann die zuständige Zulassungsstelle die Freistellung von der staatlichen Chargenprüfung widerrufen.
 
-<!-- norm id="BJNE003601119" -->
+<!-- norm id="BJNE003602129" -->
 ### § 34 Rücknahme und Widerruf der Freigabe
 
 (1) Die zuständige Zulassungsstelle kann die Freigabe einer Charge zurücknehmen, wenn nachträglich bekannt wird, dass
@@ -519,10 +511,10 @@ Die zuständige Zulassungsstelle kann die Freigabe einer Charge widerrufen, wenn
 
 (2) Die zuständige Zulassungsstelle hat die zuständige Behörde über die Rücknahme oder den Widerruf der Freigabe einer Charge einschließlich der für die Rücknahme oder den Widerruf maßgeblichen Gründe zu unterrichten.
 
-<!-- gliederung id="BJNG000500000" ebene="1" -->
+<!-- gliederung id="BJNG000501129" ebene="1" -->
 ## Abschnitt 5 Kennzeichnung
 
-<!-- norm id="BJNE003701119" -->
+<!-- norm id="BJNE003702129" -->
 ### § 35 Kennzeichnung von Behältnis und äußerer Umhüllung
 
 (1) Ein In-vitro-Diagnostikum darf nur abgegeben werden, wenn auf dem Behältnis und, sofern verwendet, auf der äußeren Umhüllung in deutscher Sprache, in deutlich lesbarer Schrift und auf dauerhafte Weise mindestens Folgendes angegeben ist:
@@ -547,7 +539,7 @@ Die zuständige Zulassungsstelle kann die Freigabe einer Charge widerrufen, wenn
 
 (5) Bei den Angaben nach den Absätzen 1 und 2 dürfen die im Verkehr mit Arzneimitteln üblichen Abkürzungen verwendet werden. Die Angabe nach Absatz 1 Nummer 5 darf abgekürzt werden, sofern die Abkürzung des Unternehmens allgemein bekannt ist.
 
-<!-- norm id="BJNE003801119" -->
+<!-- norm id="BJNE003802129" -->
 ### § 36 Packungsbeilage
 
 Ein In-vitro-Diagnostikum darf nur abgegeben werden, wenn ihm eine Packungsbeilage beigefügt ist, die die Überschrift „Gebrauchsinformation“ trägt und in der in nachstehender Reihenfolge allgemein verständlich in deutscher Sprache und deutlich lesbarer Schrift mindestens Folgendes angegeben ist:
@@ -564,26 +556,26 @@ Ein In-vitro-Diagnostikum darf nur abgegeben werden, wenn ihm eine Packungsbeila
 
 Andere als die nach Satz 1 vorgeschriebenen Angaben müssen deutlich von diesen getrennt aufgeführt sein.
 
-<!-- gliederung id="BJNG000601119" ebene="1" -->
+<!-- gliederung id="BJNG000602129" ebene="1" -->
 ## Abschnitt 6 (weggefallen)
 
-<!-- norm id="BJNE003902119" -->
+<!-- norm id="BJNE003903129" -->
 ### (XXXX) §§ 37 bis 39 (weggefallen)
 
-<!-- gliederung id="BJNG000701119" ebene="1" -->
+<!-- gliederung id="BJNG000702129" ebene="1" -->
 ## Abschnitt 7 Abgabe und Anwendung von In-vitro-Diagnostika
 
-<!-- norm id="BJNE004202119" -->
+<!-- norm id="BJNE004203129" -->
 ### § 40 Vertriebsweg
 
 (1) In-vitro-Diagnostika dürfen im Inland nur durch einen pharmazeutischen Unternehmer oder einen Großhändler abgegeben werden, der seinen Sitz in einem Mitgliedstaat hat.
 
 (2) Tierärzte dürfen In-vitro-Diagnostika an einen gewerbsmäßigen oder berufsmäßigen Tierhalter oder eine von diesem beauftragte Person nur unter der Voraussetzung abgeben, dass die Tiere von dem abgebenden Tierarzt behandelt werden. Der Tierhalter oder die von diesem beauftragte Person darf In-vitro-Diagnostika nicht an andere abgeben.
 
-<!-- norm id="BJNE004302119" -->
+<!-- norm id="BJNE004303129" -->
 ### § 41 (weggefallen)
 
-<!-- norm id="BJNE004402119" -->
+<!-- norm id="BJNE004403129" -->
 ### § 42 Abgabeverbote
 
 (1) Es ist verboten, In-vitro-Diagnostika abzugeben, bei denen nach dem jeweiligen Stand der wissenschaftlichen Erkenntnis Anhaltspunkte dafür bestehen, dass sie bei bestimmungsgemäßer Anwendung schädliche Wirkungen haben, die über ein nach den Erkenntnissen der veterinärmedizinischen Wissenschaft vertretbares Maß hinausgehen.
@@ -595,26 +587,26 @@ Andere als die nach Satz 1 vorgeschriebenen Angaben müssen deutlich von diesen 
 
 (3) Es ist verboten, In-vitro-Diagnostika abzugeben, deren Datum des Verfalls abgelaufen ist.
 
-<!-- norm id="BJNE004501119" -->
+<!-- norm id="BJNE004502129" -->
 ### § 43 (weggefallen)
 
-<!-- norm id="BJNE004604119" -->
+<!-- norm id="BJNE004605129" -->
 ### § 44 (weggefallen)
 
-<!-- norm id="BJNE004701119" -->
+<!-- norm id="BJNE004702129" -->
 ### § 45 Vorrätighalten von In-vitro-Diagnostika
 
 In-vitro-Diagnostika, die an den Tierhalter oder eine von diesem beauftragte Person abgegeben worden sind, dürfen nicht zusammen mit Lebensmitteln oder Bedarfsgegenständen im Sinne des § 2 Absatz 6 des Lebensmittel- und Futtermittelgesetzbuches gelagert werden.
 
-<!-- norm id="BJNE004800000" -->
+<!-- norm id="BJNE004801129" -->
 ### § 46 Befugnisse tierärztlicher Bildungsstätten
 
 Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich und Einrichtungen der pharmazeutischen Industrie, die der Arzneimittelversorgung der dort behandelten oder für Versuche gehaltenen Tiere dienen und von einem Tierarzt oder einem Apotheker geleitet werden, haben die Rechte und Pflichten, die ein Tierarzt nach dieser Verordnung hat. Satz 1 gilt auch für Forschungseinrichtungen, soweit diese im Auftrag einer tierärztlichen Bildungsstätte im Hochschulbereich oder der pharmazeutischen Industrie tätig sind.
 
-<!-- gliederung id="BJNG000800000" ebene="1" -->
+<!-- gliederung id="BJNG000801129" ebene="1" -->
 ## Abschnitt 8 Schlussbestimmungen
 
-<!-- norm id="BJNE004902119" -->
+<!-- norm id="BJNE004903129" -->
 ### § 47 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -637,20 +629,13 @@ Einrichtungen der tierärztlichen Bildungsstätten im Hochschulbereich und Einri
 - 8\. entgegen § 15 Absatz 1 Satz 3 nicht sicherstellt, dass die Identität einer Probe mit der Charge gewahrt ist, oder
 - 9\. entgegen § 32 Absatz 1, § 35 Absatz 1, § 36 Satz 1, § 40 Absatz 2 oder § 42 eine Charge oder ein In-vitro-Diagnostikum abgibt.
 
-<!-- norm id="BJNE005001119" -->
+<!-- norm id="BJNE005002129" -->
 ### § 48 (weggefallen)
 
-<!-- norm id="BJNE005100000" -->
-### § 49 Inkrafttreten, Außerkrafttreten
+<!-- norm id="BJNE005101129" -->
+### § 49 (Inkrafttreten, Außerkrafttreten)
 
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-<!-- norm id="BJNE005200000" -->
-### Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-<!-- norm id="BJNE005302119" -->
+<!-- norm id="BJNE005303129" -->
 ### Anlage 1 (zu § 20 Absatz 3 und § 29a Absatz 4)
 
 Angaben und Unterlagen, die einem Antrag nach § 20 Absatz 3 beizufügen sind:
@@ -677,7 +662,7 @@ Angaben und Unterlagen, die einem Antrag nach § 20 Absatz 3 beizufügen sind:
 - 13\. eine Zusammenfassung der Merkmale des In-vitro-Diagnostikums, ein Muster des Behältnisses und der äußeren Umhüllung des In-vitro-Diagnostikums sowie die Packungsbeilage und
 - 14\. im Falle der Herstellung in einem Mitgliedstaat oder einem Drittland den Nachweis darüber, dass der Hersteller, soweit im Herstellungsland erforderlich, die Genehmigung zur Herstellung von In-vitro-Diagnostika besitzt.
 
-<!-- norm id="BJNE005401119" -->
+<!-- norm id="BJNE005402129" -->
 ### Anlage 2 (zu § 21)
 
 Zusammenfassung der Merkmale, die einem Antrag nach § 20 Absatz 3 beizufügen ist:
