@@ -1,9 +1,4 @@
-Stand 2026-11-21: 7 geändert, 0 neu, 0 entfernt
+Stand 2026-11-22: 2 geändert, 0 neu, 0 entfernt
 
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
-- BGB: zuletzt geändert durch Art. 6 G v. 23.7.2026 I Nr. 226
-- BImSchG: zuletzt geändert durch Art. 3 G v. 18.6.2026 I Nr. 183
-- FAG: Zuletzt geändert durch Art. 2 G v. 27.10.2025 I Nr. 255
-- LKWÜberlStVAusnV: Zuletzt geändert durch Art. 1 V v. 18.11.2026 I Nr. 345
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
-- TierGesIVDV: geändert
