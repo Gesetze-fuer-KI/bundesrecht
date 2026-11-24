@@ -1,4 +1,16 @@
-Stand 2026-11-23: 2 geändert, 0 neu, 0 entfernt
+Stand 2026-11-24: 12 geändert, 1 neu, 1 entfernt
 
+- 36. BImSchV: Zuletzt geändert durch Art. 4 G v. 1.6.2026 I Nr. 163
+- 9. BImSchV: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
+- AO: zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 320
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
+- EGAO: Zuletzt geändert durch Art. 4 G v. 29.6.2026 I Nr. 197
+- EStG: zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307
+- FreqV: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
+- UStDV: zuletzt geändert durch Art. 7 V v. 19.12.2025 I Nr. 372
+- UStG: zuletzt geändert durch Art. 5 G v. 29.6.2026 I Nr. 197
+- VAG: Zuletzt geändert durch Art. 3 G v. 25.9.2026 I Nr. 275
+- VDarlSachkV: Geändert durch Art. 1 V v. 20.11.2026 I Nr. 348
+- neu: SÜFV (Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes und zur Feststellung der öffentlichen Stellen des Bundes und der nichtöffentlichen Stellen mit lebens- oder verteidigungswichtigen Einrichtungen)
+- entfernt: s_fv_2023

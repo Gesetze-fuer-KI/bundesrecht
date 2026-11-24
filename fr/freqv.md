@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
 ausfertigung: '2013-08-27'
 quelle: https://www.gesetze-im-internet.de/freqv/
 doknr: BJNR332600013
-builddate: '20260506175922'
+builddate: '20261123220014'
 ---
 
 # Frequenzverordnung (FreqV)

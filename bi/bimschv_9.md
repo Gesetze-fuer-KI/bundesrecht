@@ -3,16 +3,16 @@ abkuerzung: 9. BImSchV
 jurabk: BImSchV 9
 titel: Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
 kurztitel: Verordnung über das Genehmigungsverfahren
-stand: zuletzt geändert durch Art. 4 G v. 3.7.2024 I Nr. 225
+stand: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
 ausfertigung: '1977-02-18'
 quelle: https://www.gesetze-im-internet.de/bimschv_9/
 doknr: BJNR002740977
-builddate: '20261020215501'
+builddate: '20261123220001'
 ---
 
 # Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (9. BImSchV)
 
-Stand: zuletzt geändert durch Art. 4 G v. 3.7.2024 I Nr. 225
+Stand: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
 
 Quelle: <https://www.gesetze-im-internet.de/bimschv_9/>
 

@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 7 V v. 19.12.2025 I Nr. 372
 ausfertigung: '1979-12-21'
 quelle: https://www.gesetze-im-internet.de/ustdv_1980/
 doknr: BJNR023590979
-builddate: '20260506175030'
+builddate: '20261123220009'
 ---
 
 # Umsatzsteuer-Durchführungsverordnung (UStDV)
@@ -78,7 +78,7 @@ Bei grenzüberschreitenden Personenbeförderungen mit Kraftfahrzeugen von und zu
 
 Streckenanteile in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten sind in diesen Fällen als inländische Beförderungsstrecken anzusehen.
 
-(3) Bei grenzüberschreitenden Beförderungen im Passagier- und Fährverkehr mit Wasserfahrzeugen für die Seeschiffahrt, die zwischen ausländischen Seehäfen oder zwischen einem inländischen Seehafen und einem ausländischen Seehafen durchgeführt werden, sind inländische Streckenanteile als ausländische Beförderungsstrecken anzusehen und Beförderungen in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten nicht wie Umsätze im Inland zu behandeln.
+(3) Bei grenzüberschreitenden Beförderungen im Passagier- und Fährverkehr mit Wasserfahrzeugen für die Seeschifffahrt, die zwischen ausländischen Seehäfen oder zwischen einem inländischen Seehafen und einem ausländischen Seehafen durchgeführt werden, sind inländische Streckenanteile als ausländische Beförderungsstrecken anzusehen und Beförderungen in den in § 1 Abs. 3 des Gesetzes bezeichneten Gebieten nicht wie Umsätze im Inland zu behandeln.
 
 (4) Inländische Häfen im Sinne dieser Vorschrift sind auch Freihäfen und die Insel Helgoland.
 
@@ -334,9 +334,9 @@ Ist der Gegenstand der Lieferung vor der Beförderung oder Versendung in das üb
 ## - Zu § 4 Nr. 2 und § 8 des Gesetzes
 
 <!-- norm id="BJNE004604301" -->
-### § 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschiffahrt und für die Luftfahrt
+### § 18 Buchmäßiger Nachweis bei Umsätzen für die Seeschifffahrt und für die Luftfahrt
 
-Bei Umsätzen für die Seeschiffahrt und für die Luftfahrt (§ 8 des Gesetzes) ist § 13 Abs. 1 und 2 Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll der Unternehmer aufzeichnen, für welchen Zweck der Gegenstand der Lieferung oder die sonstige Leistung bestimmt ist.
+Bei Umsätzen für die Seeschifffahrt und für die Luftfahrt (§ 8 des Gesetzes) ist § 13 Abs. 1 und 2 Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll der Unternehmer aufzeichnen, für welchen Zweck der Gegenstand der Lieferung oder die sonstige Leistung bestimmt ist.
 
 <!-- gliederung id="BJNG000604301" ebene="1" -->
 ## - Zu § 4 Nr. 3 des Gesetzes

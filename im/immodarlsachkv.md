@@ -1,15 +1,18 @@
 ---
-abkuerzung: ImmoDarlSachkV
+abkuerzung: VDarlSachkV
 jurabk: ImmoDarlSachkV
-titel: Verordnung über die Anforderungen an die Sachkunde der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter
-kurztitel: Immobiliar-Darlehensvergabe-Sachkunde-Verordnung
+titel: Verordnung über die Anforderungen an die Sachkunde der mit der Vergabe von Verbraucherdarlehen befassten internen und externen Mitarbeiter
+kurztitel: Verbraucherdarlehensvergabe-Sachkunde-Verordnung
+stand: Geändert durch Art. 1 V v. 20.11.2026 I Nr. 348
 ausfertigung: '2016-04-25'
 quelle: https://www.gesetze-im-internet.de/immodarlsachkv/
 doknr: BJNR097200016
-builddate: '20160906224008'
+builddate: '20261123220013'
 ---
 
-# Verordnung über die Anforderungen an die Sachkunde der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter (ImmoDarlSachkV)
+# Verordnung über die Anforderungen an die Sachkunde der mit der Vergabe von Verbraucherdarlehen befassten internen und externen Mitarbeiter (VDarlSachkV)
+
+Stand: Geändert durch Art. 1 V v. 20.11.2026 I Nr. 348
 
 Quelle: <https://www.gesetze-im-internet.de/immodarlsachkv/>
 
@@ -18,29 +21,42 @@ Quelle: <https://www.gesetze-im-internet.de/immodarlsachkv/>
 > ```text
 > (+++ Textnachweis ab: 3.5.2016 +++)
 > ```
+>
+> Amtliche Langüberschrift, Kurzüberschrift und Buchstabenabkürzung: IdF d. Art. 1 Nr. 1 V v. 20.11.2026 I Nr. 348
 
 <!-- norm id="BJNE000100000" -->
 ## Eingangsformel
 
 Auf Grund des § 18a Absatz 11 Satz 2 des Kreditwesengesetzes, der durch Artikel 12 Nummer 3 des Gesetzes vom 11. März 2016 (BGBl. I S. 396) eingefügt worden ist, in Verbindung mit § 1 Nummer 5 der Verordnung zur Übertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt für Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch Artikel 1 Nummer 1 der Verordnung vom 8. April 2016 (BGBl. I S. 622) geändert worden ist, verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 
-<!-- norm id="BJNE000200000" -->
-## § 1 Sachkunde der mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten Mitarbeiter
+<!-- norm id="BJNE000201128" -->
+## § 1 Sachkunde der mit der Vergabe von Verbraucherdarlehen befassten Mitarbeiter
 
-(1) Die mit der Vergabe von Immobiliar-Verbraucherdarlehen befassten internen und externen Mitarbeiter der Kreditinstitute müssen über die in § 18a Absatz 6 des Kreditwesengesetzes genannten angemessenen Kenntnisse und Fähigkeiten verfügen. Die hierfür notwendige Sachkunde erfordert angemessene theoretische und praktische Kenntnisse
+(1) Die mit der Vergabe von Verbraucherdarlehen befassten internen und externen Mitarbeiter von Kreditinstituten nach § 1 Absatz 1 des Kreditwesengesetzes müssen über die in § 18a Absatz 6 des Kreditwesengesetzes genannten angemessenen Kenntnisse und Fähigkeiten entsprechend den Absätzen 2 und 3 verfügen und diese auf dem jeweils aktuellen Stand halten.
+
+(2) Die für die Vergabe von Allgemein-Verbraucherdarlehen notwendige Sachkunde erfordert angemessene theoretische und praktische Kenntnisse
+
+- 1\. der rechtlichen Grundlagen für die Vergabe von Allgemein-Verbraucherdarlehen,
+- 2\. des Verfahrens zur Prüfung der Kreditwürdigkeit des Verbrauchers,
+- 3\. der einschlägigen Kreditprodukte und der mit dem Abschluss des Allgemein-Verbraucherdarlehensvertrags verbundenen Nebenleistungen,
+- 4\. der Bewertung von üblicherweise bei Allgemein-Verbraucherdarlehen vereinbarten Sicherheiten sowie
+- 5\. der Erbringung von Beratungsleistungen.
+
+(3) Die für die Vergabe von Immobiliar-Verbraucherdarlehen notwendige Sachkunde erfordert angemessene theoretische und praktische Kenntnisse
 
 - 1\. der rechtlichen Grundlagen für die Vergabe von Immobiliar-Verbraucherdarlehen,
 - 2\. des Verfahrens zur Prüfung der Kreditwürdigkeit des Verbrauchers,
-- 3\. der einschlägigen Kreditprodukte und der üblicherweise mit ihnen angebotenen Nebenleistungen,
-- 4\. der Verfahren des Immobilienerwerbs einschließlich der Organisation und Funktionsweise von Grundbüchern sowie
-- 5\. der Bewertung von Sicherheiten.
+- 3\. der einschlägigen Kreditprodukte und der mit dem Abschluss des Immobiliar-Verbraucherdarlehensvertrags verbundenen Nebenleistungen,
+- 4\. der Verfahren des Immobilienerwerbs einschließlich der Organisation und Funktionsweise von Grundbüchern,
+- 5\. der Bewertung von üblicherweise bei Immobiliar-Verbraucherdarlehen vereinbarten Sicherheiten sowie
+- 6\. der Erbringung von Beratungsleistungen.
 
-(2) Die nach Absatz 1 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, durch Schulungsnachweise oder in anderer geeigneter Weise belegt sein.
+(4) Die nach den Absätzen 2 oder 3 erforderliche Sachkunde muss durch Abschluss- oder Arbeitszeugnisse, durch Schulungsnachweise oder in anderer geeigneter Weise belegt sein.
 
-<!-- norm id="BJNE000300000" -->
+<!-- norm id="BJNE000301128" -->
 ## § 2 Berufsqualifikation als Sachkundenachweis
 
-(1) Die erforderliche Sachkunde gilt insbesondere durch eine der folgenden Berufsabschlüsse oder Berufsqualifikationen als nachgewiesen:
+(1) Die erforderliche Sachkunde nach § 1 Absatz 2 und 3 gilt insbesondere durch eine der folgenden Berufsabschlüsse oder Berufsqualifikationen als nachgewiesen:
 
 - 1\. den staatlich anerkannten Abschluss
   - a) als Bankkaufmann oder Bankkauffrau oder
@@ -52,7 +68,9 @@ Auf Grund des § 18a Absatz 11 Satz 2 des Kreditwesengesetzes, der durch Artikel
 - 4\. den Abschluss als Geprüfter Bankfachwirt oder Geprüfte Bankfachwirtin,
 - 5\. den Abschluss als Geprüfter Immobilienfachwirt oder Geprüfte Immobilienfachwirtin,
 - 6\. den Abschluss als Geprüfter Fachwirt für Versicherungen und Finanzen oder als Geprüfte Fachwirtin für Versicherungen und Finanzen oder
-- 7\. den Abschluss als Geprüfter Fachberater für Finanzdienstleistungen oder als Geprüfte Fachberaterin für Finanzdienstleistungen, wenn zusätzlich eine mindestens zweijährige Berufserfahrung im Bereich der Immobiliardarlehensvergabe vorliegt.
+- 7\. den Abschluss als Geprüfter Fachberater für Finanzdienstleistungen oder als Geprüfte Fachberaterin für Finanzdienstleistungen.
+
+Satz 1 Nummer 7 gilt für Mitarbeiter, die mit der Vergabe von Immobiliar-Verbraucherdarlehen befasst sind, nur, wenn zusätzlich eine mindestens zweijährige Berufserfahrung im Bereich der Immobiliardarlehensvergabe vorliegt.
 
 (2) Als Nachweis wird außerdem der Abschluss eines Studiums der Mathematik, der Wirtschafts- oder Rechtswissenschaften (Hochschul- oder Fachhochschulabschluss) anerkannt, wenn darüber hinaus eine fachspezifische Berufspraxis nachgewiesen werden kann, die gewährleistet, dass der Mitarbeiter den an die Sachkunde zu stellenden Anforderungen genügt.
 

@@ -2,16 +2,16 @@
 abkuerzung: 36. BImSchV
 jurabk: BImSchV 36
 titel: Sechsunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen der Biokraftstoffquote)
-stand: Zuletzt geändert durch Art. 1 V v. 4.6.2024 I Nr. 183
+stand: Zuletzt geändert durch Art. 4 G v. 1.6.2026 I Nr. 163
 ausfertigung: '2007-01-29'
 quelle: https://www.gesetze-im-internet.de/bimschv_36/
 doknr: BJNR006010007
-builddate: '20260608215512'
+builddate: '20261123220003'
 ---
 
 # Sechsunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Durchführung der Regelungen der Biokraftstoffquote) (36. BImSchV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 4.6.2024 I Nr. 183
+Stand: Zuletzt geändert durch Art. 4 G v. 1.6.2026 I Nr. 163
 
 Quelle: <https://www.gesetze-im-internet.de/bimschv_36/>
 
@@ -92,9 +92,6 @@ hergestellt worden sind und der Betrieb, in dem die Stoffe angefallen sind, nach
 ## § 10 Zugänglichkeit der DIN-Normen
 
 DIN-Normen, auf die in dieser Verordnung verwiesen wird, sind im Beuth Verlag GmbH, Berlin, erschienen und in der Deutschen Nationalbibliothek archivmäßig gesichert hinterlegt.
-
-<!-- norm id="BJNE002101130" -->
-## § 11 (weggefallen)
 
 <!-- norm id="BJNE000803116" -->
 ## Anlage (zu § 4)Nachweis der Einhaltung der Normen
