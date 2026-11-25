@@ -7,7 +7,7 @@ stand: Geändert durch Art. 8 Abs. 6 G v. 12.5.2026 I Nr. 137
 ausfertigung: '2026-03-29'
 quelle: https://www.gesetze-im-internet.de/wasserstoffbg/
 doknr: BJNR0540B0026
-builddate: '20260630215532'
+builddate: '20261124215506'
 ---
 
 # Gesetz zur planungs- und genehmigungsrechtlichen Beschleunigung von Erzeugung, Speicherung, Import und Transport von Wasserstoff (WasserstoffBG)
@@ -29,6 +29,8 @@ Quelle: <https://www.gesetze-im-internet.de/wasserstoffbg/>
 > EURL 23/2014 (CELEX Nr: 32014L0023)
 > EURL 24/2014 (CELEX Nr: 32014L0024)
 > EURL 25/2014 (CELEX Nr: 32014L0025) +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 29.03.2026 I Nr. 84 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 29.3.2025 I Nr. 84 vom Bundestag beschlossen. Es tritt gem. Art. 9 dieses G am 2.4.2026 in Kraft.

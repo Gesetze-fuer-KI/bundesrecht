@@ -6,7 +6,7 @@ kurztitel: KRITIS-Dachgesetz
 ausfertigung: '2026-03-11'
 quelle: https://www.gesetze-im-internet.de/kritisdachg/
 doknr: BJNR0420B0026
-builddate: '20260728215526'
+builddate: '20261124215505'
 ---
 
 # Dachgesetz zur Stärkung der physischen Resilienz kritischer Anlagen (KRITISDachG)
@@ -17,6 +17,8 @@ Quelle: <https://www.gesetze-im-internet.de/kritisdachg/>
 >
 > ```text
 > (+++ Textnachweis ab: 17.3.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.03.2026 I Nr. 66 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 11.3.2026 I Nr. 66 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 11 Abs. 1 dieses G am 17.3.2026 in Kraft getreten. § 14 Abs. 3 bis 5 treten gem. Art. 11 Abs. 2 dieses G am 1.1.2030 in Kraft.

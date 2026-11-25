@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 9 G v. 9.4.2026 I Nr. 97
 ausfertigung: '2021-05-12'
 quelle: https://www.gesetze-im-internet.de/wpig/
 doknr: BJNR099010021
-builddate: '20260817215507'
+builddate: '20261124215511'
 ---
 
 # Gesetz zur Beaufsichtigung von Wertpapierinstituten (WpIG)

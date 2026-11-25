@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 3 Abs. 2 V v. 6.7.2021 I 2514
 ausfertigung: '2002-06-24'
 quelle: https://www.gesetze-im-internet.de/emasprivilegv/
 doknr: BJNR224710002
-builddate: '20221107213004'
+builddate: '20261124215514'
 ---
 
 # Verordnung über immissionsschutz- und abfallrechtliche Überwachungserleichterungen für nach der Verordnung (EG) Nr. 761/2001 registrierte Standorte und Organisationen (EMASPrivilegV)
@@ -77,12 +77,10 @@ mit eigenem Personal durchzuführen. Satz 1 gilt nicht für die erstmalige Funkt
 
 Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf Antrag gestatten, sicherheitstechnische Prüfungen nach § 29a Abs. 2 Nr. 1 bis 4 des Bundes-Immissionsschutzgesetzes mit eigenem Personal durchzuführen, wenn die Belange der Anlagensicherheit Gegenstand des Audits und der Prüfung durch einen dafür fachkundigen Umweltgutachter gewesen sind und sichergestellt ist, dass der Betreiber, Störfallbeauftragte oder ein sonstiger geeigneter Betriebsangehöriger die hierfür erforderliche Fachkunde und Zuverlässigkeit besitzt und geeignete Geräte und Einrichtungen eingesetzt werden. Die Ergebnisse der Prüfungen sind der Behörde auf deren Verlangen vorzulegen.
 
-<!-- norm id="BJNE000704116" -->
+<!-- norm id="BJNE000705130" -->
 ## § 7 Berichte
 
-(1) Betreiber von EMAS-Anlagen können der zuständigen Behörde anstelle einer Emissionserklärung gemäß der Verordnung über Emissionserklärungen eine vom Umweltgutachter validierte Umwelterklärung vorlegen, die den Anforderungen des § 27 Abs. 1 des Bundes-Immissionsschutzgesetzes sowie der Verordnung über Emissionserklärungen genügt. In der Umwelterklärung ist zu erklären, dass die Voraussetzungen nach Satz 1 eingehalten sind.
-
-(2) Der Betreiber einer EMAS-Anlage hat
+Der Betreiber einer EMAS-Anlage hat
 
 - 1\. eine Durchschrift des Berichts nach § 12 Abs. 6 der Verordnung zur Emissionsbegrenzung von leichtflüchtigen halogenierten organischen Verbindungen in der jeweils geltenden Fassung,
 - 2\. eine Durchschrift des Berichts nach § 8 Abs. 5 Satz 3 der Verordnung zur Begrenzung der Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin in der jeweils geltenden Fassung,

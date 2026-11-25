@@ -1,16 +1,36 @@
-Stand 2026-11-24: 12 geändert, 1 neu, 1 entfernt
+Stand 2026-11-25: 28 geändert, 3 neu, 3 entfernt
 
-- 36. BImSchV: Zuletzt geändert durch Art. 4 G v. 1.6.2026 I Nr. 163
+- 44. BImSchV: Zuletzt geändert durch Art. 1 V v. 12.10.2022 I 1801
+- 5. BImSchV: Zuletzt geändert durch Art. 4 V v. 28.4.2015 I 670
 - 9. BImSchV: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
-- AO: zuletzt geändert durch Art. 6 G v. 22.10.2026 I Nr. 320
+- AbfAEV: Zuletzt geändert durch Art. 3 Abs. 1 G v. 13.7.2026 I Nr. 207
+- AbfBeauftrV: Zuletzt geändert durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
+- AbsFinAG: geändert
+- AbwV: Zuletzt geändert durch Art. 8 Abs. 4 V v. 19.11.2026 I Nr. 352
+- AgrarGeoSchDG: geändert
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
-- EGAO: Zuletzt geändert durch Art. 4 G v. 29.6.2026 I Nr. 197
-- EStG: zuletzt geändert durch Art. 1 G v. 15.10.2026 I Nr. 307
+- BLV: geändert
+- ChemKlimaschutzV: geändert
+- DepV: Zuletzt geändert durch Art. 18 G v. 22.7.2026 I Nr. 224
+- EBewMG: geändert
+- EMASPrivilegV: Zuletzt geändert durch Art. 3 Abs. 2 V v. 6.7.2021 I 2514
+- ErsatzbaustoffV: Geändert durch Art. 1 V v. 13.7.2023 I Nr. 186
+- ERVDPMAV: geändert
 - FreqV: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
+- GefStoffV: Zuletzt geändert durch Art. 1 V v. 19.11.2026 I Nr. 351
+- IVSG: geändert
+- KRITISDachG: geändert
+- KStTG: geändert
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
-- UStDV: zuletzt geändert durch Art. 7 V v. 19.12.2025 I Nr. 372
-- UStG: zuletzt geändert durch Art. 5 G v. 29.6.2026 I Nr. 197
-- VAG: Zuletzt geändert durch Art. 3 G v. 25.9.2026 I Nr. 275
-- VDarlSachkV: Geändert durch Art. 1 V v. 20.11.2026 I Nr. 348
-- neu: SÜFV (Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes und zur Feststellung der öffentlichen Stellen des Bundes und der nichtöffentlichen Stellen mit lebens- oder verteidigungswichtigen Einrichtungen)
-- entfernt: s_fv_2023
+- MADG: geändert
+- StromVKG: geändert
+- TierSeuchMeldV: geändert
+- WasserstoffBG: Geändert durch Art. 8 Abs. 6 G v. 12.5.2026 I Nr. 137
+- WpIG: Zuletzt geändert durch Art. 9 G v. 9.4.2026 I Nr. 97
+- ZKG: Zuletzt geändert durch Art. 15 G v. 9.4.2026 I Nr. 97
+- neu: 4. BImSchV (Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes)
+- neu: RohrFLtgV (Verordnung über Rohrfernleitungsanlagen)
+- neu: UMS-VO (Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes, des Wasserhaushaltsgesetzes, des Kreislaufwirtschaftsgesetzes und des Bundesberggesetzes)
+- entfernt: bimschv_11_2004
+- entfernt: bimschv_4_2013
+- entfernt: rohrfltgv

@@ -7,7 +7,7 @@ stand: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
 ausfertigung: '1977-02-18'
 quelle: https://www.gesetze-im-internet.de/bimschv_9/
 doknr: BJNR002740977
-builddate: '20261123220001'
+builddate: '20261124215501'
 ---
 
 # Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (9. BImSchV)
@@ -62,12 +62,12 @@ Das Prüfverfahren nach § 1 Absatz 2 umfasst die Ermittlung, Beschreibung und B
 
 Die Auswirkungen nach Satz 1 schließen Auswirkungen des UVP-pflichtigen Vorhabens ein, die aufgrund von dessen Anfälligkeit für schwere Unfälle oder Katastrophen zu erwarten sind, soweit diese schweren Unfälle oder Katastrophen für das UVP-pflichtige Vorhaben relevant sind.
 
-<!-- norm id="BJNE001107116" -->
+<!-- norm id="BJNE001109130" -->
 #### § 2 Antragstellung
 
 (1) Der Antrag ist von dem Träger des Vorhabens bei der Genehmigungsbehörde schriftlich oder elektronisch zu stellen. Träger des Vorhabens kann auch sein, wer nicht beabsichtigt, die Anlage zu errichten oder zu betreiben.
 
-(2) Sobald der Träger des Vorhabens die Genehmigungsbehörde über das geplante Vorhaben unterrichtet, soll diese ihn im Hinblick auf die Antragstellung beraten und mit ihm den zeitlichen Ablauf des Genehmigungsverfahrens sowie sonstige für die Durchführung dieses Verfahrens erhebliche Fragen erörtern. Sie kann andere Behörden hinzuziehen, soweit dies für Zwecke des Satzes 1 erforderlich ist. Die Erörterung soll insbesondere der Klärung dienen,
+(2) Sobald der Träger des Vorhabens die Genehmigungsbehörde über das geplante Vorhaben unterrichtet, soll diese ihn im Hinblick auf die Antragstellung beraten und mit ihm den zeitlichen Ablauf des Genehmigungsverfahrens sowie sonstige für die Durchführung dieses Verfahrens erhebliche Fragen erörtern. Sie kann andere Behörden hinzuziehen, soweit dies für Zwecke des Satzes 1 erforderlich ist. Für die hinzugezogenen Behörden ist die Teilnahme verpflichtend, wenn die Genehmigungsbehörde dies festlegt und schriftlich mitteilt. Die Erörterung soll insbesondere der Klärung dienen,
 
 - 1\. welche Antragsunterlagen bei Antragstellung vorgelegt werden müssen,
 - 2\. welche voraussichtlichen Auswirkungen das Vorhaben auf die Allgemeinheit und die Nachbarschaft haben kann und welche Folgerungen sich daraus für das Verfahren ergeben,
@@ -122,24 +122,24 @@ Der Antrag muss enthalten
 
 Soll die Genehmigungsbehörde zulassen, dass die Genehmigung abweichend von § 19 Absatz 1 und 2 des Bundes-Immissionsschutzgesetzes nicht in einem vereinfachten Verfahren erteilt wird, so ist dies im Antrag anzugeben.
 
-<!-- norm id="BJNE001307116" -->
+<!-- norm id="BJNE001308130" -->
 #### § 4 Antragsunterlagen
 
 (1) Dem Antrag sind die Unterlagen beizufügen, die zur Prüfung der Genehmigungsvoraussetzungen erforderlich sind. Dabei ist zu berücksichtigen, ob die Anlage Teil eines eingetragenen Standorts einer nach den Artikeln 13 bis 15 in Verbindung mit Artikel 2 Nummer 22 der Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1), die zuletzt durch die Verordnung (EU) Nr. 517/2013 vom 13. Mai 2013 (ABl. L 158 vom 10.6.2013, S. 1) geändert worden ist, registrierten Organisation ist, für die Angaben in einer der zuständigen Genehmigungsbehörde vorliegenden und für gültig erklärten, der Registrierung zu Grunde gelegten Umwelterklärung oder in einem dieser Registrierung zu Grunde liegenden Umweltbetriebsprüfungsbericht enthalten sind. Die Unterlagen nach Satz 1 müssen insbesondere die nach den §§ 4a bis 4d erforderlichen Angaben enthalten, bei UVP-pflichtigen Anlagen darüber hinaus zusätzlich einen UVP-Bericht, der die erforderlichen Angaben nach § 4e und der Anlage enthält.
 
 (2) Soweit die Zulässigkeit oder die Ausführung des Vorhabens nach Vorschriften über Naturschutz und Landschaftspflege zu prüfen ist, sind die hierfür erforderlichen Unterlagen beizufügen; die Anforderungen an den Inhalt dieser Unterlagen bestimmen sich nach den naturschutzrechtlichen Vorschriften. Die Unterlagen nach Satz 1 müssen insbesondere Angaben über Maßnahmen zur Vermeidung, Verminderung, zum Ausgleich oder zum Ersatz erheblicher Beeinträchtigungen von Natur und Landschaft enthalten.
 
-(3) Der Antragsteller hat der Genehmigungsbehörde außer den in Absätzen 1 und 2 genannten Unterlagen eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung vorzulegen, die einen Überblick über die Anlage, ihren Betrieb und die voraussichtlichen Auswirkungen auf die Allgemeinheit und die Nachbarschaft ermöglicht; bei UVP-pflichtigen Anlagen erstreckt sich die Kurzbeschreibung auch auf die allgemein verständliche, nichttechnische Zusammenfassung des UVP-Berichts nach § 4e Absatz 1 Satz 1 Nummer 7. Er hat ferner ein Verzeichnis der dem Antrag beigefügten Unterlagen vorzulegen, in dem die Unterlagen, die Geschäfts- oder Betriebsgeheimnisse enthalten, besonders gekennzeichnet sind.
+(3) Der Antragsteller hat der Genehmigungsbehörde außer den in Absätzen 1 und 2 genannten Unterlagen eine allgemein verständliche, für die Auslegung geeignete Kurzbeschreibung vorzulegen, die einen Überblick über die Anlage, ihren Betrieb und die voraussichtlichen Auswirkungen auf die Allgemeinheit und die Nachbarschaft ermöglicht; bei UVP-pflichtigen Anlagen erstreckt sich die Kurzbeschreibung auch auf die allgemein verständliche, nichttechnische Zusammenfassung des UVP-Berichts nach § 4e Absatz 1 Satz 1 Nummer 7. Er hat ferner ein Verzeichnis der dem Antrag beigefügten Unterlagen vorzulegen, in dem die Unterlagen, die schutzbedürftige Informationen nach § 10 Absatz 2 des Bundes-Immissionsschutzgesetzes enthalten, besonders gekennzeichnet sind.
 
 (4) Bedarf das Vorhaben der Zulassung durch mehrere Behörden und ist auf Grund des § 31 Absatz 1 und 2 Satz 1 und 2 des Gesetzes über die Umweltverträglichkeitsprüfung eine federführende Behörde, die nicht Genehmigungsbehörde ist, zur Entgegennahme der Unterlagen zur Prüfung der Umweltverträglichkeit bestimmt, hat die Genehmigungsbehörde die für die Prüfung der Umweltverträglichkeit erforderlichen Unterlagen auch der federführenden Behörde zuzuleiten.
 
-<!-- norm id="BJNE003910116" -->
+<!-- norm id="BJNE003911130" -->
 #### § 4a Angaben zur Anlage und zum Anlagenbetrieb
 
-(1) Die Unterlagen müssen die für die Entscheidung nach § 20 oder § 21 erforderlichen Angaben enthalten über
+(1) Die Unterlagen müssen die für die Entscheidung nach § 20 und § 21 erforderlichen Angaben enthalten über
 
 - 1\. die Anlagenteile, Verfahrensschritte und Nebeneinrichtungen, auf die sich das Genehmigungserfordernis gemäß § 1 Absatz 2 der Verordnung über genehmigungsbedürftige Anlagen erstreckt,
-- 2\. den Bedarf an Grund und Boden und den Zustand des Anlagengrundstückes,
+- 2\. den Bedarf an Grund und Boden und an Wasser sowie den Zustand des Anlagengrundstückes,
 - 3\. das vorgesehene Verfahren oder die vorgesehenen Verfahrenstypen einschließlich der erforderlichen Daten zur Kennzeichnung, wie Angaben zu Art, Menge und Beschaffenheit und darüber hinaus, soweit ein Stoff für Zwecke der Forschung und Entwicklung hergestellt werden soll, der gemäß Artikel 9 Absatz 1, auch in Verbindung mit Absatz 7 der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Chemikalienagentur, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission (ABl. L 396 vom 30.12.2006, S. 1), die zuletzt durch die Verordnung (EU) 2016/863 (ABl. L 144 vom 1.6.2016, S. 27) geändert worden ist, von der Registrierungspflicht ausgenommen ist,
   - a) der Einsatzstoffe oder -stoffgruppen,
   - b) der Zwischen-, Neben- und Endprodukte oder -produktgruppen,
@@ -156,6 +156,8 @@ Soll die Genehmigungsbehörde zulassen, dass die Genehmigung abweichend von § 1
 - 1\. eine Prognose der zu erwartenden Immissionen, soweit Immissionswerte in Rechts- oder Verwaltungsvorschriften festgelegt sind und nach dem Inhalt dieser Vorschriften eine Prognose zum Vergleich mit diesen Werten erforderlich ist;
 - 2\. im Übrigen Angaben über Art, Ausmaß und Dauer von Immissionen sowie ihre Eignung, schädliche Umwelteinwirkungen herbeizuführen, soweit nach Rechts- oder Verwaltungsvorschriften eine Sonderfallprüfung durchzuführen ist.
 
+(2a) Bei Mehrzweck-, Vielstoffanlagen oder modularen Anlagen sind die in Absatz 1 geforderten Angaben anhand von Angaben zu Betriebsweisen, Stoffbeschreibungen, modularen Prozesseinheiten oder Verschaltungsmöglichkeiten der modularen Prozesseinheiten jeweils so zu erbringen, dass die für eine Entscheidung nach § 20 und § 21 erforderlichen Angaben enthalten sind. Eine Darstellung aller möglichen Varianten ist nicht notwendig.
+
 (3) Für Anlagen, auf die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen anzuwenden ist, müssen die Unterlagen über Absatz 1 hinaus Angaben enthalten über
 
 - 1\. Art (insbesondere Abfallbezeichnung und -schlüssel gemäß der Verordnung über das Europäische Abfallverzeichnis) und Menge der zur Verbrennung vorgesehenen Abfälle,
@@ -171,6 +173,16 @@ Soll die Genehmigungsbehörde zulassen, dass die Genehmigung abweichend von § 1
 - 2\. Informationen über Boden- und Grundwassermessungen, die den Zustand zum Zeitpunkt der Erstellung des Berichts über den Ausgangszustand nach § 10 Absatz 1a des Bundes-Immissionsschutzgesetzes wiedergeben und die dem Stand der Messtechnik entsprechen; neue Boden- und Grundwassermessungen sind nicht erforderlich, soweit bereits vorhandene Informationen die Anforderungen des ersten Halbsatzes erfüllen.
 
 Erfüllen Informationen, die auf Grund anderer Vorschriften erstellt wurden, die Anforderungen der Sätze 1 und 2, so können diese Informationen in den Bericht über den Ausgangszustand aufgenommen oder diesem beigefügt werden. Der Bericht über den Ausgangszustand ist für den Teilbereich des Anlagengrundstücks zu erstellen, auf dem durch Verwendung, Erzeugung oder Freisetzung der relevanten gefährlichen Stoffe durch die Anlage die Möglichkeit der Verschmutzung des Bodens oder des Grundwassers besteht. Die Sätze 1 bis 4 sind bei einem Antrag für eine Änderungsgenehmigung nur dann anzuwenden, wenn mit der Änderung neue relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden oder wenn mit der Änderung erstmals relevante gefährliche Stoffe verwendet, erzeugt oder freigesetzt werden; ein bereits vorhandener Bericht über den Ausgangszustand ist zu ergänzen. § 25 Absatz 2 bleibt unberührt.
+
+(5) Bei Beantragung einer Ausnahme nach § 12a Absatz 1 des Bundes-Immissionsschutzgesetzes und im Fall des § 12a Absatz 5 des Bundes-Immissionsschutzgesetzes müssen die Unterlagen zusätzlich zu den Angaben nach Absatz 1 auch folgende Angaben enthalten:
+
+- 1\. eine Bewertung der gesamten Emissionsbandbreite, in der analysiert wird, ob die Werte am strengsten Ende der Emissionsbandbreite erreicht werden können, und
+- 2\. eine Darstellung der bestmöglichen Gesamtleistung der Anlage bei Anwendung der in den BVT-Schlussfolgerungen beschriebenen besten verfügbaren Techniken, wobei mögliche medienübergreifende Auswirkungen zu berücksichtigen sind.
+
+(6) Im Fall des § 12a Absatz 4 des Bundes-Immissionsschutzgesetzes müssen die Unterlagen zusätzlich zu den Angaben nach Absatz 1 auch folgende Angaben enthalten:
+
+- 1\. einen Vergleich der Emissionsbegrenzung, die in Bezug auf Werte, Zeiträume oder Referenzbedingungen von den in einer Rechtsverordnung nach § 7a Absatz 2 des Bundes-Immissionsschutzgesetzes festgelegten Emissionsgrenzwerten oder von den in einer Verwaltungsvorschrift nach § 48 Absatz 1a des Bundes-Immissionsschutzgesetzes festgelegten Emissionswerten abweichen, mit Prozess- und Abgasreinigungstechniken, die dem in der Rechtsverordnung oder Verwaltungsvorschrift festgelegten Stand der Technik entsprechen, und
+- 2\. einen Nachweis, dass durch die Festlegung von Emissionsbegrenzungen, die in Bezug auf Werte, Zeiträume oder Referenzbedingungen von den in einer Rechtsverordnung nach § 7a Absatz 2 des Bundes-Immissionsschutzgesetzes festgelegten Emissionsgrenzwerten oder von den in einer Verwaltungsvorschrift nach § 48 Absatz 1a des Bundes-Immissionsschutzgesetzes festgelegten Emissionswerten abweichen, keine höheren Emissionsmassenströme auftreten und sich die Immissionssituation nicht verschlechtert.
 
 <!-- norm id="BJNE004008116" -->
 #### § 4b Angaben zu den Schutzmaßnahmen
@@ -285,10 +297,10 @@ Auf die zuständige Genehmigungsbehörde, die für die Beteiligung der Öffentli
 
 (2) Zwischen der Bekanntmachung des Vorhabens und dem Beginn der Auslegungsfrist soll eine Woche liegen; maßgebend ist dabei der Tag der Veröffentlichung nach § 10 Absatz 3 Satz 1 des Bundes-Immissionsschutzgesetzes.
 
-<!-- norm id="BJNE001906130" -->
+<!-- norm id="BJNE001907130" -->
 #### § 10 Auslegung von Antrag und Unterlagen; Veröffentlichung des UVP-Berichts
 
-(1) Bei der Genehmigungsbehörde sind der Antrag sowie die beigefügten Unterlagen auszulegen, die die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit enthalten. Darüber hinaus sind, soweit vorhanden, die entscheidungserheblichen sonstigen der Genehmigungsbehörde vorliegenden behördlichen Unterlagen zu dem Vorhaben auszulegen, die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit oder Empfehlungen zur Begrenzung dieser Auswirkungen enthalten. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der Veröffentlichung betroffener Dokumente im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden. Verfügt die Genehmigungsbehörde bis zur Entscheidung über den Genehmigungsantrag über zusätzliche behördliche Stellungnahmen oder von ihr angeforderte Unterlagen, die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit oder Empfehlungen zur Begrenzung dieser Auswirkungen enthalten, sind diese der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen. Betrifft das Vorhaben eine UVP-pflichtige Anlage, so ist auch der vom Antragsteller zur Durchführung einer Umweltverträglichkeitsprüfung zusätzlich beigefügte UVP-Bericht nach § 4e auszulegen; ferner sind der Antrag und die Unterlagen auch in den Gemeinden auszulegen, in denen sich das Vorhaben voraussichtlich auswirkt. Soweit eine Auslegung der Unterlagen nach § 4b Absatz 1 und 2 zu einer Störung im Sinne des § 4b Absatz 3 führen kann, ist an Stelle dieser Unterlagen die Darstellung nach § 4b Absatz 3 auszulegen. In den Antrag und die Unterlagen nach den Sätzen 1, 2 und 4 sowie in die Darstellung nach § 4b Absatz 3 ist während der Dienststunden Einsicht zu gewähren. Bei UVP-pflichtigen Vorhaben hat der Träger des Vorhabens den UVP-Bericht sowie die das Vorhaben betreffenden entscheidungserheblichen Berichte und Empfehlungen, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auch elektronisch vorzulegen. § 8 Absatz 1 Satz 3 gilt bei UVP-pflichtigen Vorhaben für diese Unterlagen entsprechend.
+(1) Bei der Genehmigungsbehörde sind der Antrag sowie die beigefügten Unterlagen auszulegen, die die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit enthalten. Darüber hinaus sind, soweit vorhanden, die entscheidungserheblichen sonstigen der Genehmigungsbehörde vorliegenden behördlichen Unterlagen zu dem Vorhaben auszulegen, die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit oder Empfehlungen zur Begrenzung dieser Auswirkungen enthalten. Die Auslegung ist dadurch zu bewirken, dass die Dokumente auf einer Internetseite der zuständigen Behörde zugänglich gemacht werden. Auf Verlangen eines Beteiligten wird ihm eine leicht zu erreichende Zugangsmöglichkeit zur Verfügung gestellt. Der Vorhabenträger kann der Veröffentlichung betroffener Dokumente im Internet widersprechen, wenn er die Gefährdung von Betriebs- oder Geschäftsgeheimnissen oder wichtiger Sicherheitsbelange befürchtet; in diesem Fall muss die Behörde eine andere Form der Veröffentlichung wählen. Die Behörde kann verlangen, dass die Dokumente, die für die Auslegung einzureichen sind, in einem verkehrsüblichen elektronischen Format eingereicht werden. Verfügt die Genehmigungsbehörde bis zur Entscheidung über den Genehmigungsantrag über zusätzliche behördliche Stellungnahmen oder von ihr angeforderte Unterlagen, die Angaben über die Auswirkungen der Anlage auf die Nachbarschaft und die Allgemeinheit oder Empfehlungen zur Begrenzung dieser Auswirkungen enthalten, sind diese der Öffentlichkeit nach den Bestimmungen des Bundes und der Länder über den Zugang zu Umweltinformationen zugänglich zu machen. Betrifft das Vorhaben eine UVP-pflichtige Anlage, so ist auch der vom Antragsteller zur Durchführung einer Umweltverträglichkeitsprüfung zusätzlich beigefügte UVP-Bericht nach § 4e auszulegen. Soweit eine Auslegung der Unterlagen nach § 4b Absatz 1 und 2 zu einer Störung im Sinne des § 4b Absatz 3 führen kann, ist an Stelle dieser Unterlagen die Darstellung nach § 4b Absatz 3 auszulegen. Bei UVP-pflichtigen Vorhaben hat der Träger des Vorhabens den UVP-Bericht sowie die das Vorhaben betreffenden entscheidungserheblichen Berichte und Empfehlungen, die der Genehmigungsbehörde zum Zeitpunkt des Beginns des Beteiligungsverfahrens vorgelegen haben, auch elektronisch vorzulegen. § 8 Absatz 1 Satz 3 gilt bei UVP-pflichtigen Vorhaben für diese Unterlagen entsprechend.
 
 (2) Auf Anforderung eines Dritten ist diesem eine elektronische Fassung der Kurzbeschreibung nach § 4 Absatz 3 Satz 1 zu überlassen. In begründeten Einzelfällen kann ein Ausdruck der Kurzbeschreibung bereitgestellt werden.
 
@@ -304,23 +316,23 @@ Die Genehmigungsbehörde gewährt Akteneinsicht nach pflichtgemäßem Ermessen; 
 
 Spätestens gleichzeitig mit der öffentlichen Bekanntmachung des Vorhabens fordert die Genehmigungsbehörde die Behörden, deren Aufgabenbereich durch das Vorhaben berührt wird, auf, für ihren Zuständigkeitsbereich eine Stellungnahme innerhalb einer Frist von einem Monat abzugeben. Die Antragsunterlagen sollen sternförmig an die zu beteiligenden Stellen versandt werden. Hat eine Behörde bis zum Ablauf der Frist keine Stellungnahme abgegeben, so ist davon auszugehen, dass die beteiligte Behörde sich nicht äußern will. Die Genehmigungsbehörde hat sich über den Stand der anderweitigen das Vorhaben betreffenden Zulassungsverfahren Kenntnis zu verschaffen und auf ihre Beteiligung hinzuwirken sowie mit den für diese Verfahren zuständigen Behörden frühzeitig den von ihr beabsichtigten Inhalt des Genehmigungsbescheides zu erörtern und abzustimmen.
 
-<!-- norm id="BJNE004506116" -->
+<!-- norm id="BJNE004507130" -->
 #### § 11a Grenzüberschreitende Behörden- und Öffentlichkeitsbeteiligung
 
 (1) Für nicht UVP-pflichtige Vorhaben einschließlich der Verfahren nach § 17 Absatz 1a des Bundes-Immissionsschutzgesetzes gelten für das Verfahren zur grenzüberschreitenden Behörden- und Öffentlichkeitsbeteiligung die Vorschriften der Abschnitte 1 und 3 des Teils 5 des Gesetzes über die Umweltverträglichkeitsprüfung sinngemäß. Abweichend von Satz 1 gelten nicht die Vorgaben zur Veröffentlichung von Informationen in dem jeweiligen zentralen Internetportal nach § 59 Absatz 4 des Gesetzes über die Umweltverträglichkeitsprüfung.
 
 (2) Für UVP-pflichtige Vorhaben gelten für das Verfahren zur grenzüberschreitenden Behörden- und Öffentlichkeitsbeteiligung einschließlich Verfahren nach § 17 Absatz 1a des Bundes-Immissionsschutzgesetzes die Vorschriften der Abschnitte 1 und 3 des Teils 5 des Gesetzes über die Umweltverträglichkeitsprüfung sinngemäß.
 
-(3) Rechtsvorschriften zur Geheimhaltung, insbesondere gemäß § 30 des Verwaltungsverfahrensgesetzes sowie zum Schutz von Geschäfts- oder Betriebsgeheimnissen gemäß § 10 Absatz 2 des Bundes-Immissionsschutzgesetzes sowie gemäß § 10 Absatz 3 bleiben unberührt; entgegenstehende Rechte Dritter sind zu beachten. Ebenfalls unberührt bleiben die Vorschriften zur Datenübermittlung an Stellen im Ausland sowie an über- und zwischenstaatliche Stellen.
+(3) Rechtsvorschriften zur Geheimhaltung, insbesondere gemäß § 30 des Verwaltungsverfahrensgesetzes, sowie zum Schutz von Informationen gemäß § 10 Absatz 2 des Bundes-Immissionsschutzgesetzes sowie gemäß § 10 Absatz 3 bleiben unberührt; entgegenstehende Rechte Dritter sind zu beachten. Ebenfalls unberührt bleiben die Vorschriften zur Datenübermittlung an Stellen im Ausland sowie an über- und zwischenstaatliche Stellen.
 
 (4) Die Genehmigungsbehörde übermittelt den beteiligten Behörden des anderen Staates die Bezeichnung des für die betreffende Anlage maßgeblichen BVT-Merkblatts.
 
 (5) Die Genehmigungsbehörde macht der Öffentlichkeit auch Aktualisierungen von Genehmigungen von Behörden anderer Staaten nach den Bestimmungen über den Zugang zu Umweltinformationen zugänglich.
 
-<!-- norm id="BJNE002105130" -->
+<!-- norm id="BJNE002106130" -->
 #### § 12 Einwendungen
 
-(1) Einwendungen können bei der Genehmigungsbehörde erhoben werden. Bei UVP-pflichtigen Vorhaben gilt eine Einwendungsfrist von einem Monat nach Ablauf der Auslegungsfrist. Nach Ablauf der Einwendungsfrist entscheidet die Genehmigungsbehörde unter Berücksichtigung von § 14, ob im Genehmigungsverfahren ein Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchgeführt wird. Das gilt auch für UVP-pflichtige Anlagen. Die Entscheidung ist öffentlich bekannt zu machen.
+(1) Einwendungen können bei der Genehmigungsbehörde erhoben werden. Nach Ablauf der Einwendungsfrist entscheidet die Genehmigungsbehörde auf Antrag des Antragstellers unter Berücksichtigung von § 14, ob im Genehmigungsverfahren ein Erörterungstermin nach § 10 Absatz 6 des Bundes-Immissionsschutzgesetzes durchgeführt wird. Das gilt auch für UVP-pflichtige Anlagen. Die Entscheidung ist öffentlich bekannt zu machen.
 
 (2) Die Einwendungen sind dem Antragsteller bekanntzugeben. Den nach § 11 beteiligten Behörden sind die Einwendungen bekanntzugeben, die ihren Aufgabenbereich berühren. Auf Verlangen des Einwenders sollen dessen Name und Anschrift vor der Bekanntgabe unkenntlich gemacht werden, wenn diese zur ordnungsgemäßen Durchführung des Genehmigungsverfahrens nicht erforderlich sind; auf diese Möglichkeit ist in der öffentlichen Bekanntmachung hinzuweisen.
 
@@ -411,7 +423,7 @@ Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage de
 
 (4) Wird das Genehmigungsverfahren auf andere Weise abgeschlossen, so sind der Antragsteller und die Personen, die Einwendungen erhoben haben, hiervon zu benachrichtigen. § 10 Absatz 8 Satz 1 des Bundes-Immissionsschutzgesetzes gilt entsprechend.
 
-<!-- norm id="BJNE003009116" -->
+<!-- norm id="BJNE003010130" -->
 #### § 21 Inhalt des Genehmigungsbescheids
 
 (1) Der Genehmigungsbescheid muss enthalten
@@ -419,7 +431,7 @@ Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage de
 - 1\. die Angabe des Namens und des Wohnsitzes oder des Sitzes des Antragstellers,
 - 2\. die Angabe, dass eine Genehmigung, eine Teilgenehmigung oder eine Änderungsgenehmigung erteilt wird, und die Angabe der Rechtsgrundlage,
 - 3\. die genaue Bezeichnung des Gegenstandes der Genehmigung einschließlich des Standortes der Anlage sowie den Bericht über den Ausgangszustand,
-- 3a\. die Festlegung der erforderlichen Emissionsbegrenzungen einschließlich der Begründung für die Festlegung weniger strenger Emissionsbegrenzungen nach § 7 Absatz 1b Satz 1 Nummer 2, § 12 Absatz 1b oder § 48 Absatz 1b Satz 1 Nummer 2 des Bundes-Immissionsschutzgesetzes,
+- 3a\. die Festlegung der erforderlichen Emissionsbegrenzungen einschließlich der Begründung für die Festlegung weniger strenger Emissionsbegrenzungen und weniger strenger Umweltleistungsbegrenzungen nach § 12a Absatz 2 Satz 1 Nummer 1 und 2, Absatz 3 des Bundes-Immissionsschutzgesetzes,
 - 4\. die Nebenbestimmungen zur Genehmigung,
 - 5\. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen Gründe, die die Behörde zu ihrer Entscheidung bewogen haben, und die Behandlung der Einwendungen hervorgehen sollen,
 - 6\. Angaben über das Verfahren zur Beteiligung der Öffentlichkeit,
@@ -431,7 +443,7 @@ Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage de
 - 2\. eine ergänzende Begründung, in der folgende Angaben enthalten sind:
   - a) die zusammenfassende Darstellung nach § 20 Absatz 1a,
   - b) die begründete Bewertung nach § 20 Absatz 1b und
-  - c) eine Erläuterung, wie die begründete Bewertung nach § 20 Absatz 1b, insbesondere die Angaben des UVP-Berichts nach § 4e, die behördlichen Stellungnahmen nach den §§ 11 und 11a sowie die Äußerungen der Öffentlichkeit nach den §§ 11a und 12, in der Entscheidung berücksichtigt wurden oder wie ihnen anderweitig Rechnung getragen wurde.
+  - c) eine Erläuterung, wie die begründete Bewertung nach § 20 Absatz 1b, insbesondere die Angaben des UVP-Berichts nach § 4e, die behördlichen Stellungnahmen nach den §§ 11 und 11a sowie die Äußerungen der von dem Vorhaben betroffenen Öffentlichkeit nach den §§ 11a und 12, in der Entscheidung berücksichtigt wurden oder wie ihnen anderweitig Rechnung getragen wurde.
 
 (2) Der Genehmigungsbescheid soll den Hinweis enthalten, dass der Genehmigungsbescheid unbeschadet der behördlichen Entscheidungen ergeht, die nach § 13 des Bundes-Immissionsschutzgesetzes nicht von der Genehmigung eingeschlossen werden.
 
@@ -440,7 +452,7 @@ Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage de
 - 1\. Auflagen zum Schutz des Bodens und des Grundwassers sowie Maßnahmen zur Überwachung und Behandlung der von der Anlage erzeugten Abfälle,
 - 2\. Regelungen für die Überprüfung der Einhaltung der Emissionsgrenzwerte oder sonstiger Anforderungen, im Fall von Messungen
   - a) Anforderungen an die Messmethodik, die Messhäufigkeit und das Bewertungsverfahren zur Überwachung der Emissionen,
-  - b) die Vorgabe, dass in den Fällen, in denen ein Wert außerhalb der in den BVT-Schlussfolgerungen genannten Emissionsbandbreiten festgelegt wurde, die Ergebnisse der Emissionsüberwachung für die gleichen Zeiträume und Referenzbedingungen verfügbar sein müssen wie sie für die Emissionsbandbreiten der BVT-Schlussfolgerungen gelten,
+  - b) die Vorgabe, dass in den Fällen, in denen Werte, Zeiträume oder Referenzbedingungen gemäß § 12a Absatz 4 des Bundes-Immissionsschutzgesetzes abweichend von den in einer Rechtsverordnung nach § 7a Absatz 2 des Bundes-Immissionsschutzgesetzes festgelegten Emissionsgrenzwerten oder von den in einer Verwaltungsvorschrift nach § 48 Absatz 1a des Bundes-Immissionsschutzgesetzes festgelegten Emissionswerten festgelegt wurden, die Zusammenfassung der Ergebnisse der Emissionsüberwachung einen Vergleich mit den in der Rechtsverordnung genannten Emissionsgrenzwerten oder in der Verwaltungsvorschrift genannten Emissionswerten ermöglicht,
 - 3\. Anforderungen an
   - a) die regelmäßige Wartung,
   - b) die Überwachung der Maßnahmen zur Vermeidung der Verschmutzung von Boden und Grundwasser sowie
@@ -448,7 +460,7 @@ Die Erarbeitung einer zusammenfassenden Darstellung erfolgt auf der Grundlage de
 - 4\. Maßnahmen im Hinblick auf von den normalen Betriebsbedingungen abweichende Bedingungen, wie das An- und Abfahren der Anlage, das unbeabsichtigte Austreten von Stoffen, Störungen, das kurzzeitige Abfahren der Anlage sowie die endgültige Stilllegung des Betriebs,
 - 5\. Vorkehrungen zur weitestgehenden Verminderung der weiträumigen oder grenzüberschreitenden Umweltverschmutzung.
 
-In den Fällen von Nummer 3 Buchstabe c sind die Zeiträume für die Überwachung so festzulegen, dass sie mindestens alle fünf Jahre für das Grundwasser und mindestens alle zehn Jahre für den Boden betragen, es sei denn, diese Überwachung erfolgt anhand einer systematischen Beurteilung des Verschmutzungsrisikos.
+In den Fällen von Nummer 3 Buchstabe c sind die Zeiträume für die Überwachung so festzulegen, dass sie mindestens alle vier Jahre für das Grundwasser und mindestens alle neun Jahre für den Boden betragen, es sei denn, diese Überwachung erfolgt anhand einer systematischen Beurteilung des Verschmutzungsrisikos.
 
 (3) Außer den nach Absatz 1 erforderlichen Angaben muss der Genehmigungsbescheid für Anlagen, auf die die Verordnung über die Verbrennung und die Mitverbrennung von Abfällen anzuwenden ist, Angaben enthalten über
 
@@ -458,7 +470,7 @@ In den Fällen von Nummer 3 Buchstabe c sind die Zeiträume für die Überwachun
 - 4\. die kleinsten und größten Heizwerte der zur Verbrennung zugelassenen Abfälle und
 - 5\. den größten Gehalt an Schadstoffen in den zur Verbrennung zugelassenen Abfällen, insbesondere an polychlorierten Biphenylen (PCB), Pentachlorphenol (PCP), Chlor, Fluor, Schwefel und Schwermetallen.
 
-<!-- norm id="BJNE004605130" -->
+<!-- norm id="BJNE004606130" -->
 #### § 21a Öffentliche Bekanntmachung und Veröffentlichung des Genehmigungsbescheids
 
 (1) Unbeschadet des § 10 Absatz 7 und 8 Satz 1 des Bundes-Immissionsschutzgesetzes ist die Entscheidung über den Antrag öffentlich bekannt zu machen, wenn das Verfahren mit Öffentlichkeitsbeteiligung durchgeführt wurde oder der Träger des Vorhabens dies beantragt. § 10 Absatz 8 Satz 2 bis 7 des Bundes-Immissionsschutzgesetzes gilt entsprechend. In der öffentlichen Bekanntmachung ist anzugeben, wo und wann der Bescheid und seine Begründung eingesehen werden können.

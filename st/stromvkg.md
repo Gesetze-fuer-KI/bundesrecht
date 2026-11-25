@@ -6,7 +6,7 @@ kurztitel: Strom-Versorgungssicherheits-und-Kapazitätengesetz
 ausfertigung: '2026-07-21'
 quelle: https://www.gesetze-im-internet.de/stromvkg/
 doknr: BJNR0D2AB0026
-builddate: '20261012215504'
+builddate: '20261124215512'
 ---
 
 # Gesetz zur Sicherung der Versorgungssicherheit Strom und zur Bereitstellung neuer Kapazitäten (StromVKG)
@@ -18,7 +18,7 @@ Quelle: <https://www.gesetze-im-internet.de/stromvkg/>
 > ```text
 > (+++ Textnachweis ab: 22.7.2026 +++)
 >
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 21.07.2026 I Nr. 210a +++)
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 21.7.2026 I Nr. 210a +++)
 > ```
 
 <!-- gliederung id="BJNG000100000" ebene="1" -->

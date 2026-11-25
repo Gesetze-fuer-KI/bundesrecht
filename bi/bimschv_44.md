@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 1 V v. 12.10.2022 I 1801
 ausfertigung: '2019-06-13'
 quelle: https://www.gesetze-im-internet.de/bimschv_44/
 doknr: BJNR080410019
-builddate: '20221128213006'
+builddate: '20261124215508'
 ---
 
 # Vierundvierzigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (44. BImSchV)
@@ -853,7 +853,7 @@ Der Betreiber hat zudem Messungen nach Satz 1 spätestens vier Monate nach einer
 <!-- gliederung id="BJNG000400000" ebene="1" -->
 ## Abschnitt 4 Gemeinsame Vorschriften
 
-<!-- norm id="BJNE003301116" -->
+<!-- norm id="BJNE003302130" -->
 ### § 32 Zulassung von Ausnahmen
 
 (1) Die zuständige Behörde kann auf Antrag des Betreibers Ausnahmen von den Anforderungen nach den §§ 9 bis 17 sowie 21 bis 29 zulassen, falls unter Berücksichtigung der besonderen Umstände des Einzelfalls
@@ -862,7 +862,7 @@ Der Betreiber hat zudem Messungen nach Satz 1 spätestens vier Monate nach einer
 - 2\. im Übrigen die dem Stand der Technik entsprechenden Maßnahmen zur Emissionsbegrenzung ausgeschöpft werden;
 - 3\. die Schornsteinhöhe auch für einen als Ausnahme zugelassenen Emissionsgrenzwert ausgelegt ist und
 - 4\. die Ausnahmen den Anforderungen aus dem Recht der Europäischen Union nicht entgegenstehen, insbesondere nicht
-  - a) der Richtlinie 2010/75/EU des Europäischen Parlaments und des Rates vom 24. November 2010 über Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17; L 158 vom 19.6.2012, S. 25),
+  - a) der Richtlinie 2010/75/EU,
   - b) der Richtlinie (EU) 2015/2193 des Europäischen Parlaments und des Rates vom 25. November 2015 zur Begrenzung der Emissionen bestimmter Schadstoffe aus mittelgroßen Feuerungsanlagen in die Luft (ABl. L 313 vom 28.11.2015, S. 1) und
   - c) der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S. 10).
 

@@ -3,16 +3,16 @@ abkuerzung: GefStoffV
 jurabk: GefStoffV 2010
 titel: Verordnung zum Schutz vor Gefahrstoffen
 kurztitel: Gefahrstoffverordnung
-stand: Zuletzt geändert durch Art. 1 V v. 17.12.2025 I Nr. 337; 2026 I Nr. 44
+stand: Zuletzt geändert durch Art. 1 V v. 19.11.2026 I Nr. 351
 ausfertigung: '2010-11-26'
 quelle: https://www.gesetze-im-internet.de/gefstoffv_2010/
 doknr: BJNR164400010
-builddate: '20260512215502'
+builddate: '20261124215513'
 ---
 
 # Verordnung zum Schutz vor Gefahrstoffen (GefStoffV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 17.12.2025 I Nr. 337; 2026 I Nr. 44
+Stand: Zuletzt geändert durch Art. 1 V v. 19.11.2026 I Nr. 351
 
 Quelle: <https://www.gesetze-im-internet.de/gefstoffv_2010/>
 
@@ -900,7 +900,7 @@ Das Arbeitsprogramm des Ausschusses für Gefahrstoffe wird mit dem Bundesministe
 <!-- gliederung id="BJNG000701126" ebene="1" -->
 ## Abschnitt 7 Ordnungswidrigkeiten, Straftaten und Übergangsvorschriften
 
-<!-- norm id="BJNE002203126" -->
+<!-- norm id="BJNE002204131" -->
 ### § 21 Chemikaliengesetz – Anzeigen
 
 Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -910,11 +910,10 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 - 3\. entgegen § 8 Absatz 8 in Verbindung mit Anhang I Nummer 5.4.2.3 Absatz 3 eine Änderung nicht oder nicht rechtzeitig anzeigt,
 - 3a\. entgegen § 10a Absatz 5 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht,
 - 3b\. entgegen § 11a Absatz 4 Satz 1 in Verbindung mit Anhang I Nummer 3.5 Absatz 2 oder Absatz 3 Satz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
-- 3c\. entgegen § 11a Absatz 4a Satz 1 in Verbindung mit Anhang I Nummer 3.5 Absatz 2a eine Genehmigung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig beantragt,
 - 4\. entgegen § 15c Absatz 2 Satz 1 oder Satz 3, § 15d Absatz 3 Satz 1, § 15g Absatz 3 Satz 3 oder § 18 Absatz 1 eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet oder
 - 5\. entgegen § 15d Absatz 1 Satz 5 oder § 18 Absatz 2 eine Mitteilung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
-<!-- norm id="BJNE002306126" -->
+<!-- norm id="BJNE002307131" -->
 ### § 22 Chemikaliengesetz – Tätigkeiten
 
 (1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -943,8 +942,9 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 - 17c\. entgegen § 10a Absatz 6 Nummer 2 nicht sicherstellt, dass ein Beschäftigter oder eine Vertretung unterrichtet und informiert wird,
 - 17d\. entgegen § 11a Absatz 1 Satz 1 Nummer 6 in Verbindung mit Anhang I Nummer 3.2 Satz 1 einen Arbeitsplan nicht oder nicht rechtzeitig erstellt,
 - 17e\. entgegen § 11a Absatz 2 Satz 3 in Verbindung mit Anhang I Nummer 3.3 Absatz 2 Satz 1 einen Schutzanzug nicht oder nicht richtig zur Verfügung stellt,
-- 17f\. entgegen § 11a Absatz 5 Satz 1 Nummer 1 erster Halbsatz nicht sicherstellt, dass eine dort genannte Aufgabe durch eine dort genannte Person erfolgt,
-- 17g\. entgegen § 11a Absatz 5 Satz 1 Nummer 2 erster Halbsatz nicht sicherstellt, dass eine Tätigkeit durch eine dort genannte Person beaufsichtigt wird
+- 17f\. ohne Genehmigung nach § 11a Absatz 4a Satz 1 Abbrucharbeiten durchführt,
+- 17g\. entgegen § 11a Absatz 5 Satz 1 Nummer 1 erster Halbsatz nicht sicherstellt, dass eine dort genannte Aufgabe durch eine dort genannte Person erfolgt,
+- 17h\. entgegen § 11a Absatz 5 Satz 1 Nummer 2 erster Halbsatz nicht sicherstellt, dass eine Tätigkeit durch eine dort genannte Person beaufsichtigt wird
 - 18\. entgegen § 12 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.3 Absatz 2 Satz 1 das Rauchen oder die Verwendung von offenem Feuer oder offenem Licht nicht verbietet,
 - 19\. entgegen § 12 Absatz 1 Satz 3 in Verbindung mit Anhang I Nummer 1.5 Absatz 4 oder Nummer 1.6 Absatz 5 einen dort genannten Bereich nicht oder nicht richtig kennzeichnet,
 - 19a\. entgegen § 12 Absatz 4 Satz 2 in Verbindung mit Anhang III Nummer 2.3 Absatz 1 Satz 1 eine Tätigkeit mit einem organischen Peroxid ausüben lässt,
@@ -989,7 +989,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 - 7\. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 4 Absatz 1, Absatz 3 Satz 1 oder Absatz 4 die dort aufgeführten Kühlschmierstoffe oder Korrosionsschutzmittel verwendet oder
 - 8\. entgegen § 16 Absatz 2 in Verbindung mit Anhang II Nummer 5 Absatz 1 die dort aufgeführten Stoffe, Gemische oder Erzeugnisse herstellt oder verwendet.
 
-<!-- norm id="BJNE002903126" -->
+<!-- norm id="BJNE002904131" -->
 ### § 25 Übergangsvorschriften
 
 (1) Auf die Verwendung von Biozid-Produkten, die unter die Übergangsregelung des § 28 Absatz 8 des Chemikaliengesetzes fallen, finden folgende Vorschriften keine Anwendung soweit deren Erfüllung einer solchen Zulassung nach der Verordnung (EU) Nr. 528/2012 bedarf:
@@ -1000,7 +1000,7 @@ Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 8 Buchstabe b des Chemikalieng
 
 Für diese Biozid-Produkte sind bis zur Erteilung einer Zulassung die entsprechenden nach § 20 Absatz 4 bekanntgegebenen Regeln und Erkenntnisse zu berücksichtigen.
 
-(2) Für eine Verwendung von Biozid-Produkten nach § 15c Absatz 1 oder nach § 15d, die bis zum 30. September 2021 ohne Sachkunde ausgeübt werden konnte, ist die Sachkunde spätestens bis zum 28. Juli 2027 nachzuweisen.
+(2) Für eine Verwendung von Biozid-Produkten nach § 15c Absatz 1 oder nach § 15d, die bis zum 30. September 2021 ohne Sachkunde ausgeübt werden konnte, ist die Sachkunde spätestens bis zum 28. Juli 2030 nachzuweisen.
 
 (3) § 10 Absatz 6 findet ab dem 1. Januar 2024 Anwendung, frühestens jedoch drei Jahre nachdem der jeweilige Arbeitsplatzgrenzwert oder die Toleranzkonzentration nach § 20 Absatz 4 bekannt gegeben wurde. Während dieser Übergangsfrist hat der Arbeitgeber mindestens die Maßnahmen nach § 10 Absatz 2 und 3 zu treffen.
 
@@ -1012,7 +1012,7 @@ Für diese Biozid-Produkte sind bis zur Erteilung einer Zulassung die entspreche
 
 (7) Für anerkannte Sachkunden nach Anhang I Nummer 4.4 Absatz 1 Satz 3 und gleichgestellte Sachkunden nach Anhang I Nummer 4.4 Absatz 2 ist der Abschluss eines behördlich anerkannten Fortbildungslehrgangs erstmals abweichend von Anhang I Nummer 4.4 Absatz 5 spätestens bis zum 28. Juli 2027 nachzuweisen.
 
-(8) Zulassungen, die nach Anhang I Nummer 2.4.2 in der am 1. Januar 2022 geltenden Fassung erteilt wurden, gelten fort bis zum 5. Dezember 2028. Betriebe, die mit dem 5. Dezember 2024 erstmals einer Zulassung nach § 11a Absatz 3 bedürfen, haben diese spätestens bis zum 5. Dezember 2025 zu beantragen. Die zulassungsrelevanten Anforderungen der nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse sind bereits während der Übergangsfrist zu berücksichtigen.
+(8) Zulassungen, die nach Anhang I Nummer 2.4.2 in der am 1. Januar 2022 geltenden Fassung erteilt wurden, gelten fort bis zum 5. Dezember 2028. Dies gilt auch für unbefristete Zulassungen für Abbruch- und Sanierungsarbeiten bei Gegenwart von Asbest in schwach gebundener Form, die bis zum 31. Dezember 2021 auf Grundlage der Gefahrstoffverordnung erteilt wurden. Betriebe, die mit dem 5. Dezember 2024 erstmals einer Zulassung nach § 11a Absatz 3 bedürfen, haben diese spätestens bis zum 5. Dezember 2025 zu beantragen. Die zulassungsrelevanten Anforderungen der nach § 20 Absatz 4 bekannt gegebenen Regeln und Erkenntnisse sind bereits während der Übergangsfrist zu berücksichtigen.
 
 (9) Bei Abbrucharbeiten mit Asbest im Bereich niedrigen und mittleren Risikos ist eine Genehmigung nach § 11a Absatz 4a bis zum Ablauf des 19. Dezember 2026 nachzuweisen.
 

@@ -6,7 +6,7 @@ kurztitel: Absatzfinanzierungsaufsichtsgesetz
 ausfertigung: '2026-05-12'
 quelle: https://www.gesetze-im-internet.de/absfinag/
 doknr: BJNR08B0B0026
-builddate: '20261119215535'
+builddate: '20261124215509'
 ---
 
 # Gesetz zur Aufsicht über Verbraucherkredite im Rahmen der Absatzfinanzierung (AbsFinAG)
@@ -17,6 +17,8 @@ Quelle: <https://www.gesetze-im-internet.de/absfinag/>
 >
 > ```text
 > (+++ Textnachweis ab: 20.11.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 12.05.2026 I Nr. 139 +++)
 > ```
 >
 > Das G wurde als Artikel 14 des G v. 12.5.2026 I Nr. 139 vom Bundestag beschlossen. Es tritt gem. Art. 16 Abs. 1 dieses G am 20.11.2026 in Kraft.

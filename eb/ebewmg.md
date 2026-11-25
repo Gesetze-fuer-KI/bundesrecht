@@ -6,7 +6,7 @@ kurztitel: Elektronische-Beweismittel-Umsetzungs-und-Durchführungsgesetz
 ausfertigung: '2026-03-10'
 quelle: https://www.gesetze-im-internet.de/ebewmg/
 doknr: BJNR0400B0026
-builddate: '20260817215506'
+builddate: '20261124215504'
 ---
 
 # Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln (EBewMG)
@@ -20,6 +20,8 @@ Quelle: <https://www.gesetze-im-internet.de/ebewmg/>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EURL 2023/1544 (CELEX Nr: 32023L1544) +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 10.3.2026 I Nr. 64 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 10.3.2026 I Nr. 64 vom Bundestag beschlossen. Es ist gem. Art. 4 Abs. 1 dieses G am 13.2.2026 in Kraft getreten. Die §§ 7 bis 17, 18 Abs. 2, 3 Nr. 1 Buchst. b und Nr. 2, Abs. 4 bis 7 sowie 8 Nr. 2 und § 19 treten gem. Art. 4 Abs. 2 Nr. 1 dieses G am 18.8.2026 in Kraft.

@@ -5,7 +5,7 @@ titel: Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- 
 ausfertigung: '2026-02-25'
 quelle: https://www.gesetze-im-internet.de/ervdpmav_2026/
 doknr: BJNR0320B0026
-builddate: '20260506175103'
+builddate: '20261124215503'
 ---
 
 # Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt (ERVDPMAV)
@@ -16,6 +16,8 @@ Quelle: <https://www.gesetze-im-internet.de/ervdpmav_2026/>
 >
 > ```text
 > (+++ Textnachweis ab: 1.3.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 25.02.2026 I Nr. 50 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 25.2.2026 I Nr. 50 vom Bundesministerium der Justiz und für Verbraucherschutz erlassen. Sie tritt gem. Art. 3 Abs. 1 dieser V am 1.3.2026 in Kraft.

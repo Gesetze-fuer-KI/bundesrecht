@@ -6,7 +6,7 @@ kurztitel: Tierseuchenmeldeverordnung
 ausfertigung: '2026-03-10'
 quelle: https://www.gesetze-im-internet.de/tierseuchmeldv/
 doknr: BJNR03D0B0026
-builddate: '20260506175119'
+builddate: '20261124215504'
 ---
 
 # Verordnung über die Meldung von Seuchen bei Tieren (TierSeuchMeldV)
@@ -17,6 +17,8 @@ Quelle: <https://www.gesetze-im-internet.de/tierseuchmeldv/>
 >
 > ```text
 > (+++ Textnachweis ab: 11.3.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 10.03.2026 I Nr. 61 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 10.3.2026 I Nr. 61 Bundesministerium für Landwirtschaft, Ernährung und Heimat mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 5 dieser V am 11.3.2026 in Kraft.

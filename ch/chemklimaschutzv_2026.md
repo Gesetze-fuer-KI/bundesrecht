@@ -6,7 +6,7 @@ kurztitel: Chemikalien-Klimaschutzverordnung
 ausfertigung: '2026-04-14'
 quelle: https://www.gesetze-im-internet.de/chemklimaschutzv_2026/
 doknr: BJNR0640B0026
-builddate: '20260506175202'
+builddate: '20261124215507'
 ---
 
 # Verordnung zum Schutz des Klimas vor Veränderungen durch den Eintrag bestimmter fluorierter Treibhausgase und zur Durchführung der Verordnung (EU) 2024/573 (ChemKlimaschutzV)
@@ -20,6 +20,8 @@ Quelle: <https://www.gesetze-im-internet.de/chemklimaschutzv_2026/>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Durchführung der
 > EUV 2024/573 (CELEX Nr: 32024R0573) +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 14.04.2026 I Nr. 100 +++)
 > ```
 >
 > Die V wurde als Artikel 1 der V v. 14.4.2026 I Nr. 100 von der Bundesregierung nach Anhörung der beteiligten Kreise und unter Wahrung der Rechte des Bundestages und mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 3 dieser V am 17.4.2026 in Kraft.

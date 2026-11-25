@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 3 Abs. 1 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2013-12-05'
 quelle: https://www.gesetze-im-internet.de/abfaev/
 doknr: BJNR404310013
-builddate: '20261113215506'
+builddate: '20261124215518'
 ---
 
 # Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler von Abfällen (AbfAEV)
@@ -232,10 +232,10 @@ Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur D
 
 (4) Das Nähere über die Einrichtung und Nutzung des informationstechnischen Systems regeln die Länder durch Vereinbarung.
 
-<!-- norm id="BJNE001302130" -->
+<!-- norm id="BJNE001303130" -->
 ### § 12 Ausnahmen von der Erlaubnispflicht
 
-(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 1 des Verpackungsrecht-Durchführungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 1 Absatz 3 Satz 1 des Batteriegesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
+(1) Ungeachtet des § 54 Absatz 3 des Kreislaufwirtschaftsgesetzes, des § 2 Absatz 1 des Verpackungsrecht-Durchführungsgesetzes, des § 2 Absatz 3 Satz 1 des Elektro- und Elektronikgerätegesetzes und des § 2 Absatz 2 Satz 1 des Batterierecht-Durchführungsgesetzes sind von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes auch ausgenommen:
 
 - 1\. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die im Rahmen wirtschaftlicher Unternehmen tätig sind,
 - 2\. Sammler, Beförderer, Händler und Makler von gefährlichen Abfällen, die solche Abfälle sammeln, befördern, mit diesen handeln oder diese makeln, die von einem Hersteller oder Vertreiber freiwillig oder auf Grund einer Rechtsverordnung zurückgenommen werden,
@@ -249,12 +249,12 @@ Die Länder sind befugt, Daten zu erheben, zu speichern und zu nutzen, die zur D
 <!-- gliederung id="BJNG000500000" ebene="1" -->
 ## Abschnitt 5 Gemeinsame Vorschriften
 
-<!-- norm id="BJNE001402125" -->
+<!-- norm id="BJNE001403130" -->
 ### § 13 Mitführungspflicht
 
-(1) Soweit die Tätigkeit anzeigepflichtig ist, haben Sammler und Beförderer von Abfällen bei Ausübung ihrer Tätigkeit eine Kopie und im Falle einer elektronischen Anzeige einen Ausdruck der von der Behörde bestätigten Anzeige mitzuführen. Sofern die Behörde die Anzeige noch nicht bestätigt hat, ist dies von dem Anzeigenden auf der Kopie oder dem Ausdruck der Anzeige zu vermerken. In diesem Fall ist die mit dem Vermerk versehene Kopie oder der mit dem Vermerk versehene Ausdruck der Anzeige mitzuführen. Als Entsorgungsfachbetriebe zertifizierte Sammler und Beförderer von gefährlichen Abfällen, die nach § 54 Absatz 3 Nummer 2 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes ausgenommen sind, haben das aktuell gültige Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes elektronisch oder als Ausdruck mitzuführen. Sammler und Beförderer von gefährlichen Abfällen, die einen EMAS-Standort betreiben und nach § 12 Absatz 1 Nummer 4 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes ausgenommen sind, haben zudem eine Kopie der aktuell gültigen Registrierungsurkunde mitzuführen.
+(1) Soweit die Tätigkeit anzeigepflichtig ist, haben Sammler und Beförderer von Abfällen bei Ausübung ihrer Tätigkeit eine Kopie und im Falle einer elektronischen Anzeige einen Ausdruck der von der Behörde bestätigten Anzeige mitzuführen. Sofern die Behörde die Anzeige noch nicht bestätigt hat, ist dies von dem Anzeigenden auf der Kopie oder dem Ausdruck der Anzeige zu vermerken. In diesem Fall ist die mit dem Vermerk versehene Kopie oder der mit dem Vermerk versehene Ausdruck der Anzeige mitzuführen. Die Kopie oder der Ausdruck kann statt durch Aushändigen des Dokumentes auch elektronisch zugänglich gemacht werden. Als Entsorgungsfachbetriebe zertifizierte Sammler und Beförderer von gefährlichen Abfällen, die nach § 54 Absatz 3 Nummer 2 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes ausgenommen sind, haben zudem das aktuell gültige Zertifikat nach § 56 Absatz 3 des Kreislaufwirtschaftsgesetzes elektronisch oder als Ausdruck mitzuführen. Sammler und Beförderer von gefährlichen Abfällen, die einen EMAS-Standort betreiben und nach § 12 Absatz 1 Nummer 4 von der Erlaubnispflicht nach § 54 Absatz 1 Satz 1 des Kreislaufwirtschaftsgesetzes ausgenommen sind, haben zudem die aktuell gültige Registrierungsurkunde elektronisch oder als Ausdruck oder als Kopie mitzuführen.
 
-(2) Soweit die Tätigkeit erlaubnispflichtig ist, haben Sammler und Beförderer von gefährlichen Abfällen eine Kopie oder einen Ausdruck der Erlaubnis mitzuführen. Die Mitführungspflicht gilt auch bei der Beförderung von nicht gefährlichen Abfällen. Im Falle des Eintritts der Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 42a des Verwaltungsverfahrensgesetzes ist eine Kopie des Antrags nach § 9 Absatz 1 oder ein Ausdruck des Antrags nach § 11 Absatz 1 und sofern die Behörde eine Bestätigung nach § 10 Absatz 1 Satz 2, auch in Verbindung mit § 11 Absatz 2 Satz 2, ausgestellt hat, auch diese als Kopie oder Ausdruck mitzuführen.
+(2) Soweit die Tätigkeit erlaubnispflichtig ist, haben Sammler und Beförderer von gefährlichen Abfällen eine Kopie oder einen Ausdruck der Erlaubnis mitzuführen. Die Mitführungspflicht gilt auch bei der Beförderung von nicht gefährlichen Abfällen. Die Kopie oder der Ausdruck kann statt durch Aushändigen des Dokumentes auch elektronisch zugänglich gemacht werden. Im Falle des Eintritts der Genehmigungsfiktion nach § 54 Absatz 6 Satz 2 des Kreislaufwirtschaftsgesetzes in Verbindung mit § 42a des Verwaltungsverfahrensgesetzes ist eine Kopie des Antrags nach § 9 Absatz 1 oder ein Ausdruck des Antrags nach § 11 Absatz 1 und sofern die Behörde eine Bestätigung nach § 10 Absatz 1 Satz 2, auch in Verbindung mit § 11 Absatz 2 Satz 2, ausgestellt hat, auch diese als Kopie oder Ausdruck mitzuführen.
 
 (3) Die Pflicht, Unterlagen nach den Absätzen 1 und 2 mitzuführen, entfällt, wenn Abfälle mittels schienengebundener Fahrzeuge gesammelt oder befördert werden.
 
@@ -330,7 +330,7 @@ Die Lehrgänge sollen Grundkenntnisse über folgende Bereiche vermitteln:
 - 7\. Bezüge zum Güterkraftverkehrs- und Gefahrgutrecht sowie
 - 8\. Vorschriften der betrieblichen Haftung.
 
-<!-- norm id="BJNE002100000" -->
+<!-- norm id="BJNE002101130" -->
 ### Anlage 2 (zu § 7 Absatz 1 Satz 1 und Absatz 5, § 8 Absatz 1 Satz 1 Nummer 1 und § 16 Absatz 1 Satz 2)Vordruck für die Anzeige
 
 <!-- norm id="BJNE002200000" -->

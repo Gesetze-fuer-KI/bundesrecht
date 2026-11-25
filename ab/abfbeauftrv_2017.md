@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
 ausfertigung: '2016-12-02'
 quelle: https://www.gesetze-im-internet.de/abfbeauftrv_2017/
 doknr: BJNR278900016
-builddate: '20261113215506'
+builddate: '20261124215516'
 ---
 
 # Verordnung über Betriebsbeauftragte für Abfall (AbfBeauftrV)
@@ -36,13 +36,13 @@ Quelle: <https://www.gesetze-im-internet.de/abfbeauftrv_2017/>
 
 Diese Verordnung regelt den Kreis der zur Bestellung von Abfallbeauftragten Verpflichteten und die Anforderungen an Abfallbeauftragte.
 
-<!-- norm id="BJNE000304130" -->
+<!-- norm id="BJNE000305130" -->
 ### § 2 Pflicht zur Bestellung
 
 Einen betriebsangehörigen Abfallbeauftragten zu bestellen haben
 
 - 1\. die Betreiber folgender Anlagen:
-  - a) genehmigungsbedürftige Anlagen, die in den folgenden Nummern des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen vom 2. Mai 2013 (BGBl. I S. 973, 3756), die durch Artikel 3 der Verordnung vom 28. April 2015 (BGBl. I S. 670) geändert worden ist, in der jeweils geltenden Fassung aufgeführt sind:
+  - a) genehmigungsbedürftige Anlagen, die in den folgenden Nummern des Anhangs 1 zur Verordnung über genehmigungsbedürftige Anlagen vom 19. November 2026 (BGBl. 2026 I Nr. 352, S. 2), in der jeweils geltenden Fassung aufgeführt sind:
     - aa) Anlagen nach den Nummern 1 bis 7 sowie den Nummern 9 und 10, soweit pro Kalenderjahr mehr als 100 Tonnen gefährliche Abfälle oder 2 000 Tonnen nicht gefährliche Abfälle anfallen, und
     - bb) Anlagen nach Nummer 8, für die in Spalte c die Verfahrensart G vorgesehen ist,
   - b) Deponien bis zur endgültigen Stilllegung,

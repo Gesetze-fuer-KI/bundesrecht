@@ -6,7 +6,7 @@ kurztitel: Kryptowerte-Steuertransparenz-Gesetz
 ausfertigung: '2025-12-22'
 quelle: https://www.gesetze-im-internet.de/ksttg/
 doknr: BJNR1600B0025
-builddate: '20260506175514'
+builddate: '20261124215513'
 ---
 
 # Gesetz über die Meldepflicht von Anbietern und den automatischen Austausch von Informationen in Steuersachen bei Kryptowerte-Dienstleistungen (KStTG)
@@ -17,6 +17,8 @@ Quelle: <https://www.gesetze-im-internet.de/ksttg/>
 >
 > ```text
 > (+++ Textnachweis ab: 24.12.2025 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.12.2025 I Nr. 352 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 22.12.2025 I Nr. 352 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 7 dieses G am 24.12.2025 in Kraft getreten.

@@ -1,18 +1,18 @@
 ---
 abkuerzung: AbwV
 jurabk: AbwV
-titel: Verordnung über Anforderungen an das Einleiten von Abwasser in Gewässer
+titel: Verordnung über Anforderungen an das Einleiten von Abwasser
 kurztitel: Abwasserverordnung
-stand: Zuletzt geändert durch Art. 1 V v. 17.4.2024 I Nr. 132
+stand: Zuletzt geändert durch Art. 8 Abs. 4 V v. 19.11.2026 I Nr. 352
 ausfertigung: '1997-03-21'
 quelle: https://www.gesetze-im-internet.de/abwv/
 doknr: BJNR056610997
-builddate: '20260506175146'
+builddate: '20261124215506'
 ---
 
-# Verordnung über Anforderungen an das Einleiten von Abwasser in Gewässer (AbwV)
+# Verordnung über Anforderungen an das Einleiten von Abwasser (AbwV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 17.4.2024 I Nr. 132
+Stand: Zuletzt geändert durch Art. 8 Abs. 4 V v. 19.11.2026 I Nr. 352
 
 Quelle: <https://www.gesetze-im-internet.de/abwv/>
 
@@ -89,11 +89,13 @@ Quelle: <https://www.gesetze-im-internet.de/abwv/>
 > EUBes 2017/2117 (CELEX Nr: 32017D2117) vgl. V v. 27.2.2024 I Nr. 66
 > EUBes 2019/2031 (CELEX Nr: 32019D2031) vgl. V v. 17.4.2024 I Nr. 132 +++)
 > ```
+>
+> Überschrift: Amtliche Langüberschrift idF d. Art. 8 Abs. 4 Nr. 1 V v. 19.11.2026 I Nr. 352 mWv 25.11.2026
 
-<!-- norm id="BJNE000307123" -->
+<!-- norm id="BJNE000308128" -->
 ## § 1 Anwendungsbereich
 
-(1) Diese Verordnung bestimmt die Mindestanforderungen für das Einleiten von Abwasser in Gewässer aus den in den Anhängen bestimmten Herkunftsbereichen sowie Anforderungen an die Errichtung, den Betrieb und die Benutzung von Abwasseranlagen.
+(1) Diese Verordnung bestimmt die Mindestanforderungen für das Einleiten von Abwasser aus den in den Anhängen bestimmten Herkunftsbereichen sowie Anforderungen an die Errichtung, den Betrieb und die Benutzung von Abwasseranlagen.
 
 (2) Die allgemeinen Anforderungen dieser Verordnung, die in den Anhängen genannten Betreiberpflichten und die in den Anhängen gekennzeichneten Emissionsgrenzwerte sind vom Einleiter einzuhalten, soweit nicht weitergehende Anforderungen in der wasserrechtlichen Zulassung für das Einleiten von Abwasser festgelegt sind. Die übrigen Anforderungen der Anhänge dieser Verordnung sind bei der Erteilung einer wasserrechtlichen Zulassung für das Einleiten von Abwasser festzusetzen. Anforderungen sind in die wasserrechtliche Zulassung nur für diejenigen Parameter aufzunehmen, die im Abwasser zu erwarten sind.
 
@@ -140,12 +142,14 @@ Soweit in den Anhängen nichts anderes bestimmt ist, ist die Einhaltung der Anfo
 
 (6) Werden Abwasserströme, für die unterschiedliche Anforderungen gelten, gemeinsam eingeleitet, ist für jeden Parameter die jeweils maßgebende Anforderung durch Mischungsrechnung zu ermitteln und in der wasserrechtlichen Zulassung festzulegen. Sind in den anzuwendenden Anhängen Anforderungen an den Ort des Anfalls des Abwassers oder vor der Vermischung gestellt, bleiben Absätze 4 und 5 unberührt.
 
-<!-- norm id="BJNE000608118" -->
-## § 4 Analyse- und Messverfahren
+<!-- norm id="BJNE000609128" -->
+## § 4 Analyse- und Messverfahren; Anforderungen an Laboratorien
 
-(1) Die Anforderungen in den Anhängen beziehen sich auf die Analyse- und Messverfahren gemäß der Anlage 1. Die in der Anlage 1 und den Anhängen genannten Deutschen Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung (DEV), DIN-, DIN EN-, DIN ISO-, DIN EN ISO-Normen und technischen Regeln der Wasserchemische Gesellschaft werden vom Beuth Verlag GmbH, Berlin, und von der Wasserchemischen Gesellschaft in der Gesellschaft Deutscher Chemiker, Wiley-VCH Verlag, Weinheim (Bergstraße), herausgegeben. Die genannten Verfahrensvorschriften sind beim Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
+(1) Die Anforderungen in den Anhängen beziehen sich auf die Analyse- und Messverfahren gemäß der Anlage 1. Die in der Anlage 1 und den Anhängen genannten Deutschen Einheitsverfahren zur Wasser-, Abwasser- und Schlammuntersuchung (DEV), DIN-, DIN EN-, DIN ISO-, DIN EN ISO-Normen und technischen Regeln der Wasserchemische Gesellschaft werden von der DIN Media GmbH, Berlin, und von der Wasserchemischen Gesellschaft in der Gesellschaft Deutscher Chemiker, Wiley-VCH Verlag, Weinheim (Bergstraße), herausgegeben. Die genannten Verfahrensvorschriften sind beim Deutschen Patentamt in München archivmäßig gesichert niedergelegt.
 
 (2) In der wasserrechtlichen Zulassung können andere, gleichwertige Verfahren festgesetzt werden.
+
+(3) Die Laboratorien, die Analysen- und Messverfahren für die Einleitung von Abwasser aus Anlagen nach § 1 Absatz 3 der Industriekläranlagen-Zulassungs- und Überwachungsverordnung durchführen, haben ein Qualitätsmanagementsystem anzuwenden, das den allgemein anerkannten Regeln der Technik entspricht und sicherstellt, dass Daten von gleicher wissenschaftlicher Qualität erhoben werden.
 
 <!-- norm id="BJNE000705118" -->
 ## § 5 Bezugspunkt der Anforderungen

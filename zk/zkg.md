@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 15 G v. 9.4.2026 I Nr. 97
 ausfertigung: '2016-04-11'
 quelle: https://www.gesetze-im-internet.de/zkg/
 doknr: BJNR072010016
-builddate: '20260710215515'
+builddate: '20261124215508'
 ---
 
 # Gesetz über die Vergleichbarkeit von Zahlungskontoentgelten, den Wechsel von Zahlungskonten sowie den Zugang zu Zahlungskonten mit grundlegenden Funktionen (ZKG)
@@ -24,17 +24,9 @@ Quelle: <https://www.gesetze-im-internet.de/zkg/>
 > (+++ Zur Anwendung vgl. §§ 42 Abs. 5, 46 Abs. 3, 50 Abs. 2 +++)
 >
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.4.2026 I Nr. 97 +++)
->
-> Das G wurde als Artikel 1 des G v. 11.4.2016 I 720 vom Bundestag beschlossen.
-> Es ist gem. Art. 9 Abs. 4 dieses G am 18.6.2016 in Kraft getreten.
-> Gem. Art. 9 Abs. 1 dieses G iVm Art. 12 des G v. 10.7.2018 I 1102 treten die §§
-> 5 bis 13, 14 Absatz 1 Nummer 1 und 5 sowie der § 15 des Zahlungskontengesetzes
-> am 31.10.2018 in Kraft.
-> Gem. Art. 9 Abs. 2 dieses G treten die §§ 20 bis 29 am 18. September 2016 in
-> Kraft.
-> Gem. Art. 12 des G v. 10.7.2018 I 1102 treten die §§ 16 bis 19 am 14.7.2018 in
-> Kraft.
 > ```
+>
+> Das G wurde als Artikel 1 des G v. 11.4.2016 I 720 vom Bundestag beschlossen. Es ist gem. Art. 9 Abs. 4 dieses G am 18.6.2016 in Kraft getreten. Gem. Art. 9 Abs. 1 dieses G iVm Art. 12 des G v. 10.7.2018 I 1102 treten die §§ 5 bis 13, 14 Absatz 1 Nummer 1 und 5 sowie der § 15 des Zahlungskontengesetzes am 31.10.2018 in Kraft. Gem. Art. 9 Abs. 2 dieses G treten die §§ 20 bis 29 am 18. September 2016 in Kraft. Gem. Art. 12 des G v. 10.7.2018 I 1102 treten die §§ 16 bis 19 am 14.7.2018 in Kraft.
 
 <!-- gliederung id="BJNG000100000" ebene="1" -->
 ## Abschnitt 1 Allgemeine Vorschriften

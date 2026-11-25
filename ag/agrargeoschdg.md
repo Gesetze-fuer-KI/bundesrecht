@@ -6,7 +6,7 @@ kurztitel: Agrargeoschutz-Durchführungsgesetz
 ausfertigung: '2026-01-11'
 quelle: https://www.gesetze-im-internet.de/agrargeoschdg/
 doknr: BJNR0090B0026
-builddate: '20260506174853'
+builddate: '20261124215503'
 ---
 
 # Gesetz zur Durchführung des Unionsrechts auf dem Gebiet des Agrargeoschutzes (AgrarGeoSchDG)
@@ -17,6 +17,8 @@ Quelle: <https://www.gesetze-im-internet.de/agrargeoschdg/>
 >
 > ```text
 > (+++ Textnachweis ab: 16.1.2026 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 11.01.2026 I Nr. 9 +++)
 > ```
 >
 > Das G wurde als Artikel 1 des G v. 11.1.2026 I Nr. 9 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 16 dieses G am 16.1.2026 in Kraft.

@@ -7,7 +7,7 @@ stand: Geändert durch Art. 1 V v. 13.7.2023 I Nr. 186
 ausfertigung: '2021-07-09'
 quelle: https://www.gesetze-im-internet.de/ersatzbaustoffv/
 doknr: BJNR259810021
-builddate: '20230824213507'
+builddate: '20261124215515'
 ---
 
 # Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke (ErsatzbaustoffV)
@@ -57,7 +57,7 @@ Quelle: <https://www.gesetze-im-internet.de/ersatzbaustoffv/>
   - c) im Rahmen der Sanierung einer schädlichen Bodenveränderung oder Altlast oder innerhalb des Gebietes eines für verbindlich erklärten Sanierungsplans, und
 - 4\. hydraulisch gebundene Gemische einschließlich ihrer Ausgangs-, Zuschlags- und Zusatzstoffe im Geltungsbereich der Landesbauordnungen sowie im Bereich der Bundesverkehrswege, der Verkehrswege der Länder, Kreise und Kommunen sowie der jeweiligen Nebenanlagen, soweit diese Gemische nicht von den Einbauweisen 1, 3 und 5 der Anlage 2 erfasst sind.
 
-<!-- norm id="BJNE000301130" -->
+<!-- norm id="BJNE000302130" -->
 ### § 2 Begriffsbestimmungen
 
 Für diese Verordnung gelten folgende Begriffsbestimmungen:
@@ -82,7 +82,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 - 5\. Aufbereitungsanlage: Anlage, in der mineralische Stoffe behandelt, insbesondere sortiert, getrennt, zerkleinert, gesiebt, gereinigt oder abgekühlt werden; als Aufbereitungsanlage gilt auch eine Anlage, in der mineralische Stoffe in einer für den Einbau in technische Bauwerke gemäß dieser Vorschrift geeigneten Form unmittelbar anfallen, sowie eine Anlage, in der durch thermische Behandlungsverfahren der Bindemittelanteil aus Ausbauasphalt oder aus teer- oder pechhaltigen Straßenausbaustoffen entfernt wird und mineralische Stoffe gewonnen werden;
 - 6\. mobile Aufbereitungsanlage: an wechselnden Standorten betriebene Aufbereitungsanlage;
 - 7\. stationäre Aufbereitungsanlage: dauerhaft an demselben Standort betriebene Aufbereitungsanlage;
-- 8\. Zwischenlager: Anlagen zum Lagern von Bodenmaterial oder Baggergut, die in Anhang 1 Nummern 8.12 und 8.14 der Verordnung über genehmigungsbedürftige Anlagen (4. BImSchV) in der Fassung der Bekanntmachung vom 31. Mai 2017 (BGBl. I S. 1440), die durch Artikel 1 der Verordnung vom 12. Januar 2021 (BGBl. I S. 69) geändert worden ist, aufgeführt sind;
+- 8\. Zwischenlager: Anlagen zum Lagern von Bodenmaterial oder Baggergut, die in Anhang 1 Nummern 8.5 und 8.7 der Verordnung über genehmigungsbedürftige Anlagen vom 19. November 2026 (BGBl. 2026 I Nr. 352, S. 2) aufgeführt sind;
 - 9\. Überwachungsstelle: Die beauftragte Überwachungsstelle, die
   - a) nach den „Richtlinien für die Anerkennung von Prüfstellen für Baustoffe und Baustoffgemische im Straßenbau“, Ausgabe 2015, – RAP Stra 15 – der Forschungsgesellschaft für Straßen- und Verkehrswesen (FGSV) für die Fachgebiete D (Gesteinskörnungen) oder I (Baustoffgemische für Schichten ohne Bindemittel und für den Erdbau) anerkannt ist oder
   - b) nach der DIN EN ISO/IEC 17020 „Konformitätsbewertung – Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen“, Ausgabe Juli 2012 oder der DIN EN ISO/IEC 17065 „Konformitätsbewertung – Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren“, Ausgabe Januar 2013, für die Konformitätsbewertung von mineralischen Ersatzbaustoffen akkreditiert ist;
