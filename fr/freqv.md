@@ -2,16 +2,16 @@
 abkuerzung: FreqV
 jurabk: FreqV
 titel: Frequenzverordnung
-stand: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
+stand: Zuletzt geändert durch Art. 1 V v. 18.11.2026 I Nr. 347
 ausfertigung: '2013-08-27'
 quelle: https://www.gesetze-im-internet.de/freqv/
 doknr: BJNR332600013
-builddate: '20261124215517'
+builddate: '20261125215516'
 ---
 
 # Frequenzverordnung (FreqV)
 
-Stand: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
+Stand: Zuletzt geändert durch Art. 1 V v. 18.11.2026 I Nr. 347
 
 Quelle: <https://www.gesetze-im-internet.de/freqv/>
 
@@ -860,7 +860,7 @@ Der Bundesrat hat zugestimmt.
 - D450A Im Frequenzbereich 5 470 – 5 725 MHz genießen Funkstellen des Mobilfunkdienstes keinen Schutz vor Störungen durch Aussendungen des nichtnavigatorischen Ortungsfunkdienstes und des Seenavigationsfunkdienstes und dürfen diese nicht stören.
 - D450B Im Frequenzbereich 5 470 – 5 650 MHz dürfen Funkstellen des nichtnavigatorischen Ortungsfunkdienstes, ausgenommen ortsfeste Funkstellen für meteorologische Zwecke im Frequenzbereich 5 600 – 5 650 MHz, keine Störungen bei Radaranlagen des Seenavigationsfunkdienstes verursachen und müssen Störungen durch diese Radaranlagen hinnehmen.
 - D452 Im Frequenzbereich 5 600 – 5 650 MHz haben Radaranlagen des nichtnavigatorischen Ortungsfunkdienstes, die sich am Boden befinden und für meteorologische Zwecke verwendet werden, den gleichen Status wie die Funkstellen des Seenavigationsfunkdienstes.
-- D457E Der Frequenzbereich 6 425 – 7 250 MHz ist für die Nutzung durch breitbandige Datenübertragung (Internationale Mobile Telekommunikation (IMT) und drahtlose Zugangssysteme (Wireless Access System – WAS)/Drahtlose Lokale Netzwerke (Wireless Local Area Network – WLAN)) vorgesehen. Diese Identifizierung schließt eine Nutzung dieser Frequenzbereiche durch andere Funkstellen von Funkdiensten, denen diese Frequenzbereiche zugewiesen sind, nicht aus und begründet keinen Vor-rang in der Frequenzzuweisungstabelle.
+- D457E Der Frequenzbereich 6 425 – 7 250 MHz ist für die Nutzung durch breitbandige Datenübertragung (Internationale Mobile Telekommunikation (IMT) und drahtlose Zugangssysteme (Wireless Access System – WAS)/Drahtlose Lokale Netzwerke (Wireless Local Area Network – WLAN)) vorgesehen. Diese Identifizierung schließt eine Nutzung dieser Frequenzbereiche durch andere Funkstellen von Funkdiensten, denen diese Frequenzbereiche zugewiesen sind, nicht aus und begründet keinen Vorrang in der Frequenzzuweisungstabelle.
 - D458B Die Zuweisung Richtung Weltraum – Erde an den festen Funkdienst über Satelliten im Frequenzbereich 6 700 – 7 075 MHz ist auf Speiseverbindungen für umlaufende Satellitensysteme des Mobilfunkdienstes über Satelliten beschränkt.
 - D460A Die Nutzung des Frequenzbereichs 7 190 – 7 250 MHz im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) ist auf Bahnverfolgung, Fernmessen und Fernsteuern von Weltraumfahrzeugen begrenzt. Raumstationen, die im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) betrieben werden, können keinen Schutz von bestehenden oder zukünftigen Funkstellen des festen Funkdienstes und des mobilen Funkdienstes verlangen.
 - D460B Weltraumstationen im geostationären Orbit, die im Erderkundungsfunkdienst über Satelliten (Richtung Erde – Weltraum) im Frequenzbereich 7 190 – 7 235 MHz arbeiten, können keinen Schutz von bestehenden oder zukünftigen Systemen des Weltraumforschungsfunkdienstes verlangen.

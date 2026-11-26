@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 320
 ausfertigung: '1909-05-03'
 quelle: https://www.gesetze-im-internet.de/stvg/
 doknr: BJNR004370909
-builddate: '20261029220004'
+builddate: '20261125215502'
 ---
 
 # Straßenverkehrsgesetz (StVG)
@@ -2425,8 +2425,8 @@ Enthält das Fahreignungsregister oder das Zentrale Fahrerlaubnisregister eine E
 
 (3) Die Vorschriften der Abschnitte IV bis VI sind für den Zugang zu amtlichen Informationen abschließend.
 
-<!-- norm id="BJNE009718119" -->
-### § 65 Übergangsbestimmungen
+<!-- norm id="BJNE009719123" -->
+### § 65 Übergangsbestimmungen; Anwendungsbestimmungen
 
 (1) Registerauskünfte, Führungszeugnisse, Gutachten und Gesundheitszeugnisse, die sich am 1. Januar 1999 bereits in den Akten befinden, brauchen abweichend von § 2 Abs. 9 Satz 2 bis 4 erst dann vernichtet zu werden, wenn sich die Fahrerlaubnisbehörde aus anderem Anlass mit dem Vorgang befasst. Eine Überprüfung der Akten muss jedoch spätestens bis zum 1. Januar 2014 durchgeführt werden. Anstelle einer Vernichtung der Unterlagen sind die darin enthaltenen Daten zu sperren, wenn die Vernichtung wegen der besonderen Art der Führung der Akten nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
 
@@ -2467,6 +2467,13 @@ Die Fahrerlaubnisbehörden löschen aus ihrem örtlichen Fahrerlaubnisregister s
   - e) Die nach Landesrecht zuständige Behörde hat dem Kraftfahrt-Bundesamt unverzüglich die Teilnahme an einem Aufbauseminar oder einer verkehrspsychologischen Beratung mitzuteilen.
 - 6\. Nachträgliche Veränderungen des Punktestandes nach den Nummern 2 oder 5 führen zu einer Aktualisierung der nach der Tabelle zu Nummer 4 erreichten Stufe im Fahreignungs-Bewertungssystem.
 - 7\. Sofern eine Fahrerlaubnis nach § 4 Absatz 7 in der bis zum 30. April 2014 anwendbaren Fassung entzogen worden ist, ist § 4 Absatz 3 Satz 1 bis 3 auf die Erteilung einer neuen Fahrerlaubnis nicht anwendbar.
+
+(4) Solange dem Kraftfahrt-Bundesamt der Abruf des Lichtbildes nach § 2d Absatz 5 Satz 2 technisch noch nicht möglich ist,
+
+- 1\. muss der digitale Führerschein abweichend von § 2d Absatz 4 noch kein Lichtbild enthalten und
+- 2\. gilt § 2 Absatz 1a mit der Maßgabe, dass zum Nachweis des Führerscheins durch einen digitalen Führerschein dessen Inhaber zusätzlich seinen Personalausweis oder Pass mitzuführen und zuständigen Personen auf Verlangen zur Prüfung auszuhändigen hat.
+
+Das Bundesministerium für Verkehr gibt den Zeitpunkt im Bundesgesetzblatt bekannt, zu dem der Lichtbildabruf durch das Kraftfahrt-Bundesamt bei allen Pass- und Ausweisbehörden technisch möglich geworden ist.
 
 (4) Solange der Abruf des Lichtbildes nach § 2d Absatz 5 Satz 2 technisch noch nicht möglich ist, muss abweichend von § 2d Absatz 4 das Lichtbild noch nicht im digitalen Führerschein enthalten sein.
 

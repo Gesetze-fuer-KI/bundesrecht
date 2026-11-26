@@ -6,7 +6,7 @@ stand: zuletzt geändert durch Art. 8 G v. 29.6.2026 I Nr. 197
 ausfertigung: '1936-12-01'
 quelle: https://www.gesetze-im-internet.de/gewstg/
 doknr: BJNR009790936
-builddate: '20260804215507'
+builddate: '20261125215503'
 ---
 
 # Gewerbesteuergesetz (GewStG)
@@ -470,7 +470,7 @@ Die Vorauszahlungen auf die Gewerbesteuer entstehen mit Beginn des Kalenderviert
     zur gesamten installierten Leistung im Sinne von § 3 Nummer 31 des Erneuerbare-Energien-Gesetzes des Betriebs steht.
     Neuanlagen sind Anlagen, die nach dem 30. Juni 2013 zur Erzeugung von Strom und anderen Energieträgern sowie Wärme aus solarer Strahlungsenergie genehmigt wurden.
     Die übrigen Anlagen sind Anlagen, die nicht unter Satz 3 fallen;
-  - 3\. bei Betrieben, die ausschließlich Energiespeicheranlagen im Sinne des § 3 Nummer 15d des Energiewirtschaftsgesetzes betreiben, zu einem Zehntel das in Nummer 1 bezeichnete Verhältnis und zu neun Zehnteln das Verhältnis, in dem die Summe der installierten Leistung in allen Betriebsstätten (§ 28) zur installierten Leistung in den einzelnen Betriebsstätten steht.
+- 3\. bei Betrieben, die ausschließlich Energiespeicheranlagen im Sinne des § 3 Nummer 15d des Energiewirtschaftsgesetzes betreiben, zu einem Zehntel das in Nummer 1 bezeichnete Verhältnis und zu neun Zehnteln das Verhältnis, in dem die Summe der installierten Leistung in allen Betriebsstätten (§ 28) zur installierten Leistung in den einzelnen Betriebsstätten steht.
 
 (2) Bei der Zerlegung nach Absatz 1 sind die Arbeitslöhne anzusetzen, die in den Betriebsstätten der beteiligten Gemeinden (§ 28) während des Erhebungszeitraums (§ 14) erzielt oder gezahlt worden sind.
 

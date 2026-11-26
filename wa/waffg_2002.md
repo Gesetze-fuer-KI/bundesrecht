@@ -6,7 +6,7 @@ stand: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
 ausfertigung: '2002-10-11'
 quelle: https://www.gesetze-im-internet.de/waffg_2002/
 doknr: BJNR397010002
-builddate: '20261102215513'
+builddate: '20261125215517'
 ---
 
 # Waffengesetz (WaffG)
@@ -299,7 +299,7 @@ Die Erlaubnis zum Erwerb oder Besitz einer Schusswaffe nach Anlage 1 Abschnitt 3
   - b) mit Schusswaffen, aus denen nur Kartuschenmunition verschossen werden kann,
 - 2\. durch Personen, die den Regeln entsprechend als Teilnehmer an genehmigten Sportwettkämpfen nach Absatz 3 Nr. 3 mit einer Langwaffe an Schießständen schießen,
 - 3\. mit Schusswaffen, aus denen nur Kartuschenmunition verschossen werden kann,
-- a) durch Mitwirkende an Theateraufführungen und diesen gleich zu achtenden Vorführungen,
+  - a) durch Mitwirkende an Theateraufführungen und diesen gleich zu achtenden Vorführungen,
   - b) zum Vertreiben von Vögeln in landwirtschaftlichen Betrieben,
 - 4\. mit Signalwaffen bei Not- und Rettungsübungen,
 - 5\. mit Schreckschuss- oder mit Signalwaffen zur Abgabe von Start- oder Beendigungszeichen im Auftrag der Veranstalter bei Sportveranstaltungen, wenn optische oder akustische Signalgebung erforderlich ist.

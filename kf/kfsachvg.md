@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 6 G v. 12.7.2021 I 3091
 ausfertigung: '1971-12-22'
 quelle: https://www.gesetze-im-internet.de/kfsachvg/
 doknr: BJNR020860971
-builddate: '20250711215502'
+builddate: '20261125215503'
 ---
 
 # Gesetz über amtlich anerkannte Sachverständige und amtlich anerkannte Prüfer für den Kraftfahrzeugverkehr (KfSachvG)

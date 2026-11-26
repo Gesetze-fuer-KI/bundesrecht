@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 1 G v. 11.11.2026 I Nr. 338
 ausfertigung: '1990-06-15'
 quelle: https://www.gesetze-im-internet.de/stvunfstatg_1990/
 doknr: BJNR010780990
-builddate: '20261116220003'
+builddate: '20261125215503'
 ---
 
 # Gesetz über die Statistik der Straßenverkehrsunfälle (StVUnfStatG)

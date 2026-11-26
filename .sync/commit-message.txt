@@ -1,36 +1,24 @@
-Stand 2026-11-25: 28 geändert, 3 neu, 3 entfernt
+Stand 2026-11-26: 21 geändert, 1 neu, 0 entfernt
 
-- 44. BImSchV: Zuletzt geändert durch Art. 1 V v. 12.10.2022 I 1801
-- 5. BImSchV: Zuletzt geändert durch Art. 4 V v. 28.4.2015 I 670
-- 9. BImSchV: zuletzt geändert durch Art. 7 G v. 13.10.2026 I Nr. 304
-- AbfAEV: Zuletzt geändert durch Art. 3 Abs. 1 G v. 13.7.2026 I Nr. 207
-- AbfBeauftrV: Zuletzt geändert durch Art. 3 Abs. 3 G v. 13.7.2026 I Nr. 207
-- AbsFinAG: geändert
-- AbwV: Zuletzt geändert durch Art. 8 Abs. 4 V v. 19.11.2026 I Nr. 352
-- AgrarGeoSchDG: geändert
+- 38. BImSchV: Zuletzt geändert durch Art. 2 V v. 23.12.2025 I Nr. 367
+- 4. BImSchV: geändert
 - BArtSchV: Zuletzt geändert durch Art. 10 G v. 21.1.2013 I 95
 - BLV: geändert
-- ChemKlimaschutzV: geändert
-- DepV: Zuletzt geändert durch Art. 18 G v. 22.7.2026 I Nr. 224
-- EBewMG: geändert
-- EMASPrivilegV: Zuletzt geändert durch Art. 3 Abs. 2 V v. 6.7.2021 I 2514
-- ErsatzbaustoffV: Geändert durch Art. 1 V v. 13.7.2023 I Nr. 186
-- ERVDPMAV: geändert
-- FreqV: Zuletzt geändert durch Art. 1 V v. 3.6.2021 I 1372
-- GefStoffV: Zuletzt geändert durch Art. 1 V v. 19.11.2026 I Nr. 351
-- IVSG: geändert
-- KRITISDachG: geändert
-- KStTG: geändert
+- BSIG: Zuletzt geändert durch Art. 1 G v. 20.11.2026 I Nr. 355
+- EnWG: Zuletzt geändert durch Art. 3 G v. 20.11.2026 I Nr. 355
+- FAG: Zuletzt geändert durch Art. 2 G v. 20.11.2026 I Nr. 354
+- FahrlG: Zuletzt geändert durch Art. 122 G v. 10.8.2021 I 3436
+- FreqV: Zuletzt geändert durch Art. 1 V v. 18.11.2026 I Nr. 347
+- GewStG: zuletzt geändert durch Art. 8 G v. 29.6.2026 I Nr. 197
+- KfSachvG: Zuletzt geändert durch Art. 6 G v. 12.7.2021 I 3091
 - LuftVZO: Neufassung durch Bek. v. 10.7.2008 I 1229;
-- MADG: geändert
-- StromVKG: geändert
-- TierSeuchMeldV: geändert
-- WasserstoffBG: Geändert durch Art. 8 Abs. 6 G v. 12.5.2026 I Nr. 137
+- MiLoV5: geändert
+- StVG: zuletzt geändert durch Art. 7 G v. 22.10.2026 I Nr. 320
+- StVUnfStatG: Zuletzt geändert durch Art. 1 G v. 11.11.2026 I Nr. 338
+- TabStG: Zuletzt geändert durch Art. 4 G v. 20.11.2026 I Nr. 354
+- TKG: Zuletzt geändert durch Art. 2 G v. 20.11.2026 I Nr. 355
+- UMS-VO: geändert
+- VAG: Zuletzt geändert durch Art. 3 G v. 25.9.2026 I Nr. 275
+- WaffG: Zuletzt geändert durch Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318
 - WpIG: Zuletzt geändert durch Art. 9 G v. 9.4.2026 I Nr. 97
-- ZKG: Zuletzt geändert durch Art. 15 G v. 9.4.2026 I Nr. 97
-- neu: 4. BImSchV (Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes)
-- neu: RohrFLtgV (Verordnung über Rohrfernleitungsanlagen)
-- neu: UMS-VO (Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes, des Wasserhaushaltsgesetzes, des Kreislaufwirtschaftsgesetzes und des Bundesberggesetzes)
-- entfernt: bimschv_11_2004
-- entfernt: bimschv_4_2013
-- entfernt: rohrfltgv
+- neu: BAföG§23Abs1S1Nr1FbBek (Bekanntmachung des Freibetrags für Auszubildende nach § 23 Absatz 1 Satz 1 Nummer 1 des Bundesausbildungsförderungsgesetzes)

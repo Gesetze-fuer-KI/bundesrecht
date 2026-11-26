@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 122 G v. 10.8.2021 I 3436
 ausfertigung: '2017-06-30'
 quelle: https://www.gesetze-im-internet.de/fahrlg_2018/
 doknr: BJNR216210017
-builddate: '20260506175738'
+builddate: '20261125215515'
 ---
 
 # Gesetz über das Fahrlehrerwesen (FahrlG)

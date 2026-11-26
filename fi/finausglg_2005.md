@@ -3,16 +3,16 @@ abkuerzung: FAG
 jurabk: FinAusglG 2005
 titel: Gesetz über den Finanzausgleich zwischen Bund und Ländern
 kurztitel: Finanzausgleichsgesetz
-stand: Zuletzt geändert durch Art. 2 G v. 27.10.2025 I Nr. 255
+stand: Zuletzt geändert durch Art. 2 G v. 20.11.2026 I Nr. 354
 ausfertigung: '2001-12-20'
 quelle: https://www.gesetze-im-internet.de/finausglg_2005/
 doknr: BJNR395600001
-builddate: '20261120220003'
+builddate: '20261125215517'
 ---
 
 # Gesetz über den Finanzausgleich zwischen Bund und Ländern (FAG)
 
-Stand: Zuletzt geändert durch Art. 2 G v. 27.10.2025 I Nr. 255
+Stand: Zuletzt geändert durch Art. 2 G v. 20.11.2026 I Nr. 354
 
 Quelle: <https://www.gesetze-im-internet.de/finausglg_2005/>
 
@@ -27,7 +27,7 @@ Quelle: <https://www.gesetze-im-internet.de/finausglg_2005/>
 <!-- gliederung id="BJNG000102123" ebene="1" -->
 ## Erster Abschnitt Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern
 
-<!-- norm id="BJNE002408119" -->
+<!-- norm id="BJNE002410123" -->
 ### § 1 Anteile von Bund und Ländern an der Umsatzsteuer
 
 (1) Das Aufkommen der Umsatzsteuer wird auf Bund, Länder und Gemeinden nach folgenden Prozentsätzen aufgeteilt:
@@ -48,7 +48,7 @@ Quelle: <https://www.gesetze-im-internet.de/finausglg_2005/>
 | 2023 | minus 13 792 407 683 Euro | 11 392 407 683 Euro | 2 400 000 000 Euro |
 | 2024 | minus 12 480 407 683 Euro | 10 080 407 683 Euro | 2 400 000 000 Euro |
 | 2025 | minus 12 226 540 183 Euro | 9 578 540 183 Euro | 2 648 000 000 Euro |
-| 2026 | minus 13 102 407 683 Euro | 9 086 407 683 Euro | 4 016 000 000 Euro |
+| 2026 | minus 13 602 407 683 Euro | 9 586 407 683 Euro | 4 016 000 000 Euro |
 | 2027 | minus 15 539 407 683 Euro | 9 335 407 683 Euro | 6 204 000 000 Euro |
 | 2028 | minus 17 010 907 683 Euro | 9 689 907 683 Euro | 7 321 000 000 Euro |
 | 2029 | minus 15 318 407 683 Euro | 9 968 407 683 Euro | 5 350 000 000 Euro |
@@ -58,7 +58,7 @@ Quelle: <https://www.gesetze-im-internet.de/finausglg_2005/>
 
 (3) Diese Aufteilung der Umsatzsteuer gilt jeweils für alle Beträge, die während der Geltungsdauer des Beteiligungsverhältnisses vereinnahmt oder erstattet werden.
 
-(4) (weggefallen)
+(4) Für die Kalenderjahre 2026 und 2027 erhöhen sich die in Absatz 2 genannten Beträge für den Bund um jeweils 625 Millionen Euro. Für die Länder verringern sich die in Absatz 2 genannten Beträge für die Kalenderjahre 2026 und 2027 um jeweils 625 Millionen Euro.
 
 (5) Zum Ausgleich für Belastungen der Länder aus dem KiTa-Qualitäts- und Teilhabeverbesserungsgesetz vom 19. Dezember 2018 (BGBl. I S. 2696) und aus der Änderung des Achten Buches Sozialgesetzbuch durch die Artikel 1 und 2 des Gesetzes vom 19. Dezember 2018 (BGBl. I S. 2696)
 

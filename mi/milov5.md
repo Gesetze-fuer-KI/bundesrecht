@@ -6,7 +6,7 @@ kurztitel: Fünfte Mindestlohnanpassungsverordnung
 ausfertigung: '2025-11-05'
 quelle: https://www.gesetze-im-internet.de/milov5/
 doknr: BJNR10C0A0025
-builddate: '20260506175337'
+builddate: '20261125215508'
 ---
 
 # Fünfte Verordnung zur Anpassung der Höhe des Mindestlohns (MiLoV5)

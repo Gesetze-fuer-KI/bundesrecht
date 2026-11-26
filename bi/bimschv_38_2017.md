@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 2 V v. 23.12.2025 I Nr. 367
 ausfertigung: '2017-12-08'
 quelle: https://www.gesetze-im-internet.de/bimschv_38_2017/
 doknr: BJNR389200017
-builddate: '20260608215517'
+builddate: '20261125215516'
 ---
 
 # Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (38. BImSchV)
@@ -20,7 +20,9 @@ Quelle: <https://www.gesetze-im-internet.de/bimschv_38_2017/>
 >
 > ```text
 > (+++ Textnachweis ab: 14.12.2017 +++)
+>
 > (+++ Zur Anwendung vgl. § 21 +++)
+>
 > (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
 > Umsetzung der
 > EURL 2015/652 (CELEX Nr: 32015L0652)
@@ -30,8 +32,10 @@ Quelle: <https://www.gesetze-im-internet.de/bimschv_38_2017/>
 > EURL 2018/2001 (CELEX Nr: 32018L2001) vgl. V v. 12.11.2021 I 4932
 > Notifizierung der
 > EURL 2015/1535 (CELEX Nr: 32015L1535) vgl. auch V v.
-> 21.5.2019 I 742+++)
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 23.12.2025 I Nr. 367 +++)
+> 21.5.2019 I 742 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 23.12.2025 I Nr. 367
+> u. G v. 1.6.2026 I Nr. 163 +++)
 > ```
 
 <!-- norm id="BJNE000100000" -->
@@ -387,7 +391,9 @@ so wird für die Treibhausgasemissionen der diesen Anteil übersteigenden Biokra
 
 (4) Übersteigen in einem Verpflichtungsjahr Mengen an fortschrittlichen Biokraftstoffen den Mindestanteil nach Absatz 1 in Verbindung mit Absatz 2, so können Verpflichtete beantragen, dass ihre jeweilige energetische Menge auf den Mindestanteil des folgenden Verpflichtungsjahrs angerechnet wird.
 
-(5) (weggefallen)
+> **Fußnote**
+>
+> (+++ § 14 Abs. 14: Zur Nichtanwendung vgl. § 21 +++)
 
 <!-- norm id="BJNE001702116" -->
 ### § 15 Nachweis der Einhaltung der Regelungen zu indirekten Landnutzungsänderungen

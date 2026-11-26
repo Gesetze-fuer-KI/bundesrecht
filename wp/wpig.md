@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 9 G v. 9.4.2026 I Nr. 97
 ausfertigung: '2021-05-12'
 quelle: https://www.gesetze-im-internet.de/wpig/
 doknr: BJNR099010021
-builddate: '20261124215511'
+builddate: '20261125215508'
 ---
 
 # Gesetz zur Beaufsichtigung von Wertpapierinstituten (WpIG)
@@ -20,11 +20,18 @@ Quelle: <https://www.gesetze-im-internet.de/wpig/>
 >
 > ```text
 > (+++ Textnachweis ab: 26.6.2021 +++)
+>
+> (+++ § 5 Abs. 6: Zur Geltung vgl. § 5a Abs. 2 Satz 3 +++)
+> (+++ § 8a Abs. 5 u. 6: Zur Geltung vgl. § 84 Abs. 6 +++)
+>
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:
+> Umsetzung der
+> EURL 65/2014 (CELEX Nr: 32014L0065)
+> EURL 2024/2994 (CELEX Nr: 32024L2994 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.4.2026 I Nr. 97 +++)
 > ```
 >
-> (+++ § 5 Abs. 6: Zur Geltung vgl. § 5a Abs. 2 Satz 3 +++) (+++ § 8a Abs. 5 u. 6: Zur Geltung vgl. § 84 Abs. 6 +++)  
-> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht: Umsetzung der EURL 65/2014 (CELEX Nr: 32014L0065) EURL 2024/2994 (CELEX Nr: 32024L2994 +++)  
-> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 9.4.2026 I Nr. 97 +++)  
 > Das G wurde als Art. 1 des G v. 12.5.2021 I 990 vom Bundestag beschlossen. Es ist gem. Art. 8 Abs. 1 dieses G am 26.6.2021 in Kraft getreten.
 
 <!-- gliederung id="BJNG000100000" ebene="1" -->
