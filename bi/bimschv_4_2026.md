@@ -6,7 +6,7 @@ kurztitel: Verordnung über genehmigungsbedürftige Anlagen
 ausfertigung: '2026-11-19'
 quelle: https://www.gesetze-im-internet.de/bimschv_4_2026/
 doknr: BJNR1600B0026
-builddate: '20261125215510'
+builddate: '20261126215507'
 ---
 
 # Vierte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (4. BImSchV)
@@ -16,7 +16,7 @@ Quelle: <https://www.gesetze-im-internet.de/bimschv_4_2026/>
 > **Fußnote**
 >
 > ```text
-> (+++ Nachgewiesener Text dokumentarisch noch nicht bearbeitet +++)
+> (+++ Textnachweis ab: 25.11.2026 +++)
 >
 > (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 19.11.2026 I Nr. 352 +++)
 > ```

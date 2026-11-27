@@ -2,16 +2,16 @@
 abkuerzung: WaffGHZAOWiV
 jurabk: WaffGHZAOWiV
 titel: Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz
-stand: Zuletzt geändert durch Art. 8 G v. 11.10.2002 I 3970; 2003, 1957
+stand: Zuletzt geändert durch Art. 8 G v. 11.10.2002 I 3970; 2003 I 1957
 ausfertigung: '1976-06-01'
 quelle: https://www.gesetze-im-internet.de/waffghzaowiv/
 doknr: BJNR016160976
-builddate: '20120625151306'
+builddate: '20261126215501'
 ---
 
 # Verordnung über die Zuständigkeit der Hauptzollämter zur Verfolgung und Ahndung bestimmter Ordnungswidrigkeiten nach dem Waffengesetz und dem Sprengstoffgesetz (WaffGHZAOWiV)
 
-Stand: Zuletzt geändert durch Art. 8 G v. 11.10.2002 I 3970; 2003, 1957
+Stand: Zuletzt geändert durch Art. 8 G v. 11.10.2002 I 3970; 2003 I 1957
 
 Quelle: <https://www.gesetze-im-internet.de/waffghzaowiv/>
 

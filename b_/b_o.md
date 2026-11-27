@@ -2,16 +2,16 @@
 abkuerzung: BÄO
 jurabk: BÄO
 titel: Bundesärzteordnung
-stand: zuletzt geändert durch Art. 1 V v. 20.3.2024 I Nr. 99
+stand: zuletzt geändert durch Art. 1 G v. 22.7.2026 I Nr. 225
 ausfertigung: '1961-10-02'
 quelle: https://www.gesetze-im-internet.de/b_o/
 doknr: BJNR018570961
-builddate: '20261031220004'
+builddate: '20261126215502'
 ---
 
 # Bundesärzteordnung (BÄO)
 
-Stand: zuletzt geändert durch Art. 1 V v. 20.3.2024 I Nr. 99
+Stand: zuletzt geändert durch Art. 1 G v. 22.7.2026 I Nr. 225
 
 Quelle: <https://www.gesetze-im-internet.de/b_o/>
 
@@ -20,6 +20,7 @@ Quelle: <https://www.gesetze-im-internet.de/b_o/>
 > ```text
 > (+++ Textnachweis Geltung ab: 2.3.1983 +++)
 > (+++ Änderungen aufgrund EinigVtr vgl. §§ 3, 4, 5, 12, 13, 13a, 14 u. 14a +++)
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte G v. 22.7.2026 I Nr. 225 +++)
 > ```
 
 <!-- gliederung id="BJNG000101307" ebene="1" -->

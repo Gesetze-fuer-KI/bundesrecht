@@ -7,7 +7,7 @@ stand: Zuletzt geändert durch Art. 11 G v. 2.12.2025 I Nr. 301
 ausfertigung: '2013-07-25'
 quelle: https://www.gesetze-im-internet.de/egovg/
 doknr: BJNR274910013
-builddate: '20260506175847'
+builddate: '20261126215507'
 ---
 
 # Gesetz zur Förderung der elektronischen Verwaltung (EGovG)
